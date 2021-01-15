@@ -1,0 +1,22 @@
+{
+    "utilities": {
+       "title": "Utilities",
+       "description": "Utility apps for everyday tasks."
+    },
+    "setup": {
+       "title": "Setup",
+       "description": "Apps for setting up and configuring your AiiDAlab environment."
+    },
+    "quantum": {
+       "title": "Quantum",
+       "description": "Apps for performing quantum-mechanical calculations."
+    },
+    "classical": {
+       "title": "Classical",
+       "description": "Apps for performing calculations based on classical/empirical force fields."
+    },
+    "tutorials": {
+       "title": "Tutorials",
+       "description": "Apps suitable for getting to know AiiDA and the AiiDAlab."
+    }
+}

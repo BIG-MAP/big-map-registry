@@ -1,0 +1,95 @@
+{% extends "base.html" %} 
+
+{% block css %}
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="shortcut icon" type="image/png" href="../static/favicon.png">
+{% endblock css %}
+
+{% block body %}
+<main>
+    <p></p>
+    <p class="go-back"><a href="../index.html">&lt; Go back to the app summary</a></p>
+
+    <div class="submenu-entry">
+        <div class="submenu-img">
+            {% if logo %}
+                <img src="{{ logo }}" alt="{{ metainfo.title }}">
+            {% else %}
+                <img src="../static/favicon.png" alt="{{ metainfo.title }}">
+            {% endif %}
+        </div>
+        <div class="app-card-text">
+            <h1>{{ metainfo.title }}</h1>
+            <p class="sub-header">
+            {% if categories %}
+                {% for category in categories %}
+                    <span class="category">{{ category_map[category]["title"] }}</span> 
+                {% endfor %}
+            {% else %}
+                No categories specified.<br>
+                Ask the app developers to specify categories in <code>apps.json</code>.
+            {% endif %}
+            </p>
+        </div>
+    </div>
+
+    <h2>General information</h2>
+    <div>
+        <p>
+            <strong>Source code</strong>: <a href="{{ git_url }}" target="_blank">Go to the app source code</a> 
+        </p>
+    </div>
+
+    {% if metainfo.external_url %}
+        <p>
+            <strong>App homepage</strong>: <a href="{{ metainfo.external_url }}" target="_blank">Go to app homepage</a>
+        <p>
+    {% endif %}
+
+    {% if metainfo.documentation_url %}
+        <p>
+            <strong>Documentation</strong>: <a href="{{ metainfo.documentation_url }}" target="_blank">Go to app documentation</a>
+        <p>
+    {% else %}
+        <p>
+            <strong>Documentation</strong>: Documentation not provided by the app author
+        <p>
+    {% endif %}
+
+    <h2>
+        Detailed information
+    </h2>
+    {% if metainfo %}
+    <div id='description'>
+        <p>
+            <strong>Author(s)</strong>: {{ metainfo.authors }}
+        </p>
+        <p>
+            <strong>Short description</strong>: {{ metainfo.description }}
+        </p>
+        <p>
+            <strong>Package name (for pip)</strong>: <code>aiidalab-{{ name }}</code>
+        </p>
+        <p>
+            <strong>Most recent version</strong>: {{ metainfo.version }}
+        </p>
+
+    </div>
+    {% else %}
+    <div id='description'>
+        <p>
+            Unable to retrieve meta information for this app.
+            Ask the app developers to provide a <code>metadata.json</code>
+            file in the app source code.
+        </p>
+    </div>
+    {% endif %}
+
+</main>
+
+{% endblock body %}
+
+{# Needed because of the different relative path #}
+{% block footer_images %}
+<div style="text-align: center;"><img src="../static/img/MARVEL.png" style="width: 134px;height: 70px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="../static/img/MaX.png" style="width: 250px;height: 70px;"></div>
+{% endblock footer_images %}

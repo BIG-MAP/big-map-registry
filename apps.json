@@ -1,0 +1,47 @@
+{
+    "home": {
+        "git_url": "https://github.com/aiidalab/aiidalab-home",
+        "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-home/master/metadata.json",
+        "categories": ["setup"]
+    },
+    "nanoribbons": {
+        "git_url": "https://github.com/nanotech-empa/aiidalab-empa-nanoribbons",
+        "meta_url": "https://raw.githubusercontent.com/nanotech-empa/aiidalab-empa-nanoribbons/master/metadata.json",
+        "categories": ["quantum"]
+    },
+    "surfaces": {
+        "git_url": "https://github.com/nanotech-empa/aiidalab-empa-surfaces",
+        "meta_url": "https://raw.githubusercontent.com/nanotech-empa/aiidalab-empa-surfaces/master/metadata.json",
+        "categories": ["quantum"]
+    },
+    "scanning_probe": {
+        "git_url": "https://github.com/nanotech-empa/aiidalab-empa-scanning-probe",
+        "meta_url": "https://raw.githubusercontent.com/nanotech-empa/aiidalab-empa-scanning-probe/master/metadata.json",
+        "categories": ["quantum"]
+    },
+    "tb-mfh": {
+        "git_url": "https://github.com/nanotech-empa/aiidalab-empa-tb-mfh",
+        "meta_url": "https://raw.githubusercontent.com/nanotech-empa/aiidalab-empa-tb-mfh/master/metadata.json",
+        "categories": ["quantum"]
+    },
+    "aiidalab-widgets-base": {
+        "git_url": "https://github.com/aiidalab/aiidalab-widgets-base.git",
+        "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-widgets-base/master/metadata.json",
+        "categories": ["utilities"]
+    },
+    "aiidalab-lsmo": {
+        "git_url": "https://github.com/lsmo-epfl/aiidalab-epfl-lsmo.git",
+        "meta_url": "https://raw.githubusercontent.com/lsmo-epfl/aiidalab-epfl-lsmo/master/metadata.json",
+        "categories": ["classical", "quantum"]
+    },
+    "quantum-espresso": {
+        "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
+        "meta_url": "https://aiidalab.github.io/aiidalab-qe/metadata.json",
+        "categories": ["quantum"]
+    },
+    "aiidalab-optimade": {
+        "git_url": "https://github.com/aiidalab/aiidalab-optimade.git",
+        "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/metadata.json",
+        "categories": ["utilities"]
+    }
+}

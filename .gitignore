@@ -1,0 +1,10 @@
+*~
+.DS_Store
+*.pyc
+*.swp
+
+# Editors
+.vscode
+
+# Cache files
+.requests-cache.sqlite

@@ -1,0 +1,7 @@
+CacheControl==0.12.6
+dulwich
+jinja2
+jsonschema==3.2.0
+pytest
+requests==2.24.0
+requests-mock==1.8.0
