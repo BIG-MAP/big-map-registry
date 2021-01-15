@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://aiidalab.github.io/aiidalab-registry/schemas/v1/apps.schema.json",
+    "$id": "https://big-map.github.io/big-map-registry/schemas/v1/apps.schema.json",
     "$ref": "#/definitions/Welcome",
     "definitions": {
         "Welcome": {
@@ -28,6 +28,9 @@
                         ".git"
                     ]
                 },
+                "metadata": {
+                  "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
+                },
                 "meta_url": {
                     "type": "string",
                     "format": "uri",
@@ -45,9 +48,17 @@
                     }
                 }
             },
-            "required": [
-                "git_url",
-                "meta_url"
+            "oneOf": [
+                {
+                    "required": [
+                        "meta_url"
+                    ]
+                },
+                {
+                    "required": [
+                        "metadata"
+                    ]
+                }
             ],
             "title": "AiiDAlab App"
         }

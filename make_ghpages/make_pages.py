@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import codecs
@@ -7,7 +8,7 @@ import shutil
 import string
 from collections import OrderedDict
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse
 import exceptions as exc
 
 ## Requires jinja2 >= 2.9
@@ -41,7 +42,7 @@ def get_html_app_fname(app_name):
 def get_hosted_on(url):
     try:
         REQUESTS.get(url, timeout=TIMEOUT_SECONDS).raise_for_status()
-    except Exception:
+    except requests.RequestException:
         raise exc.MissingGit(f"Value for 'git_url' in apps.json may be wrong: {url!r}")
 
     netloc = urlparse(url).netloc
@@ -56,17 +57,15 @@ def get_hosted_on(url):
     return netloc
 
 
-def get_meta_info(json_url):
+def fetch_meta_info(json_url):
     try:
         response = REQUESTS.get(json_url, timeout=TIMEOUT_SECONDS)
         response.raise_for_status()
-    except Exception:
+        return response.json()
+    except requests.RequestException:
         raise exc.MissingMetadata(f"Value for 'meta_url' in apps.json may be wrong: {json_url!r}")
-    else:
-        try:
-            return response.json()
-        except ValueError:
-            raise exc.WrongMetadata("The apps' metadata is not valid JSON.")
+    except json.decoder.JSONDecodeError:
+        raise exc.WrongMetadata("The apps' metadata is not valid JSON.")
 
 
 def get_git_branches(git_url):
@@ -80,59 +79,67 @@ def get_git_branches(git_url):
 
 
 def get_git_author(git_url):
-    git_author = urlparse(git_url).path.split('/')[1]
-
-    # Special condition, only valid when git_author is 'aiidalab'
-    if git_author == 'aiidalab':
-        git_author = 'AiiDAlab Team'
-
-    return git_author
+    return urlparse(git_url).path.split('/')[1]
 
 
 def complete_meta_info(app_name, meta_info, git_url):
     meta_info.setdefault('state', 'registered')
     meta_info.setdefault('title', app_name)
-    meta_info.setdefault('authors', get_git_author(git_url))
+    if git_url:
+        meta_info.setdefault('authors', get_git_author(git_url))
     return meta_info
 
 
-def get_logo_url(logo_rel_path, meta_url):
-    logo_url = meta_url[:-len('metadata.json')] + logo_rel_path
+def get_logo_url(logo_url, meta_url):
+    logo_url_parsed = urlparse(logo_url)
+    if logo_url_parsed.netloc:
+        return logo_url  # logo url is already fully qualified
 
-    # Validate url to logo
+    elif meta_url:
+        # Otherwise, assume that path is relative to the metadata file's
+        # parent directory:
+        meta_url_parsed = urlparse(meta_url)
+        path = Path(meta_url_parsed.path).parent.joinpath(logo_url_parsed.path)
+        return urlunparse(meta_url_parsed._replace(path=str(path)))
+
+    raise exc.MissingLogo(f"The logo path must be a fully qualified url if no metadata_url is provided: {logo_url!r}")
+
+
+def check_logo_url(logo_url):
     try:
-        REQUESTS.get(logo_url, timeout=TIMEOUT_SECONDS)
-    except Exception:
-        raise exc.MissingLogo(f"Value for 'logo' in your app's metadata.json may be wrong: {logo_url!r}")
-
-    return logo_url
+        REQUESTS.get(logo_url, timeout=TIMEOUT_SECONDS).raise_for_status()
+    except requests.RequestException:
+        raise exc.MissingLogo(f"Unable to fetch logo from {logo_url!r}!")
 
 
 def fetch_app_data(app_data, app_name):
     # Get Git URL, fail build if git_url is not found or wrong
-    if 'git_url' in app_data:
-        hosted_on = get_hosted_on(app_data['git_url'])
-    else:
-        raise exc.MissingGit(f"No 'git_url' key for {app_name!r} in apps.json")
+    git_url = app_data.get('git_url', '')
+    hosted_on = get_hosted_on(git_url) if git_url else None
 
     # Get metadata.json from the project;
     # fail build if meta_url is not found or wrong
-    if 'meta_url' in app_data:
-        meta_info = get_meta_info(app_data['meta_url'])
-    else:
-        raise exc.MissingMetadata(f"No 'meta_url' key for {app_name!r} in apps.json")
+    try:
+        try:
+            meta_info = app_data['metadata']
+        except KeyError:
+            meta_info = fetch_meta_info(app_data['meta_url'])
+    except KeyError:
+        raise exc.MissingMetadata(f"Unable to get metadata for {app_name!r}, neither 'metadata' nor 'meta_url' key provided in apps.json.")
 
     # Check if categories are specified, warn if not
     if 'categories' not in app_data:
         print("  >> WARNING: No categories specified.")
 
-    app_data['metainfo'] = complete_meta_info(app_name, meta_info, app_data['git_url'])
-    app_data['gitinfo'] = get_git_branches(app_data['git_url'])
-    app_data['hosted_on'] = hosted_on
+    app_data['metadata'] = complete_meta_info(app_name, meta_info, git_url)
+    if git_url:
+        app_data['gitinfo'] = get_git_branches(git_url)
+    if hosted_on:
+        app_data['hosted_on'] = hosted_on
 
     # Get logo URL, if it has been specified
-    if 'logo' in app_data['metainfo']:
-        app_data['logo'] = get_logo_url(app_data['metainfo']['logo'], app_data['meta_url'])
+    if 'logo' in app_data['metadata']:
+        app_data['logo'] = get_logo_url(app_data['metadata']['logo'], app_data.get('meta_url'))
 
     return app_data
 
@@ -157,6 +164,8 @@ def generate_apps_meta(apps_data, categories_data):
         app_data = fetch_app_data(apps_data[app_name], app_name)
         app_data['name'] = app_name
         app_data['subpage'] = os.path.join('apps', get_html_app_fname(app_name))
+        if 'logo' in app_data:
+            check_logo_url(app_data['logo'])
         apps_meta['apps'][app_name] = app_data
 
     validate_apps_meta(apps_meta)

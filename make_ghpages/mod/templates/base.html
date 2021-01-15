@@ -1,7 +1,7 @@
 <!doctype html>
 
-{% set app_registry_url = "http://aiidateam.github.io/aiida-registry" %}
-{% set aiidalab_url = "https://aiidalab.materialscloud.org" %}
+{% set app_registry_url = "http://big-map.github.io/big-map-registry" %}
+{% set big_map_url = "https://www.big-map.eu" %}
 
 <html lang="en">
 
@@ -26,9 +26,9 @@
     {% block header %} 
     <header id='entrytitle' style="background-color: #000; margin: 0; padding: 5px 20px 25px 20px;">
         <h1>
-            <a href="{{ aiidalab_url }}">AiiDA Lab</a> application registry
+            <a href="{{ big_map_url }}">BIG-MAP</a> application registry
         </h1>
-        <p style="font-size: 90%;"><a href="http://github.com/aiidalab/aiidalab-registry" style="color: #999;">[View on GitHub/register your app]</a> </p>
+        <p style="font-size: 90%;"><a href="http://github.com/big-map/big-map-registry" style="color: #999;">[View on GitHub/register your app]</a> </p>
       </header>
 
     {% endblock header %}
@@ -38,14 +38,10 @@
     {% block footer %}
     <footer class="footer">
     <hr>
-    This page is part of the <a href="{{ app_registry_url }}">AiiDA Lab registry</a>, the official registry of <a href="{{ aiidalab_url }}">AiiDA Lab</a> applications.
+    This page is part of the <a href="{{ app_registry_url }}">BIG-MAP registry</a>, the official registry of <a href="{{ big_map_url }}">BIG-MAP</a> applications.
     <br>
-    This work is supported by the <a href="http://nccr-marvel.ch" target="_blank">MARVEL National Centre for Competence in Research</a> 
-    funded by the <a href="http://www.snf.ch/en" target="_blank">Swiss National Science Foundation</a>, as well as by the 
-    <a href="http://www.max-centre.eu" target="_blank">MaX European Centre of Excellence</a> 
-    funded by the Horizon 2020 EINFRA-5 program, Grant No. 676598.<br>
+    The BG-MAP project has received funding from the European Union’s <a href="https://ec.europa.eu/programmes/horizon2020/en" target="_blank">Horizon 2020 research and innovation programme</a> under grant agreement <a href="https://cordis.europa.eu/project/id/957189" target="_blank">No 957189</a>.
     {% block footer_images %}
-    <div style="text-align: center;"><img src="static/img/MARVEL.png" style="width: 134px;height: 70px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="static/img/MaX.png" style="width: 250px;height: 70px;"></div>
     {% endblock footer_images %}
     </footer>    
     {% endblock footer %}

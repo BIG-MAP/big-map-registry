@@ -4,6 +4,8 @@ import pytest
 import os
 import json
 import base64
+from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 
 import requests
 
@@ -40,7 +42,7 @@ def app_metadata_json():
         "description": "A test app that does not really exist.",
         "title": "Test App",
         "version": "1.0.0",
-        "authors": "aiidalab",
+        "authors": "big-map",
         "logo": "img/logo.png",
         "state": "development"
     }
@@ -92,6 +94,10 @@ def test_validate_logo(requests_mock, app_metadata_json, app_metadata_url, apps_
     # Manipulate metadata.json endpoint to point logo to non-existant location.
     app_metadata_json['logo'] = 'path/to/file/that/does/not/exist.png'
     requests_mock.get(app_metadata_url, text=json.dumps(app_metadata_json))
+
+    app_metadata_url_parsed = urlsplit(app_metadata_url)
+    expected_logo_url = urlunsplit(app_metadata_url_parsed._replace(path=str(Path(app_metadata_url_parsed.path).parent.joinpath(app_metadata_json['logo']))))
+    requests_mock.register_uri('GET', expected_logo_url, exc=requests.HTTPError)
 
     # Attempt to create the apps_meta.json file.
     with pytest.raises(exceptions.MissingLogo):

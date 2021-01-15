@@ -1,52 +1,72 @@
-# AiiDAlab Application Registry
+# BIG-MAP Application Registry
 
-This repository contains the **source code** of the official App registry for the [AiiDAlab](https://www.materialscloud.org/aiidalab).
+This repository contains the **source code** of the official App registry for the [BIG-MAP project](https://www.big-map.eu).
 
 <p align="center">
- <a href="http://aiidalab.github.io/aiidalab-registry" rel="Go to AiiDAlab app registry">
+ <a href="http://big-map.github.io/big-map-registry" rel="Go to BIG-MAP app registry">
   <img src="make_ghpages/static/gotobutton.svg">
  </a>
 </p>
 
-## Adding your app
+## Adding an app to the registry
 
- 1. Add a `metadata.json` file to your app repository. Example:
+Apps can be added to the registry with static metadata or dynamically fetched metadata.
+Providing dynamic metadata is slightly more complicated, because it requires the app metadata to be hosted separately, e.g., in a git repository on GitHub, but it also makes it easier to update the metadata.
+Here we show examples for both methods.
+
+**Feel free to propose a new app category to be added to [`category.json`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.json) before or after adding your app.**
+
+### Adding an app with static metadata
+
+1. Create a pull request to this repository that changes the `apps.json` file, e.g., by clicking [here](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.json) and add an entry for the app. Example:
 
     ```json
-        {
-            "title": "AiiDA Tutorials",
-            "description": "Learn how to use AiiDA using jupyter notebooks on the AiiDAlab.",
-            "version": "0.1-alpha",
-            "authors": "A. Person, B. Smart",
-            "logo": "folder/logo.png",
-            "state": "development",
-            "documentation_url": "https://aiidalab-exmpl.readthedocs.io",
-            "external_url": "http://www.aiida.net"
+        "my-big-map-app": {
+            "metadata": {
+                "title": "MyBIG-MAP app",
+                "description": "My BIG-MAP app helps to promote accelerated discovery of novel battery materials.",
+                "version": "1.1",
+                "authors": "A. Doe, B. Doe",
+                "logo": "folder/logo.png",
+                "state": "development",
+                "documentation_url": "https://my-big-map-app.readthedocs.io",
+                "external_url": "http://my-app.example.com"
+            },
+            "categories": ["quantum", "technology-ase", "technology-aiida"]
         }
     ```
 
-    **Note**: The fields `title` and `description` are mandatory.
+    **Note**: Only the metadata fields `title` and `description` are mandatory.
 
-    **Note**: If you used the
-    [AiiDAlab App cookie cutter](https://github.com/aiidalab/aiidalab-app-cutter)
-    to create your app, you should already have `metadata.json` in your repository
-    and need only update it.
+2. Your app will show up in the [BIG-MAP App Store](big-map.github.io/big-map-registry") once your pull request is approved and merged.
 
- 1. Fork this repository.
+### Adding an app with dynamic metadata
 
- 1. Make a pull request that adds your app to the `apps.json` file. Example:
+ 1. Create a `metadata.json` file in publicly accessible location.
 
+    For example, if the app source code is hosted on GitHub, you can place it within the git repository and then expose it via the `raw.githubusercontent.com` domain. Example for `metadata.json`:
     ```json
-        "aiida-tutorials": {
-            "git_url": "https://github.com/aiidateam/aiida_demos.git",
-            "meta_url": "https://raw.githubusercontent.com/aiidateam/aiida_demos/master/metadata.json",
-            "categories": ["tutorials"]
+    {
+        "title": "MyBIG-MAP app",
+        "description": "My BIG-MAP app helps to promote accelerated discovery of novel battery materials.",
+        "version": "1.1",
+        "authors": "A. Doe, B. Doe",
+        "logo": "folder/logo.png",
+        "state": "development",
+        "documentation_url": "https://my-big-map-app.readthedocs.io",
+        "external_url": "http://my-app.example.com"
+    }
+    ```
+
+2. Create a pull request for the app that changes the `apps.json` file, e.g., by clicking here and add an entry for the app that references the metadata file:
+    ```json
+        "my-big-map-app": {
+            "meta_url": "https://raw.githubusercontent.com/my-org.my-big-map-app/main/metadata.json",
+            "categories": ["quantum", "technology-ase", "technology-aiida"]
         }
     ```
 
-Your app will show up in the
-[AiiDAlab App Store](https://github.com/aiidalab/aiidalab-home/blob/master/appstore.ipynb)
-once your pull request is merged.
+3. Your app will show up in the [BIG-MAP App Store](big-map.github.io/big-map-registry") once your pull request is approved and merged.
 
 ### Valid keys for `metadata.json`
 
@@ -54,7 +74,6 @@ once your pull request is merged.
 |:---:|:---:|:---|
 | `title` | **Mandatory** | The title will be displayed in the list of apps in the application manager. |
 | `description` | **Mandatory** | The description will be displayed on the detail page of your app. |
-| `version` | Optional | The version will be displayed on the detail page of your app. This is also used by the [AiiDAlab App Store](https://github.com/aiidalab/aiidalab-home/blob/master/appstore.ipynb). |
 | `authors` | Optional | Comma-separated list of authors. |
 | `logo` | Optional | Relative path to a logo (png or jpg) within your repository. |
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
@@ -65,16 +84,10 @@ once your pull request is merged.
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
-| `git_url` | **Mandatory** | Link to the source code repository. |
 | `meta_url` | **Mandatory** | Link to the location of your app's `metadata.json` file. |
-| `categories` | Optional | List of valid categories.<br>You can see the most recent list of categories in [`categories.json`](https://github.com/aiidalab/aiidalab-registry/blob/master/categories.json), including a description of each category. |
+| `categories` | Optional | If provided, must be one of the valid categories specified in `categories.json`](https://github.com/big-map/big-map-registry/blob/main/categories.json). |
+| `git_url` | **Optional** | Link to the source code repository. |
 
 ## Acknowledgements
 
-This work is supported by the [MARVEL National Centre for Competency in Research](<http://nccr-marvel.ch>)
-funded by the [Swiss National Science Foundation](<http://www.snf.ch/en>), as well as by the [MaX
-European Centre of Excellence](<http://www.max-centre.eu/>) funded by the Horizon 2020 EINFRA-5 program,
-Grant No. 676598.
-
-![MARVEL](make_ghpages/static/img/MARVEL.png)
-![MaX](make_ghpages/static/img/MaX.png)
+The BG-MAP project has received funding from the European Union’s [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement [No 957189](https://cordis.europa.eu/project/id/957189).

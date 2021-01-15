@@ -70,7 +70,7 @@ def test_validate_apps_json_schema(validate, apps_schema, apps_json, valid_categ
 
 def test_validate_apps_json_categories(apps_json, valid_categories):
     for app in apps_json.values():
-        for category in app['categories']:
+        for category in app.get('categories', []):
             assert category in valid_categories
 
 
