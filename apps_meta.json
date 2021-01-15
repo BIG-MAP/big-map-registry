@@ -1,0 +1,200 @@
+{
+  "apps": {
+    "aiidalab-optimade": {
+      "git_url": "https://github.com/aiidalab/aiidalab-optimade.git",
+      "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/metadata.json",
+      "categories": [
+        "utilities"
+      ],
+      "metainfo": {
+        "title": "OPTIMADE Client",
+        "description": "Query for and import structures from OPTIMADE providers (COD, Materials Cloud, NoMaD, Materials Project, OQMD, and more ...).",
+        "version": "1.2.3",
+        "authors": "Casper Welzel Andersen",
+        "state": "stable",
+        "logo": "img/optimade-no-text-transparent-bg.png",
+        "external_url": "https://www.optimade.org"
+      },
+      "gitinfo": {
+        "HEAD": "c5faab7aec377b53685fe90b6002e8011aa7e506",
+        "refs/heads/master": "c5faab7aec377b53685fe90b6002e8011aa7e506",
+        "refs/pull/1/head": "0aae91c8effc85a2305a22baf1cc79341b57c72f",
+        "refs/pull/10/head": "6453655c05368b049f60cc93d2eac8e36a41531f",
+        "refs/pull/11/head": "944f756e4951317aa4bb3547b3110387a17dc636",
+        "refs/pull/13/head": "e000688062397269fec91ab4276c2c607d4e8b5c",
+        "refs/pull/14/head": "e22d450ea59096235b4e21245cdb3e52aaa63d19",
+        "refs/pull/15/head": "95c0df238d2f67fa0efbc49a4789495af8578feb",
+        "refs/pull/16/head": "c8fd57560201c07ee6b7a55bede33ff6cdf9203b",
+        "refs/pull/17/head": "85c2ee9a0ac10f3ac9e5dc9ab6459f6e23e35321",
+        "refs/pull/18/head": "f96848fd2c76e2e0e9e79589abe202b130a9e551",
+        "refs/pull/19/head": "fcadf4fe6fbbc99af1dd0a83caac61824eba0fc2",
+        "refs/pull/20/head": "4bc2df8519c1621b0737d303e1d12d497611d584",
+        "refs/pull/21/head": "687a48bf90615872d3752496108a7b43316ae87d",
+        "refs/pull/3/head": "654396f6dc77e2280c9cde59becbce54b4ebe59f",
+        "refs/pull/5/head": "4f1918265861cbe47561b7651db0bcbc93978fc4",
+        "refs/pull/6/head": "b99458c19fb43190cc2e388837c8556c94540e1d",
+        "refs/pull/7/head": "201e9bc6b4c1b14dd9dfc18de76184353a34a072",
+        "refs/pull/8/head": "21a51063842a42e4c1682412b4cc1f3cef2bb7e1",
+        "refs/pull/9/head": "21c9963c08031fd16e3c249fa579bed2008b5620",
+        "refs/tags/v1.0.0": "4f6dd056f448489f4409c6f627f33bf253caf459",
+        "refs/tags/v1.0.0^{}": "4929fbd5bc7d04bdaa1b25f17d81946a2cdeef5d",
+        "refs/tags/v1.0.1": "2e4650ac64bb4dc1ca039198e3782fffa75582da",
+        "refs/tags/v1.0.1^{}": "0cd9192cd53ff308eff7f8f96e7b58ada6a48a3c",
+        "refs/tags/v1.1.0": "f4e75dd383107e7ded1f2324766c1929e8f999eb",
+        "refs/tags/v1.1.0^{}": "188c1cccc997aa56e3b436a1ddd190b3a8c0b95a",
+        "refs/tags/v1.1.1": "756714cde8967cb365c51f4505c735976df2eafd",
+        "refs/tags/v1.1.1^{}": "d348e8b1e7c991497315acef1129a2788a845646",
+        "refs/tags/v1.1.2": "6535607673ebf9c96dd0e20ad9d46db745241e69",
+        "refs/tags/v1.1.2^{}": "a9a458c1834d19e046ed91fdcb00969eae088a28",
+        "refs/tags/v1.2.0": "d5e8e3bb47a28d718216e115f864a4cf70988c29",
+        "refs/tags/v1.2.0^{}": "81b86a2fe97a0e754768616f8222c5dc221fb302",
+        "refs/tags/v1.2.1": "6878ae9ca82eb71fe37e77e2ceadf36d0b7bc05d",
+        "refs/tags/v1.2.1^{}": "42f45efb87368b6bb4d53f8b9943cc7c161e4261",
+        "refs/tags/v1.2.2": "791d7f700c3c07d2aed14c41d5a8111f2251ddd9",
+        "refs/tags/v1.2.2^{}": "83fdcb60cfb1d87faba48038f7ba3cba771f2c83",
+        "refs/tags/v1.2.3": "4293d2eadaf4a7f252b4986e2ce60740d53bf2a8",
+        "refs/tags/v1.2.3^{}": "c65ebaa6ea9506b710039c0db30f6f2d5f0dbbae"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png",
+      "name": "aiidalab-optimade",
+      "subpage": "apps/aiidalab-optimade.html"
+    },
+    "aiidalab-qe": {
+      "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
+      "meta_url": "https://aiidalab.github.io/aiidalab-qe/metadata.json",
+      "categories": [
+        "quantum"
+      ],
+      "metainfo": {
+        "description": "Perform Quantum ESPRESSO calculations",
+        "title": "Quantum ESPRESSO",
+        "version": "20.11.2",
+        "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
+        "logo": "miscellaneous/logos/QE.jpg",
+        "state": "development",
+        "requires": {
+          ">=20.09": [
+            "aiida-core~=1.0",
+            "aiidalab-widgets-base~=1.0b",
+            "aiida-quantumespresso~=3.2",
+            "ase~=3.18",
+            "fileupload==0.1.5",
+            "nglview~=2.7",
+            "ipywidgets~=7.5"
+          ]
+        }
+      },
+      "gitinfo": {
+        "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
+        "refs/heads/develop": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
+        "refs/heads/feature/setup-pseudos": "3b497de6336b9d05e2b72f45910c4392e21e2995",
+        "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
+        "refs/heads/master": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
+        "refs/heads/metadata/update-requires": "56de86b7bfbd99bd7ab6e4ca5efff25150b72761",
+        "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
+        "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
+        "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
+        "refs/pull/10/head": "5e0ce9942b30f2d152e756bbdef3f1ad4378071e",
+        "refs/pull/11/head": "bac4ba6011aa7197456b5a0efbeeade6468bfe30",
+        "refs/pull/12/head": "2a8dcb9c7b66c004e0bb87e38ab23c8563b5575f",
+        "refs/pull/13/head": "55a8b4df0cd924ba417e1571032cf0065c75828f",
+        "refs/pull/14/head": "264487ea840699be799f3f6a6934a4c4b52f7aed",
+        "refs/pull/16/head": "c7a09d288171612617160e3985e587c56329415a",
+        "refs/pull/17/head": "4770a07fc465625244e3c5828efea2241872c511",
+        "refs/pull/18/head": "0c95ac6c95578ed1706dbe053e09b0ca4c9b5200",
+        "refs/pull/19/head": "6ae39ebb86e73746a5abaf4999ddb28bcd10fe3e",
+        "refs/pull/2/head": "2e0493aceb9931a6c88ba9bc6c925e32954f3d1b",
+        "refs/pull/20/head": "56de86b7bfbd99bd7ab6e4ca5efff25150b72761",
+        "refs/pull/21/head": "c72d0f001c09eabac69d336e995aab57070fd0ce",
+        "refs/pull/22/head": "baf23611c16fd185a9745145102e06e1a21e3fc2",
+        "refs/pull/23/head": "68b0413b506cb1afe952698084df85dd1a9d0d83",
+        "refs/pull/24/head": "021a2aa70a23ee2a2a706675fef9f6004599bbf0",
+        "refs/pull/25/head": "278913a68c11a8e4074ab0dd5b18751ff96a5e3a",
+        "refs/pull/27/head": "c23e4c70044901d75ab7b06056ca735a162f4adf",
+        "refs/pull/28/head": "13af1ce1c7fae881e21dae3e78519a512dc22fb3",
+        "refs/pull/29/head": "f42464fe0755065cc6b5b33e195b58a593a32d50",
+        "refs/pull/3/head": "ee19f4bed9ffde63edbcb8121ccbe3fb28c28155",
+        "refs/pull/31/head": "9109fb3740bdc72c19b3f8adb5172058a6c04bbf",
+        "refs/pull/32/head": "225e4d6bc0eb10dfe2a38325b8d3814afc18e268",
+        "refs/pull/33/head": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
+        "refs/pull/34/head": "5d0bb28ad70d6e94aec11153840ff4c3c76ba0f1",
+        "refs/pull/4/head": "29d5bbf50183b17028e3c5acd79e56b6e81990f1",
+        "refs/pull/5/head": "bf09fef2a6f82cba86eaccdf603ddbde8e587442",
+        "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
+        "refs/pull/8/head": "f683d54751770f4995edf7df68662e133a06ad98",
+        "refs/pull/9/head": "70d1a5840be88f8f04c61f4cc6c5cf4343d79723",
+        "refs/tags/v20.09.0": "2a8dcb9c7b66c004e0bb87e38ab23c8563b5575f",
+        "refs/tags/v20.10.0": "b244d52a77b4afe1c0b42e007e17ef7e7475f99b",
+        "refs/tags/v20.10.1": "954989159d521f0881a79828c7addd9c876da7d4",
+        "refs/tags/v20.10.2": "1c2cc8720369f6db296534f9ce7d72e6051539a4",
+        "refs/tags/v20.11.0": "994874ee05749f46407d1217e3de7338ae003929",
+        "refs/tags/v20.11.1": "16dd3bf916ed9f152ca18dfe7f2d1a9cc7aeb268",
+        "refs/tags/v20.11.2": "58af2213fdce7453932acb1346aa9d4c27110dd4",
+        "refs/tags/v20.12.0": "5006b47be245d45dab75f2d4c4cdd29f159323a3"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://aiidalab.github.io/aiidalab-qe/miscellaneous/logos/QE.jpg",
+      "name": "aiidalab-qe",
+      "subpage": "apps/aiidalab-qe.html"
+    }
+  },
+  "categories": {
+    "classical": {
+      "title": "Classical",
+      "description": "Apps for performing calculations based on classical/empirical force fields."
+    },
+    "quantum": {
+      "title": "Quantum",
+      "description": "Apps for performing quantum-mechanical calculations."
+    },
+    "utilities": {
+      "title": "Utilities",
+      "description": "Utility apps for everyday tasks."
+    },
+    "wp1": {
+      "title": "WP1",
+      "description": "Project management and education, exploitation and outreach."
+    },
+    "wp2": {
+      "title": "WP2",
+      "description": "Accelerated atomic-scales simulations"
+    },
+    "wp3": {
+      "title": "WP3",
+      "description": "Multiscale Modelling"
+    },
+    "wp4": {
+      "title": "WP4",
+      "description": "Modular Robotics and Syntheses"
+    },
+    "wp5": {
+      "title": "WP5",
+      "description": "Characterization"
+    },
+    "wp6": {
+      "title": "WP6",
+      "description": "HTS and Testing"
+    },
+    "wp7": {
+      "title": "WP7",
+      "description": "Battery Interface Ontology"
+    },
+    "wp8": {
+      "title": "WP8",
+      "description": "Standards and Protocols"
+    },
+    "wp9": {
+      "title": "WP9",
+      "description": "Infrastructure and Interoperability"
+    },
+    "wp10": {
+      "title": "WP10",
+      "description": "AI Accelerated Materials Discovery"
+    },
+    "wp11": {
+      "title": "WP11",
+      "description": "Battery Interface Genome"
+    }
+  }
+}
