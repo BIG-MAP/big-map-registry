@@ -4,6 +4,8 @@
       "git_url": "https://github.com/aiidalab/aiidalab-optimade.git",
       "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/metadata.json",
       "categories": [
+        "technology-aiidalab",
+        "technology-materials-cloud",
         "utilities"
       ],
       "metadata": {
@@ -67,6 +69,8 @@
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "meta_url": "https://aiidalab.github.io/aiidalab-qe/metadata.json",
       "categories": [
+        "technology-aiida",
+        "technology-aiidalab",
         "quantum"
       ],
       "metadata": {
@@ -140,18 +144,6 @@
       "logo": "https://aiidalab.github.io/aiidalab-qe/miscellaneous/logos/QE.jpg",
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
-    },
-    "my-app": {
-      "metadata": {
-        "title": "My app",
-        "description": "really cool app",
-        "state": "registered"
-      },
-      "categories": [
-        "utilities"
-      ],
-      "name": "my-app",
-      "subpage": "apps/my-app.html"
     }
   },
   "categories": {
@@ -166,6 +158,26 @@
     "utilities": {
       "title": "Utilities",
       "description": "Utility apps for everyday tasks."
+    },
+    "technology-aiida": {
+      "title": "AiiDA",
+      "description": "The app utilizes the AiiDA infrastructure (https://www.aiida.net/)."
+    },
+    "technology-aiidalab": {
+      "title": "AiiDAlab",
+      "description": "The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab)."
+    },
+    "technology-ase": {
+      "title": "ASE",
+      "description": "The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/)."
+    },
+    "technology-materials-cloud": {
+      "title": "Materials Cloud",
+      "description": "The app utilizies the Materials Cloud (https://www.materialscloud.org)."
+    },
+    "technology-simstack": {
+      "title": "SimStack",
+      "description": "The app utilizes SimStack (https://www.simtack.de)."
     },
     "wp1": {
       "title": "WP1",
