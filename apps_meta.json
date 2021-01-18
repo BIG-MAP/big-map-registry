@@ -70,8 +70,8 @@
         "description": "Perform Quantum ESPRESSO calculations",
         "title": "Quantum ESPRESSO AiiDAlab app",
         "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
-        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
-        "state": "registered"
+        "state": "development",
+        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg"
       },
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "categories": [
@@ -137,9 +137,9 @@
         "description": "Frindly web client to search through databases and other providers implementing the OPTIMADE API.",
         "title": "OPTIMADE Web Client",
         "authors": "Casper Welzel Andersen",
+        "state": "development",
         "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
-        "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
-        "state": "registered"
+        "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png"
       },
       "categories": [
         "utilities"

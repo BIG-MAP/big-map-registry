@@ -51,7 +51,6 @@
             "oneOf": [
                 {
                     "required": [
-                        "git_url",
                         "meta_url"
                     ]
                 },
