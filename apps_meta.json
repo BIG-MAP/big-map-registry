@@ -66,32 +66,19 @@
       "subpage": "apps/aiidalab-optimade.html"
     },
     "aiidalab-qe": {
+      "metadata": {
+        "description": "Perform Quantum ESPRESSO calculations",
+        "title": "Quantum ESPRESSO AiiDAlab app",
+        "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
+        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
+        "state": "registered"
+      },
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
-      "meta_url": "https://aiidalab.github.io/aiidalab-qe/metadata.json",
       "categories": [
         "technology-aiida",
         "technology-aiidalab",
         "quantum"
       ],
-      "metadata": {
-        "description": "Perform Quantum ESPRESSO calculations",
-        "title": "Quantum ESPRESSO",
-        "version": "20.11.2",
-        "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
-        "logo": "miscellaneous/logos/QE.jpg",
-        "state": "development",
-        "requires": {
-          ">=20.09": [
-            "aiida-core~=1.0",
-            "aiidalab-widgets-base~=1.0b",
-            "aiida-quantumespresso~=3.2",
-            "ase~=3.18",
-            "fileupload==0.1.5",
-            "nglview~=2.7",
-            "ipywidgets~=7.5"
-          ]
-        }
-      },
       "gitinfo": {
         "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
         "refs/heads/develop": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
@@ -141,9 +128,25 @@
         "refs/tags/v20.12.0": "5006b47be245d45dab75f2d4c4cdd29f159323a3"
       },
       "hosted_on": "github.com",
-      "logo": "https://aiidalab.github.io/aiidalab-qe/miscellaneous/logos/QE.jpg",
+      "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
+    },
+    "optimade-web": {
+      "metadata": {
+        "description": "Frindly web client to search through databases and other providers implementing the OPTIMADE API.",
+        "title": "OPTIMADE Web Client",
+        "authors": "Casper Welzel Andersen",
+        "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
+        "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
+        "state": "registered"
+      },
+      "categories": [
+        "utilities"
+      ],
+      "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
+      "name": "optimade-web",
+      "subpage": "apps/optimade-web.html"
     }
   },
   "categories": {
