@@ -24,6 +24,6 @@
             "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
             "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png"
         },
-        "categories": ["utilities"]
+        "categories": ["technology-materials-cloud", "utilities"]
     }
 }
