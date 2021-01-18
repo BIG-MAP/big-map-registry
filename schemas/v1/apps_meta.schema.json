@@ -61,7 +61,7 @@
                 "name": {
                   "type": "string"
                 },
-                "metainfo": {
+                "metadata": {
                     "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
                 },
                 "gitinfo": {
@@ -83,11 +83,7 @@
             },
             "required": [
                 "categories",
-                "git_url",
-                "gitinfo",
-                "hosted_on",
-                "meta_url",
-                "metainfo"
+                "metadata"
             ],
             "title": "App"
         },

@@ -28,6 +28,9 @@
                         ".git"
                     ]
                 },
+                "metadata": {
+                  "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
+                },
                 "meta_url": {
                     "type": "string",
                     "format": "uri",
@@ -45,9 +48,18 @@
                     }
                 }
             },
-            "required": [
-                "git_url",
-                "meta_url"
+            "oneOf": [
+                {
+                    "required": [
+                        "git_url",
+                        "meta_url"
+                    ]
+                },
+                {
+                    "required": [
+                        "metadata"
+                    ]
+                }
             ],
             "title": "AiiDAlab App"
         }

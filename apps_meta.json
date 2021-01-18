@@ -6,7 +6,7 @@
       "categories": [
         "utilities"
       ],
-      "metainfo": {
+      "metadata": {
         "title": "OPTIMADE Client",
         "description": "Query for and import structures from OPTIMADE providers (COD, Materials Cloud, NoMaD, Materials Project, OQMD, and more ...).",
         "version": "1.2.3",
@@ -66,7 +66,7 @@
       "categories": [
         "quantum"
       ],
-      "metainfo": {
+      "metadata": {
         "description": "Perform Quantum ESPRESSO calculations",
         "title": "Quantum ESPRESSO",
         "version": "20.11.2",
@@ -137,6 +137,18 @@
       "logo": "https://aiidalab.github.io/aiidalab-qe/miscellaneous/logos/QE.jpg",
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
+    },
+    "my-app": {
+      "metadata": {
+        "title": "My app",
+        "description": "really cool app",
+        "state": "registered"
+      },
+      "categories": [
+        "utilities"
+      ],
+      "name": "my-app",
+      "subpage": "apps/my-app.html"
     }
   },
   "categories": {
