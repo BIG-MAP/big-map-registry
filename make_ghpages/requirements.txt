@@ -5,3 +5,4 @@ jsonschema==3.2.0
 pytest
 requests==2.24.0
 requests-mock==1.8.0
+ruamel.yaml==0.16.12

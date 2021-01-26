@@ -13,6 +13,7 @@ import exceptions as exc
 
 ## Requires jinja2 >= 2.9
 from jinja2 import Environment, PackageLoader, select_autoescape
+from ruamel.yaml import YAML
 import cachecontrol
 import jsonschema
 import requests
@@ -43,7 +44,7 @@ def get_hosted_on(url):
     try:
         REQUESTS.get(url, timeout=TIMEOUT_SECONDS).raise_for_status()
     except requests.RequestException:
-        raise exc.MissingGit(f"Value for 'git_url' in apps.json may be wrong: {url!r}")
+        raise exc.MissingGit(f"Value for 'git_url' in apps.yaml may be wrong: {url!r}")
 
     netloc = urlparse(url).netloc
 
@@ -63,7 +64,7 @@ def fetch_meta_info(json_url):
         response.raise_for_status()
         return response.json()
     except requests.RequestException:
-        raise exc.MissingMetadata(f"Value for 'meta_url' in apps.json may be wrong: {json_url!r}")
+        raise exc.MissingMetadata(f"Value for 'meta_url' in apps.yaml may be wrong: {json_url!r}")
     except json.decoder.JSONDecodeError:
         raise exc.WrongMetadata("The apps' metadata is not valid JSON.")
 
@@ -125,7 +126,7 @@ def fetch_app_data(app_data, app_name):
         except KeyError:
             meta_info = fetch_meta_info(app_data['meta_url'])
     except KeyError:
-        raise exc.MissingMetadata(f"Unable to get metadata for {app_name!r}, neither 'metadata' nor 'meta_url' key provided in apps.json.")
+        raise exc.MissingMetadata(f"Unable to get metadata for {app_name!r}, neither 'metadata' nor 'meta_url' key provided in apps.yaml.")
 
     # Check if categories are specified, warn if not
     if 'categories' not in app_data:
@@ -224,13 +225,13 @@ def build_pages(apps_meta):
 
 
 if __name__ == '__main__':
-    # Get apps.json raw data and validate against schema
-    apps_data = json.loads(ROOT.joinpath('apps.json').read_text())
+    # Get apps.yaml raw data and validate against schema
+    apps_data = YAML(typ='safe').load(ROOT.joinpath('apps.yaml').read_text())
     apps_schema = json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
     jsonschema.validate(instance=apps_data, schema=apps_schema)
 
     # Get categories.json raw data and validate against schema
-    categories_data = json.loads(ROOT.joinpath('categories.json').read_text())
+    categories_data = YAML(typ='safe').load(ROOT.joinpath('categories.yaml').read_text())
     categories_schema = json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
     jsonschema.validate(instance=categories_data, schema=categories_schema)
 
