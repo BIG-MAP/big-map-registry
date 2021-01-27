@@ -14,15 +14,13 @@ import exceptions as exc
 
 ## Requires jinja2 >= 2.9
 from jinja2 import Environment, PackageLoader, select_autoescape
-from jsonref import JsonRef
-from ruamel.yaml import YAML
-import cachecontrol
 import jsonschema
 import requests
 
-### BEGIN configuration
+from util import load_yaml
+from util import REQUESTS
 
-REQUESTS = cachecontrol.CacheControl(requests.Session())
+### BEGIN configuration
 
 # paths
 ROOT = Path(__file__).parent.parent.resolve()
@@ -192,12 +190,12 @@ def build_pages(apps_meta):
 
 if __name__ == '__main__':
     # Get apps.yaml raw data and validate against schema
-    apps_data = JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('apps.yaml').read_text()))
+    apps_data = load_yaml(ROOT.joinpath('apps.yaml'))
     apps_schema = json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
     jsonschema.validate(instance=apps_data, schema=apps_schema)
 
     # Get categories.json raw data and validate against schema
-    categories_data = JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('categories.yaml').read_text()))
+    categories_data = load_yaml(ROOT.joinpath('categories.yaml'))
     categories_schema = json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
     jsonschema.validate(instance=categories_data, schema=categories_schema)
 

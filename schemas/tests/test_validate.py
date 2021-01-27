@@ -4,8 +4,8 @@ from functools import partial
 
 import pytest
 import jsonschema
-from jsonref import JsonRef
-from ruamel.yaml import YAML
+
+from util import load_yaml
 
 ROOT = Path(__file__).parent.parent.parent.resolve()
 
@@ -37,12 +37,12 @@ def metadata_schema():
 
 @pytest.fixture
 def apps_yaml():
-    return JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('apps.yaml').read_text()))
+    return load_yaml(ROOT.joinpath('apps.yaml'))
 
 
 @pytest.fixture
 def categories_yaml():
-    return JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('categories.yaml').read_text()))
+    return load_yaml(ROOT.joinpath('categories.yaml'))
 
 
 @pytest.fixture
