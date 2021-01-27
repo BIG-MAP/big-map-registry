@@ -1,87 +1,19 @@
 {
   "apps": {
-    "aiidalab-optimade": {
-      "git_url": "https://github.com/aiidalab/aiidalab-optimade.git",
-      "meta_url": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/metadata.json",
-      "categories": [
-        "technology-aiidalab",
-        "technology-materials-cloud",
-        "utilities"
-      ],
-      "metadata": {
-        "title": "OPTIMADE Client",
-        "description": "Query for and import structures from OPTIMADE providers (COD, Materials Cloud, NoMaD, Materials Project, OQMD, and more ...).",
-        "version": "2.0.0",
-        "authors": "Casper Welzel Andersen",
-        "state": "stable",
-        "logo": "img/optimade-no-text-transparent-bg.png",
-        "external_url": "https://www.optimade.org"
-      },
-      "gitinfo": {
-        "HEAD": "496eeb92f47e6bf95f78d322d2dbca5897d1f989",
-        "refs/heads/dependabot/pip/master/optimade-client-approx-eq-2021.1.25": "fcdd59cc9f6856a2f51fec6e859a296257a58a15",
-        "refs/heads/master": "496eeb92f47e6bf95f78d322d2dbca5897d1f989",
-        "refs/pull/1/head": "0aae91c8effc85a2305a22baf1cc79341b57c72f",
-        "refs/pull/10/head": "6453655c05368b049f60cc93d2eac8e36a41531f",
-        "refs/pull/11/head": "944f756e4951317aa4bb3547b3110387a17dc636",
-        "refs/pull/13/head": "e000688062397269fec91ab4276c2c607d4e8b5c",
-        "refs/pull/14/head": "e22d450ea59096235b4e21245cdb3e52aaa63d19",
-        "refs/pull/15/head": "95c0df238d2f67fa0efbc49a4789495af8578feb",
-        "refs/pull/16/head": "c8fd57560201c07ee6b7a55bede33ff6cdf9203b",
-        "refs/pull/17/head": "85c2ee9a0ac10f3ac9e5dc9ab6459f6e23e35321",
-        "refs/pull/18/head": "f96848fd2c76e2e0e9e79589abe202b130a9e551",
-        "refs/pull/19/head": "fcadf4fe6fbbc99af1dd0a83caac61824eba0fc2",
-        "refs/pull/20/head": "4bc2df8519c1621b0737d303e1d12d497611d584",
-        "refs/pull/21/head": "687a48bf90615872d3752496108a7b43316ae87d",
-        "refs/pull/22/head": "65f0800124dea5f9da580738f191c9112601e197",
-        "refs/pull/23/head": "fcdd59cc9f6856a2f51fec6e859a296257a58a15",
-        "refs/pull/23/merge": "0eb2c89651939c36c5ea8bf35d8a3acef454f9f9",
-        "refs/pull/3/head": "654396f6dc77e2280c9cde59becbce54b4ebe59f",
-        "refs/pull/5/head": "4f1918265861cbe47561b7651db0bcbc93978fc4",
-        "refs/pull/6/head": "b99458c19fb43190cc2e388837c8556c94540e1d",
-        "refs/pull/7/head": "201e9bc6b4c1b14dd9dfc18de76184353a34a072",
-        "refs/pull/8/head": "21a51063842a42e4c1682412b4cc1f3cef2bb7e1",
-        "refs/pull/9/head": "21c9963c08031fd16e3c249fa579bed2008b5620",
-        "refs/tags/v1.0.0": "4f6dd056f448489f4409c6f627f33bf253caf459",
-        "refs/tags/v1.0.0^{}": "4929fbd5bc7d04bdaa1b25f17d81946a2cdeef5d",
-        "refs/tags/v1.0.1": "2e4650ac64bb4dc1ca039198e3782fffa75582da",
-        "refs/tags/v1.0.1^{}": "0cd9192cd53ff308eff7f8f96e7b58ada6a48a3c",
-        "refs/tags/v1.1.0": "f4e75dd383107e7ded1f2324766c1929e8f999eb",
-        "refs/tags/v1.1.0^{}": "188c1cccc997aa56e3b436a1ddd190b3a8c0b95a",
-        "refs/tags/v1.1.1": "756714cde8967cb365c51f4505c735976df2eafd",
-        "refs/tags/v1.1.1^{}": "d348e8b1e7c991497315acef1129a2788a845646",
-        "refs/tags/v1.1.2": "6535607673ebf9c96dd0e20ad9d46db745241e69",
-        "refs/tags/v1.1.2^{}": "a9a458c1834d19e046ed91fdcb00969eae088a28",
-        "refs/tags/v1.2.0": "d5e8e3bb47a28d718216e115f864a4cf70988c29",
-        "refs/tags/v1.2.0^{}": "81b86a2fe97a0e754768616f8222c5dc221fb302",
-        "refs/tags/v1.2.1": "6878ae9ca82eb71fe37e77e2ceadf36d0b7bc05d",
-        "refs/tags/v1.2.1^{}": "42f45efb87368b6bb4d53f8b9943cc7c161e4261",
-        "refs/tags/v1.2.2": "791d7f700c3c07d2aed14c41d5a8111f2251ddd9",
-        "refs/tags/v1.2.2^{}": "83fdcb60cfb1d87faba48038f7ba3cba771f2c83",
-        "refs/tags/v1.2.3": "4293d2eadaf4a7f252b4986e2ce60740d53bf2a8",
-        "refs/tags/v1.2.3^{}": "c65ebaa6ea9506b710039c0db30f6f2d5f0dbbae",
-        "refs/tags/v2.0.0": "cda6024035abc9dad3fb93ccb912f73855afc4ae",
-        "refs/tags/v2.0.0^{}": "496eeb92f47e6bf95f78d322d2dbca5897d1f989"
-      },
-      "hosted_on": "github.com",
-      "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png",
-      "name": "aiidalab-optimade",
-      "subpage": "apps/aiidalab-optimade.html"
-    },
     "aiidalab-qe": {
-      "metadata": {
-        "description": "Perform Quantum ESPRESSO calculations",
-        "title": "Quantum ESPRESSO AiiDAlab app",
-        "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
-        "state": "development",
-        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg"
-      },
-      "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "categories": [
         "technology-aiida",
         "technology-aiidalab",
         "quantum"
       ],
+      "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
+      "metadata": {
+        "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
+        "description": "Perform Quantum ESPRESSO calculations",
+        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
+        "state": "development",
+        "title": "Quantum ESPRESSO AiiDAlab app"
+      },
       "gitinfo": {
         "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
         "refs/heads/develop": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
@@ -136,18 +68,18 @@
       "subpage": "apps/aiidalab-qe.html"
     },
     "optimade-web": {
-      "metadata": {
-        "description": "Frindly web client to search through databases and other providers implementing the OPTIMADE API.",
-        "title": "OPTIMADE Web Client",
-        "authors": "Casper Welzel Andersen",
-        "state": "development",
-        "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
-        "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png"
-      },
       "categories": [
         "technology-materials-cloud",
         "utilities"
       ],
+      "metadata": {
+        "authors": "Casper Welzel Andersen",
+        "description": "Frindly web client to search through databases and other providers implementing the OPTIMADE API.",
+        "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
+        "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
+        "state": "development",
+        "title": "OPTIMADE Web Client"
+      },
       "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
       "name": "optimade-web",
       "subpage": "apps/optimade-web.html"
@@ -155,80 +87,80 @@
   },
   "categories": {
     "classical": {
-      "title": "Classical",
-      "description": "Apps for performing calculations based on classical/empirical force fields."
+      "description": "Apps for performing calculations based on classical/empirical force fields.",
+      "title": "Classical"
     },
     "quantum": {
-      "title": "Quantum",
-      "description": "Apps for performing quantum-mechanical calculations."
-    },
-    "utilities": {
-      "title": "Utilities",
-      "description": "Utility apps for everyday tasks."
+      "description": "Apps for performing quantum-mechanical calculations.",
+      "title": "Quantum"
     },
     "technology-aiida": {
-      "title": "AiiDA",
-      "description": "The app utilizes the AiiDA infrastructure (https://www.aiida.net/)."
+      "description": "The app utilizes the AiiDA infrastructure (https://www.aiida.net/).",
+      "title": "AiiDA"
     },
     "technology-aiidalab": {
-      "title": "AiiDAlab",
-      "description": "The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab)."
+      "description": "The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab).",
+      "title": "AiiDAlab"
     },
     "technology-ase": {
-      "title": "ASE",
-      "description": "The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/)."
+      "description": "The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/).",
+      "title": "ASE"
     },
     "technology-materials-cloud": {
-      "title": "Materials Cloud",
-      "description": "The app utilizies the Materials Cloud (https://www.materialscloud.org)."
+      "description": "The app utilizies the Materials Cloud (https://www.materialscloud.org).",
+      "title": "Materials Cloud"
     },
     "technology-simstack": {
-      "title": "SimStack",
-      "description": "The app utilizes SimStack (https://www.simtack.de)."
+      "description": "The app utilizes SimStack (https://www.simtack.de).",
+      "title": "SimStack"
+    },
+    "utilities": {
+      "description": "Utility apps for everyday tasks.",
+      "title": "Utilities"
     },
     "wp1": {
-      "title": "WP1",
-      "description": "Project management and education, exploitation and outreach."
-    },
-    "wp2": {
-      "title": "WP2",
-      "description": "Accelerated atomic-scales simulations"
-    },
-    "wp3": {
-      "title": "WP3",
-      "description": "Multiscale Modelling"
-    },
-    "wp4": {
-      "title": "WP4",
-      "description": "Modular Robotics and Syntheses"
-    },
-    "wp5": {
-      "title": "WP5",
-      "description": "Characterization"
-    },
-    "wp6": {
-      "title": "WP6",
-      "description": "HTS and Testing"
-    },
-    "wp7": {
-      "title": "WP7",
-      "description": "Battery Interface Ontology"
-    },
-    "wp8": {
-      "title": "WP8",
-      "description": "Standards and Protocols"
-    },
-    "wp9": {
-      "title": "WP9",
-      "description": "Infrastructure and Interoperability"
+      "description": "Project management and education, exploitation and outreach.",
+      "title": "WP1"
     },
     "wp10": {
-      "title": "WP10",
-      "description": "AI Accelerated Materials Discovery"
+      "description": "AI Accelerated Materials Discovery",
+      "title": "WP10"
     },
     "wp11": {
-      "title": "WP11",
-      "description": "Battery Interface Genome"
+      "description": "Battery Interface Genome",
+      "title": "WP11"
+    },
+    "wp2": {
+      "description": "Accelerated atomic-scales simulations",
+      "title": "WP2"
+    },
+    "wp3": {
+      "description": "Multiscale Modelling",
+      "title": "WP3"
+    },
+    "wp4": {
+      "description": "Modular Robotics and Syntheses",
+      "title": "WP4"
+    },
+    "wp5": {
+      "description": "Characterization",
+      "title": "WP5"
+    },
+    "wp6": {
+      "description": "HTS and Testing",
+      "title": "WP6"
+    },
+    "wp7": {
+      "description": "Battery Interface Ontology",
+      "title": "WP7"
+    },
+    "wp8": {
+      "description": "Standards and Protocols",
+      "title": "WP8"
+    },
+    "wp9": {
+      "description": "Infrastructure and Interoperability",
+      "title": "WP9"
     }
   }
 }
