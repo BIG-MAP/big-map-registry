@@ -9,10 +9,12 @@
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "metadata": {
         "authors": "Carl Simon Adorf, Aliaksandr Yakutovich",
-        "description": "Perform Quantum ESPRESSO calculations",
+        "description": "Compute band structures and other structure properties with Quantum ESPRESSO\non the AiiDAlab platform.\n",
         "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
         "state": "development",
-        "title": "Quantum ESPRESSO AiiDAlab app"
+        "title": "Quantum ESPRESSO AiiDAlab app",
+        "external_url": "https://www.materialscloud.org/work/aiidalab",
+        "version": "20.11.2"
       },
       "gitinfo": {
         "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
@@ -74,7 +76,7 @@
       ],
       "metadata": {
         "authors": "Casper Welzel Andersen",
-        "description": "Frindly web client to search through databases and other providers implementing the OPTIMADE API.",
+        "description": "Graphical client hosted on Materials Cloud to search databases that\nimplement the OPTIMADE API (https://www.optimade.org/).\n",
         "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
         "logo": "https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png",
         "state": "development",
