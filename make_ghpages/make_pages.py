@@ -7,12 +7,14 @@ import os
 import shutil
 import string
 from collections import OrderedDict
+from copy import deepcopy
 from pathlib import Path
 from urllib.parse import urlparse, urlunparse
 import exceptions as exc
 
 ## Requires jinja2 >= 2.9
 from jinja2 import Environment, PackageLoader, select_autoescape
+from jsonref import JsonRef
 from ruamel.yaml import YAML
 import cachecontrol
 import jsonschema
@@ -211,7 +213,7 @@ def build_pages(apps_meta):
 
     # Save json data for the app manager
     outfile = BUILD_PATH / 'apps_meta.json'
-    rendered = json.dumps(apps_meta, ensure_ascii=False, indent=2)
+    rendered = json.dumps(deepcopy(apps_meta), ensure_ascii=False, indent=2)
     outfile.write_text(rendered, encoding='utf-8')
     print(f"  - {outfile.relative_to(BUILD_PATH)}")
 
@@ -226,12 +228,12 @@ def build_pages(apps_meta):
 
 if __name__ == '__main__':
     # Get apps.yaml raw data and validate against schema
-    apps_data = YAML(typ='safe').load(ROOT.joinpath('apps.yaml').read_text())
+    apps_data = JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('apps.yaml').read_text()))
     apps_schema = json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
     jsonschema.validate(instance=apps_data, schema=apps_schema)
 
     # Get categories.json raw data and validate against schema
-    categories_data = YAML(typ='safe').load(ROOT.joinpath('categories.yaml').read_text())
+    categories_data = JsonRef.replace_refs(YAML(typ='safe').load(ROOT.joinpath('categories.yaml').read_text()))
     categories_schema = json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
     jsonschema.validate(instance=categories_data, schema=categories_schema)
 

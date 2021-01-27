@@ -1,6 +1,7 @@
 CacheControl==0.12.6
 dulwich
 jinja2
+jsonref==0.2
 jsonschema==3.2.0
 pytest
 requests==2.24.0
