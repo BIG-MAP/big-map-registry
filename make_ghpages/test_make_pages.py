@@ -101,22 +101,6 @@ def test_generate_apps_meta(apps_json, categories_json):
 
 
 @pytest.mark.usefixtures('mock_schema_endpoints')
-def test_validate_logo(requests_mock, app_metadata_json, app_metadata_url, apps_json, categories_json):
-    """Test whether exception is raised in case that logo URL location does not exist."""
-    # Manipulate metadata.json endpoint to point logo to non-existant location.
-    app_metadata_json['logo'] = 'path/to/file/that/does/not/exist.png'
-    requests_mock.get(app_metadata_url, text=json.dumps(app_metadata_json))
-
-    app_metadata_url_parsed = urlsplit(app_metadata_url)
-    expected_logo_url = urlunsplit(app_metadata_url_parsed._replace(path=str(Path(app_metadata_url_parsed.path).parent.joinpath(app_metadata_json['logo']))))
-    requests_mock.register_uri('GET', expected_logo_url, exc=requests.HTTPError)
-
-    # Attempt to create the apps_meta.json file.
-    with pytest.raises(exceptions.MissingLogo):
-        apps_meta = make_pages.generate_apps_meta(apps_json, categories_json)
-
-
-@pytest.mark.usefixtures('mock_schema_endpoints')
 def test_get_logo_url(apps_json, categories_json, app_logo_url):
     """Test whether the logo url is correctly resolved."""
     apps_meta = make_pages.generate_apps_meta(apps_json, categories_json)

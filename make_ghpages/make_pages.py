@@ -80,13 +80,6 @@ def complete_metadata(app_name, metadata, git_url):
     return metadata
 
 
-def check_logo_url(logo_url):
-    try:
-        REQUESTS.get(logo_url, timeout=TIMEOUT_SECONDS).raise_for_status()
-    except requests.RequestException:
-        raise exc.MissingLogo(f"Unable to fetch logo from {logo_url!r}!")
-
-
 def fetch_app_data(app_data, app_name):
     # Get Git URL, fail build if git_url is not found or wrong
     git_url = app_data.get('git_url', '')
@@ -129,8 +122,6 @@ def generate_apps_meta(apps_data, categories_data):
         app_data = fetch_app_data(apps_data[app_name], app_name)
         app_data['name'] = app_name
         app_data['subpage'] = os.path.join('apps', get_html_app_fname(app_name))
-        if 'logo' in app_data:
-            check_logo_url(app_data['logo'])
         apps_meta['apps'][app_name] = app_data
 
     validate_apps_meta(apps_meta)

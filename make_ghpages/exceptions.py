@@ -43,11 +43,3 @@ class WrongCategory(WrongEntity):
     The specified category does not exist in categories.json.
     """
     pass
-
-
-class MissingLogo(MissingEntity):
-    """ Missing logo
-    Having retrieved the URL for the logo (from metadata.json),
-    it is now found that the logo does not exist on the given URL.
-    """
-    pass
