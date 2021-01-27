@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
-import requests
 from pathlib import Path
 from urllib.parse import urlsplit
-from ruamel.yaml import YAML
 
 import cachecontrol
 import requests
 import jsonref
+from ruamel.yaml import YAML
 
 
 REQUESTS = cachecontrol.CacheControl(requests.Session())
+
 
 class JsonYamlLoader(jsonref.JsonLoader):
 

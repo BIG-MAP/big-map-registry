@@ -1,9 +1,9 @@
 CacheControl==0.12.6
-dulwich
-jinja2
+dulwich==0.20.15
+Jinja2==2.11.2
 jsonref==0.2
 jsonschema==3.2.0
-pytest
+pytest==6.0.2
 requests==2.24.0
 requests-mock==1.8.0
 ruamel.yaml==0.16.12

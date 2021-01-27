@@ -1,16 +1,11 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-import os
-import json
 import base64
 from dataclasses import dataclass
-from pathlib import Path
-from urllib.parse import urlsplit, urlunsplit
 
 import requests
 
-import exceptions
 import make_pages
 
 

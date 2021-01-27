@@ -9,13 +9,11 @@ import string
 from collections import OrderedDict
 from copy import deepcopy
 from pathlib import Path
-from urllib.parse import urlparse, urlunparse
-import exceptions as exc
+from urllib.parse import urlparse
 
-## Requires jinja2 >= 2.9
+from dulwich.client import get_transport_and_path_from_url
 from jinja2 import Environment, PackageLoader, select_autoescape
 import jsonschema
-import requests
 
 import yaml
 
@@ -53,7 +51,6 @@ def get_hosted_on(url):
 
 
 def get_git_branches(git_url):
-    from dulwich.client import get_transport_and_path_from_url
     t, p = get_transport_and_path_from_url(git_url)
     branches = t.get_refs(p)
     res = {}
