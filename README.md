@@ -10,83 +10,76 @@ This repository contains the **source code** of the official App registry for th
 
 ## Adding an app to the registry
 
-Apps can be added to the registry with static metadata or dynamically fetched metadata.
-Providing dynamic metadata is slightly more complicated, because it requires the app metadata to be hosted separately, e.g., in a git repository on GitHub, but it also makes it easier to update the metadata.
-Here we show examples for both methods.
+Apps are added to the registry by adding an entry to the `apps.yaml` file within this repository.
 
-**Feel free to propose a new app category to be added to [`category.json`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.json) before or after adding your app.**
+*Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before or after adding your app.*
 
-### Adding an app with static metadata
+1. Create a pull request to this repository that changes the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml). Example:
 
-1. Create a pull request to this repository that changes the `apps.json` file, e.g., by clicking [here](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.json) and add an entry for the app. Example:
-
-    ```json
-        "my-big-map-app": {
-            "metadata": {
-                "title": "MyBIG-MAP app",
-                "description": "My BIG-MAP app helps to promote accelerated discovery of novel battery materials.",
-                "version": "1.1",
-                "authors": "A. Doe, B. Doe",
-                "logo": "folder/logo.png",
-                "state": "development",
-                "documentation_url": "https://my-big-map-app.readthedocs.io",
-                "external_url": "http://my-app.example.com"
-            },
-            "categories": ["quantum", "technology-ase", "technology-aiida"]
-        }
+    ```yaml
+    my-big-map-app:
+      metadata:
+        title: MyBIG-MAP app
+        description: |
+            My BIG-MAP app helps to promote accelerated discovery
+            of novel battery materials.
+        authors: A. Doe, B. Doe
+        external_url: http://my-app.example.com
+        documentation_url: https://my-big-map-app.readthedocs.io
+        logo: https://github.com/my-org/my-big-map-app/raw/main/logo.png
+        state: development
+        version: '1.1'
+      categories:
+        - technology-aiida
+        - technology-ase
+        - quantum
     ```
 
     **Note**: Only the metadata fields `title` and `description` are mandatory.
 
 2. Your app will show up in the [BIG-MAP App Store](big-map.github.io/big-map-registry") once your pull request is approved and merged.
 
-### Adding an app with dynamic metadata
+**Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
+That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
+For example, if you place a `metadata.yaml` file within your app repository, then you can reference that file in the app store like this:
 
- 1. Create a `metadata.json` file in publicly accessible location.
+```yaml
+my-big-map-app:
+  metadata:
+    $ref: https://github.com/my-org/my-big-map-app/raw/main/metadata.yaml
+```
+You can even reference only parts of the metadata, example:
+```yaml
+my-big-map-app:
+  metadata:
+    title: MyBIG-MAP app
+    description:
+      $ref: https://github.com/my-org/my-big-map-app/raw/main/metadata.yaml#description
 
-    For example, if the app source code is hosted on GitHub, you can place it within the git repository and then expose it via the `raw.githubusercontent.com` domain. Example for `metadata.json`:
-    ```json
-    {
-        "title": "MyBIG-MAP app",
-        "description": "My BIG-MAP app helps to promote accelerated discovery of novel battery materials.",
-        "version": "1.1",
-        "authors": "A. Doe, B. Doe",
-        "logo": "folder/logo.png",
-        "state": "development",
-        "documentation_url": "https://my-big-map-app.readthedocs.io",
-        "external_url": "http://my-app.example.com"
-    }
-    ```
+```
 
-2. Create a pull request for the app that changes the `apps.json` file, e.g., by clicking here and add an entry for the app that references the metadata file:
-    ```json
-        "my-big-map-app": {
-            "meta_url": "https://raw.githubusercontent.com/my-org.my-big-map-app/main/metadata.json",
-            "categories": ["quantum", "technology-ase", "technology-aiida"]
-        }
-    ```
+*The app store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
 
-3. Your app will show up in the [BIG-MAP App Store](big-map.github.io/big-map-registry") once your pull request is approved and merged.
+### Valid keys for your app in `apps.json`
 
-### Valid keys for `metadata.json`
+| Key | Requirement | Description |
+|:---:|:---:|:---|
+| `metadata` | **Mandatory** | General description of the app (see below). |
+| `categories` | Optional | If provided, must be one of the valid categories specified in `categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
+| `git_url` | Optional | Link to the source code repository. |
+
+
+### Valid keys for app metadata:
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
 | `title` | **Mandatory** | The title will be displayed in the list of apps in the application manager. |
 | `description` | **Mandatory** | The description will be displayed on the detail page of your app. |
 | `authors` | Optional | Comma-separated list of authors. |
-| `logo` | Optional | Relative path to a logo (png or jpg) within your repository. |
+| `logo` | Optional | Absolute path to a logo (png or jpg) within your repository. |
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
 | `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
 | `external_url` | Optional | General homepage for your app. |
-
-### Valid keys for your app in `apps.json`
-
-| Key | Requirement | Description |
-|:---:|:---:|:---|
-| `meta_url` | **Mandatory** | Link to the location of your app's `metadata.json` file. |
-| `categories` | Optional | If provided, must be one of the valid categories specified in `categories.json`](https://github.com/big-map/big-map-registry/blob/main/categories.json). |
-| `git_url` | **Optional** | Link to the source code repository. |
 
 ## Acknowledgements
 
