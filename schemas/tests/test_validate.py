@@ -5,6 +5,8 @@ from functools import partial
 import pytest
 import jsonschema
 
+import yaml
+
 ROOT = Path(__file__).parent.parent.parent.resolve()
 
 
@@ -34,18 +36,18 @@ def metadata_schema():
 
 
 @pytest.fixture
-def apps_json():
-    return json.loads(ROOT.joinpath('apps.json').read_text())
+def apps_yaml():
+    return yaml.load(ROOT.joinpath('apps.yaml'))
 
 
 @pytest.fixture
-def categories_json():
-    return json.loads(ROOT.joinpath('categories.json').read_text())
+def categories_yaml():
+    return yaml.load(ROOT.joinpath('categories.yaml'))
 
 
 @pytest.fixture
-def valid_categories(categories_json):
-    return set(categories_json)
+def valid_categories(categories_yaml):
+    return set(categories_yaml)
 
 
 def test_validate_apps_schema(apps_schema):
@@ -64,15 +66,15 @@ def test_validate_metadata_schema(metadata_schema):
     jsonschema.Draft7Validator.check_schema(metadata_schema)
 
 
-def test_validate_apps_json_schema(validate, apps_schema, apps_json, valid_categories):
-    validate(instance=apps_json, schema=apps_schema)
+def test_validate_apps_yaml_schema(validate, apps_schema, apps_yaml, valid_categories):
+    validate(instance=apps_yaml, schema=apps_schema)
 
 
-def test_validate_apps_json_categories(apps_json, valid_categories):
-    for app in apps_json.values():
+def test_validate_apps_yaml_categories(apps_yaml, valid_categories):
+    for app in apps_yaml.values():
         for category in app.get('categories', []):
             assert category in valid_categories
 
 
-def test_validate_categories_json(validate, categories_schema, categories_json):
-    validate(instance=categories_json, schema=categories_schema)
+def test_validate_categories_yaml(validate, categories_schema, categories_yaml):
+    validate(instance=categories_yaml, schema=categories_schema)

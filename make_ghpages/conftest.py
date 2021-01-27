@@ -1,10 +1,7 @@
 import json
 from pathlib import Path
-from functools import partial
 
 import pytest
-import jsonschema
-import requests_mock
 
 ROOT = Path(__file__).parent.parent.resolve()
 

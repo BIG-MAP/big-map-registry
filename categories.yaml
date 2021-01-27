@@ -1,0 +1,58 @@
+classical:
+  description: Apps for performing calculations based on classical/empirical force
+    fields.
+  title: Classical
+quantum:
+  description: Apps for performing quantum-mechanical calculations.
+  title: Quantum
+technology-aiida:
+  description: The app utilizes the AiiDA infrastructure (https://www.aiida.net/).
+  title: AiiDA
+technology-aiidalab:
+  description: The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab).
+  title: AiiDAlab
+technology-ase:
+  description: The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/).
+  title: ASE
+technology-materials-cloud:
+  description: The app utilizies the Materials Cloud (https://www.materialscloud.org).
+  title: Materials Cloud
+technology-simstack:
+  description: The app utilizes SimStack (https://www.simtack.de).
+  title: SimStack
+utilities:
+  description: Utility apps for everyday tasks.
+  title: Utilities
+wp1:
+  description: Project management and education, exploitation and outreach.
+  title: WP1
+wp10:
+  description: AI Accelerated Materials Discovery
+  title: WP10
+wp11:
+  description: Battery Interface Genome
+  title: WP11
+wp2:
+  description: Accelerated atomic-scales simulations
+  title: WP2
+wp3:
+  description: Multiscale Modelling
+  title: WP3
+wp4:
+  description: Modular Robotics and Syntheses
+  title: WP4
+wp5:
+  description: Characterization
+  title: WP5
+wp6:
+  description: HTS and Testing
+  title: WP6
+wp7:
+  description: Battery Interface Ontology
+  title: WP7
+wp8:
+  description: Standards and Protocols
+  title: WP8
+wp9:
+  description: Infrastructure and Interoperability
+  title: WP9
