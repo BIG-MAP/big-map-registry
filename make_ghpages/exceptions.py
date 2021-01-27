@@ -14,14 +14,6 @@ class WrongEntity(Exception):
     pass
 
 
-class MissingMetadata(MissingEntity):
-    """ Missing metadata
-    The key 'meta_url' is missing from apps.json or
-    the value of 'meta_url' is wrong/missing.
-    """
-    pass
-
-
 class WrongMetadata(WrongEntity):
     """ Wrong metadata
     The provided metadata.json file cannot be loaded by Python's built-in json.loads method.

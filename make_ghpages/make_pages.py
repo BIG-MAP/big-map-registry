@@ -60,17 +60,6 @@ def get_hosted_on(url):
     return netloc
 
 
-def fetch_meta_info(json_url):
-    try:
-        response = REQUESTS.get(json_url, timeout=TIMEOUT_SECONDS)
-        response.raise_for_status()
-        return response.json()
-    except requests.RequestException:
-        raise exc.MissingMetadata(f"Value for 'meta_url' in apps.yaml may be wrong: {json_url!r}")
-    except json.decoder.JSONDecodeError:
-        raise exc.WrongMetadata("The apps' metadata is not valid JSON.")
-
-
 def get_git_branches(git_url):
     from dulwich.client import get_transport_and_path_from_url
     t, p = get_transport_and_path_from_url(git_url)
@@ -85,27 +74,12 @@ def get_git_author(git_url):
     return urlparse(git_url).path.split('/')[1]
 
 
-def complete_meta_info(app_name, meta_info, git_url):
-    meta_info.setdefault('state', 'registered')
-    meta_info.setdefault('title', app_name)
+def complete_metadata(app_name, metadata, git_url):
+    metadata.setdefault('state', 'registered')
+    metadata.setdefault('title', app_name)
     if git_url:
-        meta_info.setdefault('authors', get_git_author(git_url))
-    return meta_info
-
-
-def get_logo_url(logo_url, meta_url):
-    logo_url_parsed = urlparse(logo_url)
-    if logo_url_parsed.netloc:
-        return logo_url  # logo url is already fully qualified
-
-    elif meta_url:
-        # Otherwise, assume that path is relative to the metadata file's
-        # parent directory:
-        meta_url_parsed = urlparse(meta_url)
-        path = Path(meta_url_parsed.path).parent.joinpath(logo_url_parsed.path)
-        return urlunparse(meta_url_parsed._replace(path=str(path)))
-
-    raise exc.MissingLogo(f"The logo path must be a fully qualified url if no metadata_url is provided: {logo_url!r}")
+        metadata.setdefault('authors', get_git_author(git_url))
+    return metadata
 
 
 def check_logo_url(logo_url):
@@ -120,21 +94,11 @@ def fetch_app_data(app_data, app_name):
     git_url = app_data.get('git_url', '')
     hosted_on = get_hosted_on(git_url) if git_url else None
 
-    # Get metadata.json from the project;
-    # fail build if meta_url is not found or wrong
-    try:
-        try:
-            meta_info = app_data['metadata']
-        except KeyError:
-            meta_info = fetch_meta_info(app_data['meta_url'])
-    except KeyError:
-        raise exc.MissingMetadata(f"Unable to get metadata for {app_name!r}, neither 'metadata' nor 'meta_url' key provided in apps.yaml.")
-
     # Check if categories are specified, warn if not
     if 'categories' not in app_data:
         print("  >> WARNING: No categories specified.")
 
-    app_data['metadata'] = complete_meta_info(app_name, meta_info, git_url)
+    app_data['metadata'] = complete_metadata(app_name, app_data['metadata'], git_url)
     if git_url:
         app_data['gitinfo'] = get_git_branches(git_url)
     if hosted_on:
@@ -142,7 +106,7 @@ def fetch_app_data(app_data, app_name):
 
     # Get logo URL, if it has been specified
     if 'logo' in app_data['metadata']:
-        app_data['logo'] = get_logo_url(app_data['metadata']['logo'], app_data.get('meta_url'))
+        app_data['logo'] = app_data['metadata']['logo']
 
     return app_data
 
