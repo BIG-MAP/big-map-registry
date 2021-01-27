@@ -17,7 +17,7 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 import jsonschema
 import requests
 
-from util import load_yaml
+import yaml
 
 ### BEGIN configuration
 
@@ -175,12 +175,12 @@ def build_pages(apps_meta):
 
 if __name__ == '__main__':
     # Get apps.yaml raw data and validate against schema
-    apps_data = load_yaml(ROOT.joinpath('apps.yaml'))
+    apps_data = yaml.load(ROOT.joinpath('apps.yaml'))
     apps_schema = json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
     jsonschema.validate(instance=apps_data, schema=apps_schema)
 
     # Get categories.json raw data and validate against schema
-    categories_data = load_yaml(ROOT.joinpath('categories.yaml'))
+    categories_data = yaml.load(ROOT.joinpath('categories.yaml'))
     categories_schema = json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
     jsonschema.validate(instance=categories_data, schema=categories_schema)
 

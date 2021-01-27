@@ -35,11 +35,18 @@ def replace_refs(obj):
     return jsonref.JsonRef.replace_refs(obj, loader=json_yaml_loader)
 
 
-def loads_yaml(s):
+def loads(s):
     """Deserialize serialized YAML file 's' to a Python object and dereference all references."""
     return replace_refs(YAML(typ='safe').load(s))
 
 
-def load_yaml(path):
-    """Deserialize YAML file at path to a Python object and derefrence all references."""
-    return loads_yaml(Path(path).read_text())
+def load(path):
+    """Deserialize YAML file at path to a Python object and dereference all references."""
+    return loads(Path(path).read_text())
+
+
+__all__ = [
+    'load',
+    'loads',
+    'replace_refs',
+]

@@ -5,7 +5,7 @@ from functools import partial
 import pytest
 import jsonschema
 
-from util import load_yaml
+import yaml
 
 ROOT = Path(__file__).parent.parent.parent.resolve()
 
@@ -37,12 +37,12 @@ def metadata_schema():
 
 @pytest.fixture
 def apps_yaml():
-    return load_yaml(ROOT.joinpath('apps.yaml'))
+    return yaml.load(ROOT.joinpath('apps.yaml'))
 
 
 @pytest.fixture
 def categories_yaml():
-    return load_yaml(ROOT.joinpath('categories.yaml'))
+    return yaml.load(ROOT.joinpath('categories.yaml'))
 
 
 @pytest.fixture
