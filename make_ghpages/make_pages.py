@@ -18,7 +18,6 @@ import jsonschema
 import requests
 
 from util import load_yaml
-from util import REQUESTS
 
 ### BEGIN configuration
 
@@ -41,11 +40,6 @@ def get_html_app_fname(app_name):
 
 
 def get_hosted_on(url):
-    try:
-        REQUESTS.get(url, timeout=TIMEOUT_SECONDS).raise_for_status()
-    except requests.RequestException:
-        raise exc.MissingGit(f"Value for 'git_url' in apps.yaml may be wrong: {url!r}")
-
     netloc = urlparse(url).netloc
 
     # Remove port (if any)
