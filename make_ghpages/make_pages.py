@@ -176,7 +176,7 @@ if __name__ == '__main__':
     apps_schema = json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
     jsonschema.validate(instance=apps_data, schema=apps_schema)
 
-    # Get categories.json raw data and validate against schema
+    # Get categories.yaml raw data and validate against schema
     categories_data = yaml.load(ROOT.joinpath('categories.yaml'))
     categories_schema = json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
     jsonschema.validate(instance=categories_data, schema=categories_schema)

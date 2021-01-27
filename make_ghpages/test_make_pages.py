@@ -45,8 +45,8 @@ def app_logo(requests_mock, app_logo_url, app_logo_img):
 
 
 @pytest.fixture
-def app_metadata_json(requests_mock, app_logo):
-    """Create metadata.json content for a test app."""
+def app_metadata(requests_mock, app_logo):
+    """Create metadata content for a test app."""
     return {
         "description": "A test app that does not really exist.",
         "title": "Test App",
@@ -58,22 +58,22 @@ def app_metadata_json(requests_mock, app_logo):
 
 
 @pytest.fixture
-def apps_json(requests_mock, app_git_url, app_metadata_json):
-    """Create apps.json content with one test app entry."""
-    apps_json = {
+def apps_yaml(requests_mock, app_git_url, app_metadata):
+    """Create apps.yaml content with one test app entry."""
+    apps_yaml = {
         "test": {
             "git_url": app_git_url,
-            "metadata": app_metadata_json,
+            "metadata": app_metadata,
             "categories": ["utilities"]
         }
     }
     requests_mock.get(app_git_url)
-    yield apps_json
+    yield apps_yaml
 
 
 @pytest.fixture
-def categories_json():
-    """Create categories.json contect for testing."""
+def categories_yaml():
+    """Create categories.yaml content."""
     return {
         "utilities": {
            "title": "Utilities",
@@ -83,22 +83,22 @@ def categories_json():
 
 
 @pytest.mark.usefixtures('mock_schema_endpoints')
-def test_generate_apps_meta(apps_json, categories_json):
-    apps_meta = make_pages.generate_apps_meta(apps_json, categories_json)
+def test_generate_apps_meta(apps_yaml, categories_yaml):
+    apps_meta = make_pages.generate_apps_meta(apps_yaml, categories_yaml)
     # Very basic validation here, the apps_meta.json file is already validated via the schema:
     assert 'apps' in apps_meta
     assert 'categories' in apps_meta
 
     # Check that the test app metadata is present.
     assert 'test' in apps_meta['apps']
-    assert apps_meta['apps']['test']['git_url'] == apps_json['test']['git_url']
+    assert apps_meta['apps']['test']['git_url'] == apps_yaml['test']['git_url']
     assert all(cat in apps_meta['categories'] for cat in apps_meta['apps']['test']['categories'])
 
 
 @pytest.mark.usefixtures('mock_schema_endpoints')
-def test_get_logo_url(apps_json, categories_json, app_logo_url):
+def test_get_logo_url(apps_yaml, categories_yaml, app_logo_url):
     """Test whether the logo url is correctly resolved."""
-    apps_meta = make_pages.generate_apps_meta(apps_json, categories_json)
+    apps_meta = make_pages.generate_apps_meta(apps_yaml, categories_yaml)
     assert apps_meta['apps']['test']['logo'] == app_logo_url
     r = requests.get(app_logo_url)
     assert r.status_code == 200
