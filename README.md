@@ -14,7 +14,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
 *Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before or after adding your app.*
 
-1. Create a pull request to this repository that changes the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml). Example:
+1. Create a pull request to this repository that changes the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml?message=Add%20app%20%3Capp-name%3E). Example:
 
     ```yaml
     my-big-map-app:
