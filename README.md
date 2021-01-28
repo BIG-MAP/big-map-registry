@@ -65,7 +65,7 @@ my-big-map-app:
 | Key | Requirement | Description |
 |:---:|:---:|:---|
 | `metadata` | **Mandatory** | General description of the app (see below). |
-| `categories` | Optional | If provided, must be one of the valid categories specified in `categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
+| `categories` | Optional | If provided, must be one of the valid categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
 | `git_url` | Optional | Link to the source code git repository. |
 
 
