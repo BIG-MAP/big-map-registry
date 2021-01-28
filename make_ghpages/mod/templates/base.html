@@ -26,7 +26,8 @@
     {% block header %} 
     <header id='entrytitle' style="background-color: #000; margin: 0; padding: 5px 20px 25px 20px;">
         <h1>
-            <a href="{{ big_map_url }}">BIG-MAP</a> application registry
+               <img src="{% block logoimagesrc %}static/img/big-map-white-transparent.png{% endblock logoimagesrc %}" width="70px" style="width: 70px; vertical-align: middle;">&nbsp;&nbsp;
+               <a href="{{ big_map_url }}">BIG-MAP</a> application registry
         </h1>
         <p style="font-size: 90%;"><a href="http://github.com/big-map/big-map-registry" style="color: #999;">[View on GitHub/register your app]</a> </p>
       </header>
@@ -38,9 +39,16 @@
     {% block footer %}
     <footer class="footer">
     <hr>
-    This page is part of the <a href="{{ app_registry_url }}">BIG-MAP registry</a>, the official registry of <a href="{{ big_map_url }}">BIG-MAP</a> applications.
-    <br>
-    The BG-MAP project has received funding from the European Union’s <a href="https://ec.europa.eu/programmes/horizon2020/en" target="_blank">Horizon 2020 research and innovation programme</a> under grant agreement <a href="https://cordis.europa.eu/project/id/957189" target="_blank">No 957189</a>.
+    <div class="side-by-side">
+      <div>
+        <img src="{% block eulogoimagesrc %}static/img/eu-logo.png{% endblock %}" style="width: 60px; vertical-align: middle;" width="60px">
+      </div>
+    <div style="width: 80%;">
+      This page is part of the <a href="{{ app_registry_url }}">BIG-MAP registry</a>, the official registry of <a href="{{ big_map_url }}">BIG-MAP</a> applications.
+      <br>
+      The BIG-MAP project has received funding from the European Union’s <a href="https://ec.europa.eu/programmes/horizon2020/en" target="_blank">Horizon 2020 research and innovation programme</a> under grant agreement <a href="https://cordis.europa.eu/project/id/957189" target="_blank">No 957189</a>.
+      </div>
+    </div>
     {% block footer_images %}
     {% endblock footer_images %}
     </footer>    
