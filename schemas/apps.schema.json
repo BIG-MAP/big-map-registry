@@ -12,7 +12,7 @@
             "patternProperties": {
                 ".*": {"$ref": "#/definitions/App"}
             },
-            "title": "Schema for the AiiDAlab apps registry."
+            "title": "Schema for the BIG-MAP apps registry."
         },
         "App": {
             "type": "object",
@@ -41,7 +41,7 @@
             "required": [
                 "metadata"
             ],
-            "title": "AiiDAlab App"
+            "title": "BIG-MAP apps registry app entry"
         }
     }
 }
