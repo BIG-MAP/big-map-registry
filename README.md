@@ -1,6 +1,6 @@
 # BIG-MAP Application Registry
 
-This repository contains the **source code** of the official App registry for the [BIG-MAP project](https://www.big-map.eu).
+This repository contains the **source code** of the official app registry for the [BIG-MAP project](https://www.big-map.eu).
 
 <p align="center">
  <a href="http://big-map.github.io/big-map-registry" rel="Go to BIG-MAP app registry">
@@ -14,7 +14,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
 *Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before or after adding your app.*
 
-1. Create a pull request to this repository that changes the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml?message=Add%20app%20%3Capp-name%3E). Example:
+1. Create a pull request to this repository that adds a new entry to the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml?message=Add%20app%20%3Capp-name%3E). Example:
 
     ```yaml
     my-big-map-app:
@@ -60,13 +60,13 @@ my-big-map-app:
 
 *The app store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
 
-### Valid keys for your app in `apps.json`
+### Valid keys for app entries in `apps.yaml`
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
 | `metadata` | **Mandatory** | General description of the app (see below). |
 | `categories` | Optional | If provided, must be one of the valid categories specified in `categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
-| `git_url` | Optional | Link to the source code repository. |
+| `git_url` | Optional | Link to the source code git repository. |
 
 
 ### Valid keys for app metadata:
