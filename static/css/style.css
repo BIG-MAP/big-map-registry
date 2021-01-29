@@ -406,3 +406,8 @@ span.badge-right {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+
+.side-by-side div
+{   
+    float: left; padding: 7px;
+}
