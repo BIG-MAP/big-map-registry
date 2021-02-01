@@ -19,6 +19,7 @@
       "gitinfo": {
         "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
         "refs/heads/develop": "0143ad14e7f08d07a3ca9cd768e2cd789a21259c",
+        "refs/heads/feature/process-tree": "596cbe619fd356d5ba32cc3c39cd1e2e6411051c",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/master": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
