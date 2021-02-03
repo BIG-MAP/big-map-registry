@@ -76,7 +76,7 @@ my-big-map-app:
 | `title` | **Mandatory** | The title will be displayed in the list of apps in the application manager. |
 | `description` | **Mandatory** | The description will be displayed on the detail page of your app. |
 | `authors` | Optional | Comma-separated list of authors. |
-| `logo` | Optional | Absolute path to a logo (png or jpg) within your repository. |
+| `logo` | Optional | Url to a logo file (png or jpg). |
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
 | `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
 | `external_url` | Optional | General homepage for your app. |
