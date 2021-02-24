@@ -1,6 +1,6 @@
 dft-vasp:
   metadata:
-    title: DFT_VASP
+    title: DFT-VASP
     description: |
         This The DFT_VASP WaNo implements a wide range of methods available within the VASP code.
     authors: Celso R. C. Rêgo
