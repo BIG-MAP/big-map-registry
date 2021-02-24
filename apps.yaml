@@ -3,7 +3,7 @@ my-big-map-app:
     title: DFT_VASP
     description: |
         This The DFT_VASP WaNo implements a wide range of methods available within the VASP code.
-    author: Celso R. C. Rêgo
+    authors: Celso R. C. Rêgo
     external_url:
     documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
     logo: https://github.com/KIT-WaNos/DFT_VASP/blob/main/DFT_VASP/DFT_VASP.png
