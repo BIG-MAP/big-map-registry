@@ -1,32 +1,13 @@
-aiidalab-qe:
-  categories:
-  - technology-aiida
-  - technology-aiidalab
-  - quantum
-  git_url: https://github.com/aiidalab/aiidalab-qe.git
+my-big-map-app:
   metadata:
-    authors:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+    title: DFT_VASP
     description: |
-      Compute band structures and other structure properties with Quantum ESPRESSO
-      on the AiiDAlab platform.
-    logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-    state:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
-    title: Quantum ESPRESSO AiiDAlab app
-    external_url: https://www.materialscloud.org/work/aiidalab
-    version:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
-optimade-web:
-  categories:
-  - technology-materials-cloud
-  - utilities
-  metadata:
-    authors: Casper Welzel Andersen
-    description: |
-      Graphical client hosted on Materials Cloud to search databases that
-      implement the OPTIMADE API (https://www.optimade.org/).
-    external_url: https://www.materialscloud.org/work/tools/optimadeclient
-    logo: https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png
+        This The DFT_VASP WaNo implements a wide range of methods available within the VASP code.
+    author: Celso R. C. Rêgo
+    external_url:
+    documentation_url: https://github.com/KIT-WaNos/DFT_VASP
+    logo: https://github.com/KIT-WaNos/DFT_VASP
     state: development
-    title: OPTIMADE Web Client
+    version: '1.0'
+  categories:
+     - quantum
