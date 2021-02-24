@@ -37,7 +37,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
     **Note**: Only the metadata fields `title` and `description` are mandatory.
 
-2. Your app will show up in the [BIG-MAP App Store](big-map.github.io/big-map-registry") once your pull request is approved and merged.
+2. Your app will show up in the [BIG-MAP App Store](http://big-map.github.io/big-map-registry) once your pull request is approved and merged.
 
 **Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
 That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
