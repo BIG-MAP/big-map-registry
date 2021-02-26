@@ -70,6 +70,25 @@
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
     },
+    "dft-vasp": {
+      "metadata": {
+        "title": "DFT-VASP",
+        "description": "This The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
+        "authors": "Celso R. C. Rêgo",
+        "external_url": "https://www.simtack.de",
+        "documentation_url": "https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md",
+        "logo": "https://github.com/KIT-WaNos/DFT_VASP/blob/main/DFT_VASP/DFT_VASP.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "quantum",
+        "technology-simstack"
+      ],
+      "logo": "https://github.com/KIT-WaNos/DFT_VASP/blob/main/DFT_VASP/DFT_VASP.png",
+      "name": "dft-vasp",
+      "subpage": "apps/dft-vasp.html"
+    },
     "optimade-web": {
       "categories": [
         "technology-materials-cloud",
