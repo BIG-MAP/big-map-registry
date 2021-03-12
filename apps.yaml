@@ -48,7 +48,7 @@ format-converter:
   metadata:
     title: Format-Converter
     description: |
-        This WaNo uses ASE technology to convert a geometry file from x to y format.
+        This WaNo uses `ASE` technology to convert a geometry file from `x` to `y` format.
     authors: Celso R. C. Rêgo
     external_url: 
     documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
