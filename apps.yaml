@@ -50,7 +50,7 @@ format-converter:
     description: |
         This app uses ASE technology to convert a geometry file from x to y format.
     authors: Celso R. C. Rêgo
-    external_url: 
+    external_url: https://www.simtack.de
     documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
     logo: https://github.com/KIT-Workflows/Format-Converter/blob/master/Files-Format.png
     state: development
