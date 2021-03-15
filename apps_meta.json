@@ -82,10 +82,29 @@
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
     },
+    "dft-surface": {
+      "metadata": {
+        "title": "DFT-Surface",
+        "description": "This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.\n",
+        "authors": "Celso R. C. Rêgo",
+        "external_url": "https://www.simtack.de",
+        "documentation_url": "https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md",
+        "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "quantum",
+        "technology-simstack"
+      ],
+      "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png",
+      "name": "dft-surface",
+      "subpage": "apps/dft-surface.html"
+    },
     "dft-vasp": {
       "metadata": {
         "title": "DFT-VASP",
-        "description": "This The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
+        "description": "The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
         "authors": "Celso R. C. Rêgo",
         "external_url": "https://www.simtack.de",
         "documentation_url": "https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md",
@@ -113,7 +132,8 @@
         "version": "1.0"
       },
       "categories": [
-        "technology-ase"
+        "technology-ase",
+        "technology-simstack"
       ],
       "logo": "https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png",
       "name": "format-converter",
