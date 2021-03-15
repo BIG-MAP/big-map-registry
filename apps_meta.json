@@ -101,6 +101,24 @@
       "name": "dft-vasp",
       "subpage": "apps/dft-vasp.html"
     },
+    "format-converter": {
+      "metadata": {
+        "title": "Format-Converter",
+        "description": "This app uses ASE technology to convert a geometry file from x to y format.\n",
+        "authors": "Celso R. C. Rêgo",
+        "external_url": "https://www.simtack.de",
+        "documentation_url": "https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md",
+        "logo": "https://github.com/KIT-Workflows/Format-Converter/blob/master/Files-Format.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "technology-ase"
+      ],
+      "logo": "https://github.com/KIT-Workflows/Format-Converter/blob/master/Files-Format.png",
+      "name": "format-converter",
+      "subpage": "apps/format-converter.html"
+    },
     "optimade-web": {
       "categories": [
         "technology-materials-cloud",
