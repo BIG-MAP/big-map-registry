@@ -78,7 +78,7 @@ format-converter:
     authors: Celso R. C. Rêgo
     external_url: https://www.simtack.de
     documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
-    logo: https://github.com/KIT-Workflows/DFT-Surface/blob/main/Surface/Surface.png
+    logo: https://raw.github.com/KIT-Workflows/DFT-Surface/blob/main/Surface/Surface.png
     state: development
     version: '1.0'
   categories:
