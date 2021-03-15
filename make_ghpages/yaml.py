@@ -13,10 +13,10 @@ REQUESTS = cachecontrol.CacheControl(requests.Session())
 
 class JsonYamlLoader(jsonref.JsonLoader):
 
-    safe_yaml = YAML(typ='safe')
+    safe_yaml = YAML(typ="safe")
 
     def __call__(self, uri, **kwargs):
-        if Path(urlsplit(uri).path).suffix in ('.yml', '.yaml'):
+        if Path(urlsplit(uri).path).suffix in (".yml", ".yaml"):
             response = REQUESTS.get(uri)
             response.raise_for_status()
             return self.safe_yaml.load(response.content)
@@ -37,7 +37,7 @@ def replace_refs(obj):
 
 def loads(s):
     """Deserialize serialized YAML file 's' to a Python object and dereference all references."""
-    return replace_refs(YAML(typ='safe').load(s))
+    return replace_refs(YAML(typ="safe").load(s))
 
 
 def load(path):
@@ -46,7 +46,7 @@ def load(path):
 
 
 __all__ = [
-    'load',
-    'loads',
-    'replace_refs',
+    "load",
+    "loads",
+    "replace_refs",
 ]
