@@ -58,20 +58,6 @@ format-converter:
   categories:
      - technology-ase
      - technology-simstack
-format-converter:
-  metadata:
-    title: Format-Converter
-    description: |
-        This app uses ASE technology to convert a geometry file from x to y format.
-    authors: Celso R. C. Rêgo
-    external_url: https://www.simtack.de
-    documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
-    state: development
-    version: '1.0'
-  categories:
-     - technology-simstack
-     - technology-ase
   dft-surface:
   metadata:
     title: DFT-Surface
