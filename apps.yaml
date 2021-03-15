@@ -70,9 +70,9 @@ format-converter:
     state: development
     version: '1.0'
   categories:
-  format-converter:
+  dft-surface:
   metadata:
-    title: Format-Converter
+    title: DFT-Surface
     description: |
         This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
     authors: Celso R. C. Rêgo
