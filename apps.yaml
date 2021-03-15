@@ -57,3 +57,32 @@ format-converter:
     version: '1.0'
   categories:
      - technology-ase
+     - technology-simstack
+
+format-converter:
+  metadata:
+    title: Format-Converter
+    description: |
+        This app uses ASE technology to convert a geometry file from x to y format.
+    authors: Celso R. C. Rêgo
+    external_url: https://www.simtack.de
+    documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
+    logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
+    state: development
+    version: '1.0'
+  categories:
+  format-converter:
+  metadata:
+    title: Format-Converter
+    description: |
+        This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
+    authors: Celso R. C. Rêgo
+    external_url: https://www.simtack.de
+    documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
+    logo:  https://raw.github.com/KIT-Workflows/DFT-Surface/blob/main/Surface/Surface.png
+    state: development
+    version: '1.0'
+  categories:
+     - quantum
+     - technology-simstack
+
