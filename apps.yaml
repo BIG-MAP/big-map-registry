@@ -58,7 +58,6 @@ format-converter:
   categories:
      - technology-ase
      - technology-simstack
-
 format-converter:
   metadata:
     title: Format-Converter
@@ -85,4 +84,3 @@ format-converter:
   categories:
      - quantum
      - technology-simstack
-
