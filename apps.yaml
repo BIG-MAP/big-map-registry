@@ -27,7 +27,7 @@ optimade-web:
       Graphical client hosted on Materials Cloud to search databases that
       implement the OPTIMADE API (https://www.optimade.org/).
     external_url: https://www.materialscloud.org/work/tools/optimadeclient
-    logo: https://www.materialscloud.org/mcloud/api/v2/work/tools/logos/optimade.png
+    logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
     state: development
     title: OPTIMADE Web Client
 dft-vasp:
@@ -38,7 +38,7 @@ dft-vasp:
     authors: Celso R. C. Rêgo
     external_url: https://www.simtack.de
     documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/DFT_VASP/main/DFT_VASP/DFT_VASP.png
+    logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
     state: development
     version: '1.0'
   categories:
@@ -52,7 +52,7 @@ format-converter:
     authors: Celso R. C. Rêgo
     external_url: https://www.simtack.de
     documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
-    logo: https://github.com/KIT-Workflows/Format-Converter/blob/master/Files-Format.png
+    logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
     state: development
     version: '1.0'
   categories:
