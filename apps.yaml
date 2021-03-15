@@ -38,7 +38,7 @@ dft-vasp:
     authors: Celso R. C. Rêgo
     external_url: https://www.simtack.de
     documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/DFT_VASP/main/DFT_VASP/DFT_VASP.png
+    logo: https://github.com/KIT-Workflows/DFT-VASP/blob/main/DFT-VASP.png
     state: development
     version: '1.0'
   categories:
