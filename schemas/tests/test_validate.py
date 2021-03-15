@@ -17,32 +17,32 @@ def validate():
 
 @pytest.fixture
 def apps_schema():
-    return json.loads(ROOT.joinpath('schemas/apps.schema.json').read_text())
+    return json.loads(ROOT.joinpath("schemas/apps.schema.json").read_text())
 
 
 @pytest.fixture
 def apps_meta_schema():
-    return json.loads(ROOT.joinpath('schemas/apps_meta.schema.json').read_text())
+    return json.loads(ROOT.joinpath("schemas/apps_meta.schema.json").read_text())
 
 
 @pytest.fixture
 def categories_schema():
-    return json.loads(ROOT.joinpath('schemas/categories.schema.json').read_text())
+    return json.loads(ROOT.joinpath("schemas/categories.schema.json").read_text())
 
 
 @pytest.fixture
 def metadata_schema():
-    return json.loads(ROOT.joinpath('schemas/metadata.schema.json').read_text())
+    return json.loads(ROOT.joinpath("schemas/metadata.schema.json").read_text())
 
 
 @pytest.fixture
 def apps_yaml():
-    return yaml.load(ROOT.joinpath('apps.yaml'))
+    return yaml.load(ROOT.joinpath("apps.yaml"))
 
 
 @pytest.fixture
 def categories_yaml():
-    return yaml.load(ROOT.joinpath('categories.yaml'))
+    return yaml.load(ROOT.joinpath("categories.yaml"))
 
 
 @pytest.fixture
@@ -72,7 +72,7 @@ def test_validate_apps_yaml_schema(validate, apps_schema, apps_yaml, valid_categ
 
 def test_validate_apps_yaml_categories(apps_yaml, valid_categories):
     for app in apps_yaml.values():
-        for category in app.get('categories', []):
+        for category in app.get("categories", []):
             assert category in valid_categories
 
 
