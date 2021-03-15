@@ -70,6 +70,8 @@ format-converter:
     state: development
     version: '1.0'
   categories:
+     - technology-simstack
+     - technology-ase
   dft-surface:
   metadata:
     title: DFT-Surface
