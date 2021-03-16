@@ -1,4 +1,6 @@
+import json
 import string
+from pathlib import Path
 from urllib.parse import urlparse
 
 from dulwich.client import get_transport_and_path_from_url
@@ -36,3 +38,7 @@ def get_git_branches(git_url):
 
 def get_git_author(git_url):
     return urlparse(git_url).path.split("/")[1]
+
+
+def load_json(path: Path) -> dict:
+    return json.loads(path.read_text())

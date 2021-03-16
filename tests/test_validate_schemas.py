@@ -1,5 +1,4 @@
 from pathlib import Path
-from functools import partial
 
 import pytest
 import jsonschema
@@ -7,11 +6,6 @@ import jsonschema
 from app_registry import yaml
 
 ROOT = Path(__file__).parent.parent.resolve()
-
-
-@pytest.fixture
-def validate():
-    return partial(jsonschema.validate, format_checker=jsonschema.draft7_format_checker)
 
 
 @pytest.fixture

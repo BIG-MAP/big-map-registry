@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$ref": "#/definitions/Welcome",
+    "definitions": {
+        "Welcome": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "data": {
+                    "$ref": "#/definitions/Data"
+                },
+                "schemas": {
+                    "$ref": "#/definitions/Schemas"
+                },
+                "build": {
+                    "$ref": "#/definitions/Build"
+                },
+                "api_version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "api_version",
+                "build",
+                "data",
+                "schemas"
+            ],
+            "title": "Welcome"
+        },
+        "Build": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "html": {
+                    "type": "string"
+                },
+                "schemas": {
+                    "type": "string"
+                },
+                "schema_version": {
+                    "type": "string"
+                },
+                "static_src": {
+                    "type": "string"
+                }
+            },
+            "required": [],
+            "title": "Build"
+        },
+        "Data": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "apps": {
+                    "type": "string"
+                },
+                "categories": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "apps",
+                "categories"
+            ],
+            "title": "Data"
+        },
+        "Schemas": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "apps": {
+                    "type": "string"
+                },
+                "categories": {
+                    "type": "string"
+                },
+                "apps_meta": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "apps",
+                "apps_meta",
+                "categories"
+            ],
+            "title": "Schemas"
+        }
+    }
+}

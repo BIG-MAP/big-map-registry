@@ -48,7 +48,7 @@ def validate_apps_meta(apps_meta, apps_meta_schema):
             assert category in apps_meta["categories"]
 
 
-def generate_apps_meta(data, schema):
+def generate_apps_meta(data, schema=None):
     apps_meta = {
         "apps": OrderedDict(),
         "categories": data.categories,
@@ -61,5 +61,7 @@ def generate_apps_meta(data, schema):
         app_data["subpage"] = os.path.join("apps", util.get_html_app_fname(app_name))
         apps_meta["apps"][app_name] = app_data
 
-    validate_apps_meta(apps_meta, schema)
+    if schema:
+        validate_apps_meta(apps_meta, schema)
+
     return apps_meta
