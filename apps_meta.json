@@ -87,7 +87,7 @@
         "title": "DFT-Surface",
         "description": "This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.\n",
         "authors": "Celso R. C. Rêgo",
-        "external_url": "https://www.simtack.de",
+        "external_url": "https://www.simstack.de",
         "documentation_url": "https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png",
         "state": "development",
@@ -106,7 +106,7 @@
         "title": "DFT-VASP",
         "description": "The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
         "authors": "Celso R. C. Rêgo",
-        "external_url": "https://www.simtack.de",
+        "external_url": "https://www.simstack.de",
         "documentation_url": "https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
         "state": "development",
@@ -125,7 +125,7 @@
         "title": "Format-Converter",
         "description": "This app uses ASE technology to convert a geometry file from x to y format.\n",
         "authors": "Celso R. C. Rêgo",
-        "external_url": "https://www.simtack.de",
+        "external_url": "https://www.simstack.de",
         "documentation_url": "https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png",
         "state": "development",
@@ -183,7 +183,7 @@
       "title": "Materials Cloud"
     },
     "technology-simstack": {
-      "description": "The app utilizes SimStack (https://www.simtack.de).",
+      "description": "The app utilizes SimStack (https://www.simstack.de).",
       "title": "SimStack"
     },
     "utilities": {
