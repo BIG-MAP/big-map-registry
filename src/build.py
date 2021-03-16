@@ -8,7 +8,7 @@ from app_registry import yaml
 from app_registry import AppStoreData
 from app_registry import AppStoreSchemas
 from app_registry import generate_apps_meta
-from app_registry import build_pages
+from app_registry import build_html
 from app_registry import write_schemas
 
 logging.basicConfig(level=logging.INFO)
@@ -42,5 +42,5 @@ app_store_data.validate(app_store_schemas)
 apps_meta = generate_apps_meta(data=app_store_data, schema=app_store_schemas.apps_meta)
 
 # Build the HTML pages (the apps_meta argument is optional)
-build_pages(apps_meta, dest=BUILD_PATH, static_src=STATIC_SRC)
+build_html(apps_meta, dest=BUILD_PATH, static_src=STATIC_SRC)
 write_schemas(app_store_schemas, dest=BUILD_PATH / "schemas" / "v1")

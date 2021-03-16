@@ -107,7 +107,7 @@ def generate_apps_meta(data, schema):
     return apps_meta
 
 
-def build_pages(apps_meta, dest, static_src):
+def build_html(apps_meta, dest, static_src):
     # Create output folder, copy static files
     if dest.exists():
         shutil.rmtree(dest)
@@ -188,5 +188,5 @@ class AppStore:
     def from_directory(cls, root):
         raise NotImplementedError()
 
-    def build_pages(self, out, static, apps_meta=None):
+    def build_html(self, out, static, apps_meta=None):
         raise NotImplementedError()
