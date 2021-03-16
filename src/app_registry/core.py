@@ -4,7 +4,7 @@ import jsonschema
 
 
 @dataclass
-class AppStoreSchemas:
+class AppRegistrySchemas:
 
     apps: dict
     categories: dict
@@ -12,18 +12,18 @@ class AppStoreSchemas:
 
 
 @dataclass
-class AppStoreData:
+class AppRegistryData:
 
     apps: dict
     categories: dict
 
-    def validate(self, schemas: AppStoreSchemas):
+    def validate(self, schemas: AppRegistrySchemas):
         jsonschema.validate(instance=self.apps, schema=schemas.apps)
         jsonschema.validate(instance=self.categories, schema=schemas.categories)
 
 
-class AppStore:
-    def __init__(self, data: AppStoreData, schemas: AppStoreSchemas):
+class AppRegistry:
+    def __init__(self, data: AppRegistryData, schemas: AppRegistrySchemas):
         self.data = data
         self.schemas = schemas
         self.data.validate(self.schemas)
