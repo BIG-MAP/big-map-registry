@@ -81,6 +81,33 @@ my-big-map-app:
 | `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
 | `external_url` | Optional | General homepage for your app. |
 
+## Information for maintainers
+
+To prepare a development environment, please run the following steps:
+```console
+$ pip install -r src/requirements.txt -r tests/requirements.txt
+$ pre-commit install
+```
+
+This will install all requirements needed to run the git pre-commit hooks (linters), build the website locally, and execute the test framework.
+
+To execute tests, run:
+```console
+$ PYTHONPATH=src pytest
+```
+
+Executed tests include unit, integration, and validation tests.
+The validation tests check the validity of all schema files, the data files (e.g. `apps.yaml` and `categories.yaml`, and – if present – the configuration file (`config.yaml`).
+
+To generate the website, simply execute the following script:
+
+```console
+$ python src/build.py
+```
+
+The continuous-integration workflow is implemented with GitHub actions, which runs the pre-commit hooks, unit, integration, and validation tests.
+In addition, all commits on the `main` branch are automatically deployed to GitHub pages.
+
 ## Acknowledgements
 
 This project has received funding from the European Union’s [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement [No 957189](https://cordis.europa.eu/project/id/957189).

@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""Data classes and functions related to the app registry configuration.
+
+An app registry can optionally be managed with a configuration file.
+"""
+
 from pathlib import Path
 from typing import Union
 from dataclasses import dataclass
@@ -14,12 +20,16 @@ API_VERSION = "v1"
 
 @dataclass
 class DataConfig:
+    """Paths to the data files."""
+
     apps: str
     categories: str
 
 
 @dataclass
 class SchemasConfig:
+    """Paths to the schema files."""
+
     apps: str
     categories: str
     apps_meta: str
@@ -27,6 +37,8 @@ class SchemasConfig:
 
 @dataclass
 class BuildConfig:
+    """Configuration fields related to building the registry web site."""
+
     html: str = "./html"
     schemas: str = None
     schema_version: str = "v1"
@@ -39,6 +51,8 @@ class BuildConfig:
 
 @dataclass
 class Config:
+    """The overall app registry configuration."""
+
     data: DataConfig
     schemas: SchemasConfig
     build: BuildConfig = field(default_factory=BuildConfig)
@@ -46,11 +60,13 @@ class Config:
 
     @classmethod
     def from_mapping(cls, config_mapping: Mapping):
+        """Generate the configuration data class from a mapping, e.g., a dict."""
         _check_api_version(config_mapping.get("api_version"))
         return from_dict(data_class=cls, data=config_mapping)
 
     @classmethod
     def from_path(cls, config_path: Union[Path, str]):
+        """Read the configuration data class from a path pointing to a YAML file."""
         config_yaml = yaml.load(config_path)
         return cls.from_mapping(config_yaml)
 
@@ -59,6 +75,7 @@ class Config:
 
 
 def _check_api_version(api_version):
+    """Check whether the api version of the configuration is supported."""
     if api_version is None:
         raise ValueError("No config api_version provided.")
     elif api_version != API_VERSION:

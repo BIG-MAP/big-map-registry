@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+"""Utility functions for the application registry."""
+
 import json
 import string
 from pathlib import Path

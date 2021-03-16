@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+"""Generate the app registry web site."""
+
 import codecs
 import json
 import logging
@@ -25,6 +28,8 @@ logger = logging.getLogger(__name__)
 
 
 def build_html(apps_meta, dest):
+    """Generate the app registry website at the dest path"""
+
     # Create dest directory if needed
     dest.mkdir(parents=True, exist_ok=True)
 
@@ -76,6 +81,27 @@ def write_schemas(schemas, dest):
 
 @singledispatch
 def build_from_config(config: Config):
+    """Build the app registry website (including schema files) from the configuration.
+
+    This function poses an alternative to a more comprehensive build script and allows
+    for the control of the registry web site generation via a configuration file.
+
+    This is an example for such a configuration file:
+
+        api_version: v1
+        data:
+          apps:  apps.yaml
+          categories: categories.yaml
+        schemas:
+          apps: schemas/apps.schema.json
+          categories: schemas/categories.schema.json
+          apps_meta: schemas/apps_meta.schema.json
+        build:
+          html: build/html  # where to build the page (will be overwritten!)
+          static_src: src/static  # static content to be copied
+          schema_version: v1  # a prefix for the schema paths
+    """
+
     # Parse the apps and categories data from the paths given in the configuration.
     data = AppRegistryData(
         apps=yaml.load(Path(config.data.apps)),
