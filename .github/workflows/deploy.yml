@@ -24,16 +24,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r ./make_ghpages/requirements.txt
+        pip install -r ./src/requirements.txt
         pip install -r ./schemas/tests/requirements.txt
     - name: Test with pytest
       run: |
-        pytest
+        PYTHONPATH=src/ pytest -v
 
     - name: Build GH pages
       run: |
-        python "${GITHUB_WORKSPACE}/make_ghpages/make_pages.py"
-        cp -r "${GITHUB_WORKSPACE}/make_ghpages/out" ${{ runner.temp }}/
+        python "${GITHUB_WORKSPACE}/src/build.py"
+        cp -r "${GITHUB_WORKSPACE}/src/build/html" ${{ runner.temp }}/
 
     - uses: actions/checkout@v2
       with:
@@ -44,7 +44,7 @@ jobs:
       continue-on-error: true  # for expected error condition, see below
       run: |
         rm -rfv "${GITHUB_WORKSPACE}/*"
-        cp -r ${{ runner.temp }}/out/* "${GITHUB_WORKSPACE}"/
+        cp -r ${{ runner.temp }}/html/* "${GITHUB_WORKSPACE}"/
         git add -A .
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"

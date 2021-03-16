@@ -5,7 +5,7 @@ from functools import partial
 import pytest
 import jsonschema
 
-import yaml
+from app_registry import yaml
 
 ROOT = Path(__file__).parent.parent.parent.resolve()
 

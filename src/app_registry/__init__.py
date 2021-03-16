@@ -1,32 +1,21 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import codecs
 import json
+import logging
 import os
 import shutil
 import string
 from collections import OrderedDict
 from copy import deepcopy
-from pathlib import Path
+from dataclasses import asdict
+from dataclasses import dataclass
 from urllib.parse import urlparse
 
 from dulwich.client import get_transport_and_path_from_url
 from jinja2 import Environment, PackageLoader, select_autoescape
 import jsonschema
 
-import yaml
 
-# BEGIN configuration
-
-# paths
-ROOT = Path(__file__).parent.parent.resolve()
-STATIC_PATH = ROOT / "make_ghpages" / "static"
-BUILD_PATH = ROOT / "make_ghpages" / "out"
-
-# configuration
-TIMEOUT_SECONDS = 30
-# END configuration
+logger = logging.getLogger(__name__)
 
 
 def get_html_app_fname(app_name):
@@ -78,7 +67,7 @@ def fetch_app_data(app_data, app_name):
 
     # Check if categories are specified, warn if not
     if "categories" not in app_data:
-        print("  >> WARNING: No categories specified.")
+        logger.info("  >> WARNING: No categories specified.")
 
     app_data["metadata"] = complete_metadata(app_name, app_data["metadata"], git_url)
     if git_url:
@@ -93,10 +82,7 @@ def fetch_app_data(app_data, app_name):
     return app_data
 
 
-def validate_apps_meta(apps_meta):
-    apps_meta_schema = json.loads(
-        ROOT.joinpath("schemas/apps_meta.schema.json").read_text()
-    )
+def validate_apps_meta(apps_meta, apps_meta_schema):
     jsonschema.validate(instance=apps_meta, schema=apps_meta_schema)
 
     for app, appdata in apps_meta["apps"].items():
@@ -104,31 +90,28 @@ def validate_apps_meta(apps_meta):
             assert category in apps_meta["categories"]
 
 
-def generate_apps_meta(apps_data, categories_data):
+def generate_apps_meta(data, schema):
     apps_meta = {
         "apps": OrderedDict(),
-        "categories": categories_data,
+        "categories": data.categories,
     }
-    print("Fetching app data...")
-    for app_name in sorted(apps_data.keys()):
-        print(f"  - {app_name}")
-        app_data = fetch_app_data(apps_data[app_name], app_name)
+    logger.info("Fetching app data...")
+    for app_name in sorted(data.apps.keys()):
+        logger.info(f"  - {app_name}")
+        app_data = fetch_app_data(data.apps[app_name], app_name)
         app_data["name"] = app_name
         app_data["subpage"] = os.path.join("apps", get_html_app_fname(app_name))
         apps_meta["apps"][app_name] = app_data
 
-    validate_apps_meta(apps_meta)
+    validate_apps_meta(apps_meta, schema)
     return apps_meta
 
 
-def build_pages(apps_meta):
-    # Validate input data
-    validate_apps_meta(apps_meta)
-
+def build_pages(apps_meta, dest, static_src):
     # Create output folder, copy static files
-    if BUILD_PATH.exists():
-        shutil.rmtree(BUILD_PATH)
-    shutil.copytree(STATIC_PATH, BUILD_PATH / "static")
+    if dest.exists():
+        shutil.rmtree(dest)
+    shutil.copytree(static_src, dest / "static")
 
     # Load template environment
     env = Environment(
@@ -139,56 +122,71 @@ def build_pages(apps_meta):
     main_index_template = env.get_template("main_index.html")
 
     # Make single-entry page based on singlepage.html
-    print("[apps]")
-    BUILD_PATH.joinpath("apps").mkdir()
+    logger.info("[apps]")
+    dest.joinpath("apps").mkdir()
     for app_name, app_data in apps_meta["apps"].items():
         subpage_name = app_data["subpage"]
-        subpage_abspath = BUILD_PATH / subpage_name
+        subpage_abspath = dest / subpage_name
 
         app_html = singlepage_template.render(
             category_map=apps_meta["categories"], **app_data
         )
         with codecs.open(subpage_abspath, "w", "utf-8") as f:
             f.write(app_html)
-        print(f"  - {subpage_name}")
+        logger.info(f"  - {subpage_name}")
 
     # Make index page based on main_index.html
-    print("[main index]")
+    logger.info("[main index]")
     rendered = main_index_template.render(**apps_meta)
-    outfile = BUILD_PATH / "index.html"
+    outfile = dest / "index.html"
     outfile.write_text(rendered, encoding="utf-8")
-    print(f"  - {outfile.relative_to(BUILD_PATH)}")
+    logger.info(f"  - {outfile.relative_to(dest)}")
 
     # Save json data for the app manager
-    outfile = BUILD_PATH / "apps_meta.json"
+    outfile = dest / "apps_meta.json"
     rendered = json.dumps(deepcopy(apps_meta), ensure_ascii=False, indent=2)
     outfile.write_text(rendered, encoding="utf-8")
-    print(f"  - {outfile.relative_to(BUILD_PATH)}")
-
-    # Copy schemas
-    print("[schemas/v1]")
-    schemas_outdir = BUILD_PATH / "schemas" / "v1"
-    schemas_outdir.mkdir(parents=True)
-    for schemafile in ROOT.glob("schemas/*.schema.json"):
-        shutil.copyfile(schemafile, schemas_outdir / schemafile.name)
-        print(f"  - {schemas_outdir.relative_to(BUILD_PATH)}/{schemafile.name}")
+    logger.info(f"  - {outfile.relative_to(dest)}")
 
 
-if __name__ == "__main__":
-    # Get apps.yaml raw data and validate against schema
-    apps_data = yaml.load(ROOT.joinpath("apps.yaml"))
-    apps_schema = json.loads(ROOT.joinpath("schemas/apps.schema.json").read_text())
-    jsonschema.validate(instance=apps_data, schema=apps_schema)
+def write_schemas(schemas, dest):
+    """Serialize and write schemas to path."""
+    logger.info("[schemas]")
+    dest.mkdir(parents=True, exist_ok=True)
+    for name, schema in asdict(schemas).items():
+        schema_path = dest / f"{name}.schema.json"
+        logger.info(f"  - {schema_path.relative_to(dest)}")
+        schema_path.write_text(json.dumps(schema, indent=2))
 
-    # Get categories.yaml raw data and validate against schema
-    categories_data = yaml.load(ROOT.joinpath("categories.yaml"))
-    categories_schema = json.loads(
-        ROOT.joinpath("schemas/categories.schema.json").read_text()
-    )
-    jsonschema.validate(instance=categories_data, schema=categories_schema)
 
-    # Generate the apps_meta data
-    apps_meta = generate_apps_meta(apps_data, categories_data)
+@dataclass
+class AppStoreSchemas:
 
-    # Build the HTML pages
-    build_pages(apps_meta)
+    apps: dict
+    categories: dict
+    apps_meta: dict
+
+
+@dataclass
+class AppStoreData:
+
+    apps: dict
+    categories: dict
+
+    def validate(self, schemas: AppStoreSchemas):
+        jsonschema.validate(instance=self.apps, schema=schemas.apps)
+        jsonschema.validate(instance=self.categories, schema=schemas.categories)
+
+
+class AppStore:
+    def __init__(self, data: AppStoreData, schemas: AppStoreSchemas):
+        self.data = data
+        self.schemas = schemas
+        self.data.validate(self.schemas)
+
+    @classmethod
+    def from_directory(cls, root):
+        raise NotImplementedError()
+
+    def build_pages(self, out, static, apps_meta=None):
+        raise NotImplementedError()

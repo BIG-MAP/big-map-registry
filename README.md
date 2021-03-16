@@ -4,7 +4,7 @@ This repository contains the **source code** of the official app registry for th
 
 <p align="center">
  <a href="http://big-map.github.io/big-map-registry" rel="Go to BIG-MAP app registry">
-  <img src="make_ghpages/static/gotobutton.svg">
+  <img src="src/static/gotobutton.svg">
  </a>
 </p>
 

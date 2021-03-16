@@ -6,7 +6,7 @@ from dataclasses import dataclass
 
 import requests
 
-import make_pages
+import app_registry
 
 
 @pytest.fixture
@@ -83,16 +83,32 @@ def categories_yaml():
     }
 
 
+@pytest.fixture
+def app_store_data(apps_yaml, categories_yaml):
+    """Create app store data content."""
+    return app_registry.AppStoreData(apps=apps_yaml, categories=categories_yaml)
+
+
+@pytest.fixture
+def app_store_schemas(apps_schema, categories_schema):
+    """Create app store schema content."""
+    return app_registry.AppStoreSchemas(apps=apps_schema, categories=categories_schema)
+
+
 @pytest.mark.usefixtures("mock_schema_endpoints")
-def test_generate_apps_meta(apps_yaml, categories_yaml):
-    apps_meta = make_pages.generate_apps_meta(apps_yaml, categories_yaml)
+def test_generate_apps_meta(app_store_data, apps_meta_schema):
+    apps_meta = app_registry.generate_apps_meta(
+        data=app_store_data, schema=apps_meta_schema
+    )
     # Very basic validation here, the apps_meta.json file is already validated via the schema:
     assert "apps" in apps_meta
     assert "categories" in apps_meta
 
     # Check that the test app metadata is present.
     assert "test" in apps_meta["apps"]
-    assert apps_meta["apps"]["test"]["git_url"] == apps_yaml["test"]["git_url"]
+    assert (
+        apps_meta["apps"]["test"]["git_url"] == app_store_data.apps["test"]["git_url"]
+    )
     assert all(
         cat in apps_meta["categories"]
         for cat in apps_meta["apps"]["test"]["categories"]
@@ -100,9 +116,11 @@ def test_generate_apps_meta(apps_yaml, categories_yaml):
 
 
 @pytest.mark.usefixtures("mock_schema_endpoints")
-def test_get_logo_url(apps_yaml, categories_yaml, app_logo_url):
+def test_get_logo_url(app_store_data, app_logo_url, apps_meta_schema):
     """Test whether the logo url is correctly resolved."""
-    apps_meta = make_pages.generate_apps_meta(apps_yaml, categories_yaml)
+    apps_meta = app_registry.generate_apps_meta(
+        data=app_store_data, schema=apps_meta_schema
+    )
     assert apps_meta["apps"]["test"]["logo"] == app_logo_url
     r = requests.get(app_logo_url)
     assert r.status_code == 200
