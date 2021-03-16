@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-ROOT = Path(__file__).parent.parent.parent.resolve()
+ROOT = Path(__file__).parent.parent.resolve()
 
 
 @pytest.fixture

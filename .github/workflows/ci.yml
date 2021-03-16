@@ -23,7 +23,7 @@ jobs:
         python -m pip install \
           pre-commit==2.10.1 \
           -r ./src/requirements.txt \
-          -r ./schemas/tests/requirements.txt
+          -r ./tests/requirements.txt
     - name: Run pre-commit
       run: |
         pre-commit run --all-files || ( git status --short ; git diff ; exit 1 )

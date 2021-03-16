@@ -1,4 +1,3 @@
-import json
 from pathlib import Path
 from functools import partial
 
@@ -7,32 +6,12 @@ import jsonschema
 
 from app_registry import yaml
 
-ROOT = Path(__file__).parent.parent.parent.resolve()
+ROOT = Path(__file__).parent.parent.resolve()
 
 
 @pytest.fixture
 def validate():
     return partial(jsonschema.validate, format_checker=jsonschema.draft7_format_checker)
-
-
-@pytest.fixture
-def apps_schema():
-    return json.loads(ROOT.joinpath("schemas/apps.schema.json").read_text())
-
-
-@pytest.fixture
-def apps_meta_schema():
-    return json.loads(ROOT.joinpath("schemas/apps_meta.schema.json").read_text())
-
-
-@pytest.fixture
-def categories_schema():
-    return json.loads(ROOT.joinpath("schemas/categories.schema.json").read_text())
-
-
-@pytest.fixture
-def metadata_schema():
-    return json.loads(ROOT.joinpath("schemas/metadata.schema.json").read_text())
 
 
 @pytest.fixture
