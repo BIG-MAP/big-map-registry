@@ -9,4 +9,4 @@ schemas:
 build:
   html: src/build/html
   static_src: src/static
-  schema_version: v1
+  schema_prefix: schemas/v1

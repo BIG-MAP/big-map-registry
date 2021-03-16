@@ -41,12 +41,12 @@ class BuildConfig:
 
     html: str = "./html"
     schemas: str = None
-    schema_version: str = "v1"
+    schema_prefix: str = "schemas"
     static_src: str = None
 
     def __post_init__(self):
         if self.schemas is None:
-            self.schemas = str(Path(self.html) / "schemas" / self.schema_version)
+            self.schemas = str(Path(self.html) / self.schema_prefix)
 
 
 @dataclass

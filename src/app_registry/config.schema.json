@@ -37,7 +37,7 @@
                 "schemas": {
                     "type": "string"
                 },
-                "schema_version": {
+                "schema_prefix": {
                     "type": "string"
                 },
                 "static_src": {

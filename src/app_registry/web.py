@@ -99,7 +99,7 @@ def build_from_config(config: Config):
         build:
           html: build/html  # where to build the page (will be overwritten!)
           static_src: src/static  # static content to be copied
-          schema_version: v1  # a prefix for the schema paths
+          schema_prefix: schemas/v1  # a prefix for the schema paths
     """
 
     # Parse the apps and categories data from the paths given in the configuration.
