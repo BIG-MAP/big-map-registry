@@ -4,7 +4,7 @@ This repository contains the **source code** of the official app registry for th
 
 <p align="center">
  <a href="http://big-map.github.io/big-map-registry" rel="Go to BIG-MAP app registry">
-  <img src="make_ghpages/static/gotobutton.svg">
+  <img src="src/static/gotobutton.svg">
  </a>
 </p>
 
@@ -80,6 +80,33 @@ my-big-map-app:
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
 | `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
 | `external_url` | Optional | General homepage for your app. |
+
+## Information for maintainers
+
+To prepare a development environment, please run the following steps:
+```console
+$ pip install -r src/requirements.txt -r tests/requirements.txt
+$ pre-commit install
+```
+
+This will install all requirements needed to run the git pre-commit hooks (linters), build the website locally, and execute the test framework.
+
+To execute tests, run:
+```console
+$ PYTHONPATH=src pytest
+```
+
+Executed tests include unit, integration, and validation tests.
+The validation tests check the validity of all schema files, the data files (e.g. `apps.yaml` and `categories.yaml`, and – if present – the configuration file (`config.yaml`).
+
+To generate the website, simply execute the following script:
+
+```console
+$ python src/build.py
+```
+
+The continuous-integration workflow is implemented with GitHub actions, which runs the pre-commit hooks, unit, integration, and validation tests.
+In addition, all commits on the `main` branch are automatically deployed to GitHub pages.
 
 ## Acknowledgements
 

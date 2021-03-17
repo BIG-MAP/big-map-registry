@@ -22,11 +22,11 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install \
           pre-commit==2.10.1 \
-          -r ./make_ghpages/requirements.txt \
-          -r ./schemas/tests/requirements.txt
+          -r ./src/requirements.txt \
+          -r ./tests/requirements.txt
     - name: Run pre-commit
       run: |
         pre-commit run --all-files || ( git status --short ; git diff ; exit 1 )
     - name: Test with pytest
       run: |
-        pytest
+        PYTHONPATH=src/ pytest -v

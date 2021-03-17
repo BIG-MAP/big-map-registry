@@ -1,9 +1,16 @@
 import json
+from functools import partial
 from pathlib import Path
 
+import jsonschema
 import pytest
 
 ROOT = Path(__file__).parent.parent.resolve()
+
+
+@pytest.fixture
+def validate():
+    return partial(jsonschema.validate, format_checker=jsonschema.draft7_format_checker)
 
 
 @pytest.fixture
