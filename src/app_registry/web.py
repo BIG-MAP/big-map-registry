@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Generate the app registry web site."""
+"""Generate the app registry website."""
 
 import codecs
 import json
@@ -84,7 +84,7 @@ def build_from_config(config: Config):
     """Build the app registry website (including schema files) from the configuration.
 
     This function poses an alternative to a more comprehensive build script and allows
-    for the control of the registry web site generation via a configuration file.
+    for the control of the registry website generation via a configuration file.
 
     This is an example for such a configuration file:
 

@@ -37,7 +37,7 @@ class SchemasConfig:
 
 @dataclass
 class BuildConfig:
-    """Configuration fields related to building the registry web site."""
+    """Configuration fields related to building the registry website."""
 
     html: str = "./html"
     schemas: str = None
