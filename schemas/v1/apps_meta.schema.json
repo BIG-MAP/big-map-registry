@@ -1,103 +1,113 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://big-map.github.io/big-map-registry/schemas/v1/apps_meta.schema.json",
-    "$ref": "#/definitions/Welcome",
-    "definitions": {
-        "Welcome": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "apps": {
-                    "$ref": "#/definitions/Apps"
-                },
-                "categories": {
-                    "$ref": "#/definitions/Categories"
-                }
-            },
-            "required": [
-                "apps",
-                "categories"
-            ],
-            "title": "Welcome"
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://big-map.github.io/big-map-registry/schemas/v1/apps_meta.schema.json",
+  "$ref": "#/definitions/Welcome",
+  "definitions": {
+    "Welcome": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "apps": {
+          "$ref": "#/definitions/Apps"
         },
-        "Apps": {
-            "type": "object",
-            "additionalProperties": false,
-            "patternProperties": {
-              ".*": {"$ref": "#/definitions/App"}
-            },
-            "title": "Apps"
-        },
-        "App": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "git_url": {
-                    "type": "string",
-                    "format": "uri",
-                    "qt-uri-protocols": [
-                        "https"
-                    ],
-                    "qt-uri-extensions": [
-                        ".git"
-                    ]
-                },
-                "categories": {
-                    "type": "array",
-                    "items": {
-                        "type": "string"
-                    }
-                },
-                "name": {
-                  "type": "string"
-                },
-                "metadata": {
-                    "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
-                },
-                "gitinfo": {
-                    "$ref": "#/definitions/AppGitinfo"
-                },
-                "subpage": {
-                    "type": "string"
-                },
-                "hosted_on": {
-                    "type": "string"
-                },
-                "logo": {
-                    "type": "string",
-                    "format": "uri",
-                    "qt-uri-protocols": [
-                        "https"
-                    ]
-                }
-            },
-            "required": [
-                "categories",
-                "metadata"
-            ],
-            "title": "App"
-        },
-        "AppGitinfo": {
-            "type": "object",
-            "additionalProperties": false,
-            "propertyNames": {
-              "pattern": "^(HEAD)|(refs\/(heads|pull|tags))\/.+$"
-            },
-            "patternProperties": {
-              ".*": {"type": "string"}
-            },
-            "title": "AppGitinfo"
-        },
-        "State": {
-          "type": "string",
-          "enum": ["registered", "development", "stable"]
-        },
-        "Categories": {
-            "type": "object",
-            "additionalProperties": false,
-            "patternProperties": {
-              ".*": {"$ref": "https://big-map.github.io/big-map-registry/schemas/v1/categories.schema.json#/definitions/Category"}
-            }
+        "categories": {
+          "$ref": "#/definitions/Categories"
         }
+      },
+      "required": [
+        "apps",
+        "categories"
+      ],
+      "title": "Welcome"
+    },
+    "Apps": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        ".*": {
+          "$ref": "#/definitions/App"
+        }
+      },
+      "title": "Apps"
+    },
+    "App": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "git_url": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ],
+          "qt-uri-extensions": [
+            ".git"
+          ]
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "name": {
+          "type": "string"
+        },
+        "metadata": {
+          "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
+        },
+        "gitinfo": {
+          "$ref": "#/definitions/AppGitinfo"
+        },
+        "subpage": {
+          "type": "string"
+        },
+        "hosted_on": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ]
+        }
+      },
+      "required": [
+        "categories",
+        "metadata"
+      ],
+      "title": "App"
+    },
+    "AppGitinfo": {
+      "type": "object",
+      "additionalProperties": false,
+      "propertyNames": {
+        "pattern": "^(HEAD)|(refs/(heads|pull|tags))/.+$"
+      },
+      "patternProperties": {
+        ".*": {
+          "type": "string"
+        }
+      },
+      "title": "AppGitinfo"
+    },
+    "State": {
+      "type": "string",
+      "enum": [
+        "registered",
+        "development",
+        "stable"
+      ]
+    },
+    "Categories": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        ".*": {
+          "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/categories.schema.json#/definitions/Category"
+        }
+      }
     }
+  }
 }

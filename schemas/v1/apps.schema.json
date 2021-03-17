@@ -1,47 +1,49 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://big-map.github.io/big-map-registry/schemas/v1/apps.schema.json",
-    "$ref": "#/definitions/Welcome",
-    "definitions": {
-        "Welcome": {
-            "type": "object",
-            "propertyNames": {
-              "pattern": "^[A-Za-z][A-Za-z0-9-_]*$"
-            },
-            "additionalProperties": false,
-            "patternProperties": {
-                ".*": {"$ref": "#/definitions/App"}
-            },
-            "title": "Schema for the BIG-MAP apps registry."
-        },
-        "App": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "git_url": {
-                    "type": "string",
-                    "format": "uri",
-                    "qt-uri-protocols": [
-                        "https"
-                    ],
-                    "qt-uri-extensions": [
-                        ".git"
-                    ]
-                },
-                "metadata": {
-                  "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
-                },
-                "categories": {
-                    "type": "array",
-                    "items": {
-                        "type": "string"
-                    }
-                }
-            },
-            "required": [
-                "metadata"
-            ],
-            "title": "BIG-MAP apps registry app entry"
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://big-map.github.io/big-map-registry/schemas/v1/apps.schema.json",
+  "$ref": "#/definitions/Welcome",
+  "definitions": {
+    "Welcome": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Za-z][A-Za-z0-9-_]*$"
+      },
+      "additionalProperties": false,
+      "patternProperties": {
+        ".*": {
+          "$ref": "#/definitions/App"
         }
+      },
+      "title": "Schema for the BIG-MAP apps registry."
+    },
+    "App": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "git_url": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ],
+          "qt-uri-extensions": [
+            ".git"
+          ]
+        },
+        "metadata": {
+          "$ref": "https://big-map.github.io/big-map-registry/schemas/v1/metadata.schema.json#/definitions/Welcome"
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "metadata"
+      ],
+      "title": "BIG-MAP apps registry app entry"
     }
+  }
 }
