@@ -1,8 +1,0 @@
-api_version: 1
-data:
-  apps:  apps.yaml
-  categories: categories.yaml
-schemas:
-  apps: schemas/apps.schema.json
-  categories: schemas/categories.schema.json
-  apps_meta: schemas/apps_meta.schema.json
