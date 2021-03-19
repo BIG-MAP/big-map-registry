@@ -12,6 +12,7 @@ class AppRegistrySchemas:
     apps: dict
     categories: dict
     apps_meta: dict
+    metadata: dict
 
 
 @dataclass
