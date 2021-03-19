@@ -76,12 +76,16 @@
                 },
                 "apps_meta": {
                     "type": "string"
+                },
+                "metadata": {
+                    "type": "string"
                 }
             },
             "required": [
                 "apps",
                 "apps_meta",
-                "categories"
+                "categories",
+                "metadata"
             ],
             "title": "Schemas"
         }

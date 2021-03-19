@@ -33,6 +33,7 @@ class SchemasConfig:
     apps: str
     categories: str
     apps_meta: str
+    metadata: str
 
 
 @dataclass
