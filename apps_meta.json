@@ -21,6 +21,7 @@
         "refs/heads/dependabot/pip/metadata/jinja2-2.11.3": "1d38abd97ddb6a5eb3bd09d025c6aa51737bec18",
         "refs/heads/develop": "bd94cfc9f14f489ee4985bb597d8bc0f65bd904c",
         "refs/heads/feature/process-tree": "ae67f8947cf10af717b146471f1c294b8f45cfa6",
+        "refs/heads/feature/process-tree-builder-inputs-dict": "d2942d5cea22dc9c30e94bf94404feaa657c1108",
         "refs/heads/feature/process-tree-node-view": "717ae818fa2478ef661ce9fb446407f7ff4165a8",
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
         "refs/heads/fix/kpoints-distance-value": "feaed20161af262a0caa7544b69ddcf67f042316",
