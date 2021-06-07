@@ -19,7 +19,7 @@
       "gitinfo": {
         "HEAD": "5006b47be245d45dab75f2d4c4cdd29f159323a3",
         "refs/heads/dependabot/pip/metadata/jinja2-2.11.3": "1d38abd97ddb6a5eb3bd09d025c6aa51737bec18",
-        "refs/heads/develop": "4b30855ed49d94cb02f5aa1bc2edef68124ee3d6",
+        "refs/heads/develop": "6b588cba75ee9337d63245a4b2f3aae87e675b19",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
@@ -73,8 +73,7 @@
         "refs/pull/50/head": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
         "refs/pull/51/head": "fc43304cfcc71db0c71ce29b2e25969d9441cb90",
         "refs/pull/52/head": "afb91f2307d7f0740491c2967fc21673cc656c56",
-        "refs/pull/54/head": "f91e6fb42f60d52bca9b59eecb71215aafd1401a",
-        "refs/pull/54/merge": "9c70264ffabfd0fdd75bc48184d583bd0903e3a5",
+        "refs/pull/54/head": "b8473f3d3f450954db69356501b829b63c7c0d12",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/8/head": "f683d54751770f4995edf7df68662e133a06ad98",
         "refs/pull/9/head": "70d1a5840be88f8f04c61f4cc6c5cf4343d79723",
