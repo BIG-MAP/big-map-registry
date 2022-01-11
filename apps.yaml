@@ -72,3 +72,13 @@ dft-surface:
   categories:
      - quantum
      - technology-simstack
+qm9-schnet-uncertainty:
+  metadata:
+    title: QM9 SchNet Uncertainty
+    description: |
+        A BioLib app for predicting atomization energies of QM9-like molecules with calibrated uncertainty using an ensemble of graph neural network models.
+    authors: Jonas Busk
+    external_url: https://biolib.com/jbusk/qm9-schnet-uncertainty/
+    state: development
+  categories:
+     - technology-ase
