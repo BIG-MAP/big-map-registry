@@ -69,7 +69,7 @@ my-big-map-app:
 | `git_url` | Optional | Link to the source code git repository. |
 
 
-### Valid keys for app metadata:
+### Valid keys for app metadata
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
