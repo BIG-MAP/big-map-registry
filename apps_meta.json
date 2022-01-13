@@ -17,10 +17,9 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "c7cc7e3e766e21c8a75f9a37aea96134f4eb30e8",
+        "HEAD": "c2e92111e4178efbf6f361f0d69bd93f303e0071",
         "refs/heads/ci/test-precommit.ci": "dbc9d7e73e4b5e69a204f706a3298d24f02ba5bc",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
-        "refs/heads/docs/workchain-wheel-development-and-update": "4f5453d935bf9f1e04123c3b13bfdcb732d4e3d2",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
@@ -28,7 +27,7 @@
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "c7cc7e3e766e21c8a75f9a37aea96134f4eb30e8",
+        "refs/heads/master": "c2e92111e4178efbf6f361f0d69bd93f303e0071",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
@@ -69,7 +68,6 @@
         "refs/pull/169/head": "ea48c27fe9ac3973c95f68f21acc5a98ccaea980",
         "refs/pull/17/head": "4770a07fc465625244e3c5828efea2241872c511",
         "refs/pull/170/head": "4f5453d935bf9f1e04123c3b13bfdcb732d4e3d2",
-        "refs/pull/170/merge": "5be4a6a2a51331b93cc86e148c3337dd46343fd9",
         "refs/pull/173/head": "8bb298e48e131bdb3e46ae4b22a8659aec1feaf2",
         "refs/pull/174/head": "1e78406010b0cbcdcae56fc8b6d0f5d3ed3f38bd",
         "refs/pull/174/merge": "0d73cb2f706bd6096c417a06a819b16e898b15aa",
