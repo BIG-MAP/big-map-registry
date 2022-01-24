@@ -83,3 +83,17 @@ qm9-schnet-uncertainty:
     state: development
   categories:
      - technology-ase
+HELAO:
+  metadata:
+    title: HELAO
+    description: |
+        Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.
+    authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein
+    external_url: https://github.com/helgestein/helao-pub
+    documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
+    logo: https://github.com/helgestein/helao-pub/blob/master/helaologo.svg
+    state: beta
+    version: '2.1'
+  categories:
+    - technology-lab
+    - technology-active-learning
