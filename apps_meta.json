@@ -1,5 +1,24 @@
 {
   "apps": {
+    "HELAO": {
+      "metadata": {
+        "title": "HELAO",
+        "description": "Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.\n",
+        "authors": "Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein",
+        "external_url": "https://github.com/helgestein/helao-pub",
+        "documentation_url": "https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf",
+        "logo": "https://github.com/helgestein/helao-pub/blob/master/helaologo.svg",
+        "state": "development",
+        "version": "2.1"
+      },
+      "categories": [
+        "technology-lab",
+        "technology-active-learning"
+      ],
+      "logo": "https://github.com/helgestein/helao-pub/blob/master/helaologo.svg",
+      "name": "HELAO",
+      "subpage": "apps/HELAO.html"
+    },
     "aiidalab-qe": {
       "categories": [
         "technology-aiida",
@@ -82,6 +101,8 @@
         "refs/pull/189/head": "717f1dd624c4058a74820e7ca03e886bcf73f8ef",
         "refs/pull/19/head": "6ae39ebb86e73746a5abaf4999ddb28bcd10fe3e",
         "refs/pull/190/head": "fd17a749c3cd1d42656f2420e1f2ef67fc4aac47",
+        "refs/pull/191/head": "e59e32c8a4e1f930d75a1d070359f8e4b449e253",
+        "refs/pull/191/merge": "c0974859d55d4fdd850fe7658ac31429f3706a88",
         "refs/pull/2/head": "2e0493aceb9931a6c88ba9bc6c925e32954f3d1b",
         "refs/pull/20/head": "56de86b7bfbd99bd7ab6e4ca5efff25150b72761",
         "refs/pull/21/head": "c72d0f001c09eabac69d336e995aab57070fd0ce",
@@ -279,6 +300,14 @@
     "technology-simstack": {
       "description": "The app utilizes SimStack (https://www.simstack.de).",
       "title": "SimStack"
+    },
+    "technology-lab": {
+      "description": "Software that helps in the lab",
+      "title": "Lab Automation"
+    },
+    "technology-active-learning": {
+      "description": "Software that deploys active learning to instrumentation",
+      "title": "Active learning"
     },
     "utilities": {
       "description": "Utility apps for everyday tasks.",
