@@ -20,6 +20,12 @@ technology-materials-cloud:
 technology-simstack:
   description: The app utilizes SimStack (https://www.simstack.de).
   title: SimStack
+technology-lab:
+    description: Software that helps in the lab
+    title: Lab Automation
+technology-active-learning:
+    description: Software that deploys active learning to instrumentation
+    title: Active learning   
 utilities:
   description: Utility apps for everyday tasks.
   title: Utilities
