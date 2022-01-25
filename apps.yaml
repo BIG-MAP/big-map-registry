@@ -92,7 +92,7 @@ HELAO:
     external_url: https://github.com/helgestein/helao-pub
     documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
     logo: https://github.com/helgestein/helao-pub/blob/master/helaologo.svg
-    state: beta
+    state: development
     version: '2.1'
   categories:
     - technology-lab
