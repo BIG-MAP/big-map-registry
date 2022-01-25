@@ -17,7 +17,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "e3412de5750216a89cc45ab4aee8b4d0b064ce4e",
+        "HEAD": "362b96d272b0a07cc61f921c15a393c5c3882de8",
         "refs/heads/ci/test-precommit.ci": "dbc9d7e73e4b5e69a204f706a3298d24f02ba5bc",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -27,7 +27,7 @@
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "e3412de5750216a89cc45ab4aee8b4d0b064ce4e",
+        "refs/heads/master": "362b96d272b0a07cc61f921c15a393c5c3882de8",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
@@ -77,7 +77,8 @@
         "refs/pull/18/head": "0c95ac6c95578ed1706dbe053e09b0ca4c9b5200",
         "refs/pull/181/head": "a7d9f8c0e63baadf3691a86aaf38715fbfd2e656",
         "refs/pull/182/head": "c83d0555ba253d405f31717ce4fac5a29740d1ed",
-        "refs/pull/182/merge": "938e6f62d96c285851885cecdb250299493324f0",
+        "refs/pull/186/head": "4137f0af2016c40b62d2faa6b4ffb995f0c47acc",
+        "refs/pull/187/head": "d011991fb96721d5098a92c08ee106311cf83271",
         "refs/pull/19/head": "6ae39ebb86e73746a5abaf4999ddb28bcd10fe3e",
         "refs/pull/2/head": "2e0493aceb9931a6c88ba9bc6c925e32954f3d1b",
         "refs/pull/20/head": "56de86b7bfbd99bd7ab6e4ca5efff25150b72761",
