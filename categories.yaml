@@ -2,6 +2,8 @@ classical:
   description: Apps for performing calculations based on classical/empirical force
     fields.
   title: Classical
+data-analysis:
+  description: Apps for analyzing calculations or experimental data.
 quantum:
   description: Apps for performing quantum-mechanical calculations.
   title: Quantum

@@ -107,5 +107,5 @@ prisma:
     logo: https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png
     state: development
   categories:
-     - data analysis
+     - data-analysis
      - utilities
