@@ -254,6 +254,23 @@
       "name": "optimade-web",
       "subpage": "apps/optimade-web.html"
     },
+    "prisma": {
+      "metadata": {
+        "title": "PRISMA",
+        "description": "An app for high-throughput analysis of spectra. More details in the app homepage and peer-reviewed article.\n",
+        "authors": "Eibar Flores",
+        "external_url": "https://github.com/BIG-MAP/PRISMA",
+        "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
+        "state": "development"
+      },
+      "categories": [
+        "data-analysis",
+        "utilities"
+      ],
+      "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
+      "name": "prisma",
+      "subpage": "apps/prisma.html"
+    },
     "qm9-schnet-uncertainty": {
       "metadata": {
         "title": "QM9 SchNet Uncertainty",
@@ -275,6 +292,10 @@
     "classical": {
       "description": "Apps for performing calculations based on classical/empirical force fields.",
       "title": "Classical"
+    },
+    "data-analysis": {
+      "description": "Apps for analyzing calculations or experimental data.",
+      "title": "Data Analysis"
     },
     "quantum": {
       "description": "Apps for performing quantum-mechanical calculations.",
