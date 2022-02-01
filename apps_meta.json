@@ -37,6 +37,7 @@
       },
       "gitinfo": {
         "HEAD": "9547416dbbcee00a8266c1fba705f37a8b14ae9e",
+        "refs/heads/ci/automatically-update-workchain-dependency": "cc5bd8f93e4cb2c6d2ad09ee7b4890a1ae8bc260",
         "refs/heads/ci/test-precommit.ci": "dbc9d7e73e4b5e69a204f706a3298d24f02ba5bc",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -105,6 +106,8 @@
         "refs/pull/193/head": "7c24fa3ebad77b35b9ec594db3da0a0349524533",
         "refs/pull/196/head": "f9f7b924c3d109680b5aace7fbc2c9f76af5c6ac",
         "refs/pull/197/head": "9c234d29eac21bde765f2bd61bfa5791cec1b6cc",
+        "refs/pull/199/head": "cc5bd8f93e4cb2c6d2ad09ee7b4890a1ae8bc260",
+        "refs/pull/199/merge": "1f07b01c8aec58634cb01046101efa5da20a0f68",
         "refs/pull/2/head": "2e0493aceb9931a6c88ba9bc6c925e32954f3d1b",
         "refs/pull/20/head": "56de86b7bfbd99bd7ab6e4ca5efff25150b72761",
         "refs/pull/21/head": "c72d0f001c09eabac69d336e995aab57070fd0ce",
