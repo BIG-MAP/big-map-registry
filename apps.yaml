@@ -109,3 +109,19 @@ prisma:
   categories:
      - data-analysis
      - utilities
+clease-gui:
+  metadata:
+    title: CLEASE GUI
+    description: |
+      A notebook-based graphical user interface for the Cluster Expansion code CLEASE.
+      The app is only a GUI, and requires a working version of the CLEASE code.
+      For more information on CLEASE, please refer to the CLEASE documentation (https://clease.readthedocs.io/).
+    authors: Alexander S. Tygesen, Jin Hyun Chang
+    external_url: https://gitlab.com/computationalmaterials/clease-gui
+    documentation_url: https://clease-gui.readthedocs.io
+    logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
+    state: development
+  categories:
+    - data-analysis
+    - utilities
+    - technology-ase
