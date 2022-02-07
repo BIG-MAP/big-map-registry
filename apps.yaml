@@ -119,7 +119,7 @@ clease-gui:
     authors: Alexander S. Tygesen, Jin Hyun Chang
     external_url: https://gitlab.com/computationalmaterials/clease-gui
     documentation_url: https://clease-gui.readthedocs.io
-    logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/docs/source/_static/clease_logo_no_text.svg
+    logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
     state: development
   categories:
     - data-analysis
