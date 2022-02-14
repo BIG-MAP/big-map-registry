@@ -315,6 +315,20 @@
       "logo": "https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png",
       "name": "qm9-schnet-uncertainty",
       "subpage": "apps/qm9-schnet-uncertainty.html"
+    },
+    "rs-at-md": {
+      "metadata": {
+        "title": "rs@md",
+        "description": "Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps. \n",
+        "authors": "Myra Biedermann, Youssef Mabrouk",
+        "external_url": "https://github.com/myrabiedermann/rsmd",
+        "state": "development"
+      },
+      "categories": [
+        "classical"
+      ],
+      "name": "rs-at-md",
+      "subpage": "apps/rs-at-md.html"
     }
   },
   "categories": {
