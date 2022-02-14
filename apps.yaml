@@ -125,7 +125,7 @@ clease-gui:
     - data-analysis
     - utilities
     - technology-ase
-rs@md:
+rs-at-md:
   metadata:
     title: rs@md
     description: |
