@@ -125,3 +125,13 @@ clease-gui:
     - data-analysis
     - utilities
     - technology-ase
+rs-at-md:
+  metadata:
+    title: rs@md
+    description: |
+        Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps. 
+    authors: Myra Biedermann, Youssef Mabrouk
+    external_url: https://github.com/myrabiedermann/rsmd
+    state: development
+  categories:
+     - classical
