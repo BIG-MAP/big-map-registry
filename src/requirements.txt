@@ -27,5 +27,5 @@ ruamel.yaml==0.16.12
 six==1.16.0
 strict-rfc3339==0.7
 toml==0.10.2
-urllib3==1.25.11
+urllib3==1.26.5
 webcolors==1.11.1
