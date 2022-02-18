@@ -91,7 +91,7 @@ HELAO:
     authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein
     external_url: https://github.com/helgestein/helao-pub
     documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
-    logo: https://github.com/helgestein/helao-pub/blob/master/helaologo.svg
+    logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
     state: development
     version: '2.1'
   categories:
