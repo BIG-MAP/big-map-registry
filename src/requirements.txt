@@ -1,5 +1,6 @@
 CacheControl==0.12.6
 Jinja2==2.11.3
+MarkupSafe==2.0.1
 dacite==1.6.0
 dulwich==0.20.15
 jsonref==0.2
