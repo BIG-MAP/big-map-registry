@@ -44,6 +44,7 @@
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
+        "refs/heads/fix/conf-reset": "e61a4e0890e9bb417897df48dfc56c2305ca2090",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
         "refs/heads/master": "77d442c8e5982e2ae47fbf3964da1e05a5acc802",
