@@ -10,11 +10,12 @@
     <h2>Total number of apps: {{ apps | length }}</h2>
 
     <h1>
-        Available apps (alphabetically sorted)
+        Available apps
     </h1>
+    <small><i>Sorted alphabetically by app id.</i></small>
 
     <div id='entrylist'>
-        {% for app_name, app in apps.items() %}
+        {% for app_name, app in apps|dictsort %}
         <div class="submenu-entry">
             <div class="submenu-img">
                 <a href="{{ app.subpage }}">
