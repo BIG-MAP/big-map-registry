@@ -37,6 +37,7 @@
       },
       "gitinfo": {
         "HEAD": "fffca5aadf4e13e517b6899fff36146037871eed",
+        "refs/heads/ci/temprarily-disable-pre-commit": "1630a15765dfa7df64fccf2857c03ef6328e7d12",
         "refs/heads/ci/test-precommit.ci": "dbc9d7e73e4b5e69a204f706a3298d24f02ba5bc",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -131,6 +132,8 @@
         "refs/pull/216/merge": "529bad2838ef5f0703550f3eaf5f5e1d15870d91",
         "refs/pull/218/head": "7b20284e2dc4018e2bc7ecd3930aa33ad255f211",
         "refs/pull/218/merge": "9d24844bf02d0f371ffaf46903ea5897232f7cc8",
+        "refs/pull/219/head": "1630a15765dfa7df64fccf2857c03ef6328e7d12",
+        "refs/pull/219/merge": "33a389b84605ac2a69e8cfc7b86167aa1c4289b5",
         "refs/pull/22/head": "baf23611c16fd185a9745145102e06e1a21e3fc2",
         "refs/pull/23/head": "68b0413b506cb1afe952698084df85dd1a9d0d83",
         "refs/pull/24/head": "021a2aa70a23ee2a2a706675fef9f6004599bbf0",
