@@ -135,3 +135,16 @@ rs-at-md:
     state: development
   categories:
      - classical
+FullProfAPP-beta:
+  metadata:
+    title: FullProfAPP-beta
+    description: |
+        An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf. Any interested
+        user is free to contact us through the following email (fullprofapp@cicenergigune.com) to gain access to the repository containing the beta version of
+        FullProfAPP.
+    authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
+    external_url: https://github.com/oarcelus/FullProfAPP-beta
+    state: development
+  categories:
+     - data-analysis
+     - utilities     
