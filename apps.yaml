@@ -135,9 +135,9 @@ rs-at-md:
     state: development
   categories:
      - classical
-FullProfAPP-beta:
+FullProfAPP:
   metadata:
-    title: FullProfAPP-beta
+    title: FullProfAPP
     description: |
         An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
     authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
