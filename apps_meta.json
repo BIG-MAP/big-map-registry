@@ -343,7 +343,7 @@
         "title": "rs@md",
         "description": "Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps. \n",
         "authors": "Myra Biedermann, Youssef Mabrouk",
-        "external_url": "https://github.com/myrabiedermann/rsmd",
+        "external_url": "https://github.com/YoussefMabrouk/rsmd",
         "state": "development"
       },
       "categories": [
