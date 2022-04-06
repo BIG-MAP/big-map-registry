@@ -141,7 +141,7 @@ battery-electrodes:
         title: Battery-Electrodes
         description: |
             This workflow uses the SimStack framework features to simulate DFT calculations based on the VASP (QE) code to evaluate the mechanical and thermodynamic stability of the potential cathode material.
-        authors: Celso R. C. Rêgo, Wolfgang wenzel
+        authors: Celso R. C. Rêgo, Wolfgang Wenzel
         external_url: https://simstack.readthedocs.io/
         documentation_url: https://github.com/KIT-Workflows/Battery-Electrodes/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/Battery-Electrodes/main/Funnel_Battery.png
