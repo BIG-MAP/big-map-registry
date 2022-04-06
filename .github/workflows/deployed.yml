@@ -1,24 +1,24 @@
+---
 name: deployed
-on:
-  page_build
+on: page_build
 jobs:
-  test-deployed-page:
-    if: github.event.context == 'github/pages' && github.event.state == 'success'
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "gh-pages 📑 built successfully ✅"
+    test-deployed-page:
+        if: github.event.context == 'github/pages' && github.event.state == 'success'
+        runs-on: ubuntu-latest
+        steps:
+            - run: echo "gh-pages 📑 built successfully ✅"
 
-      - name: check that page is reachable
-        run: curl -s https://big-map.github.io/big-map-registry/
+            - name: check that page is reachable
+              run: curl -s https://big-map.github.io/big-map-registry/
 
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '12'
+            - uses: actions/setup-node@v2
+              with:
+                  node-version: '12'
 
-      - name: install broken link checker
-        run: |
-          npm install broken-link-checker -g
+            - name: install broken link checker
+              run: |
+                  npm install broken-link-checker -g
 
-      - name: check for broken links
-        run: |
-          blc https://big-map.github.io/big-map-registry/ -ro
+            - name: check for broken links
+              run: |
+                  blc https://big-map.github.io/big-map-registry/ -ro
