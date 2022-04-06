@@ -1,5 +1,20 @@
 {
   "apps": {
+    "FullProfAPP": {
+      "metadata": {
+        "title": "FullProfAPP",
+        "description": "An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.\n",
+        "authors": "Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho",
+        "external_url": "https://github.com/oarcelus/FullProfAPP-beta",
+        "state": "development"
+      },
+      "categories": [
+        "data-analysis",
+        "utilities"
+      ],
+      "name": "FullProfAPP",
+      "subpage": "apps/FullProfAPP.html"
+    },
     "HELAO": {
       "metadata": {
         "title": "HELAO",
