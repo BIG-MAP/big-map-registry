@@ -1,4 +1,4 @@
-{% extends "base.html" %} 
+{% extends "base.html" %}
 
 {% block css %}
     <link rel="stylesheet" href="../static/css/style.css">
@@ -23,7 +23,7 @@
             <p class="sub-header">
             {% if categories %}
                 {% for category in categories %}
-                    <span class="category">{{ category_map[category]["title"] }}</span> 
+                    <span class="category">{{ category_map[category]["title"] }}</span>
                 {% endfor %}
             {% else %}
                 No categories specified.<br>
@@ -36,7 +36,7 @@
     {% if metadata.git_url %}
     <div>
         <p>
-            <strong>Source code</strong>: <a href="{{ git_url }}" target="_blank">Go to the app source code</a> 
+            <strong>Source code</strong>: <a href="{{ git_url }}" target="_blank">Go to the app source code</a>
         </p>
     </div>
     {% endif %}
