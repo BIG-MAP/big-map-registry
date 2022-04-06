@@ -1,4 +1,4 @@
-{% extends "base.html" %} 
+{% extends "base.html" %}
 
 {% block css %}
     <link rel="stylesheet" href="static/css/style.css">
@@ -30,7 +30,7 @@
                 <h2><a href="{{ app.subpage }}">{{ app.metadata.title }}</a>
                 {% if app.categories %}
                     {% for category in app.categories %}
-                        <span class="category">{{ categories[category]["title"] }}</span> 
+                        <span class="category">{{ categories[category]["title"] }}</span>
                     {% endfor %}
                 {% endif %}
                 </h2>
@@ -55,7 +55,7 @@
                 {% if app.summaryinfo %}
                     <p class="summaryinfo">
                         {% for summaryinfoelem in app.summaryinfo %}
-                        <span class="badge"> 
+                        <span class="badge">
                             <span class="badge-left {{summaryinfoelem.colorclass}}">{{summaryinfoelem.text}}</span>
                             <span class="badge-right">{{summaryinfoelem.count}}</span>
                         </span>
@@ -68,7 +68,7 @@
         {#
             {% if not loop.last %}
             <hr>
-            {% endif %} 
+            {% endif %}
         #}
         {% endfor %}
     </div>
