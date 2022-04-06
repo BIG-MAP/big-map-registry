@@ -135,7 +135,7 @@ rs-at-md:
         external_url: https://github.com/YoussefMabrouk/rsmd
         state: development
     categories:
-        - classical   
+        - classical
 battery-electrodes:
     metadata:
         title: Battery-Electrodes
@@ -152,13 +152,13 @@ battery-electrodes:
         - technology-simstack
         - technology-ase
 FullProfAPP:
-  metadata:
-    title: FullProfAPP
-    description: |
-        An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
-    authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
-    external_url: https://github.com/oarcelus/FullProfAPP-beta
-    state: development
-  categories:
-     - data-analysis
-     - utilities     
+    metadata:
+        title: FullProfAPP
+        description: |
+            An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
+        authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
+        external_url: https://github.com/oarcelus/FullProfAPP-beta
+        state: development
+    categories:
+        - data-analysis
+        - utilities
