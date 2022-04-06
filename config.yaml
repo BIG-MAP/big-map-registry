@@ -1,13 +1,14 @@
+---
 api_version: v1
 data:
-  apps:  apps.yaml
-  categories: categories.yaml
+    apps: apps.yaml
+    categories: categories.yaml
 schemas:
-  apps: schemas/apps.schema.json
-  categories: schemas/categories.schema.json
-  apps_meta: schemas/apps_meta.schema.json
-  metadata: schemas/metadata.schema.json
+    apps: schemas/apps.schema.json
+    categories: schemas/categories.schema.json
+    apps_meta: schemas/apps_meta.schema.json
+    metadata: schemas/metadata.schema.json
 build:
-  html: src/build/html
-  static_src: src/static
-  schema_prefix: schemas/v1
+    html: src/build/html
+    static_src: src/static
+    schema_prefix: schemas/v1

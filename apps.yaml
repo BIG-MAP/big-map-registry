@@ -1,140 +1,156 @@
+---
 aiidalab-qe:
-  categories:
-  - technology-aiida
-  - technology-aiidalab
-  - quantum
-  git_url: https://github.com/aiidalab/aiidalab-qe.git
-  metadata:
-    authors:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
-    description: |
-      Compute band structures and other structure properties with Quantum ESPRESSO
-      on the AiiDAlab platform.
-    logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-    state:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
-    title: Quantum ESPRESSO AiiDAlab app
-    external_url: https://www.materialscloud.org/work/aiidalab
-    version:
-      $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
+    categories:
+        - technology-aiida
+        - technology-aiidalab
+        - quantum
+    git_url: https://github.com/aiidalab/aiidalab-qe.git
+    metadata:
+        authors:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+        description: |
+            Compute band structures and other structure properties with Quantum ESPRESSO
+            on the AiiDAlab platform.
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
+        state:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
+        title: Quantum ESPRESSO AiiDAlab app
+        external_url: https://www.materialscloud.org/work/aiidalab
+        version:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
 optimade-web:
-  categories:
-  - technology-materials-cloud
-  - utilities
-  metadata:
-    authors: Casper Welzel Andersen
-    description: |
-      Graphical client hosted on Materials Cloud to search databases that
-      implement the OPTIMADE API (https://www.optimade.org/).
-    external_url: https://www.materialscloud.org/work/tools/optimadeclient
-    logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
-    state: development
-    title: OPTIMADE Web Client
+    categories:
+        - technology-materials-cloud
+        - utilities
+    metadata:
+        authors: Casper Welzel Andersen
+        description: |
+            Graphical client hosted on Materials Cloud to search databases that
+            implement the OPTIMADE API (https://www.optimade.org/).
+        external_url: https://www.materialscloud.org/work/tools/optimadeclient
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
+        state: development
+        title: OPTIMADE Web Client
 dft-vasp:
-  metadata:
-    title: DFT-VASP
-    description: |
-        The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
-    authors: Celso R. C. Rêgo
-    external_url: https://www.simstack.de
-    documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
-    state: development
-    version: '1.0'
-  categories:
-     - quantum
-     - technology-simstack
+    metadata:
+        title: DFT-VASP
+        description: |
+            The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
+        authors: Celso R. C. Rêgo
+        external_url: https://www.simstack.de
+        documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
+        logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
+        state: development
+        version: '1.0'
+    categories:
+        - quantum
+        - technology-simstack
 format-converter:
-  metadata:
-    title: Format-Converter
-    description: |
-        This app uses ASE technology to convert a geometry file from x to y format.
-    authors: Celso R. C. Rêgo
-    external_url: https://www.simstack.de
-    documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
-    state: development
-    version: '1.0'
-  categories:
-     - technology-ase
-     - technology-simstack
+    metadata:
+        title: Format-Converter
+        description: |
+            This app uses ASE technology to convert a geometry file from x to y format.
+        authors: Celso R. C. Rêgo
+        external_url: https://www.simstack.de
+        documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
+        logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
+        state: development
+        version: '1.0'
+    categories:
+        - technology-ase
+        - technology-simstack
 dft-surface:
-  metadata:
-    title: DFT-Surface
-    description: |
-        This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
-    authors: Celso R. C. Rêgo
-    external_url: https://www.simstack.de
-    documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
-    logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png
-    state: development
-    version: '1.0'
-  categories:
-     - quantum
-     - technology-simstack
+    metadata:
+        title: DFT-Surface
+        description: |
+            This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
+        authors: Celso R. C. Rêgo
+        external_url: https://www.simstack.de
+        documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
+        logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png
+        state: development
+        version: '1.0'
+    categories:
+        - quantum
+        - technology-simstack
 qm9-schnet-uncertainty:
-  metadata:
-    title: QM9 SchNet Uncertainty
-    description: |
-        A BioLib app for predicting atomization energies of QM9-like molecules with calibrated uncertainty using an ensemble of graph neural network models. For details about the method, please see our paper: https://doi.org/10.1088/2632-2153/ac3eb3.
-    authors: Jonas Busk
-    external_url: https://biolib.com/jbusk/qm9-schnet-uncertainty/
-    logo: https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png
-    state: development
-  categories:
-     - technology-ase
+    metadata:
+        title: QM9 SchNet Uncertainty
+        description: |
+            A BioLib app for predicting atomization energies of QM9-like molecules with calibrated uncertainty using an ensemble of graph neural network models. For details about the method, please see our paper: https://doi.org/10.1088/2632-2153/ac3eb3.
+        authors: Jonas Busk
+        external_url: https://biolib.com/jbusk/qm9-schnet-uncertainty/
+        logo: https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png
+        state: development
+    categories:
+        - technology-ase
 HELAO:
-  metadata:
-    title: HELAO
-    description: |
-        Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.
-    authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein
-    external_url: https://github.com/helgestein/helao-pub
-    documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
-    logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
-    state: development
-    version: '2.1'
-  categories:
-    - technology-lab
-    - technology-active-learning
+    metadata:
+        title: HELAO
+        description: |
+            Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.
+        authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein
+        external_url: https://github.com/helgestein/helao-pub
+        documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
+        logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
+        state: development
+        version: '2.1'
+    categories:
+        - technology-lab
+        - technology-active-learning
 prisma:
-  metadata:
-    title: PRISMA
-    description: |
-        An app for high-throughput analysis of spectra. More details in the app homepage and peer-reviewed article.
-    authors: Eibar Flores
-    external_url: https://github.com/BIG-MAP/PRISMA
-    logo: https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png
-    state: development
-  categories:
-     - data-analysis
-     - utilities
+    metadata:
+        title: PRISMA
+        description: |
+            An app for high-throughput analysis of spectra. More details in the app homepage and peer-reviewed article.
+        authors: Eibar Flores
+        external_url: https://github.com/BIG-MAP/PRISMA
+        logo: https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png
+        state: development
+    categories:
+        - data-analysis
+        - utilities
 clease-gui:
-  metadata:
-    title: CLEASE GUI
-    description: |
-      A notebook-based graphical user interface for the Cluster Expansion code CLEASE.
-      The app is only a GUI, and requires a working version of the CLEASE code.
-      For more information on CLEASE, please refer to the CLEASE documentation (https://clease.readthedocs.io/).
-    authors: Alexander S. Tygesen, Jin Hyun Chang
-    external_url: https://gitlab.com/computationalmaterials/clease-gui
-    documentation_url: https://clease-gui.readthedocs.io
-    logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
-    state: development
-  categories:
-    - data-analysis
-    - utilities
-    - technology-ase
+    metadata:
+        title: CLEASE GUI
+        description: |
+            A notebook-based graphical user interface for the Cluster Expansion code CLEASE.
+            The app is only a GUI, and requires a working version of the CLEASE code.
+            For more information on CLEASE, please refer to the CLEASE documentation (https://clease.readthedocs.io/).
+        authors: Alexander S. Tygesen, Jin Hyun Chang
+        external_url: https://gitlab.com/computationalmaterials/clease-gui
+        documentation_url: https://clease-gui.readthedocs.io
+        logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
+        state: development
+    categories:
+        - data-analysis
+        - utilities
+        - technology-ase
 rs-at-md:
-  metadata:
-    title: rs@md
-    description: |
-        Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps. 
-    authors: Myra Biedermann, Youssef Mabrouk
-    external_url: https://github.com/YoussefMabrouk/rsmd
-    state: development
-  categories:
-     - classical
+    metadata:
+        title: rs@md
+        description: |
+            Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps.
+        authors: Myra Biedermann, Youssef Mabrouk
+        external_url: https://github.com/YoussefMabrouk/rsmd
+        state: development
+    categories:
+        - classical   
+battery-electrodes:
+    metadata:
+        title: Battery-Electrodes
+        description: |
+            This workflow uses the SimStack framework features to simulate DFT calculations based on the VASP (QE) code to evaluate the mechanical and thermodynamic stability of the potential cathode material.
+        authors: Celso R. C. Rêgo, Wolfgang Wenzel
+        external_url: https://simstack.readthedocs.io/
+        documentation_url: https://github.com/KIT-Workflows/Battery-Electrodes/blob/main/README.md
+        logo: https://raw.githubusercontent.com/KIT-Workflows/Battery-Electrodes/main/Funnel_Battery.png
+        state: development
+        version: '1.0'
+    categories:
+        - quantum
+        - technology-simstack
+        - technology-ase
 FullProfAPP:
   metadata:
     title: FullProfAPP
