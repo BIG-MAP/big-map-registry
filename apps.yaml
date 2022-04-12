@@ -162,7 +162,7 @@ FullProfAPP:
     categories:
         - data-analysis
         - utilities
-        
+
  aiida-seigrowth:
   metadata:
     title: aiida-seigrowth
