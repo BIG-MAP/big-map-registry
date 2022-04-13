@@ -162,3 +162,16 @@ FullProfAPP:
     categories:
         - data-analysis
         - utilities
+aiida-seigrowth:
+    metadata:
+        title: aiida-seigrowth
+        description: |
+            A plugin to AiiDA for a numerical framework which describes the growth of the Solid Electrolyte Interface across a graphitic anode of a Lithium-ion battery by coupling Pseudo-2Dimensional modeling with Population Balance Modeling.
+        authors: L. Banetta, G. Frungieri, G. Boccardo, A. Buffo, M. Vanni, D.L. Marchisio
+        external_url: https://github.com/lucabanetta/aiida-seigrowth
+        documentation_url: https://github.com/lucabanetta/aiida-seigrowth/blob/main/README.md
+        state: development
+        version: 0.1.0
+    categories:
+        - wp3
+        - technology-aiida
