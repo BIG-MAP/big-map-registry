@@ -171,7 +171,7 @@ aiida-seigrowth:
         external_url: https://github.com/lucabanetta/aiida-seigrowth
         documentation_url: https://github.com/lucabanetta/aiida-seigrowth/blob/main/README.md
         state: development
-        version: '0.1.0'
+        version: 0.1.0
     categories:
         - wp3
         - technology-aiida
