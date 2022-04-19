@@ -175,7 +175,7 @@ aiida-seigrowth:
     categories:
         - wp3
         - technology-aiida
-SEI-Builder::
+'SEI-Builder:':
     metadata:
         title: SEI Builder
         description: |
@@ -185,7 +185,7 @@ SEI-Builder::
         documentation_url: https://sei-builder.readthedocs.io
         logo: https://raw.githubusercontent.com/paolodeangelis/SEI_builder/main/img/logo.png
         state: development
-        version: '0.1.0'
+        version: 0.1.0
     categories:
         - technology-ase
         - classical
