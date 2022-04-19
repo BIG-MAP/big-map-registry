@@ -175,7 +175,7 @@ aiida-seigrowth:
     categories:
         - wp3
         - technology-aiida
-'SEI-Builder:':
+SEI-Builder:
     metadata:
         title: SEI Builder
         description: |
