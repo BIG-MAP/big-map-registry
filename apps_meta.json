@@ -54,6 +54,9 @@
       "gitinfo": {
         "HEAD": "3921b44a63dff837b1e44ad68a4f38d7db0bc9a1",
         "refs/heads/main": "3921b44a63dff837b1e44ad68a4f38d7db0bc9a1",
+        "refs/heads/pre-commit-ci-update-config": "8b02b6a87879291596002e8fdbdd856196556646",
+        "refs/pull/1/head": "8b02b6a87879291596002e8fdbdd856196556646",
+        "refs/pull/1/merge": "5611256f49234db769b7433544e79c9d880c5406",
         "refs/tags/v0.1.0-beta": "bebcafcd954e7242a2e60b5fbde9b8730e623961"
       },
       "hosted_on": "github.com",
