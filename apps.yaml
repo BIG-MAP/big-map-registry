@@ -210,7 +210,7 @@ HierCVAE:
     metadata:
         title: HierCVAE: Hierarchical Conditional Variational Autoencoder
         description: |
-            Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap. 
+            Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
         authors: Raul Ortega
         external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
         logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
