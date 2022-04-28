@@ -206,3 +206,12 @@ SEI-Builder:
         - classical
         - wp3
     git_url: https://github.com/paolodeangelis/SEI_builder
+HierCVAE:
+    metadata:
+        title: HierCVAE
+        description: |
+            Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
+        authors: Raul Ortega
+        external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
+        logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
+        state: development
