@@ -33,9 +33,11 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
         - technology-aiida
         - technology-ase
         - quantum
+        - WP9
     ```
 
-    **Note**: Only the metadata fields `title` and `description` are mandatory. `categories` should contain at least one item.
+    **Note**: Only the metadata fields `title` and `description` are mandatory; the `categories` field must contain at least one item.
+
 
 2. Your app will show up in the [BIG-MAP App Store](https://big-map.github.io/big-map-registry) once your pull request is approved and merged.
 
@@ -51,6 +53,7 @@ my-big-map-app:
     - technology-aiida
     - technology-ase
     - quantum
+    - WP9
 ```
 You can even reference only parts of the metadata, example:
 ```yaml
@@ -63,18 +66,18 @@ my-big-map-app:
     - technology-aiida
     - technology-ase
     - quantum
+    - WP9
 ```
 
 *The app store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
 
 ### Valid keys for app entries in `apps.yaml`
 
-| Key | Requirement | Description                                                                                                                                  |
-|:---:|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Key | Requirement | Description |
+|:---:|:---:|:---|
 | `metadata` | **Mandatory** | General description of the app (see below).                                                                                                  |
-| `categories` | **Mandatory** | Must be one of the valid categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
+| `categories` | **Mandatory** | An array of categories, where each category must be one of the categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
 | `git_url` | Optional | Link to the source code git repository.                                                                                                      |
-
 
 ### Valid keys for app metadata
 
