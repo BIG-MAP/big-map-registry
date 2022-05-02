@@ -33,9 +33,11 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
         - technology-aiida
         - technology-ase
         - quantum
+        - WP9
     ```
 
-    **Note**: Only the metadata fields `title` and `description` are mandatory.
+    **Note**: Only the metadata fields `title` and `description` are mandatory; the `categories` field must contain at least one item.
+
 
 2. Your app will show up in the [BIG-MAP App Store](https://big-map.github.io/big-map-registry) once your pull request is approved and merged.
 
@@ -47,6 +49,11 @@ For example, if you place a `metadata.yaml` file within your app repository, the
 my-big-map-app:
   metadata:
     $ref: https://github.com/my-org/my-big-map-app/raw/main/metadata.yaml
+  categories:
+    - technology-aiida
+    - technology-ase
+    - quantum
+    - WP9
 ```
 You can even reference only parts of the metadata, example:
 ```yaml
@@ -55,7 +62,11 @@ my-big-map-app:
     title: MyBIG-MAP app
     description:
       $ref: https://github.com/my-org/my-big-map-app/raw/main/metadata.yaml#description
-
+  categories:
+    - technology-aiida
+    - technology-ase
+    - quantum
+    - WP9
 ```
 
 *The app store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
@@ -64,10 +75,9 @@ my-big-map-app:
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
-| `metadata` | **Mandatory** | General description of the app (see below). |
-| `categories` | Optional | If provided, must be one of the valid categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
-| `git_url` | Optional | Link to the source code git repository. |
-
+| `metadata` | **Mandatory** | General description of the app (see below).                                                                                                  |
+| `categories` | **Mandatory** | An array of categories, where each category must be one of the categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
+| `git_url` | Optional | Link to the source code git repository.                                                                                                      |
 
 ### Valid keys for app metadata
 
