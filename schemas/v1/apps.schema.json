@@ -41,7 +41,8 @@
         }
       },
       "required": [
-        "metadata"
+        "metadata",
+        "categories"
       ],
       "title": "BIG-MAP apps registry app entry"
     }
