@@ -215,3 +215,8 @@ HierCVAE:
         external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
         logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
         state: development
+    categories:
+        - generative-model
+        - inverse-design
+        - ml-metadata
+        - wp11
