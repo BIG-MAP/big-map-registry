@@ -34,6 +34,25 @@
       "name": "HELAO",
       "subpage": "apps/HELAO.html"
     },
+    "HierCVAE": {
+      "metadata": {
+        "title": "HierCVAE",
+        "description": "Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.\n",
+        "authors": "Raul Ortega",
+        "external_url": "https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/",
+        "logo": "https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png",
+        "state": "development"
+      },
+      "categories": [
+        "generative-model",
+        "inverse-design",
+        "ml-metadata",
+        "wp11"
+      ],
+      "logo": "https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png",
+      "name": "HierCVAE",
+      "subpage": "apps/HierCVAE.html"
+    },
     "SEI-Builder": {
       "metadata": {
         "title": "SEI Builder",
@@ -498,11 +517,23 @@
     },
     "technology-active-learning": {
       "description": "Software that deploys active learning to instrumentation",
-      "title": "Active learning"
+      "title": "Active Learning"
     },
     "utilities": {
       "description": "Utility apps for everyday tasks.",
       "title": "Utilities"
+    },
+    "generative-model": {
+      "description": "Model that can generate new data instances.",
+      "title": "Generative Model"
+    },
+    "inverse-design": {
+      "description": "New materials with the target properties are generated from materials databases using deep-learning.",
+      "title": "Inverse Design"
+    },
+    "ml-metadata": {
+      "description": "ML Metadata is a library for recording and retrieving metadata associated with ML workflows.",
+      "title": "MLMD"
     },
     "wp1": {
       "description": "Project management and education, exploitation and outreach.",
