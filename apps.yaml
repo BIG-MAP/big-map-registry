@@ -3,7 +3,7 @@ diffusion-electrolyte-mixture:
     metadata:
         title: Diffusion_Electrolyte_Mixture
         description: |
-            This workflow uses the SimStack framework features to perform Molecular Dynamics simulation to calculate the diffusion coefficient of the components in binary mixture of electrolytes.    
+            This workflow uses the SimStack framework features to perform Molecular Dynamics simulation to calculate the diffusion coefficient of the components in binary mixture of electrolytes.
         authors: Saientan Bag
         external_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture
         documentation_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/README.md
