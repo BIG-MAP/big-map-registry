@@ -255,8 +255,9 @@ tomato:
         description: |
             tomato: au-tomation without the pain. Instrument automation library. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research.
         authors: Peter Kraus
-        external_url: https://github.com/dgbowl/tomato
+        documentation_url: https://dgbowl.github.com/tomato
         logo: https://dgbowl.github.io/images/tomato.png
         state: development
+    git_url: https://github.com/dgbowl/tomato
     categories:
         - technology-lab
