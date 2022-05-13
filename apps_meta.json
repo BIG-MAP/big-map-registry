@@ -120,6 +120,7 @@
       },
       "gitinfo": {
         "HEAD": "654e92cf4f78abdae2c16f9d43dc57041e1c98b5",
+        "refs/heads/categories/setupcfg/as/list": "66e8838ba056453416593407a4f428a8425906ca",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/enable-structure-editor": "be3ff62ca4b4ab2d7b116164c65020c665711026",
