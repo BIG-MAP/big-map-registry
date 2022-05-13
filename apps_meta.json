@@ -120,7 +120,7 @@
       },
       "gitinfo": {
         "HEAD": "654e92cf4f78abdae2c16f9d43dc57041e1c98b5",
-        "refs/heads/categories/setupcfg/as/list": "66e8838ba056453416593407a4f428a8425906ca",
+        "refs/heads/categories/setupcfg/as/list": "b86cb0d7d85153e48bb5afa0e6f74b291561f075",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/enable-structure-editor": "be3ff62ca4b4ab2d7b116164c65020c665711026",
@@ -219,6 +219,8 @@
         "refs/pull/227/head": "9b7c3889aa43d251b0dea4cbdbb3ca72152706e8",
         "refs/pull/23/head": "68b0413b506cb1afe952698084df85dd1a9d0d83",
         "refs/pull/230/head": "08dd1f7e3a0b992ecd1bb5f7e742d92c9ef60416",
+        "refs/pull/232/head": "b86cb0d7d85153e48bb5afa0e6f74b291561f075",
+        "refs/pull/232/merge": "43052f7d9410939ba993e75de5b5791952ff27de",
         "refs/pull/24/head": "021a2aa70a23ee2a2a706675fef9f6004599bbf0",
         "refs/pull/25/head": "278913a68c11a8e4074ab0dd5b18751ff96a5e3a",
         "refs/pull/27/head": "c23e4c70044901d75ab7b06056ca735a162f4adf",
