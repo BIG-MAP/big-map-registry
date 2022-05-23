@@ -74,3 +74,9 @@ wp8:
 wp9:
     description: Infrastructure and Interoperability
     title: WP9
+stakeholder:
+    description: BIG-MAP Stakeholder Initiative
+    title: Stakeholder
+stakeholder-aurora:
+    description: Autonomous Robotic Battery Innovation Platform
+    title: Aurora
