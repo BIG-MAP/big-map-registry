@@ -501,6 +501,81 @@
       ],
       "name": "rs-at-md",
       "subpage": "apps/rs-at-md.html"
+    },
+    "yadg": {
+      "metadata": {
+        "title": "yadg",
+        "description": "yadg: yet another datagram. FAIR data parser for time-resolved experimental data. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research.\n",
+        "authors": "Peter Kraus, Nicolas Vetsch",
+        "documentation_url": "https://dgbowl.github.io/yadg",
+        "logo": "https://dgbowl.github.io/images/yadg.png",
+        "state": "development",
+        "version": "4.1"
+      },
+      "git_url": "https://github.com/dgbowl/yadg",
+      "categories": [
+        "technology-lab",
+        "stakeholder",
+        "stakeholder-aurora"
+      ],
+      "gitinfo": {
+        "HEAD": "18be39efc9292574d15a075a298f9c3b4021dff6",
+        "refs/heads/gh-pages": "c96caa73d11d379f19f454b412ddbc2ddfae8104",
+        "refs/heads/master": "18be39efc9292574d15a075a298f9c3b4021dff6",
+        "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
+        "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
+        "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
+        "refs/pull/18/head": "44eaf70727afb4d41236bbb4f8c254eae1f6c052",
+        "refs/pull/19/head": "dc1aea51f5235364d81aaff6e069edbec3931b8b",
+        "refs/pull/2/head": "258b8a745be27eb5b4a514fa85a3ab74451549ba",
+        "refs/pull/20/head": "e2e67b8653a30b8fad8710a9b5101c310ae7467f",
+        "refs/pull/23/head": "297efde759b967ce23cfb4a26e787c49f6a7d6c8",
+        "refs/pull/24/head": "abbf2ba8678e105bc5f83ea5a2fa7a6abc6cf7e8",
+        "refs/pull/25/head": "8912b792c0ff5b7b67661c74845ed042dea0e645",
+        "refs/pull/28/head": "1f1179ea04a7c055f5bbfe5a81d1b2d6d3e58fe5",
+        "refs/pull/29/head": "728afe4e582dfd5d721389d1e3e7ca2a82ebeb31",
+        "refs/pull/30/head": "ebf04e04baceb5563c143aa2bb4eac8f96888d8c",
+        "refs/pull/31/head": "9fe2f455c4c5a54199f0c84788db942a2953687c",
+        "refs/pull/32/head": "98cb0eb2cdeb25b4b6d09a622704eb22cdfa3088",
+        "refs/pull/33/head": "bdaf5c9e799158997c2ad6bf5b5cf9118c56f88e",
+        "refs/pull/34/head": "427e16a671e50177455a98c8b47caf03264c0d5d",
+        "refs/pull/36/head": "24e63c97d72937bf9accce0b67d3e7faf68ef188",
+        "refs/pull/39/head": "d339412614961bc220c3cd39ded9bf8dcc090514",
+        "refs/pull/40/head": "e889a63607490dffdcbcb551838e915c5ef5dc20",
+        "refs/pull/42/head": "92f28633822705373193d8059d2ebcb6b674d7f5",
+        "refs/pull/44/head": "4dc685d22457111b69eb896c807a673d270a8f29",
+        "refs/pull/47/head": "27421ed726338ad17570fab03655f8f0d470a942",
+        "refs/pull/48/head": "a44d9c6c1f05ee51cfa725849a1cba257b0e80f6",
+        "refs/pull/49/head": "0fd8c99333bd6a15abe48f28b8ead14ec3890562",
+        "refs/pull/50/head": "d70f673083b5fd81ca979b18f4709b6f574ed662",
+        "refs/pull/51/head": "6de76d9933c7770198a93b80d8738c433671f16c",
+        "refs/pull/52/head": "21608f72ea1f284bf45c442cb93da757630fd08b",
+        "refs/pull/53/head": "768336eb61358aa1c27b5815ad6b2b2bdb8c8fb6",
+        "refs/pull/55/head": "aa72b8d4f573e94c784b166e62228dc8f4418085",
+        "refs/pull/56/head": "8e0fb122537254d65441350f3ac5b58eaca190f3",
+        "refs/pull/57/head": "f173994d629799a765fad91b4bd1b5c0c810033b",
+        "refs/pull/58/head": "b151eb837458687f7ce33ad6cc85d1b140385803",
+        "refs/pull/59/head": "f1ce7eb47b001813847df9b42713435c6fc85ca7",
+        "refs/pull/60/head": "418b173c19364e6ffb1da61e7eb81b97d26385e7",
+        "refs/pull/7/head": "57f9bea63eb23ad670621591ea4225248ff2a3c1",
+        "refs/pull/8/head": "2179f596e92812059f4b0d41fed26d27fc9aada6",
+        "refs/pull/9/head": "61a42b699d0a8d30f5c25480421b7a284070d108",
+        "refs/tags/3.1.0": "dc3bcdd43d7474fd2e305af6010292de61184088",
+        "refs/tags/4.0.0": "b9024d80b2f444cca96cda38e0c0d44b1c362346",
+        "refs/tags/4.0.1": "19ec4dcfefee2f2e55d977535c4d230eb4ab34f6",
+        "refs/tags/4.0rc1": "b5c2eb549f5126216e9ad0647c0fc3b24c9a6b57",
+        "refs/tags/4.0rc2": "33463c7d2f89ce3392056e47ba8d108f339c45ad",
+        "refs/tags/4.0rc3": "f647e46055d305ebe003940229931a7b0ae5e7b3",
+        "refs/tags/4.1": "18be39efc9292574d15a075a298f9c3b4021dff6",
+        "refs/tags/4.1.0rc1": "40e6ce5fd1607f4007b7e9455561bead8c2c01e3",
+        "refs/tags/4.1.0rc3": "987fe27e30c749710e4653d1f06d819fa74dd145",
+        "refs/tags/4.1.0rc4": "3226e873d636398ed21b4f83506e487f80e0468f",
+        "refs/tags/4.1.0rc5": "56f8f1cd1dd45703847bc41a894b7484ce6fe55d"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://dgbowl.github.io/images/yadg.png",
+      "name": "yadg",
+      "subpage": "apps/yadg.html"
     }
   },
   "categories": {
@@ -603,6 +678,14 @@
     "wp9": {
       "description": "Infrastructure and Interoperability",
       "title": "WP9"
+    },
+    "stakeholder": {
+      "description": "BIG-MAP Stakeholder Initiative",
+      "title": "Stakeholder"
+    },
+    "stakeholder-aurora": {
+      "description": "Autonomous Robotic Battery Innovation Platform",
+      "title": "Aurora"
     }
   }
 }
