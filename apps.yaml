@@ -7,7 +7,7 @@ diffusion-electrolyte-mixture:
         authors: Saientan Bag
         external_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture
         documentation_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/README.md
-        logo: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/Diffusion.png
+        logo: https://raw.githubusercontent.com/saientan/Diffusion_Electrolyte_Mixture/main/Diffusion.png
         state: development
         version: '1.0'
     categories:
