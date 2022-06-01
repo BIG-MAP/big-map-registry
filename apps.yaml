@@ -238,7 +238,7 @@ yadg:
     metadata:
         title: yadg
         description: |
-            yadg: yet another datagram. FAIR data parser for time-resolved experimental data. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research.
+            yadg: yet another datagram. FAIR data parser for time-resolved experimental data. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
         authors: Peter Kraus, Nicolas Vetsch
         documentation_url: https://dgbowl.github.io/yadg
         logo: https://dgbowl.github.io/images/yadg.png
@@ -253,9 +253,9 @@ tomato:
     metadata:
         title: tomato
         description: |
-            tomato: au-tomation without the pain. Instrument automation library. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research.
+            tomato: au-tomation without the pain. Instrument automation library. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
         authors: Peter Kraus
-        documentation_url: https://dgbowl.github.com/tomato
+        documentation_url: https://dgbowl.github.io/tomato
         logo: https://dgbowl.github.io/images/tomato.png
         state: development
     git_url: https://github.com/dgbowl/tomato
