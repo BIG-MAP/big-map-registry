@@ -263,3 +263,18 @@ tomato:
         - technology-lab
         - stakeholder
         - stakeholder-aurora
+aurora-app:
+    metadata:
+        title: Aurora-app
+        description: |
+            AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative
+        authors: Loris Ercole
+        documentation_url: https://github.com/epfl-theos/aurora-app/blob/main/README.md
+        stage: registered
+    git_url: https://github.com/epfl-theos/aurora-app
+    categories:
+        - technology-aiida
+        - technology-aiidalab
+        - technology-lab
+        - stakeholder
+        - stakeholder-aurora
