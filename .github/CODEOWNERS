@@ -1,5 +1,5 @@
 # The following owners will be the default owners for everything
 # in the repo unless a later match takes precedence.
 src/*         @csadorf
-apps.yml      @liotf
-catgories.yml @liotf
+apps.yaml      @liotf
+categories.yaml @liotf
