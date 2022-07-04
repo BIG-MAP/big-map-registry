@@ -103,6 +103,32 @@
       "name": "aiida-seigrowth",
       "subpage": "apps/aiida-seigrowth.html"
     },
+    "aiidalab-aurora": {
+      "metadata": {
+        "title": "Aurora AiiDAlab app",
+        "description": "AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative\n",
+        "authors": "Loris Ercole",
+        "documentation_url": "https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md",
+        "state": "registered"
+      },
+      "git_url": "https://github.com/epfl-theos/aiidalab-aurora",
+      "categories": [
+        "technology-aiida",
+        "technology-aiidalab",
+        "technology-lab",
+        "stakeholder",
+        "stakeholder-aurora"
+      ],
+      "gitinfo": {
+        "HEAD": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
+        "refs/heads/aiidalab": "65485c5666b3a1ddd0b422b3dd0310f42a25fb34",
+        "refs/heads/main": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
+        "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f"
+      },
+      "hosted_on": "github.com",
+      "name": "aiidalab-aurora",
+      "subpage": "apps/aiidalab-aurora.html"
+    },
     "aiidalab-qe": {
       "categories": [
         "technology-aiida",
