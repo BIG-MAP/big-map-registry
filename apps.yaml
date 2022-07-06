@@ -283,14 +283,14 @@ qemu-qeb-desktop:
     metadata:
         title: DARTS on-demand computing (qemu-web-desktop)
         description: |
-            Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, 
+            Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud,
             and displays them in your browser. These machines can be used for e.g. scientific data treatment.
-            DARTS can be installed and configured in minutes to provide data treatment and simulation environments, 
+            DARTS can be installed and configured in minutes to provide data treatment and simulation environments,
             for instance running Quantum-Espresso via ASE.
         authors: Emmanuel Farhi
         logo: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png
         state: stable
-        version: '22.06.10'
+        version: 22.06.10
         external_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     external_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     categories:
