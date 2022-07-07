@@ -291,7 +291,7 @@ qemu-web-desktop:
         logo: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png
         state: stable
         documentation_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md
-    external_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
+    git_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     categories:
         - utilities
         - technology-simstack
