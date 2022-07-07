@@ -279,7 +279,7 @@ aiidalab-aurora:
         - stakeholder
         - stakeholder-aurora
 
-qemu-qeb-desktop:
+qemu-web-desktop:
     metadata:
         title: DARTS on-demand computing (qemu-web-desktop)
         description: |
