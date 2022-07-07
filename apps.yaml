@@ -284,7 +284,7 @@ qemu-web-desktop:
         title: DARTS on-demand computing (qemu-web-desktop)
         description: |
             Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud,
-            and displays them in your browser. These machines can be used for e.g. scientific data treatment.
+            and displays them in your browser. These machines can be used for, e.g., scientific data treatment.
             DARTS can be installed and configured in minutes to provide data treatment and simulation environments,
             for instance running Quantum-Espresso via ASE.
         authors: Emmanuel Farhi
