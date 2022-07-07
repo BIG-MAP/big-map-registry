@@ -281,7 +281,7 @@ aiidalab-aurora:
 
 qemu-web-desktop:
     metadata:
-        title: DARTS on-demand computing (qemu-web-desktop)
+        title: DARTS
         description: |
             Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud,
             and displays them in your browser. These machines can be used for, e.g., scientific data treatment.
