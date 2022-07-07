@@ -290,7 +290,6 @@ qemu-web-desktop:
         authors: Emmanuel Farhi
         logo: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png
         state: stable
-        version: 22.06.10
         documentation_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md
     external_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     categories:
