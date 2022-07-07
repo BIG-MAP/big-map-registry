@@ -278,7 +278,6 @@ aiidalab-aurora:
         - technology-lab
         - stakeholder
         - stakeholder-aurora
-
 qemu-web-desktop:
     metadata:
         title: DARTS
