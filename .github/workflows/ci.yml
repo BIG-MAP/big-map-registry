@@ -30,3 +30,7 @@ jobs:
             - name: Test with pytest
               run: |
                   PYTHONPATH=src/ pytest -v
+
+            - name: Build GH pages (for testing)
+              run: |
+                  python "${GITHUB_WORKSPACE}/src/build.py"
