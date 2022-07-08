@@ -81,7 +81,7 @@
             "type": "object",
             "additionalProperties": false,
             "propertyNames": {
-              "pattern": "^(HEAD)|(refs\/(heads|pull|tags))\/.+$"
+              "pattern": "^(HEAD)|(refs\/(.+?))\/.+$"
             },
             "patternProperties": {
               ".*": {"type": "string"}
