@@ -123,9 +123,10 @@
       ],
       "gitinfo": {
         "HEAD": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
-        "refs/heads/aiidalab": "65485c5666b3a1ddd0b422b3dd0310f42a25fb34",
+        "refs/heads/aiidalab": "eedd0faf92f1d5a3495e059d98b898a700709049",
         "refs/heads/main": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
-        "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f"
+        "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
+        "refs/tags/0.2": "eedd0faf92f1d5a3495e059d98b898a700709049"
       },
       "hosted_on": "github.com",
       "name": "aiidalab-aurora",
@@ -506,6 +507,58 @@
       "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
       "name": "prisma",
       "subpage": "apps/prisma.html"
+    },
+    "qemu-web-desktop": {
+      "metadata": {
+        "title": "DARTS",
+        "description": "Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, and displays them in your browser. These machines can be used for, e.g., scientific data treatment. DARTS can be installed and configured in minutes to provide data treatment and simulation environments, for instance running Quantum ESPRESSO (QE) via the Atomic Simulation Environment (ASE).\n",
+        "authors": "Emmanuel Farhi",
+        "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
+        "state": "stable",
+        "documentation_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md"
+      },
+      "git_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop",
+      "categories": [
+        "utilities",
+        "technology-simstack",
+        "data-analysis"
+      ],
+      "gitinfo": {
+        "HEAD": "6ac7e40b2a83c01631839a748a1b575f998bf3f9",
+        "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
+        "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
+        "refs/heads/master": "6ac7e40b2a83c01631839a748a1b575f998bf3f9",
+        "refs/merge-requests/1/head": "9736d8bb65a8fc2f4b669eafb8e9cae5ec748158",
+        "refs/merge-requests/1/merge": "33c9a538c04aaf80fa40b8c17aba8b3bb7ce06b9",
+        "refs/merge-requests/2/head": "6fc4fd2bbdeea9e14a516f80f8165441147fc1b5",
+        "refs/merge-requests/2/merge": "a09fdd46f8b3b1de091ed5eb8be187d10ba698f4",
+        "refs/merge-requests/3/head": "48750a8f713274a6b30cbea0636e896765651d1a",
+        "refs/merge-requests/3/merge": "a9134ea3f6633a851af1cf06710e3acceec6cad7",
+        "refs/merge-requests/4/head": "a129c5174d3ce2b1fa0dd2bde4d4afabc2822df3",
+        "refs/merge-requests/4/merge": "f00b148bfed8497dbae879c7deba378d7a8208cc",
+        "refs/merge-requests/5/head": "f6edbe5bcc763658f683edfc76a08b40734993df",
+        "refs/merge-requests/5/merge": "4a0d1883330a10f90877f43823c7ef7abc639958",
+        "refs/merge-requests/6/head": "91a76a820cb47c2c3de17e53022a914fbf71310f",
+        "refs/merge-requests/6/merge": "19ba123a6402fa1eece5e8dbe53d7a544f6c7fa7",
+        "refs/merge-requests/7/head": "dd71e0550f44fc9c983bd835953740ff2c35881e",
+        "refs/merge-requests/7/merge": "f2ffb1349ba35d56434988e350d72798afe4721e",
+        "refs/merge-requests/8/head": "946c9d0e19b2ae7dbbbd5f0b860a17b7b9ac8684",
+        "refs/merge-requests/8/merge": "5c85debd40a5a5101df2bf8cc8f035f9e56267ff",
+        "refs/merge-requests/9/head": "b83d9d71eaf54e672c5e447df92c764527d81113",
+        "refs/merge-requests/9/merge": "fca09ec899c56fc704fe20bb59713e69992d5269",
+        "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
+        "refs/tags/v21.11.29": "b11be7a77fcd7dc931a636aa02ccbfe8b5ca896b",
+        "refs/tags/v21.11.30": "63e14209e310f3e361f5a2dba781d4e758b5b303",
+        "refs/tags/v22.02.11": "58db6cc4520927f5866f26ea54b82d132613d8a7",
+        "refs/tags/v22.04.17": "9c863c1d88d1febbbd5c879577906907b43d04fd",
+        "refs/tags/v22.04.22": "0c5a3921cbc1bf9e35226447168d158ea7bc9b7a",
+        "refs/tags/v22.04.22-1": "6d2868297eb9d363137a0addece43907239d68ba",
+        "refs/tags/v22.06.10": "4425ed422814426efc0416ff086a45b9358a2dce"
+      },
+      "hosted_on": "gitlab.com",
+      "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
+      "name": "qemu-web-desktop",
+      "subpage": "apps/qemu-web-desktop.html"
     },
     "qm9-schnet-uncertainty": {
       "metadata": {
