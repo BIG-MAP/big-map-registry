@@ -149,7 +149,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "fcca00a9b3752da7bf2f7df7fc01aa2b4d8a6592",
+        "HEAD": "e64f06937356444093eb988c27a9d15656610f39",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/249-trigger-installation-of-qe-and-pseudo-installation-after-app-installation": "f1ba9ef829a606bfa691931074f6317548088fbb",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -160,9 +160,8 @@
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "fcca00a9b3752da7bf2f7df7fc01aa2b4d8a6592",
+        "refs/heads/master": "e64f06937356444093eb988c27a9d15656610f39",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
-        "refs/heads/pre-commit-ci-update-config": "055a97ab99d9e96a451a2389bd442e7a5ccf440f",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
         "refs/pull/10/head": "5e0ce9942b30f2d152e756bbdef3f1ad4378071e",
@@ -254,7 +253,6 @@
         "refs/pull/241/head": "4f94daee2355c916f964b4bc7832187adeaa20d9",
         "refs/pull/25/head": "278913a68c11a8e4074ab0dd5b18751ff96a5e3a",
         "refs/pull/250/head": "055a97ab99d9e96a451a2389bd442e7a5ccf440f",
-        "refs/pull/250/merge": "0d4a77aa97a9705ea29b1d93a3167039a60ad189",
         "refs/pull/251/head": "f1ba9ef829a606bfa691931074f6317548088fbb",
         "refs/pull/251/merge": "3dd639d4dc477a496a22d1de03d5fb7cb977337b",
         "refs/pull/27/head": "c23e4c70044901d75ab7b06056ca735a162f4adf",
