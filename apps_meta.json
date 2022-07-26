@@ -671,10 +671,10 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "b688514c912a10619045407fff74db5f95918880",
-        "refs/heads/4.1.x": "18be39efc9292574d15a075a298f9c3b4021dff6",
-        "refs/heads/gh-pages": "7cd9e147e778ce47ae66696aa87c7fa8f05f9106",
-        "refs/heads/master": "b688514c912a10619045407fff74db5f95918880",
+        "HEAD": "bb289fb8c9a97d13499c45bd8293ed76dcfb4217",
+        "refs/heads/4.1.x": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
+        "refs/heads/gh-pages": "0b28651bd8fb1ba5db4ba8e5649ce3b64ea9966b",
+        "refs/heads/master": "bb289fb8c9a97d13499c45bd8293ed76dcfb4217",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
@@ -713,7 +713,7 @@
         "refs/pull/62/head": "aec9bf32a72260614ba56c07f92b8882a57a238a",
         "refs/pull/63/head": "7a8d36e7441bb33fedca4dc4d123b14d80f256c1",
         "refs/pull/64/head": "145a656be6081e905b5fd378a2ea266985557d6d",
-        "refs/pull/64/merge": "65d87fa9b0e5cd6c58925609bdecd1a139fc9998",
+        "refs/pull/65/head": "5b1648b4cda87a087cf8566ca759814c1582a9af",
         "refs/pull/7/head": "57f9bea63eb23ad670621591ea4225248ff2a3c1",
         "refs/pull/8/head": "2179f596e92812059f4b0d41fed26d27fc9aada6",
         "refs/pull/9/head": "61a42b699d0a8d30f5c25480421b7a284070d108",
@@ -727,7 +727,8 @@
         "refs/tags/4.1.0rc1": "40e6ce5fd1607f4007b7e9455561bead8c2c01e3",
         "refs/tags/4.1.0rc3": "987fe27e30c749710e4653d1f06d819fa74dd145",
         "refs/tags/4.1.0rc4": "3226e873d636398ed21b4f83506e487f80e0468f",
-        "refs/tags/4.1.0rc5": "56f8f1cd1dd45703847bc41a894b7484ce6fe55d"
+        "refs/tags/4.1.0rc5": "56f8f1cd1dd45703847bc41a894b7484ce6fe55d",
+        "refs/tags/4.1.1": "1179ad54ee015bdac3a307d60d4190983cb16bfd"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
