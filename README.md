@@ -10,6 +10,18 @@ This repository contains the **source code** of the official app registry for th
 
 ## Adding an app to the registry
 
+All apps that are part of this registry, must adhere to the following requirements (required by the European Commission):
+
+- The app's hosted source code repository (e.g., on GitHub) is publicly accessible.
+- The repository specifies the app's open-source license (e.g., in `license.txt`). You can find a list of approved open-source licenses [here](https://opensource.org/licenses).
+- The repository makes suitable acknowledgment to the funding by the European Commission (e.g., in `README.txt`):
+
+```text
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957189.
+```
+
+- The repository provides sufficient technical documentation on how to install and run the software. This can be achieved via a README file, a Wiki page, or a software documentation hosting platform such as [Read The Docs](https://readthedocs.org/). Please pay particular attention to this, since it is a criterion the evaluators will use to test the apps.
+
 Apps are added to the registry by adding an entry to the `apps.yaml` file within this repository.
 
 *Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before or after adding your app.*
