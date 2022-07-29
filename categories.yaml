@@ -1,82 +1,85 @@
 ---
 classical:
-    description: Apps for performing calculations based on classical/empirical force fields.
-    title: Classical
+  description: Apps for performing calculations based on classical/empirical force fields.
+  title: Classical
 data-analysis:
-    description: Apps for analyzing calculations or experimental data.
-    title: Data Analysis
+  description: Apps for analyzing calculations or experimental data.
+  title: Data Analysis
+data-visualization:
+  description: Apps to visualize experimental data
+  title: Data Visualization
 quantum:
-    description: Apps for performing quantum-mechanical calculations.
-    title: Quantum
+  description: Apps for performing quantum-mechanical calculations.
+  title: Quantum
 technology-aiida:
-    description: The app utilizes the AiiDA infrastructure (https://www.aiida.net/).
-    title: AiiDA
+  description: The app utilizes the AiiDA infrastructure (https://www.aiida.net/).
+  title: AiiDA
 technology-aiidalab:
-    description: The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab).
-    title: AiiDAlab
+  description: The app utilizes the AiiDAlab platform (https://www.materialscloud.org/work/aiidalab).
+  title: AiiDAlab
 technology-ase:
-    description: The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/).
-    title: ASE
+  description: The app utilizes the Atomic Simulation Environment (ASE) toolkit (https://wiki.fysik.dtu.dk/ase/).
+  title: ASE
 technology-materials-cloud:
-    description: The app utilizies the Materials Cloud (https://www.materialscloud.org).
-    title: Materials Cloud
+  description: The app utilizies the Materials Cloud (https://www.materialscloud.org).
+  title: Materials Cloud
 technology-simstack:
-    description: The app utilizes SimStack (https://www.simstack.de).
-    title: SimStack
+  description: The app utilizes SimStack (https://www.simstack.de).
+  title: SimStack
 technology-lab:
-    description: Software that helps in the lab
-    title: Lab Automation
+  description: Software that helps in the lab
+  title: Lab Automation
 technology-active-learning:
-    description: Software that deploys active learning to instrumentation
-    title: Active Learning
+  description: Software that deploys active learning to instrumentation
+  title: Active Learning
 utilities:
-    description: Utility apps for everyday tasks.
-    title: Utilities
+  description: Utility apps for everyday tasks.
+  title: Utilities
 generative-model:
-    description: Model that can generate new data instances.
-    title: Generative Model
+  description: Model that can generate new data instances.
+  title: Generative Model
 inverse-design:
-    description: New materials with the target properties are generated from materials databases using deep-learning.
-    title: Inverse Design
+  description: New materials with the target properties are generated from materials databases using deep-learning.
+  title: Inverse Design
 ml-metadata:
-    description: ML Metadata is a library for recording and retrieving metadata associated with ML workflows.
-    title: MLMD
+  description: ML Metadata is a library for recording and retrieving metadata associated with ML workflows.
+  title: MLMD
 wp1:
-    description: Project management and education, exploitation and outreach.
-    title: WP1
+  description: Project management and education, exploitation and outreach.
+  title: WP1
 wp10:
-    description: AI Accelerated Materials Discovery
-    title: WP10
+  description: AI Accelerated Materials Discovery
+  title: WP10
 wp11:
-    description: Battery Interface Genome
-    title: WP11
+  description: Battery Interface Genome
+  title: WP11
 wp2:
-    description: Accelerated atomic-scales simulations
-    title: WP2
+  description: Accelerated atomic-scales simulations
+  title: WP2
 wp3:
-    description: Multiscale Modelling
-    title: WP3
+  description: Multiscale Modelling
+  title: WP3
 wp4:
-    description: Modular Robotics and Syntheses
-    title: WP4
+  description: Modular Robotics and Syntheses
+  title: WP4
 wp5:
-    description: Characterization
-    title: WP5
+  description: Characterization
+  title: WP5
 wp6:
-    description: HTS and Testing
-    title: WP6
+  description: HTS and Testing
+  title: WP6
 wp7:
-    description: Battery Interface Ontology
-    title: WP7
+  description: Battery Interface Ontology
+  title: WP7
 wp8:
-    description: Standards and Protocols
-    title: WP8
+  description: Standards and Protocols
+  title: WP8
 wp9:
-    description: Infrastructure and Interoperability
-    title: WP9
+  description: Infrastructure and Interoperability
+  title: WP9
 stakeholder:
-    description: BIG-MAP Stakeholder Initiative
-    title: Stakeholder
+  description: BIG-MAP Stakeholder Initiative
+  title: Stakeholder
 stakeholder-aurora:
-    description: Autonomous Robotic Battery Innovation Platform
-    title: Aurora
+  description: Autonomous Robotic Battery Innovation Platform
+  title: Aurora
