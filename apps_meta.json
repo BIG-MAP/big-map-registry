@@ -123,7 +123,7 @@
       ],
       "gitinfo": {
         "HEAD": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
-        "refs/heads/aiidalab": "eedd0faf92f1d5a3495e059d98b898a700709049",
+        "refs/heads/aiidalab": "498204a1ef3de0e4a0bd9830fd00a129d448bb6e",
         "refs/heads/main": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "b680624e35fcb4729c170f4b0dbb2885d5edb93f",
@@ -530,10 +530,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "452eb349033e22a3daddd8ece327e91b30762981",
+        "HEAD": "e9ea9a8e3345fc1dc3370d59333672e5ddfaf076",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "452eb349033e22a3daddd8ece327e91b30762981",
+        "refs/heads/master": "e9ea9a8e3345fc1dc3370d59333672e5ddfaf076",
         "refs/merge-requests/1/head": "9736d8bb65a8fc2f4b669eafb8e9cae5ec748158",
         "refs/merge-requests/1/merge": "33c9a538c04aaf80fa40b8c17aba8b3bb7ce06b9",
         "refs/merge-requests/2/head": "6fc4fd2bbdeea9e14a516f80f8165441147fc1b5",
@@ -645,6 +645,8 @@
         "refs/pull/41/head": "8ee236d798056e6567b7c2340ebd79504f28629a",
         "refs/pull/42/head": "ad35e1ef929fe3de8fc3539bda5aae55c58749a9",
         "refs/pull/42/merge": "a6d08973576e7ace4f6d410de2a10f68d6f3c29e",
+        "refs/pull/43/head": "e6209c477a2cb13a8851867d34f63ab57108ef5d",
+        "refs/pull/43/merge": "839ada1723abe194a33fed2b0f671465ed29cf1a",
         "refs/pull/5/head": "04d102502c54f9330367999db2c659db9b7da864",
         "refs/pull/6/head": "7a22cbcb0f20e25b806f9e3a851f495d841bed44",
         "refs/pull/7/head": "3b4962c3862db2e345d70f77bb498236ed38ee9b",
