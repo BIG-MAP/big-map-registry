@@ -151,7 +151,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "59e6255b119d30c562932a4a96cc1a1c8154aec1",
+        "HEAD": "e98e528f5c88fb53da0e7019194ef75f5f4dff96",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
@@ -159,10 +159,9 @@
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
-        "refs/heads/fix/pseudo-installed": "e3ec04b634b34cc92d8d1651ec130a07e4b70744",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "59e6255b119d30c562932a4a96cc1a1c8154aec1",
+        "refs/heads/master": "e98e528f5c88fb53da0e7019194ef75f5f4dff96",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/heads/pre-commit-ci-update-config": "eade95fa1532b093dbbdb4d227b7475a300020db",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -261,10 +260,9 @@
         "refs/pull/256/head": "5916593bde01088c228fecbb7033b0ef60821160",
         "refs/pull/257/head": "e405c86433a694b72403435611e206bbacacdf57",
         "refs/pull/258/head": "eade95fa1532b093dbbdb4d227b7475a300020db",
-        "refs/pull/258/merge": "d49eefdb3e4fe5adfb3ec5262110a45363ece2bd",
+        "refs/pull/258/merge": "55e230946aff0e844ba21f54ae4c9456fcded724",
         "refs/pull/260/head": "943563a28a1caf1aebcd09e11f17b0c8f807ff49",
         "refs/pull/262/head": "e3ec04b634b34cc92d8d1651ec130a07e4b70744",
-        "refs/pull/262/merge": "a465ce4a5a4a0cca892ce1b22fe2c989a29197b7",
         "refs/pull/27/head": "c23e4c70044901d75ab7b06056ca735a162f4adf",
         "refs/pull/28/head": "13af1ce1c7fae881e21dae3e78519a512dc22fb3",
         "refs/pull/29/head": "f42464fe0755065cc6b5b33e195b58a593a32d50",
@@ -342,7 +340,9 @@
         "refs/tags/v22.05.0": "702f1b0dbe32bbef088dc40f48dd022481ec3fb2",
         "refs/tags/v22.05.0^{}": "058bf1bf9600120fc06e69b93fc3e705973e4dc6",
         "refs/tags/v22.07.0": "13fcac7d029caaacd6b5444cf640564ada8f1f73",
-        "refs/tags/v22.07.0^{}": "7f37ca4e1d8a6e02e0bcb786e358828e6b081f63"
+        "refs/tags/v22.07.0^{}": "7f37ca4e1d8a6e02e0bcb786e358828e6b081f63",
+        "refs/tags/v22.08.0": "a094c03253608ce1bb8a36496cf6bf0c879fcba7",
+        "refs/tags/v22.08.0^{}": "e98e528f5c88fb53da0e7019194ef75f5f4dff96"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
