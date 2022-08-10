@@ -124,11 +124,14 @@
       ],
       "gitinfo": {
         "HEAD": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
+        "refs/heads/develop": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/heads/main": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
-        "refs/heads/reorganize_schemas": "87a98ffa366735219a16a0e45cf97889586d095b",
+        "refs/heads/reorganize_schemas": "b9367276024f3f82e5ab477fcc22049b8e89a0c4",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
         "refs/pull/7/head": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
+        "refs/pull/8/head": "b9367276024f3f82e5ab477fcc22049b8e89a0c4",
+        "refs/pull/8/merge": "ce62929883558603023547f79bab68d3fe786a87",
         "refs/tags/0.2": "eedd0faf92f1d5a3495e059d98b898a700709049",
         "refs/tags/0.2.1": "64e9408178a2fcbeecf5e774f22a82b1b25041c3"
       },
