@@ -125,6 +125,7 @@
       "gitinfo": {
         "HEAD": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/heads/main": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
+        "refs/heads/reorganize_schemas": "87a98ffa366735219a16a0e45cf97889586d095b",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
         "refs/pull/7/head": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
@@ -757,7 +758,8 @@
         "refs/tags/4.1.0rc4": "3226e873d636398ed21b4f83506e487f80e0468f",
         "refs/tags/4.1.0rc5": "56f8f1cd1dd45703847bc41a894b7484ce6fe55d",
         "refs/tags/4.1.1": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
-        "refs/tags/4.2a1": "aca86d59329c77bfb87b90b4b6b1e35fa2fef412"
+        "refs/tags/4.2a1": "aca86d59329c77bfb87b90b4b6b1e35fa2fef412",
+        "refs/tags/4.2a2": "52d59abde67393e3723016ece60b9f85c3c4e2be"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
