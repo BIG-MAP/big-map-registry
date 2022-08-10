@@ -123,12 +123,13 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
-        "refs/heads/aiidalab": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
-        "refs/heads/main": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
+        "HEAD": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
+        "refs/heads/main": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
-        "refs/tags/0.2": "eedd0faf92f1d5a3495e059d98b898a700709049"
+        "refs/pull/7/head": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
+        "refs/tags/0.2": "eedd0faf92f1d5a3495e059d98b898a700709049",
+        "refs/tags/0.2.1": "64e9408178a2fcbeecf5e774f22a82b1b25041c3"
       },
       "hosted_on": "github.com",
       "name": "aiidalab-aurora",
@@ -694,7 +695,7 @@
       "gitinfo": {
         "HEAD": "d237d42a4b3305e83bd54200991f2e6625c0e438",
         "refs/heads/4.1.x": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
-        "refs/heads/gh-pages": "72acbdc60c29f6e0afb7dae94bb0b605e4e5b088",
+        "refs/heads/gh-pages": "fd11e29ca408b8c9a0b7cc8477a89b4951a9aba9",
         "refs/heads/master": "d237d42a4b3305e83bd54200991f2e6625c0e438",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
