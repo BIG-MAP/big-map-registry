@@ -124,7 +124,7 @@
       ],
       "gitinfo": {
         "HEAD": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
-        "refs/heads/aiidalab": "ecc1effac74f89eb0fd30e3d675ce7b69a0b4d10",
+        "refs/heads/aiidalab": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
         "refs/heads/main": "5e1c7c1fd52d2deefb7bac8abdf2753076dc2b64",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
@@ -692,10 +692,10 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "be847e13fda1d836c44fc33267689e68fa0dea83",
+        "HEAD": "d237d42a4b3305e83bd54200991f2e6625c0e438",
         "refs/heads/4.1.x": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
         "refs/heads/gh-pages": "72acbdc60c29f6e0afb7dae94bb0b605e4e5b088",
-        "refs/heads/master": "be847e13fda1d836c44fc33267689e68fa0dea83",
+        "refs/heads/master": "d237d42a4b3305e83bd54200991f2e6625c0e438",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
@@ -741,7 +741,6 @@
         "refs/pull/72/head": "899ff7120993a555959cde605f25cbf2c06a09ca",
         "refs/pull/73/head": "38117f221c95fa8cc67e0aef649a492f3e44aef0",
         "refs/pull/74/head": "19048c7d220e71c9cdfb1af38e9ae340fec134bb",
-        "refs/pull/74/merge": "1109c14308d35fb61da3704ea49cfb5b5908cee3",
         "refs/pull/8/head": "2179f596e92812059f4b0d41fed26d27fc9aada6",
         "refs/pull/9/head": "61a42b699d0a8d30f5c25480421b7a284070d108",
         "refs/tags/3.1.0": "dc3bcdd43d7474fd2e305af6010292de61184088",
