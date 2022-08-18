@@ -700,10 +700,10 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6",
+        "HEAD": "d1cbd6c5f687573b48e84d77f62131695a6fea7d",
         "refs/heads/4.1.x": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
-        "refs/heads/gh-pages": "ec4ffa185ccfe7fdd65c3469d4e5105953dcbbb7",
-        "refs/heads/master": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6",
+        "refs/heads/gh-pages": "121ca3ff5c345b07d5d50a972ff59ecf6d5bb393",
+        "refs/heads/master": "d1cbd6c5f687573b48e84d77f62131695a6fea7d",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
@@ -755,8 +755,7 @@
         "refs/pull/78/head": "47dcd5609e53bbf2cf0cc0c2af2856a98f5a14af",
         "refs/pull/79/head": "4a5b393fdf6677db6ff8c1e350ae9f9f358cc6a0",
         "refs/pull/8/head": "2179f596e92812059f4b0d41fed26d27fc9aada6",
-        "refs/pull/80/head": "8c892ab1e1e7b96b58271d783820de6a2e743c8b",
-        "refs/pull/80/merge": "aed7ee78e6945fa5118a468449a3ec2bdc15fbf9",
+        "refs/pull/80/head": "a6b6594769383dc39dff88420d166fb6fdb82ac5",
         "refs/pull/9/head": "61a42b699d0a8d30f5c25480421b7a284070d108",
         "refs/tags/3.1.0": "dc3bcdd43d7474fd2e305af6010292de61184088",
         "refs/tags/4.0.0": "b9024d80b2f444cca96cda38e0c0d44b1c362346",
