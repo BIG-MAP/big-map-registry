@@ -699,10 +699,10 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "a509411ff9e8a9a11994b16968cf3aa905d678f0",
+        "HEAD": "2712ced892c06e1f9aedacdf28e8447cd18dc675",
         "refs/heads/4.1.x": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
-        "refs/heads/gh-pages": "13ca98481cfa84633a386d17e7aa2b33f7a851d3",
-        "refs/heads/master": "a509411ff9e8a9a11994b16968cf3aa905d678f0",
+        "refs/heads/gh-pages": "6b9299beeac1210b385d8020fd266026ea82aacd",
+        "refs/heads/master": "2712ced892c06e1f9aedacdf28e8447cd18dc675",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
@@ -756,6 +756,7 @@
         "refs/pull/8/head": "2179f596e92812059f4b0d41fed26d27fc9aada6",
         "refs/pull/80/head": "a6b6594769383dc39dff88420d166fb6fdb82ac5",
         "refs/pull/81/head": "6e659e029721eee6496d4d5349238e7ef2aa7f94",
+        "refs/pull/82/head": "1a616c913d13a19dad289fa72c64778b26ed0480",
         "refs/pull/9/head": "61a42b699d0a8d30f5c25480421b7a284070d108",
         "refs/tags/3.1.0": "dc3bcdd43d7474fd2e305af6010292de61184088",
         "refs/tags/4.0.0": "b9024d80b2f444cca96cda38e0c0d44b1c362346",
@@ -772,7 +773,8 @@
         "refs/tags/4.2a1": "aca86d59329c77bfb87b90b4b6b1e35fa2fef412",
         "refs/tags/4.2a2": "52d59abde67393e3723016ece60b9f85c3c4e2be",
         "refs/tags/4.2rc1": "05432d756bcfea3ebbe8ab1dc6639c72922be005",
-        "refs/tags/4.2rc2": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6"
+        "refs/tags/4.2rc2": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6",
+        "refs/tags/4.2rc3": "2712ced892c06e1f9aedacdf28e8447cd18dc675"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
