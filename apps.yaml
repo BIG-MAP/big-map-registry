@@ -9,7 +9,7 @@ diffusion-electrolyte-mixture:
         documentation_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/README.md
         logo: https://raw.githubusercontent.com/saientan/Diffusion_Electrolyte_Mixture/main/Diffusion.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - classical
         - technology-simstack
@@ -55,7 +55,7 @@ dft-vasp:
         documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - quantum
         - technology-simstack
@@ -69,7 +69,7 @@ format-converter:
         documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - technology-ase
         - technology-simstack
@@ -83,7 +83,7 @@ dft-surface:
         documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - quantum
         - technology-simstack
@@ -108,7 +108,7 @@ HELAO:
         documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
         logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
         state: development
-        version: "2.1"
+        version: '2.1'
     categories:
         - technology-lab
         - technology-active-learning
@@ -160,7 +160,7 @@ battery-electrodes:
         documentation_url: https://github.com/KIT-Workflows/Battery-Electrodes/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/Battery-Electrodes/main/Funnel_Battery.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - quantum
         - technology-simstack
@@ -199,7 +199,7 @@ electrolyte-screening:
         documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/Structure-Generator/Structure-Generator.png
         state: development
-        version: "1.0"
+        version: '1.0'
     categories:
         - quantum
         - technology-simstack
@@ -243,7 +243,7 @@ yadg:
         documentation_url: https://dgbowl.github.io/yadg
         logo: https://dgbowl.github.io/images/yadg.png
         state: development
-        version: "4.1"
+        version: '4.1'
     git_url: https://github.com/dgbowl/yadg
     categories:
         - technology-lab
