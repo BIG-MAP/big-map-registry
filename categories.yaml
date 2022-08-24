@@ -5,6 +5,9 @@ classical:
 data-analysis:
     description: Apps for analyzing calculations or experimental data.
     title: Data Analysis
+data-visualization:
+    description: Apps for visualizing experimental data.
+    title: Data Visualization
 quantum:
     description: Apps for performing quantum-mechanical calculations.
     title: Quantum

@@ -292,3 +292,17 @@ qemu-web-desktop:
         - utilities
         - technology-simstack
         - data-analysis
+nmrium:
+    metadata:
+        title: NMRium
+        description: |
+            NMRium is a tool for visualizing 1D and 2D NMR spectra that are stored in JCAMP-DX format directly in your web browser.
+        authors: Luc Patiny, Michaël Zasso, Hamed Musallam, Alejandro Bolaños, Julien Wist
+        logo: https://www.nmrium.org/brand/nmrium-logo.svg
+        state: stable
+        external_url: https://www.nmrium.org
+        documentation_url: https://nmrdata.github.io/bigmap-solid-state-nmr/
+    git_url: https://github.com/cheminfo/nmrium
+    categories:
+        - data-visualization
+        - data-analysis
