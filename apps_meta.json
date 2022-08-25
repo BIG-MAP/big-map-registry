@@ -511,7 +511,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "5c43d1fdc5fbd5875d432ec2a7a157653ee68037",
+        "HEAD": "f40954b536664a6c64a19290d344165a9bfbfed4",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1718-id-from-nmr-processing": "26a05868a7ec3a3e7cce472bf73f27d2c7f026ee",
         "refs/heads/2d-fid": "069334e20a411b7d2af7728ebbefb38c5f07eb31",
@@ -522,9 +522,9 @@
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
-        "refs/heads/gh-pages": "9b8c563a7f67edc666c2833dd6368e4be74f0a32",
+        "refs/heads/gh-pages": "96cda1367624a5378b7e56853786b66e834c91f9",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "5c43d1fdc5fbd5875d432ec2a7a157653ee68037",
+        "refs/heads/main": "f40954b536664a6c64a19290d344165a9bfbfed4",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -729,6 +729,7 @@
         "refs/pull/1724/head": "265dc482d326fa7fff9f527d161e7951b04aba43",
         "refs/pull/1724/merge": "d58f9ef7277025245a80ff8a8c4472c7d5871152",
         "refs/pull/1725/head": "cde650e2dcef93577d6cc19a9766104e0f7ac3c5",
+        "refs/pull/1728/head": "60fe238e599070597f1de28edc6f240c2160032b",
         "refs/pull/173/head": "8d1f7c39153d64f61323f76681c2f689e616fe53",
         "refs/pull/174/head": "2d1d268572be6814bed761bad9c12710fbadc235",
         "refs/pull/182/head": "209081a4ebd7cb1837e7a33e90e83ae47942074d",
