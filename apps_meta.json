@@ -161,6 +161,7 @@
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
+        "refs/heads/fix-266-change_not_available": "17377b8d4cf21ecb29146656bbf0a092331d7e3c",
         "refs/heads/fix/245/all-button-settings": "566f1d733678aecdadf9a70f377b653b71d77c38",
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/fix/xx/structure-viewer-cell-to-front": "29136571e180af9799a83ccbadcedbf0c1ce28b7",
