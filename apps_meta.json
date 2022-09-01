@@ -516,7 +516,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "bdb4daa917a149fe2186a9a668511ffdc291565a",
+        "HEAD": "f1e0338a493f475db020f4301c54f478e689a077",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/2d-fid": "069334e20a411b7d2af7728ebbefb38c5f07eb31",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
@@ -526,9 +526,9 @@
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
-        "refs/heads/gh-pages": "e1f1afbee5ff5cb61fc17fb1eeea804122fc4fbd",
+        "refs/heads/gh-pages": "4a69ec68f254a3539fa71dff7681d6105b113c52",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "bdb4daa917a149fe2186a9a668511ffdc291565a",
+        "refs/heads/main": "f1e0338a493f475db020f4301c54f478e689a077",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
