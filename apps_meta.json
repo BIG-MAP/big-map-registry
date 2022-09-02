@@ -524,6 +524,7 @@
       "gitinfo": {
         "HEAD": "f1e0338a493f475db020f4301c54f478e689a077",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
+        "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/2d-fid": "069334e20a411b7d2af7728ebbefb38c5f07eb31",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
