@@ -531,7 +531,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "a6b54c956a7b3c8b860ecd346174879d91df769c",
+        "HEAD": "3c6cb41841dfae778d17ca155b20a3a90af3f37c",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1761-jeol-processed-data-x-axis-not-correct": "8f45252f7f74654aea21cc82980ac0ea3858e732",
@@ -545,7 +545,7 @@
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/gh-pages": "21714af5b7d4c6e02e383e352dac08763badf69f",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "a6b54c956a7b3c8b860ecd346174879d91df769c",
+        "refs/heads/main": "3c6cb41841dfae778d17ca155b20a3a90af3f37c",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -766,7 +766,6 @@
         "refs/pull/1762/head": "bd5ee3a8c192f256bb1d4e4992535a449e97e8d3",
         "refs/pull/1767/head": "8a4761869d541a496b9742adce4420112c7e77b9",
         "refs/pull/1770/head": "bd982d756ecd821507bf71a5c304b5a0c69b048f",
-        "refs/pull/1770/merge": "a8c9266e67242b754d04d6b5389823338d63650a",
         "refs/pull/1772/head": "8f45252f7f74654aea21cc82980ac0ea3858e732",
         "refs/pull/1772/merge": "5b96de781f2cb143d636ddbb4d50fb8d5040dfa2",
         "refs/pull/1777/head": "1827f59f96ed4e92956441e29fa0e9dd2ae3d69e",
