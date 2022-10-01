@@ -536,6 +536,7 @@
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1764-problematic-bruker-file": "d1ef463845fb49c32824a6638815e63dc8df8bf1",
         "refs/heads/1781-issue-with-import-from-zipped-bruker-folder": "7cee526fee66514181c1de0e1e10f38f4d474a3f",
+        "refs/heads/1791-use-new-version-of-nmr-load-save": "62b268a45db1e0b119642d8ca4d834f07236d207",
         "refs/heads/2d-fid": "31bdb421a5208e7b314fe0f174f8d6e7daae4c94",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
