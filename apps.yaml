@@ -87,6 +87,18 @@ dft-surface:
     categories:
         - quantum
         - technology-simstack
+density-neb:
+    metadata:
+        title: densityNEB
+        description: |
+            Code for calculating the path of least resistance between two points in a scalar field using nudged elastic band (NEB).
+        authors: Peter Bjørn Jørgensen
+        external_url: https://github.com/BIG-MAP/densityNEB
+        documentation_url: https://github.com/BIG-MAP/densityNEB/blob/main/README.md
+        logo: https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png
+        state: development
+    categories:
+        - utilities
 qm9-schnet-uncertainty:
     metadata:
         title: QM9 SchNet Uncertainty
