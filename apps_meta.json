@@ -1189,7 +1189,7 @@
       "gitinfo": {
         "HEAD": "a0eaf34623446292c46018db8bc03569002e0bfa",
         "refs/heads/4.1.x": "6e6b42c0f8dc27232931eaf55802de7915d45fe4",
-        "refs/heads/4.2.x": "075f1708d03bdd4c4324871cc7bd4b1ffb7e1ccf",
+        "refs/heads/4.2.x": "0e8c91154b6ddb709706802c0d60624398d82956",
         "refs/heads/gh-pages": "1535dccfd493861f3b629cdef0acfecfd2ffb25f",
         "refs/heads/master": "a0eaf34623446292c46018db8bc03569002e0bfa",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
@@ -1265,6 +1265,7 @@
         "refs/tags/4.1.1": "1179ad54ee015bdac3a307d60d4190983cb16bfd",
         "refs/tags/4.1.2": "6e6b42c0f8dc27232931eaf55802de7915d45fe4",
         "refs/tags/4.2": "075f1708d03bdd4c4324871cc7bd4b1ffb7e1ccf",
+        "refs/tags/4.2.1": "0e8c91154b6ddb709706802c0d60624398d82956",
         "refs/tags/4.2a1": "aca86d59329c77bfb87b90b4b6b1e35fa2fef412",
         "refs/tags/4.2a2": "52d59abde67393e3723016ece60b9f85c3c4e2be",
         "refs/tags/4.2rc1": "05432d756bcfea3ebbe8ab1dc6639c72922be005",
