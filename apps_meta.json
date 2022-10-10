@@ -124,8 +124,8 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "e047b876b9f54e798b668abd543e119649374c83",
-        "refs/heads/develop": "e047b876b9f54e798b668abd543e119649374c83",
+        "HEAD": "9e0e6e6ad2a05cff361b4213e57687a3c65dc9b5",
+        "refs/heads/develop": "9e0e6e6ad2a05cff361b4213e57687a3c65dc9b5",
         "refs/heads/main": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
@@ -165,6 +165,7 @@
         "refs/heads/fix-266-change_not_available": "17377b8d4cf21ecb29146656bbf0a092331d7e3c",
         "refs/heads/fix/245/all-button-settings": "566f1d733678aecdadf9a70f377b653b71d77c38",
         "refs/heads/fix/264/scf-only": "1144efaa6a255fe3297ef5751a2d5bef65bf2827",
+        "refs/heads/fix/298/src-qe-wc-version": "1cc4fed766a0e294ebb6846eac9345a949567c49",
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
@@ -294,6 +295,8 @@
         "refs/pull/296/head": "52f4b8a6b5accf8a783966eae8a0877fc3a65c3f",
         "refs/pull/297/head": "9cc2d968a3b1e9f0532d83d844961f2fc61df346",
         "refs/pull/3/head": "ee19f4bed9ffde63edbcb8121ccbe3fb28c28155",
+        "refs/pull/300/head": "1cc4fed766a0e294ebb6846eac9345a949567c49",
+        "refs/pull/300/merge": "504fb8d417afead3ff5421667596b6c1fb6d0652",
         "refs/pull/31/head": "9109fb3740bdc72c19b3f8adb5172058a6c04bbf",
         "refs/pull/32/head": "225e4d6bc0eb10dfe2a38325b8d3814afc18e268",
         "refs/pull/33/head": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
