@@ -553,7 +553,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "602f54b239f860f7c02def9c88620e64e50d32bd",
+        "HEAD": "84ea3e4ef8471d60a8bec508410771e3cd0331c1",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1812-json-with-inline-jcamp-file": "602f54b239f860f7c02def9c88620e64e50d32bd",
@@ -565,9 +565,9 @@
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
-        "refs/heads/gh-pages": "583e0436efb48ba86b0ca2bd78b00b8cedbf1072",
+        "refs/heads/gh-pages": "a3200fbe857c07a3b6ec8381088f8fcc519a8e16",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "602f54b239f860f7c02def9c88620e64e50d32bd",
+        "refs/heads/main": "84ea3e4ef8471d60a8bec508410771e3cd0331c1",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
