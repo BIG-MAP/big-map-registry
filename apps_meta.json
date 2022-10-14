@@ -124,8 +124,8 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "90f31e50dcfe7e874a6f97a7202240b8679b60c0",
-        "refs/heads/develop": "90f31e50dcfe7e874a6f97a7202240b8679b60c0",
+        "HEAD": "df40c1b5b2a775a761e875cd5195ae058e8eab95",
+        "refs/heads/develop": "df40c1b5b2a775a761e875cd5195ae058e8eab95",
         "refs/heads/main": "7f41f59d66ae76e8faeae240ed40da5d91cbad77",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
@@ -556,6 +556,7 @@
         "HEAD": "602f54b239f860f7c02def9c88620e64e50d32bd",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
+        "refs/heads/1812-json-with-inline-jcamp-file": "602f54b239f860f7c02def9c88620e64e50d32bd",
         "refs/heads/2d-fid": "6515b609eeed91029201393e82f0592477cb79bc",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
@@ -1049,10 +1050,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "fbe08ef4b4c10c03b6b1743ef5512428f7383975",
+        "HEAD": "a05041cb439e9f7c0ab1c85e08a4d0a54ffd4961",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "fbe08ef4b4c10c03b6b1743ef5512428f7383975",
+        "refs/heads/master": "a05041cb439e9f7c0ab1c85e08a4d0a54ffd4961",
         "refs/merge-requests/1/head": "9736d8bb65a8fc2f4b669eafb8e9cae5ec748158",
         "refs/merge-requests/1/merge": "33c9a538c04aaf80fa40b8c17aba8b3bb7ce06b9",
         "refs/merge-requests/2/head": "6fc4fd2bbdeea9e14a516f80f8165441147fc1b5",
