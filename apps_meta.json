@@ -124,9 +124,9 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "a24192401432b797b8a7787bb9b8d62d4dd0c39d",
-        "refs/heads/develop": "a24192401432b797b8a7787bb9b8d62d4dd0c39d",
-        "refs/heads/main": "35099a003e62d10e1b21a682f4b42087b80b06de",
+        "HEAD": "7f41f59d66ae76e8faeae240ed40da5d91cbad77",
+        "refs/heads/develop": "7f41f59d66ae76e8faeae240ed40da5d91cbad77",
+        "refs/heads/main": "7f41f59d66ae76e8faeae240ed40da5d91cbad77",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
         "refs/pull/7/head": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
@@ -553,7 +553,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "bbdad09b634f0c73efc8f9851e204a635fb62e4a",
+        "HEAD": "602f54b239f860f7c02def9c88620e64e50d32bd",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/2d-fid": "6515b609eeed91029201393e82f0592477cb79bc",
@@ -564,9 +564,9 @@
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
-        "refs/heads/gh-pages": "83d8088974df73180a6cc17b8534da5e0036edca",
+        "refs/heads/gh-pages": "583e0436efb48ba86b0ca2bd78b00b8cedbf1072",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "bbdad09b634f0c73efc8f9851e204a635fb62e4a",
+        "refs/heads/main": "602f54b239f860f7c02def9c88620e64e50d32bd",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -745,7 +745,7 @@
         "refs/pull/1623/head": "0863aaf8f44d6cc2db1cc82bc9f6660266483e58",
         "refs/pull/1630/head": "154cd17b7b9367f6317b4a04319f6352321faa56",
         "refs/pull/1633/head": "6515b609eeed91029201393e82f0592477cb79bc",
-        "refs/pull/1633/merge": "6012e6be1231e1dcb74304e6215023becce33b64",
+        "refs/pull/1633/merge": "bd0d60ad750eb6c24931e1d9282758af003b029a",
         "refs/pull/1644/head": "51cb4e0bccf66448a3fc7a03590e4575a21fb4de",
         "refs/pull/1647/head": "7848cf48282b5734920a91d33b85f7da15b4fa2c",
         "refs/pull/1649/head": "ffce5380ce2417e6a36fb42f47774e0d0e323cbf",
