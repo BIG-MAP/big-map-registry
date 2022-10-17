@@ -107,11 +107,11 @@ qm9-schnet-uncertainty:
         authors: Jonas Busk
         external_url: https://biolib.com/jbusk/qm9-schnet-uncertainty/
         documentation_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md
-        git_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/
         logo: https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png
         state: development
     categories:
         - technology-ase
+    git_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/
 HELAO:
     metadata:
         title: HELAO
