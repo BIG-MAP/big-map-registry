@@ -14,10 +14,10 @@ All apps that are part of this registry, must adhere to the following requiremen
 
 - The app's hosted source code repository (e.g., on GitHub) is publicly accessible.
 - The repository specifies the app's open-source license (e.g., in `license.txt`). You can find a list of approved open-source licenses [here](https://opensource.org/licenses).
-- The repository makes suitable acknowledgment to the funding by the European Commission (e.g., in `README.txt`):
+- The repository makes suitable acknowledgment to the funding by the European Commission using the following exact phrasing (e.g., in `README.txt`):
 
 ```text
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957189.
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957189. The project is part of BATTERY 2030+, the large-scale European research initiative for inventing the sustainable batteries of the future.
 ```
 
 - The repository provides sufficient technical documentation on how to install and run the software. This can be achieved via a README file, a Wiki page, or a software documentation hosting platform such as [Read The Docs](https://readthedocs.org/). Please pay particular attention to this, since it is a criterion the evaluators will use to test the apps.
@@ -132,4 +132,4 @@ In addition, all commits on the `main` branch are automatically deployed to GitH
 
 ## Acknowledgements
 
-This project has received funding from the European Union’s [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement [No 957189](https://cordis.europa.eu/project/id/957189).
+This project has received funding from the European Union’s [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement [No 957189](https://cordis.europa.eu/project/id/957189). The project is part of BATTERY 2030+, the large-scale European research initiative for inventing the sustainable batteries of the future.
