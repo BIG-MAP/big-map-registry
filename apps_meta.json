@@ -176,6 +176,7 @@
         "refs/heads/master": "d0f2b39398703a42f79e0f18a515baff592d4cf2",
         "refs/heads/mig/2.x": "1d38dc6bf21986d4fd7b895a4ad089b5274171c0",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
+        "refs/heads/uuid-traitlets-support": "be52d081f269dd5196ac53a6b6f4f25a366faf87",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
         "refs/pull/10/head": "5e0ce9942b30f2d152e756bbdef3f1ad4378071e",
