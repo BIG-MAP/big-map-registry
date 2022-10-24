@@ -186,6 +186,7 @@ FullProfAPP:
             An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://code.ill.fr/rodriguez-carvajal/fullprof-app
+        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/blob/master/src/fpgui/icons/splash.png
         state: development
     categories:
         - data-analysis
