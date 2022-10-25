@@ -231,9 +231,10 @@ SEI-Builder:
         state: development
         version: 0.1.0
     categories:
+        - wp3
+        - utilities
         - technology-ase
         - classical
-        - wp3
     git_url: https://github.com/paolodeangelis/SEI_builder
 HierCVAE:
     metadata:
