@@ -183,9 +183,10 @@ FullProfAPP:
     metadata:
         title: FullProfAPP
         description: |
-            An PyQt based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
+            An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
-        external_url: https://github.com/oarcelus/FullProfAPP-beta
+        external_url: https://code.ill.fr/rodriguez-carvajal/fullprof-app
+        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/blob/master/src/fpgui/icons/splash.png
         state: development
     categories:
         - data-analysis
@@ -230,9 +231,10 @@ SEI-Builder:
         state: development
         version: 0.1.0
     categories:
+        - wp3
+        - utilities
         - technology-ase
         - classical
-        - wp3
     git_url: https://github.com/paolodeangelis/SEI_builder
 HierCVAE:
     metadata:
