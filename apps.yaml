@@ -1,37 +1,37 @@
 ---
-diffusion-electrolyte-mixture:
-    metadata:
-        title: Diffusion Electrolyte Mixture
-        description: |
-            This workflow uses the SimStack framework features to perform Molecular Dynamics simulation to calculate the diffusion coefficient of the components in binary mixture of electrolytes.
-        authors: Saientan Bag
-        external_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture
-        documentation_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/README.md
-        logo: https://raw.githubusercontent.com/saientan/Diffusion_Electrolyte_Mixture/main/Diffusion.png
-        state: development
-        version: '1.0'
-    categories:
-        - classical
-        - technology-simstack
-aiidalab-qe:
-    categories:
-        - technology-aiida
-        - technology-aiidalab
-        - quantum
-    git_url: https://github.com/aiidalab/aiidalab-qe.git
-    metadata:
-        authors:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
-        description: |
-            Compute band structures and other structure properties with Quantum ESPRESSO
-            on the AiiDAlab platform.
-        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-        state:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
-        title: Quantum ESPRESSO AiiDAlab app
-        external_url: https://www.materialscloud.org/work/aiidalab
-        version:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
+# diffusion-electrolyte-mixture:
+#     metadata:
+#         title: Diffusion Electrolyte Mixture
+#         description: |
+#             This workflow uses the SimStack framework features to perform Molecular Dynamics simulation to calculate the diffusion coefficient of the components in binary mixture of electrolytes.
+#         authors: Saientan Bag
+#         external_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture
+#         documentation_url: https://github.com/saientan/Diffusion_Electrolyte_Mixture/blob/main/README.md
+#         logo: https://raw.githubusercontent.com/saientan/Diffusion_Electrolyte_Mixture/main/Diffusion.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - classical
+#         - technology-simstack
+# aiidalab-qe:
+#     categories:
+#         - technology-aiida
+#         - technology-aiidalab
+#         - quantum
+#     git_url: https://github.com/aiidalab/aiidalab-qe.git
+#     metadata:
+#         authors:
+#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+#         description: |
+#             Compute band structures and other structure properties with Quantum ESPRESSO
+#             on the AiiDAlab platform.
+#         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
+#         state:
+#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
+#         title: Quantum ESPRESSO AiiDAlab app
+#         external_url: https://www.materialscloud.org/work/aiidalab
+#         version:
+#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
 optimade-web:
     categories:
         - technology-materials-cloud
@@ -45,48 +45,48 @@ optimade-web:
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
         state: development
         title: OPTIMADE Web Client
-dft-vasp:
-    metadata:
-        title: DFT-VASP
-        description: |
-            The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
-        authors: Celso R. C. Rêgo
-        external_url: https://www.simstack.de
-        documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
-        logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
-        state: development
-        version: '1.0'
-    categories:
-        - quantum
-        - technology-simstack
-format-converter:
-    metadata:
-        title: Format-Converter
-        description: |
-            This app uses ASE technology to convert a geometry file from x to y format.
-        authors: Celso R. C. Rêgo
-        external_url: https://www.simstack.de
-        documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
-        logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
-        state: development
-        version: '1.0'
-    categories:
-        - technology-ase
-        - technology-simstack
-dft-surface:
-    metadata:
-        title: DFT-Surface
-        description: |
-            This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
-        authors: Celso R. C. Rêgo
-        external_url: https://www.simstack.de
-        documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
-        logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png
-        state: development
-        version: '1.0'
-    categories:
-        - quantum
-        - technology-simstack
+# dft-vasp:
+#     metadata:
+#         title: DFT-VASP
+#         description: |
+#             The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
+#         authors: Celso R. C. Rêgo
+#         external_url: https://www.simstack.de
+#         documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
+#         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - quantum
+#         - technology-simstack
+# format-converter:
+#     metadata:
+#         title: Format-Converter
+#         description: |
+#             This app uses ASE technology to convert a geometry file from x to y format.
+#         authors: Celso R. C. Rêgo
+#         external_url: https://www.simstack.de
+#         documentation_url: https://github.com/KIT-Workflows/Format-Converter/blob/master/README.md
+#         logo: https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/master/Files-Format.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - technology-ase
+#         - technology-simstack
+# dft-surface:
+#     metadata:
+#         title: DFT-Surface
+#         description: |
+#             This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
+#         authors: Celso R. C. Rêgo
+#         external_url: https://www.simstack.de
+#         documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
+#         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/Surface/Surface.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - quantum
+#         - technology-simstack
 density-neb:
     metadata:
         title: densityNEB
@@ -154,31 +154,31 @@ clease-gui:
         - data-analysis
         - utilities
         - technology-ase
-rs-at-md:
-    metadata:
-        title: rs@md
-        description: |
-            Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps.
-        authors: Myra Biedermann, Youssef Mabrouk
-        external_url: https://github.com/YoussefMabrouk/rsmd
-        state: development
-    categories:
-        - classical
-battery-electrodes:
-    metadata:
-        title: Battery-Electrodes
-        description: |
-            This workflow uses the SimStack framework features to simulate DFT calculations based on the VASP (QE) code to evaluate the mechanical and thermodynamic stability of the potential cathode material.
-        authors: Celso R. C. Rêgo, Wolfgang Wenzel
-        external_url: https://simstack.readthedocs.io/
-        documentation_url: https://github.com/KIT-Workflows/Battery-Electrodes/blob/main/README.md
-        logo: https://raw.githubusercontent.com/KIT-Workflows/Battery-Electrodes/main/Funnel_Battery.png
-        state: development
-        version: '1.0'
-    categories:
-        - quantum
-        - technology-simstack
-        - technology-ase
+# rs-at-md:
+#     metadata:
+#         title: rs@md
+#         description: |
+#             Reactive Step Molecular Dynamics. rs@md is a wrapper program written in C++ to wrap around a classical molecular dynamics engine to introduce reactive steps.
+#         authors: Myra Biedermann, Youssef Mabrouk
+#         external_url: https://github.com/YoussefMabrouk/rsmd
+#         state: development
+#     categories:
+#         - classical
+# battery-electrodes:
+#     metadata:
+#         title: Battery-Electrodes
+#         description: |
+#             This workflow uses the SimStack framework features to simulate DFT calculations based on the VASP (QE) code to evaluate the mechanical and thermodynamic stability of the potential cathode material.
+#         authors: Celso R. C. Rêgo, Wolfgang Wenzel
+#         external_url: https://simstack.readthedocs.io/
+#         documentation_url: https://github.com/KIT-Workflows/Battery-Electrodes/blob/main/README.md
+#         logo: https://raw.githubusercontent.com/KIT-Workflows/Battery-Electrodes/main/Funnel_Battery.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - quantum
+#         - technology-simstack
+#         - technology-ase
 FullProfAPP:
     metadata:
         title: FullProfAPP
@@ -186,7 +186,7 @@ FullProfAPP:
             An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://code.ill.fr/rodriguez-carvajal/fullprof-app
-        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/blob/master/src/fpgui/icons/splash.png
+        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png
         state: development
     categories:
         - data-analysis
@@ -204,21 +204,21 @@ aiida-seigrowth:
     categories:
         - wp3
         - technology-aiida
-electrolyte-screening:
-    metadata:
-        title: Electrolyte-Screening
-        description: |
-            In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.
-        authors: Celso R. C. Rêgo, Wolfgang Wenzel
-        external_url: https://simstack.readthedocs.io/
-        documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
-        logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/Structure-Generator/Structure-Generator.png
-        state: development
-        version: '1.0'
-    categories:
-        - quantum
-        - technology-simstack
-        - technology-ase
+# electrolyte-screening:
+#     metadata:
+#         title: Electrolyte-Screening
+#         description: |
+#             In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.
+#         authors: Celso R. C. Rêgo, Wolfgang Wenzel
+#         external_url: https://simstack.readthedocs.io/
+#         documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
+#         logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/Structure-Generator/Structure-Generator.png
+#         state: development
+#         version: '1.0'
+#     categories:
+#         - quantum
+#         - technology-simstack
+#         - technology-ase
 SEI-Builder:
     metadata:
         title: SEI Builder
@@ -236,52 +236,52 @@ SEI-Builder:
         - technology-ase
         - classical
     git_url: https://github.com/paolodeangelis/SEI_builder
-HierCVAE:
-    metadata:
-        title: HierCVAE
-        description: |
-            Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
-        authors: Raul Ortega
-        external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
-        logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
-        state: development
-    categories:
-        - generative-model
-        - inverse-design
-        - ml-metadata
-        - wp11
-yadg:
-    metadata:
-        title: yadg
-        description: |
-            yadg: yet another datagram. FAIR data parser for time-resolved experimental data. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
-        authors: Peter Kraus, Nicolas Vetsch
-        documentation_url: https://dgbowl.github.io/yadg
-        logo: https://dgbowl.github.io/images/yadg.png
-        state: development
-        version: '4.1'
-    git_url: https://github.com/dgbowl/yadg
-    categories:
-        - technology-lab
-        - stakeholder
-        - stakeholder-aurora
-tomato:
-    metadata:
-        title: tomato
-        description: |
-            tomato: au-tomation without the pain. Instrument automation library. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
-        authors: Peter Kraus
-        documentation_url: https://dgbowl.github.io/tomato
-        logo: https://dgbowl.github.io/images/tomato.png
-        state: development
-    git_url: https://github.com/dgbowl/tomato
-    categories:
-        - technology-lab
-        - stakeholder
-        - stakeholder-aurora
+# HierCVAE:
+#     metadata:
+#         title: HierCVAE
+#         description: |
+#             Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
+#         authors: Raul Ortega
+#         external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
+#         logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
+#         state: development
+#     categories:
+#         - generative-model
+#         - inverse-design
+#         - ml-metadata
+#         - wp11
+# yadg:
+#     metadata:
+#         title: yadg
+#         description: |
+#             yadg: yet another datagram. FAIR data parser for time-resolved experimental data. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
+#         authors: Peter Kraus, Nicolas Vetsch
+#         documentation_url: https://dgbowl.github.io/yadg
+#         logo: https://dgbowl.github.io/images/yadg.png
+#         state: development
+#         version: '4.1'
+#     git_url: https://github.com/dgbowl/yadg
+#     categories:
+#         - technology-lab
+#         - stakeholder
+#         - stakeholder-aurora
+# tomato:
+#     metadata:
+#         title: tomato
+#         description: |
+#             tomato: au-tomation without the pain. Instrument automation library. Part of the dgbowl suite of tools for digital (electro-)catalysis and battery materials research, developed at Empa.
+#         authors: Peter Kraus
+#         documentation_url: https://dgbowl.github.io/tomato
+#         logo: https://dgbowl.github.io/images/tomato.png
+#         state: development
+#     git_url: https://github.com/dgbowl/tomato
+#     categories:
+#         - technology-lab
+#         - stakeholder
+#         - stakeholder-aurora
 aiidalab-aurora:
     metadata:
-        title: Aurora AiiDAlab app
+        title: Aurora AiiDAlab
         description: |
             AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative
         authors: Loris Ercole
