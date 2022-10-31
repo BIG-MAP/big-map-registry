@@ -58,7 +58,7 @@
         "HEAD": "fb2a1f5c3ebfb62a53226761b6bd4198f93a81cc",
         "refs/heads/add-license-1": "96de2b3d777c429d854a49d3c930dcaedc4d9051",
         "refs/heads/main": "fb2a1f5c3ebfb62a53226761b6bd4198f93a81cc",
-        "refs/heads/pre-commit-ci-update-config": "db1e7ec8a5ff9a8b004a8aef0a875b6344545ee3",
+        "refs/heads/pre-commit-ci-update-config": "bb0df1a56db8ad7f112fbe97c2f72a71a0ae75f9",
         "refs/pull/1/head": "3ba83084bae980938e034d4af6f3406e2c19558c",
         "refs/pull/2/head": "8e30d37a446ba9f9f3ae359589f5a87defb49f8d",
         "refs/pull/3/head": "96de2b3d777c429d854a49d3c930dcaedc4d9051",
@@ -66,6 +66,8 @@
         "refs/pull/5/head": "4b6ef48e63591da6330dde87e4caeb94ca4524b7",
         "refs/pull/6/head": "6791f1092b1a8b0027c874d4893c3a9a4d5d77b9",
         "refs/pull/7/head": "db1e7ec8a5ff9a8b004a8aef0a875b6344545ee3",
+        "refs/pull/8/head": "bb0df1a56db8ad7f112fbe97c2f72a71a0ae75f9",
+        "refs/pull/8/merge": "efa69bbe9eba8b8d1145cde2e3571ad1231bdca5",
         "refs/tags/v0.1.0-beta": "bebcafcd954e7242a2e60b5fbde9b8730e623961"
       },
       "hosted_on": "github.com",
