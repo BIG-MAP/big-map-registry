@@ -13,25 +13,25 @@
 #     categories:
 #         - classical
 #         - technology-simstack
-# aiidalab-qe:
-#     categories:
-#         - technology-aiida
-#         - technology-aiidalab
-#         - quantum
-#     git_url: https://github.com/aiidalab/aiidalab-qe.git
-#     metadata:
-#         authors:
-#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
-#         description: |
-#             Compute band structures and other structure properties with Quantum ESPRESSO
-#             on the AiiDAlab platform.
-#         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-#         state:
-#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
-#         title: Quantum ESPRESSO AiiDAlab app
-#         external_url: https://www.materialscloud.org/work/aiidalab
-#         version:
-#             $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
+aiidalab-qe:
+    categories:
+        - technology-aiida
+        - technology-aiidalab
+        - quantum
+    git_url: https://github.com/aiidalab/aiidalab-qe.git
+    metadata:
+        authors:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+        description: |
+            Compute band structures and other structure properties with Quantum ESPRESSO
+            on the AiiDAlab platform.
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
+        state:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
+        title: Quantum ESPRESSO AiiDAlab app
+        external_url: https://www.materialscloud.org/work/aiidalab
+        version:
+            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
 optimade-web:
     categories:
         - technology-materials-cloud
