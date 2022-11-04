@@ -236,20 +236,25 @@ SEI-Builder:
         - technology-ase
         - classical
     git_url: https://github.com/paolodeangelis/SEI_builder
-# HierCVAE:
-#     metadata:
-#         title: HierCVAE
-#         description: |
-#             Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
-#         authors: Raul Ortega
-#         external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
-#         logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
-#         state: development
-#     categories:
-#         - generative-model
-#         - inverse-design
-#         - ml-metadata
-#         - wp11
+
+
+HierCVAE:
+    categories:
+        - generative-model
+        - inverse-design
+        - ml-metadata
+        - wp11
+    git_url: https://github.com/raulorteg/HierCVAE-demo
+    metadata:
+        authors: Raul Ortega
+        description: |
+            Hierarchical Conditional Variational Autoencoder. A BioLib app for inverse design of molecules given the electron band gap.
+        logo: https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png
+        state: development
+        title: HierCVAE
+        external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
+
+
 # yadg:
 #     metadata:
 #         title: yadg
