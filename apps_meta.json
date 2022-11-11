@@ -170,6 +170,7 @@
       },
       "gitinfo": {
         "HEAD": "3b62fac03fad3128f735ca2beff5ccdbc761db42",
+        "refs/heads/aux/bump-wc": "c127e2d90e88626b3b399dbb28935dd89e49612c",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
