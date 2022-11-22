@@ -45,20 +45,20 @@ optimade-web:
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
         state: development
         title: OPTIMADE Web Client
-# dft-vasp:
-#     metadata:
-#         title: DFT-VASP
-#         description: |
-#             The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
-#         authors: Celso R. C. Rêgo
-#         external_url: https://www.simstack.de
-#         documentation_url: https://github.com/KIT-WaNos/DFT_VASP/blob/main/README.md
-#         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
-#         state: development
-#         version: '1.0'
-#     categories:
-#         - quantum
-#         - technology-simstack
+dft-vasp:
+    metadata:
+        title: DFT-VASP
+        description: |
+            The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
+        authors: Celso R. C. Rêgo
+        external_url: https://www.simstack.de
+        documentation_url: https://github.com/KIT-Workflows/DFT-VASP/blob/main/README.md
+        logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
+        state: development
+        version: '1.0'
+    categories:
+        - quantum
+        - technology-simstack
 # format-converter:
 #     metadata:
 #         title: Format-Converter
