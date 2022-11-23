@@ -204,21 +204,21 @@ aiida-seigrowth:
     categories:
         - wp3
         - technology-aiida
-# electrolyte-screening:
-#     metadata:
-#         title: Electrolyte-Screening
-#         description: |
-#             In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.
-#         authors: Celso R. C. Rêgo, Wolfgang Wenzel
-#         external_url: https://simstack.readthedocs.io/
-#         documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
-#         logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/Structure-Generator/Structure-Generator.png
-#         state: development
-#         version: '1.0'
-#     categories:
-#         - quantum
-#         - technology-simstack
-#         - technology-ase
+electrolyte-screening:
+    metadata:
+        title: Electrolyte-Screening
+        description: |
+            In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.
+        authors: Celso R. C. Rêgo, Wolfgang Wenzel
+        external_url: https://simstack.readthedocs.io/
+        documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
+        logo: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/logo_workflow.png
+        state: development
+        version: '1.0'
+    categories:
+        - quantum
+        - technology-simstack
+        - technology-ase
 SEI-Builder:
     metadata:
         title: SEI Builder
