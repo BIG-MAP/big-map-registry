@@ -168,7 +168,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "9c3e67a591ce421d91cf3eec6be73d7b8c8e7d8a",
+        "HEAD": "d363912b7e51fc63ca44a389f79148990d8973ea",
         "refs/heads/bandswidget": "46ea0a19e09a52af5d7b36d7dba0ee922d19dd1d",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -181,7 +181,7 @@
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "9c3e67a591ce421d91cf3eec6be73d7b8c8e7d8a",
+        "refs/heads/master": "d363912b7e51fc63ca44a389f79148990d8973ea",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
@@ -400,7 +400,9 @@
         "refs/tags/v22.11.0": "1e30fd2e6c34a3de899d5725ac8ff3cd8f6a49e2",
         "refs/tags/v22.11.0^{}": "d608f3a02f109b34a1088b6eca47223125168d14",
         "refs/tags/v22.11.1": "7deb0e0287763373e259eb063b6b9404a855cee1",
-        "refs/tags/v22.11.1^{}": "41ecaf27f76b2582f9b4e0647a8adaf60619cc8e"
+        "refs/tags/v22.11.1^{}": "41ecaf27f76b2582f9b4e0647a8adaf60619cc8e",
+        "refs/tags/v22.11.2": "edfda72d13edf8091cb9d6f22c9bc970039283bf",
+        "refs/tags/v22.11.2^{}": "d363912b7e51fc63ca44a389f79148990d8973ea"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
