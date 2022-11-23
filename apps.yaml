@@ -278,7 +278,8 @@ tomato:
         version: '0.2'
     git_url: https://github.com/dgbowl/tomato
     categories:
-        - technology-lab - stakeholder
+        - technology-lab
+        - stakeholder
         - stakeholder-aurora
 aiidalab-aurora:
     metadata:
