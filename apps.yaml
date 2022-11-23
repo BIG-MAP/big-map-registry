@@ -13,6 +13,23 @@
 #     categories:
 #         - classical
 #         - technology-simstack
+MADAP:
+    categories:
+        - data-analysis
+        - data-visualization
+        - utilities
+    git_url: https://github.com/fuzhanrahmanian/MADAP.git
+    metadata:
+        authors: Fuzhan Rahmanian
+        description: |
+            Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis for three different classes: Impedance, Arrhenius and Voltammetry
+        documentation_url: https://fuzhanrahmanian.github.io/MADAP/
+        state: open-beta
+        title: MADAP
+        external_url: https://youtu.be/nL-eJpb1AxI
+        version: 0.11.0
+        logo: https://github.com/fuzhanrahmanian/MADAP/blob/master/logo.png
+       
 aiidalab-qe:
     categories:
         - technology-aiida
