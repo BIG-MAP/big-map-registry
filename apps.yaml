@@ -29,7 +29,7 @@ MADAP:
         external_url: https://youtu.be/nL-eJpb1AxI
         version: 0.11.0
         logo: https://github.com/fuzhanrahmanian/MADAP/blob/master/logo.png
-       
+
 aiidalab-qe:
     categories:
         - technology-aiida
