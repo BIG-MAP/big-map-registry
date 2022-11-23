@@ -449,6 +449,25 @@
       "name": "density-neb",
       "subpage": "apps/density-neb.html"
     },
+    "dft-vasp": {
+      "metadata": {
+        "title": "DFT-VASP",
+        "description": "The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
+        "authors": "Celso R. C. Rêgo",
+        "external_url": "https://www.simstack.de",
+        "documentation_url": "https://github.com/KIT-Workflows/DFT-VASP/blob/main/README.md",
+        "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "quantum",
+        "technology-simstack"
+      ],
+      "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
+      "name": "dft-vasp",
+      "subpage": "apps/dft-vasp.html"
+    },
     "nmrium": {
       "metadata": {
         "title": "NMRium",
