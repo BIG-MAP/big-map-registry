@@ -61,6 +61,48 @@
       "name": "HierCVAE",
       "subpage": "apps/HierCVAE.html"
     },
+    "MADAP": {
+      "categories": [
+        "data-analysis",
+        "data-visualization",
+        "utilities"
+      ],
+      "git_url": "https://github.com/fuzhanrahmanian/MADAP.git",
+      "metadata": {
+        "authors": "Fuzhan Rahmanian",
+        "description": "Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis for three different classes: Impedance, Arrhenius and Voltammetry\n",
+        "documentation_url": "https://fuzhanrahmanian.github.io/MADAP/",
+        "state": "stable",
+        "title": "MADAP",
+        "external_url": "https://youtu.be/nL-eJpb1AxI",
+        "version": "0.11.0",
+        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png"
+      },
+      "gitinfo": {
+        "HEAD": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
+        "refs/heads/ca_analysis": "fb6cd7c179d3d47bbbcf92b05dea9cccd9e7948f",
+        "refs/heads/gh-pages": "7a65ffcd3ae225b4136aa25824d75040604f46e0",
+        "refs/heads/master": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
+        "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
+        "refs/pull/10/head": "8fc8098df11bb60cb4607e711718c2d4fbcde5de",
+        "refs/pull/11/head": "1136f8fca6fa4843dc1904be299b9499f71c5168",
+        "refs/pull/12/head": "8523de375e35df54250929f16de1f08c077275a4",
+        "refs/pull/13/head": "3fd45c33759546804a7d9af69b26634e2bbd80f6",
+        "refs/pull/14/head": "86b126cf4f45f33ee5f03ec1d89ae259784e36f2",
+        "refs/pull/15/head": "99d17afe3dda1207b055f33e16ccd5fe079fe6e4",
+        "refs/pull/18/head": "2f81b02f656a953cd5be34d728aefb5e0f7db035",
+        "refs/pull/18/merge": "be8011170397a723de1eadc05e8efa4c49d047b7",
+        "refs/tags/0.10.0": "4878b368dd8e7f1d93bc496fa53a421e680987c0",
+        "refs/tags/0.2": "f55410c014fb29bfcdbc694d910b884d8167ea3e",
+        "refs/tags/0.3": "d886102edcc7e9bb62b3b31bfb6b034f8e34c738",
+        "refs/tags/exe": "9ffae45031e51b06f2a605cb8e485fcbd42a6579",
+        "refs/tags/v0.11.0": "22195de44eb0cd85b206e4894961d004c2ed27f2"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
+      "name": "MADAP",
+      "subpage": "apps/MADAP.html"
+    },
     "SEI-Builder": {
       "metadata": {
         "title": "SEI Builder",
