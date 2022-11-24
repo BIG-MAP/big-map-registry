@@ -179,7 +179,7 @@
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
         "refs/heads/fix-266-change_not_available": "17377b8d4cf21ecb29146656bbf0a092331d7e3c",
         "refs/heads/fix/245/all-button-settings": "566f1d733678aecdadf9a70f377b653b71d77c38",
-        "refs/heads/fix/318": "d340985a49a898e84c5d582f97650b4d2edf09c7",
+        "refs/heads/fix/318": "25e737d6c2462a2b8f96e9cf6e135669399b9336",
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/get-rid-comment-in-package-setup-requirement": "40602e3146d1afb4bf6abfb3d4a99de83da26325",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
@@ -321,8 +321,8 @@
         "refs/pull/314/head": "3739e2b70bf08c166d4f2dc0e0551963b22bea4d",
         "refs/pull/315/head": "4c34bc72946699d45efaeeaff8d90f01735aec57",
         "refs/pull/317/head": "e0efaf25f8604cff5f87370098e240a31575ae92",
-        "refs/pull/319/head": "d340985a49a898e84c5d582f97650b4d2edf09c7",
-        "refs/pull/319/merge": "a0f1facb6b6207bfc9058031f552e76ddef1f205",
+        "refs/pull/319/head": "25e737d6c2462a2b8f96e9cf6e135669399b9336",
+        "refs/pull/319/merge": "a5fc2aa770f981b5381cc4c1a67ab904d19f3f8d",
         "refs/pull/32/head": "225e4d6bc0eb10dfe2a38325b8d3814afc18e268",
         "refs/pull/321/head": "40602e3146d1afb4bf6abfb3d4a99de83da26325",
         "refs/pull/321/merge": "f88e24fa22511fd4f5f3d394df42776e1e3aab43",
@@ -476,7 +476,7 @@
         "authors": "Celso R. C. Rêgo, Wolfgang Wenzel",
         "external_url": "https://simstack.readthedocs.io/",
         "documentation_url": "https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md",
-        "logo": "https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/logo_workflow.png",
+        "logo": "https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png",
         "state": "development",
         "version": "1.0"
       },
@@ -485,7 +485,7 @@
         "technology-simstack",
         "technology-ase"
       ],
-      "logo": "https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/logo_workflow.png",
+      "logo": "https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png",
       "name": "electrolyte-screening",
       "subpage": "apps/electrolyte-screening.html"
     },
