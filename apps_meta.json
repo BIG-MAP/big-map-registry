@@ -488,6 +488,26 @@
       "name": "density-neb",
       "subpage": "apps/density-neb.html"
     },
+    "dft-qe": {
+      "metadata": {
+        "title": "DFT-QE",
+        "description": "The DFT-QE WaNo implements various methods available within the Quantum Espresso code.\n",
+        "authors": "Celso R. C. Rêgo",
+        "external_url": "https://simstack.readthedocs.io/en/latest/",
+        "documentation_url": "https://github.com/KIT-Workflows/DFT-QE/blob/main/README.md",
+        "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "quantum",
+        "technology-simstack",
+        "technology-ase"
+      ],
+      "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png",
+      "name": "dft-qe",
+      "subpage": "apps/dft-qe.html"
+    },
     "dft-surface": {
       "metadata": {
         "title": "DFT-Surface",
