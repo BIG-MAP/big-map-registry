@@ -13,6 +13,22 @@
 #     categories:
 #         - classical
 #         - technology-simstack
+MADAP:
+    categories:
+        - data-analysis
+        - data-visualization
+        - utilities
+    git_url: https://github.com/fuzhanrahmanian/MADAP.git
+    metadata:
+        authors: Fuzhan Rahmanian
+        description: |
+            Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis for three different classes: Impedance, Arrhenius and Voltammetry
+        documentation_url: https://fuzhanrahmanian.github.io/MADAP/
+        state: stable
+        title: MADAP
+        external_url: https://youtu.be/nL-eJpb1AxI
+        version: 0.11.0
+        logo: https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png
 aiidalab-qe:
     categories:
         - technology-aiida
@@ -212,7 +228,7 @@ electrolyte-screening:
         authors: Celso R. C. Rêgo, Wolfgang Wenzel
         external_url: https://simstack.readthedocs.io/
         documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
-        logo: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/logo_workflow.png
+        logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png
         state: development
         version: '1.0'
     categories:
