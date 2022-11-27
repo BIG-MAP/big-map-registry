@@ -80,7 +80,8 @@
       },
       "gitinfo": {
         "HEAD": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
-        "refs/heads/ca_analysis": "fb6cd7c179d3d47bbbcf92b05dea9cccd9e7948f",
+        "refs/heads/ca_analysis": "084e5da4dc8693baee34839de694e49c053cc111",
+        "refs/heads/cp_analysis": "084e5da4dc8693baee34839de694e49c053cc111",
         "refs/heads/gh-pages": "7a65ffcd3ae225b4136aa25824d75040604f46e0",
         "refs/heads/master": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
