@@ -80,8 +80,7 @@
       },
       "gitinfo": {
         "HEAD": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
-        "refs/heads/ca_analysis": "084e5da4dc8693baee34839de694e49c053cc111",
-        "refs/heads/cp_analysis": "084e5da4dc8693baee34839de694e49c053cc111",
+        "refs/heads/cp_analysis": "7bc3d8a9bcfa378cdc243866bcb5a91bed6f0f69",
         "refs/heads/gh-pages": "7a65ffcd3ae225b4136aa25824d75040604f46e0",
         "refs/heads/master": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
@@ -93,6 +92,8 @@
         "refs/pull/15/head": "99d17afe3dda1207b055f33e16ccd5fe079fe6e4",
         "refs/pull/18/head": "2f81b02f656a953cd5be34d728aefb5e0f7db035",
         "refs/pull/18/merge": "be8011170397a723de1eadc05e8efa4c49d047b7",
+        "refs/pull/19/head": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
+        "refs/pull/20/head": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
         "refs/tags/0.10.0": "4878b368dd8e7f1d93bc496fa53a421e680987c0",
         "refs/tags/0.2": "f55410c014fb29bfcdbc694d910b884d8167ea3e",
         "refs/tags/0.3": "d886102edcc7e9bb62b3b31bfb6b034f8e34c738",
