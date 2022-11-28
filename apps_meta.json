@@ -79,10 +79,10 @@
         "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png"
       },
       "gitinfo": {
-        "HEAD": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
+        "HEAD": "2b9b6b0a58affa90a8e91903cca13b30ed91bab8",
         "refs/heads/cp_analysis": "b026bd87970eb0a593a537078af286cbe0a24d38",
         "refs/heads/gh-pages": "7a65ffcd3ae225b4136aa25824d75040604f46e0",
-        "refs/heads/master": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
+        "refs/heads/master": "2b9b6b0a58affa90a8e91903cca13b30ed91bab8",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
         "refs/pull/10/head": "8fc8098df11bb60cb4607e711718c2d4fbcde5de",
         "refs/pull/11/head": "1136f8fca6fa4843dc1904be299b9499f71c5168",
@@ -98,7 +98,8 @@
         "refs/tags/0.2": "f55410c014fb29bfcdbc694d910b884d8167ea3e",
         "refs/tags/0.3": "d886102edcc7e9bb62b3b31bfb6b034f8e34c738",
         "refs/tags/exe": "9ffae45031e51b06f2a605cb8e485fcbd42a6579",
-        "refs/tags/v0.11.0": "22195de44eb0cd85b206e4894961d004c2ed27f2"
+        "refs/tags/v0.11.0": "22195de44eb0cd85b206e4894961d004c2ed27f2",
+        "refs/tags/v1.0.0": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
