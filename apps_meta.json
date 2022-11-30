@@ -215,8 +215,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "ec1e4a40d972e302097d685ec2b47c94941f3c92",
-        "refs/heads/bump-awb": "856e93b7cfd47c83cd82e5bc3d84549b21881424",
+        "HEAD": "001a7df926c547849cec1c14f084c7b945b5ab58",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
@@ -229,7 +228,7 @@
         "refs/heads/fix/confirm-button": "dc03681bdbbd4818198253bd568b81598281b6ee",
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "ec1e4a40d972e302097d685ec2b47c94941f3c92",
+        "refs/heads/master": "001a7df926c547849cec1c14f084c7b945b5ab58",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/heads/pre-commit-ci-update-config": "4d21c50cb58e24583c75dc171c51d9feb781e6ad",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -371,8 +370,7 @@
         "refs/pull/321/head": "40602e3146d1afb4bf6abfb3d4a99de83da26325",
         "refs/pull/323/head": "4d21c50cb58e24583c75dc171c51d9feb781e6ad",
         "refs/pull/323/merge": "2a8cfda2be9323300a0f93fd2b84bc32d086856f",
-        "refs/pull/324/head": "856e93b7cfd47c83cd82e5bc3d84549b21881424",
-        "refs/pull/324/merge": "e112840fd9e87cf6e037289c27c077b1d3444862",
+        "refs/pull/324/head": "1999af59545adaffa23a55f3d2de30fadf670173",
         "refs/pull/33/head": "14ffe402bebfb50b9c99a9a864e9653ca402a2b7",
         "refs/pull/34/head": "5d0bb28ad70d6e94aec11153840ff4c3c76ba0f1",
         "refs/pull/37/head": "5ef369374e56de550534db3d6f3de404a519921b",
@@ -455,6 +453,8 @@
         "refs/tags/v22.11.0^{}": "d608f3a02f109b34a1088b6eca47223125168d14",
         "refs/tags/v22.11.1": "7deb0e0287763373e259eb063b6b9404a855cee1",
         "refs/tags/v22.11.1^{}": "41ecaf27f76b2582f9b4e0647a8adaf60619cc8e",
+        "refs/tags/v22.11.2": "4632bab91d319d146ea01c6234a8ca947babc693",
+        "refs/tags/v22.11.2^{}": "001a7df926c547849cec1c14f084c7b945b5ab58",
         "refs/tags/v22.11.2a0": "8ffaab77bb01a5ae4f4aa5467261068a8356b275",
         "refs/tags/v22.11.2a0^{}": "c21a7edb7f184afd146f3d25a9a4463849374857"
       },
