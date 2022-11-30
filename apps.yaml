@@ -355,3 +355,15 @@ dft-qe:
         - quantum
         - technology-simstack
         - technology-ase
+aiida-open_circuit_voltage:
+    metadata:
+        title: AiiDA open circuit voltage
+	  version: $ref: https://raw.githubusercontent.com/tsthakur/aiida-open_circuit_voltage/main/metadata.json#version
+        description: |
+            An AiiDA plugin to calcutlate open circuit voltages at various charge of states for any arbitrary cathode material. A demonstrator of BIG-MAP common workflow api initiative
+        authors: $ref: https://raw.githubusercontent.com/tsthakur/aiida-open_circuit_voltage/main/metadata.json#authors
+        documentation_url: https://github.com/tsthakur/aiida-open_circuit_voltage/blob/main/README.md
+        state: $ref: https://raw.githubusercontent.com/tsthakur/aiida-open_circuit_voltage/main/metadata.json#state
+    git_url: https://github.com/tsthakur/aiida-open_circuit_voltage
+    categories:
+        - technology-aiida
