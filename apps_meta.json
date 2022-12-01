@@ -607,7 +607,7 @@
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
-        "refs/heads/fix-baseline-correction": "836b00a5693aa25d5e82b2f5db5d5aee103ec3ac",
+        "refs/heads/fix-baseline-correction": "f3b3c65a68f0b0d3260b3714aebad4c5a29f5d4f",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
