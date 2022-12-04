@@ -180,19 +180,21 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "442d767ca9e79486e7ae0cce8d124255e13d78c1",
-        "refs/heads/develop": "442d767ca9e79486e7ae0cce8d124255e13d78c1",
+        "HEAD": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616",
+        "refs/heads/develop": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616",
         "refs/heads/main": "9583654dca91f5a0869c1cdce28a53d4e8d1e31f",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/17/head": "6210ce468dfb71544344b558d983d911a5d82601",
         "refs/pull/21/head": "442d767ca9e79486e7ae0cce8d124255e13d78c1",
+        "refs/pull/22/head": "634a37944f96f8cb0e172ebdc58e49af92a52a08",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
         "refs/pull/7/head": "ed7ecc3ddf7188bb7e54e0bafda8c56e811e192d",
         "refs/pull/8/head": "1d08f1eedb4804edf7f1947a6132a00c27275114",
         "refs/tags/0.2": "eedd0faf92f1d5a3495e059d98b898a700709049",
         "refs/tags/0.2.1": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/tags/0.3.0": "35099a003e62d10e1b21a682f4b42087b80b06de",
-        "refs/tags/0.4.0": "6210ce468dfb71544344b558d983d911a5d82601"
+        "refs/tags/0.4.0": "6210ce468dfb71544344b558d983d911a5d82601",
+        "refs/tags/0.5.0": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616"
       },
       "hosted_on": "github.com",
       "name": "aiidalab-aurora",
