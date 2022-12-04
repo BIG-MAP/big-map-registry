@@ -609,6 +609,7 @@
         "refs/heads/1920-update-about-nmrium-button-to-use-modal-from-analysis-ui-components": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
         "refs/heads/1923-importation-of-assigned-spectra-and-sum-of-integrals": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
         "refs/heads/1932-autoassignment-test-case": "c69a3effe0875105cb6c1927f4a8345601aeb162",
+        "refs/heads/1959-add-test-case-show-hide-spectra": "3f08cad54568d458179edb66ce60d4a3546d030c",
         "refs/heads/1968-append-replace-data-state": "ff87888debf68397541e87c3d9da083afb678661",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
