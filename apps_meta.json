@@ -605,6 +605,7 @@
         "HEAD": "3bfece7d5f588c85eb62927c77be99b1ae29597f",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
+        "refs/heads/1763-add-test-case-on-processed-spectra": "84475118c30b63a0938469593a2ad51fb2805042",
         "refs/heads/1813-uuid-instead-of-title": "60ad1346d7b806b0966219b8535f046c81bbed88",
         "refs/heads/1920-update-about-nmrium-button-to-use-modal-from-analysis-ui-components": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
         "refs/heads/1923-importation-of-assigned-spectra-and-sum-of-integrals": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
