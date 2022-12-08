@@ -340,6 +340,18 @@ nmrium:
     categories:
         - data-visualization
         - data-analysis
+galvanicium:
+    metadata:
+        title: Galvanicium
+        description: |
+            Galvanicium is a web application made to display and superimpose measurements from potentiostats and battery cyclers.
+        authors: Michaël Zasso, Daniel Kostro, Santiago Miranda, Luc Patiny
+        logo: https://www.galvanicium.org/images/galvanicium.svg
+        state: stable
+        documentation_url: https://www.galvanicium.org/
+    git_url:  https://github.com/zakodium-oss/galvanicium-app
+    categories:
+        - data-visualization
 dft-qe:
     metadata:
         title: DFT-QE
@@ -355,3 +367,4 @@ dft-qe:
         - quantum
         - technology-simstack
         - technology-ase
+
