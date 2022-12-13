@@ -612,6 +612,7 @@
         "refs/heads/1813-uuid-instead-of-title": "60ad1346d7b806b0966219b8535f046c81bbed88",
         "refs/heads/1920-update-about-nmrium-button-to-use-modal-from-analysis-ui-components": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
         "refs/heads/1923-importation-of-assigned-spectra-and-sum-of-integrals": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
+        "refs/heads/1976-improve-source-for-jcamp-url": "833e6271f7ed42ccd0f9d1563dcaa43c68151cb4",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
