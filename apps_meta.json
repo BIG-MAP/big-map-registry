@@ -605,7 +605,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "43347a039eb71a80dde70d9106d0c7d95a0f7678",
+        "HEAD": "d75ed34bb84f7c18e9ddef4bca72f331fb60dc40",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
@@ -616,7 +616,6 @@
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
-        "refs/heads/cspell": "a0b3820753ddfae4606920cb16f2b3730095d984",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
@@ -624,7 +623,7 @@
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "43347a039eb71a80dde70d9106d0c7d95a0f7678",
+        "refs/heads/main": "d75ed34bb84f7c18e9ddef4bca72f331fb60dc40",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -945,7 +944,6 @@
         "refs/pull/2012/head": "c0f32e5c0cc88677f9c6e0acc160a56e222ed835",
         "refs/pull/2014/head": "35d40c79d56c9a555b29db8385fb490dd70a903f",
         "refs/pull/2015/head": "a0b3820753ddfae4606920cb16f2b3730095d984",
-        "refs/pull/2015/merge": "16dc5e5202b0069925fc6a332c8ed438f047f06d",
         "refs/pull/207/head": "eec1d8fd72767dba655bc662416edce0be2eee80",
         "refs/pull/226/head": "713b763a3b86d4726d9285def7cb1925ee18906b",
         "refs/pull/233/head": "1d3a7333aff6806884d25f7c541733a57a13ac17",
