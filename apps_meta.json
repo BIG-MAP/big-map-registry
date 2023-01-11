@@ -607,7 +607,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "c12167c85131e1f77f87ac6eabfec27bf55f3605",
+        "HEAD": "abb19ec9cb4c777bd6d671783601c0582deb41b2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
@@ -626,8 +626,7 @@
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "c12167c85131e1f77f87ac6eabfec27bf55f3605",
-        "refs/heads/migrate-matrixgeneration-preferences-to-settings": "f387286f4b422a52cc524674f8ad20739fdc1838",
+        "refs/heads/main": "abb19ec9cb4c777bd6d671783601c0582deb41b2",
         "refs/heads/multiple-spectra-analysis-and-highlight": "b692e5802a20de3e512f61df4bec42226a6dd003",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -977,7 +976,6 @@
         "refs/pull/2061/head": "b692e5802a20de3e512f61df4bec42226a6dd003",
         "refs/pull/2061/merge": "417ab307079b7caeb4223c58b1691794f90cdff0",
         "refs/pull/2062/head": "f387286f4b422a52cc524674f8ad20739fdc1838",
-        "refs/pull/2062/merge": "d9fb7c45d040cf66c18820240863de52d8e7e5b1",
         "refs/pull/207/head": "eec1d8fd72767dba655bc662416edce0be2eee80",
         "refs/pull/226/head": "713b763a3b86d4726d9285def7cb1925ee18906b",
         "refs/pull/233/head": "1d3a7333aff6806884d25f7c541733a57a13ac17",
