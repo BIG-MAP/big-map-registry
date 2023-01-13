@@ -1475,7 +1475,8 @@
         "refs/tags/4.2a2": "52d59abde67393e3723016ece60b9f85c3c4e2be",
         "refs/tags/4.2rc1": "05432d756bcfea3ebbe8ab1dc6639c72922be005",
         "refs/tags/4.2rc2": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6",
-        "refs/tags/4.2rc3": "2712ced892c06e1f9aedacdf28e8447cd18dc675"
+        "refs/tags/4.2rc3": "2712ced892c06e1f9aedacdf28e8447cd18dc675",
+        "refs/tags/5.0a1": "20bef25baf652308a30000573dd6823794bf58ab"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
