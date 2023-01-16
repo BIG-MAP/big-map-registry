@@ -195,7 +195,8 @@
         "refs/tags/0.2.1": "64e9408178a2fcbeecf5e774f22a82b1b25041c3",
         "refs/tags/0.3.0": "35099a003e62d10e1b21a682f4b42087b80b06de",
         "refs/tags/0.4.0": "6210ce468dfb71544344b558d983d911a5d82601",
-        "refs/tags/0.5.0": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616"
+        "refs/tags/0.5.0": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616",
+        "refs/tags/0.6.0": "1dec7ceb4e1c22e33901fb5f4d3efd4f544b32dc"
       },
       "hosted_on": "github.com",
       "name": "aiidalab-aurora",
@@ -616,6 +617,7 @@
         "refs/heads/1813-uuid-instead-of-title": "60ad1346d7b806b0966219b8535f046c81bbed88",
         "refs/heads/1920-update-about-nmrium-button-to-use-modal-from-analysis-ui-components": "40fe5dcbd8a41b322ff5c1baa92375985f7f24d9",
         "refs/heads/1923-importation-of-assigned-spectra-and-sum-of-integrals": "b0ce941eeb1aa656f09fb2e7ce73c124ac16199f",
+        "refs/heads/2038-importing-data-from-filecollection": "422aa2e5b824b8fabb4a03fdefeafff4c25bed15",
         "refs/heads/2053-bruker-file-not-loaded": "771d07e3cca8e343e5f8fa537f04fef974f10c4c",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/add-parameters-on-the-spectrum": "5ed02c4ad5f2dc713c85f21c148f1f8a8aa240d2",
@@ -989,7 +991,6 @@
         "refs/pull/2071/head": "615aaaf57eb9b3df2aeb32eefa851031ab1ba951",
         "refs/pull/2071/merge": "463c0905df4287ec7c8043c2f76ff7cdab3fa1ef",
         "refs/pull/2072/head": "fb2198df8958b4371016dc4a59bcf5f731a69c01",
-        "refs/pull/2072/merge": "51e80fcde3703949aeb593bda4364651b43db0dd",
         "refs/pull/226/head": "713b763a3b86d4726d9285def7cb1925ee18906b",
         "refs/pull/233/head": "1d3a7333aff6806884d25f7c541733a57a13ac17",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
