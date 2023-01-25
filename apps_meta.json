@@ -649,6 +649,7 @@
         "refs/heads/release-please--branches--main--components--nmrium": "5ea1387b772c34c240c838950a0d3e35fa35faf6",
         "refs/heads/release-please--branches--master": "f5e74d28a531a68fb3070db54d36582999054568",
         "refs/heads/release-v0.15.1": "00128178f3f8b022bf143d2bf4706aca7cca0657",
+        "refs/heads/resize-floating-molecule": "93e8226e962da493e4dade21b019eaa48a237ca2",
         "refs/heads/step-userguide": "bca721387c7a9deddc9e38e896a1a43a0839af7d",
         "refs/heads/testRebase": "e460cac579a56a7c21db151ed8279dd1fc67c689",
         "refs/heads/testWFunctionGenerator": "0e1b53381bb061421c6184f4740da913f826d560",
