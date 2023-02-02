@@ -614,7 +614,7 @@
       ],
       "gitinfo": {
         "HEAD": "3c5db558a8cb2c8f5611a8a7f6cd76a9ef3c2ff7",
-        "refs/heads/1533-fid-size-not-correct": "3c5db558a8cb2c8f5611a8a7f6cd76a9ef3c2ff7",
+        "refs/heads/1533-fid-size-not-correct": "cf4d40a02e8f997b3ba8c5a80ed58790c8683d6c",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
