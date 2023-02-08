@@ -355,3 +355,18 @@ dft-qe:
         - quantum
         - technology-simstack
         - technology-ase
+
+datalab:
+    metadata:
+        title: Datalab
+        description: |
+            Datalab is a place to store your experimental data and the connections between them.
+        authors: Celso R. C. Rêgo
+        external_url: https://github.com/the-grey-group/datalab
+        documentation_url: https://the-datalab.readthedocs.io
+        logo: https://avatars.githubusercontent.com/u/50706292?s=200&v=4
+        state: development
+        version: '0.1'
+    categories:
+        - data-management
+        - open-apis
