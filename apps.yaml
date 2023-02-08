@@ -369,4 +369,5 @@ datalab:
         version: '0.1'
     categories:
         - data-management
-        - open-apis
+        - data-analysis
+        - stakeholder
