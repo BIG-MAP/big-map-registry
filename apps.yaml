@@ -361,7 +361,7 @@ datalab:
         title: Datalab
         description: |
             Datalab is a place to store your experimental data and the connections between them.
-        authors: Celso R. C. Rêgo
+        authors: Joshua Bocarsly, Matthew Evans
         external_url: https://github.com/the-grey-group/datalab
         documentation_url: https://the-datalab.readthedocs.io
         logo: https://avatars.githubusercontent.com/u/50706292?s=200&v=4
