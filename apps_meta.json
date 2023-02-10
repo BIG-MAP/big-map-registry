@@ -604,6 +604,34 @@
       "name": "electrolyte-screening",
       "subpage": "apps/electrolyte-screening.html"
     },
+    "galvanicium": {
+      "metadata": {
+        "title": "Galvanicium",
+        "description": "Galvanicium is a web application made to display and superimpose measurements from potentiostats and battery cyclers.\n",
+        "authors": "Michaël Zasso, Daniel Kostro, Santiago Miranda, Luc Patiny",
+        "logo": "https://www.galvanicium.org/images/galvanicium.svg",
+        "state": "stable",
+        "documentation_url": "https://www.galvanicium.org/"
+      },
+      "git_url": "https://github.com/zakodium-oss/galvanicium-app",
+      "categories": [
+        "data-visualization"
+      ],
+      "gitinfo": {
+        "HEAD": "adf869d0202ddf423529aa861d249adb3eedc297",
+        "refs/heads/main": "adf869d0202ddf423529aa861d249adb3eedc297",
+        "refs/pull/1/head": "e8a6df5c9082798aee47a9f2a382549248ac0a2e",
+        "refs/pull/10/head": "c9363aae91620acb749f719f84226e1738e21080",
+        "refs/pull/3/head": "aff42229b461f694e054a4ff348bd20426960a0b",
+        "refs/pull/6/head": "abde9fb375f40a7cf6a7ed9bae848a7170d9d0c2",
+        "refs/pull/7/head": "77041006b8ba6b44be8b9eb7a5027321a19de7d3",
+        "refs/pull/9/head": "96a38e67c655a5f2d318fddb9ce17af281bff52c"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://www.galvanicium.org/images/galvanicium.svg",
+      "name": "galvanicium",
+      "subpage": "apps/galvanicium.html"
+    },
     "nmrium": {
       "metadata": {
         "title": "NMRium",
