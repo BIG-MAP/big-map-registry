@@ -509,6 +509,26 @@
       "name": "clease-gui",
       "subpage": "apps/clease-gui.html"
     },
+    "datalab": {
+      "metadata": {
+        "title": "Datalab",
+        "description": "Datalab is a place to store your experimental data and the connections between them.\n",
+        "authors": "Joshua Bocarsly, Matthew Evans",
+        "external_url": "https://github.com/the-grey-group/datalab",
+        "documentation_url": "https://the-datalab.readthedocs.io",
+        "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
+        "state": "development",
+        "version": "0.1"
+      },
+      "categories": [
+        "data-management",
+        "data-analysis",
+        "stakeholder"
+      ],
+      "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
+      "name": "datalab",
+      "subpage": "apps/datalab.html"
+    },
     "density-neb": {
       "metadata": {
         "title": "densityNEB",
@@ -1586,6 +1606,10 @@
     "data-visualization": {
       "description": "Apps for visualizing experimental data.",
       "title": "Data Visualization"
+    },
+    "data-management": {
+      "description": "Apps for managaing experimental data.",
+      "title": "Data Management"
     },
     "quantum": {
       "description": "Apps for performing quantum-mechanical calculations.",
