@@ -8,6 +8,9 @@ data-analysis:
 data-visualization:
     description: Apps for visualizing experimental data.
     title: Data Visualization
+data-management:
+    description: Apps for managaing experimental data.
+    title: Data Management
 quantum:
     description: Apps for performing quantum-mechanical calculations.
     title: Quantum
