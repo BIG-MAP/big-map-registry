@@ -669,7 +669,7 @@
       ],
       "gitinfo": {
         "HEAD": "b849dd4fe244d636c5f52df391ab3f3fe3b9bfb6",
-        "refs/heads/1251-resurrect-spectrum": "c957a87460c9bc79cb367eee99a2ea7a574daef9",
+        "refs/heads/1251-resurrect-spectrum": "bddd9c7fbffdf2304406daaf5b72277137aedad5",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
@@ -1078,7 +1078,7 @@
         "refs/pull/2123/head": "f0f9b0f404de156d052c2fac5e1465f46f97710d",
         "refs/pull/2124/head": "71c6ad438cf83ed85b343df329b430360b395d29",
         "refs/pull/2125/head": "cc6f62e573c1bf9d86e76f93efcd58cb817e6c9a",
-        "refs/pull/2126/head": "c957a87460c9bc79cb367eee99a2ea7a574daef9",
+        "refs/pull/2126/head": "bddd9c7fbffdf2304406daaf5b72277137aedad5",
         "refs/pull/2126/merge": "e68a1f748272a122670214946dbe53a1bfa11156",
         "refs/pull/2132/head": "5ea9de549d76174705e30120a99a4c15bcf9190b",
         "refs/pull/2135/head": "d4d9b7595fef5b10b5626d92a0cb05c2a163d96e",
