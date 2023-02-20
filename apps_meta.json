@@ -680,6 +680,7 @@
         "refs/heads/2130-expno": "c69bd9ec000225eb93fea334f3425cdce67a662e",
         "refs/heads/2146-old-nmrium-files-stay-as-fid-new-ones-work": "a5683cd30eae16e2ba0635a90d6ae57e9dd00a24",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
+        "refs/heads/auto-meta-information-importation": "19413c95371e51df53d2b2709bbd28acf1b8e313",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
