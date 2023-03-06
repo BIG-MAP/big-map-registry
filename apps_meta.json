@@ -221,6 +221,7 @@
       },
       "gitinfo": {
         "HEAD": "2e4c7faa50240071e80d855969a49e0643154412",
+        "refs/heads/add_traitlet_to_bandsplotwidget": "60d8df6beaacdec1d07ca44a86557612c1a73c23",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
