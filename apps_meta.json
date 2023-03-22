@@ -1,5 +1,29 @@
 {
   "apps": {
+    "EVA": {
+      "metadata": {
+        "title": "EVA",
+        "description": "Electrochemistry Visualization Application is an application dedicated to electrochemical data analysis.\n",
+        "authors": "Marc Duquesnoy, Matheus Leal De Souza, Mathieu Morcrette, Alejandro A. Franco",
+        "logo": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/images/logo.pdf",
+        "state": "development",
+        "documentation_url": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/index.html"
+      },
+      "git_url": "https://github.com/ARTISTIC-ERC/EVA",
+      "categories": [
+        "data-visualization",
+        "data-analysis"
+      ],
+      "gitinfo": {
+        "HEAD": "efad7e922b1a370cac8d4534cc6e7a2681d44e39",
+        "refs/heads/main": "efad7e922b1a370cac8d4534cc6e7a2681d44e39",
+        "refs/tags/V1": "8797a86f7d10a8ab7a2852ce2dce43687eadac18"
+      },
+      "hosted_on": "github.com",
+      "logo": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/images/logo.pdf",
+      "name": "EVA",
+      "subpage": "apps/EVA.html"
+    },
     "FullProfAPP": {
       "metadata": {
         "title": "FullProfAPP",
