@@ -674,7 +674,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "d3811214be0914067abf30b1a6788fa6263cb0f1",
+        "HEAD": "1e9fb232bae7e6fe91abb8da766738d768ca1a5c",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
@@ -702,7 +702,7 @@
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "d3811214be0914067abf30b1a6788fa6263cb0f1",
+        "refs/heads/main": "1e9fb232bae7e6fe91abb8da766738d768ca1a5c",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -722,7 +722,6 @@
         "refs/heads/release-please--branches--main--components--nmrium": "22693a1c9014d3419968c99f7406d04bf5d7eeb7",
         "refs/heads/release-please--branches--master": "f5e74d28a531a68fb3070db54d36582999054568",
         "refs/heads/release-v0.15.1": "00128178f3f8b022bf143d2bf4706aca7cca0657",
-        "refs/heads/rename-drag-drop-text": "1989c5744a6493f337c9a16ee1566eb1aec24aca",
         "refs/heads/revert-2124-fix-2123-commit": "106ad9beb17025b2f7d1920807f9414abe9ef18d",
         "refs/heads/revert-2200-refactor-display-name": "5b01937b9d5980f0276bd8d2322493b46620da09",
         "refs/heads/step-userguide": "bca721387c7a9deddc9e38e896a1a43a0839af7d",
@@ -1160,7 +1159,6 @@
         "refs/pull/2247/head": "4d5d6da879b1b33e155ca8f131dd3cd0242ba274",
         "refs/pull/2247/merge": "773f1aa219df900cd14f89f1a1c60d988365ca24",
         "refs/pull/2251/head": "1989c5744a6493f337c9a16ee1566eb1aec24aca",
-        "refs/pull/2251/merge": "6ca3ff4d189435d2d40f425842a0289940b6e079",
         "refs/pull/226/head": "713b763a3b86d4726d9285def7cb1925ee18906b",
         "refs/pull/233/head": "1d3a7333aff6806884d25f7c541733a57a13ac17",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
