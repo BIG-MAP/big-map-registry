@@ -244,7 +244,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "f8695600762a2eb186963ab998fc5988f5cd90b4",
+        "HEAD": "12c0bb03795992a01bab84fa65f907d1ebc5c314",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
@@ -262,9 +262,8 @@
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "f8695600762a2eb186963ab998fc5988f5cd90b4",
+        "refs/heads/master": "12c0bb03795992a01bab84fa65f907d1ebc5c314",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
-        "refs/heads/release-23-4-prepare": "3bc063d747cbbbc61895e7b93a7b2aa363affa28",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
         "refs/pull/10/head": "5e0ce9942b30f2d152e756bbdef3f1ad4378071e",
@@ -422,6 +421,7 @@
         "refs/pull/367/head": "a1ad227ef1d1a735180206498eceee4ff5f06d99",
         "refs/pull/367/merge": "7c8693088e82344c623c622fd9a0e1b0e3f4347d",
         "refs/pull/37/head": "5ef369374e56de550534db3d6f3de404a519921b",
+        "refs/pull/375/head": "3bc063d747cbbbc61895e7b93a7b2aa363affa28",
         "refs/pull/38/head": "d3a829b0edcdc855e59766dc7b6491191aa50370",
         "refs/pull/39/head": "69199d44ab4bfbe375460fb7ef2432c52da2e8e9",
         "refs/pull/4/head": "29d5bbf50183b17028e3c5acd79e56b6e81990f1",
