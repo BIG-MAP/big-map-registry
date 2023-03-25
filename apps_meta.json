@@ -244,7 +244,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "12c0bb03795992a01bab84fa65f907d1ebc5c314",
+        "HEAD": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
@@ -262,7 +262,7 @@
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "12c0bb03795992a01bab84fa65f907d1ebc5c314",
+        "refs/heads/master": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
@@ -515,7 +515,9 @@
         "refs/tags/v23.01.0b1": "3fe43cfb7a5fd40363541590050ee2c0157480cc",
         "refs/tags/v23.01.0b1^{}": "d89b58390c0a691bf16dfaa50036bc290fca017c",
         "refs/tags/v23.02.0": "7bf2352e51a8205a628acb69c9a73d213dbd19de",
-        "refs/tags/v23.02.0^{}": "1632764df60c5d6cbb72aed7f50046fceaf34134"
+        "refs/tags/v23.02.0^{}": "1632764df60c5d6cbb72aed7f50046fceaf34134",
+        "refs/tags/v23.04.0": "f04b52bca63439633325ef4f26ac1c0a7132c5e9",
+        "refs/tags/v23.04.0^{}": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
