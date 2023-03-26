@@ -244,7 +244,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
+        "HEAD": "a63d04eeaf6d875933c559b49a91613eb78e85fa",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
@@ -262,7 +262,7 @@
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/master": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
+        "refs/heads/master": "a63d04eeaf6d875933c559b49a91613eb78e85fa",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/pull/1/merge": "ffc43590fa13e0aa0165257e060827edbc1792e9",
@@ -422,6 +422,7 @@
         "refs/pull/367/merge": "7c8693088e82344c623c622fd9a0e1b0e3f4347d",
         "refs/pull/37/head": "5ef369374e56de550534db3d6f3de404a519921b",
         "refs/pull/375/head": "3bc063d747cbbbc61895e7b93a7b2aa363affa28",
+        "refs/pull/376/head": "5a016ee6e47b8374dcaff1290f7a013b7eeee714",
         "refs/pull/38/head": "d3a829b0edcdc855e59766dc7b6491191aa50370",
         "refs/pull/39/head": "69199d44ab4bfbe375460fb7ef2432c52da2e8e9",
         "refs/pull/4/head": "29d5bbf50183b17028e3c5acd79e56b6e81990f1",
@@ -517,7 +518,9 @@
         "refs/tags/v23.02.0": "7bf2352e51a8205a628acb69c9a73d213dbd19de",
         "refs/tags/v23.02.0^{}": "1632764df60c5d6cbb72aed7f50046fceaf34134",
         "refs/tags/v23.04.0": "f04b52bca63439633325ef4f26ac1c0a7132c5e9",
-        "refs/tags/v23.04.0^{}": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8"
+        "refs/tags/v23.04.0^{}": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
+        "refs/tags/v23.04.1": "555656daef243ac3b42da503794b49e4e9687157",
+        "refs/tags/v23.04.1^{}": "a63d04eeaf6d875933c559b49a91613eb78e85fa"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
