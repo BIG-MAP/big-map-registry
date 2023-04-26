@@ -746,6 +746,7 @@
         "refs/heads/export-spectrum-as-jcamp": "006665b36f3402b5c0a7e0c07efe34028a551d26",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
+        "refs/heads/fix-assignment": "6e28e132e1d2a1b6b7cf5860fc1144fbf7a4f873",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-crash-with-full-cytisine-and-assignment-summary": "9612cc617ce06a67439f3718073160b067522eac",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
