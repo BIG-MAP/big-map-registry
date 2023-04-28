@@ -724,7 +724,7 @@
       ],
       "gitinfo": {
         "HEAD": "642a6da7b085688502bdf8c888b5443c7e1ab92f",
-        "refs/heads/1537-use-modal-from-react-science-components": "642a6da7b085688502bdf8c888b5443c7e1ab92f",
+        "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
         "refs/heads/1763-add-test-case-on-processed-spectra": "07f126ea87e885151f683656a69ef5e6d4ea8b0a",
