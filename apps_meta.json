@@ -750,7 +750,7 @@
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-assignment": "7c912caafe9cc53c7e74e3bfdae59f32689616fc",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
-        "refs/heads/fix-crash-with-full-cytisine-and-assignment-summary": "9612cc617ce06a67439f3718073160b067522eac",
+        "refs/heads/fix-crash-with-full-cytisine-and-assignment-summary": "9e1651be6e400754936997fd1ecc1a9d11036619",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
