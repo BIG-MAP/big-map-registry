@@ -1661,12 +1661,12 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "5040b9dc77d3940777618d7c5afbcabff6807570",
+        "HEAD": "868fdbc8cccca3e0e7dc102122054b3813474ddc",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
         "refs/heads/4.2.x": "af178332207df621471eabe74f8497bd8f0c4c03",
-        "refs/heads/gh-pages": "94e662cb25028444a0c131faa58b3ebbdfecbe90",
+        "refs/heads/gh-pages": "59d36ed210a5252b3345c73371194d7479e14cfc",
         "refs/heads/linter": "b517714ed46de242920bba19fb3c73484c322d77",
-        "refs/heads/master": "5040b9dc77d3940777618d7c5afbcabff6807570",
+        "refs/heads/master": "868fdbc8cccca3e0e7dc102122054b3813474ddc",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
         "refs/pull/102/head": "0b2709870f4a0d86b2beee9e63f7fcf48387afd6",
@@ -1675,8 +1675,7 @@
         "refs/pull/106/head": "db04efc6126ca6caf06d45cb0113051f2519b113",
         "refs/pull/107/head": "1256bba17e17497f15f8052d23f7fafe13e363a4",
         "refs/pull/109/head": "10133e3703998f0ee1283b2adbd9331857e78f8b",
-        "refs/pull/110/head": "55696860c7483434dd1a1a92cc69d816ac2a606e",
-        "refs/pull/110/merge": "1631ae485d4005686c596a4f4c2e51ff34cecb33",
+        "refs/pull/110/head": "85073fbf05f9beb3df6ca3ef1f74092830bc3712",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
         "refs/pull/18/head": "44eaf70727afb4d41236bbb4f8c254eae1f6c052",
@@ -1766,7 +1765,8 @@
         "refs/tags/4.2rc1": "05432d756bcfea3ebbe8ab1dc6639c72922be005",
         "refs/tags/4.2rc2": "6b768acf3a5e273ea2b81d30cc4d5cbd16f999d6",
         "refs/tags/4.2rc3": "2712ced892c06e1f9aedacdf28e8447cd18dc675",
-        "refs/tags/5.0a1": "20bef25baf652308a30000573dd6823794bf58ab"
+        "refs/tags/5.0a1": "20bef25baf652308a30000573dd6823794bf58ab",
+        "refs/tags/5.0a2": "868fdbc8cccca3e0e7dc102122054b3813474ddc"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
