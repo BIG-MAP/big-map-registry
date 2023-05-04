@@ -740,7 +740,7 @@
         "refs/heads/2258-apply-and-save-does-not-seem-to-work": "3c765027eff0f3603dca9f96aac65c66da98b2f5",
         "refs/heads/2259-automatic-processing-and-phase-correction": "0f546eb19934777870ad244c4f63ef19eaff0b01",
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
-        "refs/heads/2275-ranges-picking-slows-the-browser-and-wrong-multiplicity-occasionally": "97eacf4d746947c9b2624fd8e9ba10434536b26c",
+        "refs/heads/2275-ranges-picking-slows-the-browser-and-wrong-multiplicity-occasionally": "bb9e47b03f8803f5996b66c5e92888ab377b3815",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "3921df58b0f7d1eae972e21e8997eb0fb5a094e6",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
