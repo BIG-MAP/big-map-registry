@@ -750,6 +750,7 @@
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
+        "refs/heads/feat-display-1d-assigned-ranges-signals": "97eacf4d746947c9b2624fd8e9ba10434536b26c",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
