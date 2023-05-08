@@ -750,7 +750,7 @@
         "refs/heads/2275-ranges-picking-slows-the-browser-and-wrong-multiplicity-occasionally": "a3f3b0f035024c1c3b4d1226dadae81cf1986486",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "3921df58b0f7d1eae972e21e8997eb0fb5a094e6",
-        "refs/heads/2345-some-varian-data-has-inverted-spectrum": "956f6b07e86f9d5255f10dadc0bcbfcd6b9ee967",
+        "refs/heads/2345-some-varian-data-has-inverted-spectrum": "3408c46d1ddf688a1f7cd7bdf54e1ab4eebf442c",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
