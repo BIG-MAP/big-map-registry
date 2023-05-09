@@ -255,7 +255,7 @@
         "refs/heads/add_pseudo_dojo": "5515e4a99baedb4b5a562830750a771cbc321a0a",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
-        "refs/heads/develop": "d96ebb917990bfb02bb865af38a2dabe59161cb6",
+        "refs/heads/develop": "2029267bf68121756763c45a317ba55e25d45a25",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
@@ -271,6 +271,7 @@
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
+        "refs/heads/main": "a63d04eeaf6d875933c559b49a91613eb78e85fa",
         "refs/heads/master": "2029267bf68121756763c45a317ba55e25d45a25",
         "refs/heads/modify-num-electrons": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
         "refs/heads/refac/builder-chore-decouple-override-settings": "e263127fba69871fb5342c7de0d1c32437e91245",
@@ -548,9 +549,7 @@
         "refs/tags/v23.04.0": "f04b52bca63439633325ef4f26ac1c0a7132c5e9",
         "refs/tags/v23.04.0^{}": "945098c0be7c7b2f27ccef7535f5ba148bbfdbf8",
         "refs/tags/v23.04.1": "555656daef243ac3b42da503794b49e4e9687157",
-        "refs/tags/v23.04.1^{}": "a63d04eeaf6d875933c559b49a91613eb78e85fa",
-        "refs/tags/v23.04.2": "18c7571ff7bd165ead40e275bf727a772bdb159d",
-        "refs/tags/v23.04.2^{}": "57e6f524a9d338d3c19d9d6da2789aa6510a5c54"
+        "refs/tags/v23.04.1^{}": "a63d04eeaf6d875933c559b49a91613eb78e85fa"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
