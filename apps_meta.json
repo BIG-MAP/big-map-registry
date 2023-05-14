@@ -149,9 +149,9 @@
       ],
       "git_url": "https://github.com/paolodeangelis/SEI_builder",
       "gitinfo": {
-        "HEAD": "012c930832b045746b414626dbe70d1aadaa43bf",
+        "HEAD": "3ac01199deca2b8e56162548e4a78b8283697274",
         "refs/heads/add-license-1": "96de2b3d777c429d854a49d3c930dcaedc4d9051",
-        "refs/heads/main": "012c930832b045746b414626dbe70d1aadaa43bf",
+        "refs/heads/main": "3ac01199deca2b8e56162548e4a78b8283697274",
         "refs/heads/pre-commit-ci-update-config": "51fb40fa4d4025fda8618665c90d8564d4468593",
         "refs/pull/1/head": "3ba83084bae980938e034d4af6f3406e2c19558c",
         "refs/pull/10/head": "c29a48e423128222579f672483c69c65b67f0243",
