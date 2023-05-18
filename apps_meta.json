@@ -255,6 +255,7 @@
         "refs/heads/add_pseudo_dojo": "5515e4a99baedb4b5a562830750a771cbc321a0a",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
+        "refs/heads/fea/separate-workchain-selector": "baa025cb29307dfdd0b9f89197eb0833ce461a7d",
         "refs/heads/feature/cuds-importer": "aa50591848f1ba9d3feba0c43eeda60f0a1b4d5a",
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
