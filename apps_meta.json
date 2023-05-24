@@ -748,7 +748,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "0c8385e702ea684e244ba3e0d9e095e884859d54",
+        "HEAD": "49478d685541042c10f0cefd14448002643a358d",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -772,7 +772,6 @@
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
-        "refs/heads/deps": "44efc0329733d41f0abe24ccd4ba6a5e0e09076f",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
@@ -784,7 +783,7 @@
         "refs/heads/improve-floating-molecule": "0c8385e702ea684e244ba3e0d9e095e884859d54",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
-        "refs/heads/main": "0c8385e702ea684e244ba3e0d9e095e884859d54",
+        "refs/heads/main": "49478d685541042c10f0cefd14448002643a358d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -1306,6 +1305,7 @@
         "refs/pull/2371/merge": "12e9b50322eb6a2d1f6dba43f6fbc40fc7453626",
         "refs/pull/2372/head": "d215f25d7a7a0da89d9ea9ce224c669a36f89af4",
         "refs/pull/2373/head": "46bd6b782a1f1a96612ad869a9674680a763ca96",
+        "refs/pull/2376/head": "44efc0329733d41f0abe24ccd4ba6a5e0e09076f",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
         "refs/pull/304/head": "70fc242cf96aa05e01ca00528323559adf860ec7",
         "refs/pull/305/head": "fda1eb28a537ad94636d5afcd34dfbc46715ad19",
