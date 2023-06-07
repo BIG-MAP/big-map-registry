@@ -788,7 +788,7 @@
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/dependabot/npm_and_yarn/vite-4.3.9": "91fef627778ddb9960b9ce66a55acc381fdea5f8",
-        "refs/heads/deps-eslint": "0cfcc73c0f82ca5a50c3ee7d1d2b2116079cce0f",
+        "refs/heads/deps-eslint": "fbc6cd16beb28c3d86722051025dc12ed53055ec",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
