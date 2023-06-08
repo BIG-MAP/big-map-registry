@@ -791,6 +791,7 @@
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
+        "refs/heads/fix-add-molecule-with-one-atom": "f86d42cda9502eb2e1b7a0da8137ad80ac69b2af",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
