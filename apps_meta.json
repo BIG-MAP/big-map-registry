@@ -790,6 +790,7 @@
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
+        "refs/heads/fix-database-resurrecting": "72e69792bb97820cddb28d7b7e712c19ba114d4e",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
