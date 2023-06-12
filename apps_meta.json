@@ -822,7 +822,7 @@
         "refs/heads/release-v0.15.1": "00128178f3f8b022bf143d2bf4706aca7cca0657",
         "refs/heads/revert-2124-fix-2123-commit": "106ad9beb17025b2f7d1920807f9414abe9ef18d",
         "refs/heads/revert-2200-refactor-display-name": "5b01937b9d5980f0276bd8d2322493b46620da09",
-        "refs/heads/simplify-prediction": "112523cf8fd0ba37bd976e37a8c9d4c2aaa3d4c4",
+        "refs/heads/simplify-prediction": "91fb1d0d5b3d1f29bd47b46b5445893eb31f78f1",
         "refs/heads/step-userguide": "bca721387c7a9deddc9e38e896a1a43a0839af7d",
         "refs/heads/testRebase": "e460cac579a56a7c21db151ed8279dd1fc67c689",
         "refs/heads/testWFunctionGenerator": "0e1b53381bb061421c6184f4740da913f826d560",
