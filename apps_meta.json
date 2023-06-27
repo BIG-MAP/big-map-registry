@@ -287,7 +287,7 @@
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
         "refs/heads/main": "9df98ea99986aa2b25c36617e789f9237632658e",
-        "refs/heads/plugin_ui": "7717243d5dd1e121e43aeb7a69c74c2caae90970",
+        "refs/heads/plugin_ui": "697e41086ae17e8ee2b779ab35976e55df43b1c1",
         "refs/heads/refac/test-on-get-parameters-and-builder": "8dec49a43be418e4ae2fcc897d0b1000a2d4c1c4",
         "refs/heads/remove-unused-pybtex-in-conftest": "f060d6b8c85c1e2e0a200121b3729adb155a6684",
         "refs/heads/restapi": "5f7f7a25c4807e6b85685f65609f869a52020026",
