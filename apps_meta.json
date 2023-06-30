@@ -800,7 +800,7 @@
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
         "refs/heads/2474-crash-when-try-to-simulate-only-negatives-chemical-shift": "c548924a31542ade09166dbfb8dd762ac982f943",
-        "refs/heads/2482-unhandled-error-when-clipboard-read-permissions-are-not-granted": "ecbbb15b6e8cbdf85e9877c48f8ecd7fcd1a1f74",
+        "refs/heads/2482-unhandled-error-when-clipboard-read-permissions-are-not-granted": "dca0e2f1add052b32c40512595507297d74438ad",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
