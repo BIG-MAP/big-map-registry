@@ -798,6 +798,7 @@
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
+        "refs/heads/2389-add-test-case-with-jresolv": "309cdd893c3f650c333183ed3f6986e548fb3f99",
         "refs/heads/2412-test-auto-peak-picking-on-all-spectra": "42376bdcf038d8846a693c03226c5c192015e5ce",
         "refs/heads/2482-unhandled-error-when-clipboard-read-permissions-are-not-granted": "dca0e2f1add052b32c40512595507297d74438ad",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
