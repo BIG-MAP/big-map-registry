@@ -201,7 +201,7 @@ FullProfAPP:
         description: |
             An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
-        external_url: https://cicenergigune.com/en/fullprof-app
+        external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
         logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png
         state: development
         version: 1.0
