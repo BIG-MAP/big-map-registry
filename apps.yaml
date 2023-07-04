@@ -396,3 +396,22 @@ EVA:
     categories:
         - data-visualization
         - data-analysis
+        
+SEI-Active learning workflow:
+    metadata:
+        title: SEI-Model-Active-Learning
+        description: |
+            Workflow for coupling Solid Electrolyte Interface (SEI) model with Active Learning approach
+        authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
+        external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
+        documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
+        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png
+        state: development
+        version: '1.0'
+    categories:
+        - Kinetic Monte Carlo
+        - technology-simstack
+        - wp3
+
+
+
