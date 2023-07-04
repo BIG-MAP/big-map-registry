@@ -800,7 +800,7 @@
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
-        "refs/heads/2406-replace-with-checkbox-component-from-react-science": "309cdd893c3f650c333183ed3f6986e548fb3f99",
+        "refs/heads/2406-replace-with-checkbox-component-from-react-science": "41b4cd885839be9ee251af4c45bb9d8177226521",
         "refs/heads/2481-other-unhandled-error-in-auto-ranges-detection": "b40c3ef9e1f312ef15ff27e68883c80a7f505559",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
