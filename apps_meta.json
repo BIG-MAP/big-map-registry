@@ -270,7 +270,7 @@
         "version": "20.11.2"
       },
       "gitinfo": {
-        "HEAD": "354c81aa961d85c0cd5a64e7078ffcc3b2dd4cfa",
+        "HEAD": "9ed0a5f79baf61427eacfbac90c017c1326a1d41",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
         "refs/heads/bump-bands-plot": "df5522307be21b380ccb07f0d51c7dc35042ea8a",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
@@ -281,7 +281,6 @@
         "refs/heads/feature/process-tree-builder-inputs-dict": "cef489dae718bd99ee3b15461d878fd8f3b5d6d4",
         "refs/heads/feature/process-tree-fix-disable": "32143bf7edba83cc289b9710337c8aa43ee3b63c",
         "refs/heads/feature/query-input": "bbc59343f0677c6f9b31cb8c322aa3517c26c512",
-        "refs/heads/feature/tags_editor": "5d9bcdf3713ad5c94244f435dfa7e88c75ee69ed",
         "refs/heads/feature/work-chain-report": "244d59d28e8261a1c415e6ddf5d72c81bc761316",
         "refs/heads/feature/xas": "989dc001c1c9376e6dc516eb8cf8b3a365c49477",
         "refs/heads/feature/xps": "ee7afd625583f5dc8dbf088101fee6342882aca3",
@@ -292,7 +291,7 @@
         "refs/heads/gh-pages": "24a1a3fd0361e88f7b80596150a306f7e1d1548e",
         "refs/heads/import_qeapp": "61d59ca75b585112b5af41bc58106e7d2dd291b7",
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
-        "refs/heads/main": "354c81aa961d85c0cd5a64e7078ffcc3b2dd4cfa",
+        "refs/heads/main": "9ed0a5f79baf61427eacfbac90c017c1326a1d41",
         "refs/heads/plugin_ui": "71c9e21742c58433b9eaea57fe6d3ec93b4f6cd1",
         "refs/heads/pre-commit-ci-update-config": "9de1ae65ffafc5f1a25ab87320cf02c6833ebdbf",
         "refs/heads/refac/test-on-get-parameters-and-builder": "8dec49a43be418e4ae2fcc897d0b1000a2d4c1c4",
@@ -481,7 +480,6 @@
         "refs/pull/409/head": "08558b4eb7fe04bb57374fc454c23a2ebd6da634",
         "refs/pull/41/head": "49a3dab242f31b1636c4ccdd2debdd93d5a3426b",
         "refs/pull/410/head": "5d9bcdf3713ad5c94244f435dfa7e88c75ee69ed",
-        "refs/pull/410/merge": "b6c8c5ea39aa48bf7efce8afcbbdd655c24e1243",
         "refs/pull/411/head": "ec64a5d1d1e43db3e8f11bcb8bc33eb5e6c98852",
         "refs/pull/411/merge": "e2f940ec85e2275cd70838564754af9bfbdfe112",
         "refs/pull/414/head": "651f0418285bbd20a27f3413cc006ea50094fe7b",
