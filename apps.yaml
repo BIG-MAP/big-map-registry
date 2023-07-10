@@ -396,7 +396,7 @@ EVA:
     categories:
         - data-visualization
         - data-analysis
-SEI-Active learning workflow:
+SEI-Active-learning-workflow:
     metadata:
         title: SEI-Model-Active-Learning
         description: |
