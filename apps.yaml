@@ -408,6 +408,6 @@ SEI-Active-learning-workflow:
         state: development
         version: '1.0'
     categories:
-        - Kinetic-Monte-Carlo
+        - technology-active-learning
         - technology-simstack
         - wp3
