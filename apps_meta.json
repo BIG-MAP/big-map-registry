@@ -796,7 +796,7 @@
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
-        "refs/heads/2481-other-unhandled-error-in-auto-ranges-detection": "8d65e6045dbace7645c9bc901852db5579943820",
+        "refs/heads/2481-other-unhandled-error-in-auto-ranges-detection": "594e79193b5d32064e40ab2aabdcd9f08a911c02",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
@@ -1831,12 +1831,12 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "9b35214b176543422eed1a2332b5d291a9d68f53",
+        "HEAD": "f661847417cbbfa9f3fc96979bda9d90c3005ad8",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
         "refs/heads/4.2.x": "af178332207df621471eabe74f8497bd8f0c4c03",
         "refs/heads/gh-pages": "49d70157871b719381aa79373b03e0e1073c5002",
         "refs/heads/linter": "b517714ed46de242920bba19fb3c73484c322d77",
-        "refs/heads/master": "9b35214b176543422eed1a2332b5d291a9d68f53",
+        "refs/heads/master": "f661847417cbbfa9f3fc96979bda9d90c3005ad8",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
         "refs/pull/102/head": "0b2709870f4a0d86b2beee9e63f7fcf48387afd6",
@@ -1855,7 +1855,6 @@
         "refs/pull/117/head": "cc6a1931dce285ba375fdbe8ba41079a3c9a4847",
         "refs/pull/118/head": "7096d6f86e7a69debfb23d003ba6d70eeb62ff46",
         "refs/pull/119/head": "804b7efc88f7ceb477a12f8571e76e33302d6c9c",
-        "refs/pull/119/merge": "c5e42d70a1b25bb7a4cd3491546b34225b8f165a",
         "refs/pull/14/head": "fa8160264dbcffafeaa14d8633c29cc4193e8e7c",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
         "refs/pull/18/head": "44eaf70727afb4d41236bbb4f8c254eae1f6c052",
@@ -1948,7 +1947,8 @@
         "refs/tags/5.0a1": "20bef25baf652308a30000573dd6823794bf58ab",
         "refs/tags/5.0a2": "868fdbc8cccca3e0e7dc102122054b3813474ddc",
         "refs/tags/5.0a3": "589b99fc849e3832d492c4599170cba04d508ec5",
-        "refs/tags/5.0a4": "873d47e5ad0579624248d8e82c5cab79e0444390"
+        "refs/tags/5.0a4": "873d47e5ad0579624248d8e82c5cab79e0444390",
+        "refs/tags/5.0a5": "f661847417cbbfa9f3fc96979bda9d90c3005ad8"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
