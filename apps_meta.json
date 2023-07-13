@@ -130,6 +130,26 @@
       "name": "MADAP",
       "subpage": "apps/MADAP.html"
     },
+    "SEI-Active-learning-workflow": {
+      "metadata": {
+        "title": "SEI-Model-Active-Learning",
+        "description": "Workflow for coupling Solid Electrolyte Interface (SEI) model with Active Learning approach\n",
+        "authors": "Mohammad Soleymanibrojeni, Celso R. C. Rêgo",
+        "external_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning",
+        "documentation_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md",
+        "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png",
+        "state": "development",
+        "version": "1.0"
+      },
+      "categories": [
+        "technology-active-learning",
+        "technology-simstack",
+        "wp3"
+      ],
+      "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png",
+      "name": "SEI-Active-learning-workflow",
+      "subpage": "apps/SEI-Active-learning-workflow.html"
+    },
     "SEI-Builder": {
       "metadata": {
         "title": "SEI Builder",
