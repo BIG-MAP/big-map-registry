@@ -202,13 +202,14 @@ FullProfAPP:
             An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
-        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png
+        documentation_url: https://fullprofapp.readthedocs.io/en/stable/
+        logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
         state: development
         version: 1.0
     categories:
         - data-analysis
         - utilities
-    git_url: https://code.ill.fr/rodriguez-carvajal/fullprof-app
+    git_url: https://gitlab.com/d7081/fullprofapp/
 aiida-seigrowth:
     metadata:
         title: aiida-seigrowth
