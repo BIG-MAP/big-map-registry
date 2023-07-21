@@ -808,6 +808,7 @@
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
+        "refs/heads/2536-drag-drop-of-2d-keep-both-before-and-after-ft": "9aa7cd2a9f1c4121176f22c073d72e85b7d039e2",
         "refs/heads/2d-fourier-transform": "323e94f89c8abf12b0a5de0cc5da38b984757c5b",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
