@@ -829,6 +829,7 @@
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/format-title-block": "ec81e62355cce0e4563ab6b9a03c45d2b6095923",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
+        "refs/heads/labels-under-floating-molecule": "ea806b51b5054c304b38180b7acfb4179d3ff1e7",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/main": "ea806b51b5054c304b38180b7acfb4179d3ff1e7",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
