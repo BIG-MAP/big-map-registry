@@ -825,6 +825,7 @@
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-spectra-vertical-scale": "76bed452876d93ecbbde6a3b18c33a22b510d720",
+        "refs/heads/fix-sum-modal": "07bac7b75889c27b687ca52b58b78977d8209bfc",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fix-unhandled-error-in-crosslinepointer": "112523cf8fd0ba37bd976e37a8c9d4c2aaa3d4c4",
         "refs/heads/fix-unhandled-error-in-filter-action": "c6500003e8c762d36e55ce7c719e392577590303",
