@@ -205,7 +205,7 @@ FullProfAPP:
         documentation_url: https://fullprofapp.readthedocs.io/en/stable/
         logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
         state: development
-        version: 1.0
+        version: '1.1.0'
     categories:
         - data-analysis
         - utilities
