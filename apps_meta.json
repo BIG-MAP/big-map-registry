@@ -306,7 +306,7 @@
         "refs/heads/improve/qeapp-report": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
         "refs/heads/main": "21b8283c1a56b5de5ebf5d52bcbc6ad7ed9f18a1",
         "refs/heads/plugin_ui": "3c5af476f6c783683c14b4e9b53f2d2957d2dd0f",
-        "refs/heads/plugin_workchain": "e9108341c325de9b6cc7ef1c0f3955a83d2755f1",
+        "refs/heads/plugin_workchain": "611964e1fc410e071018b993658df8c6803c1005",
         "refs/heads/remove-unused-pybtex-in-conftest": "f060d6b8c85c1e2e0a200121b3729adb155a6684",
         "refs/heads/restapi": "5f7f7a25c4807e6b85685f65609f869a52020026",
         "refs/heads/support-23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
