@@ -29,15 +29,26 @@
         "title": "FullProfAPP",
         "description": "An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.\n",
         "authors": "Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho",
-        "external_url": "https://code.ill.fr/rodriguez-carvajal/fullprof-app",
-        "logo": "https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png",
-        "state": "development"
+        "external_url": "https://www.ill.eu/sites/fullprof/php/downloads.html",
+        "documentation_url": "https://fullprofapp.readthedocs.io/en/stable/",
+        "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
+        "state": "development",
+        "version": "1.1.0"
       },
       "categories": [
         "data-analysis",
         "utilities"
       ],
-      "logo": "https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png",
+      "git_url": "https://gitlab.com/d7081/fullprofapp/",
+      "gitinfo": {
+        "HEAD": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
+        "refs/heads/feature-multiprocessing": "bd4126f2f44b6950ece7e102342d14628da02aad",
+        "refs/heads/main": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
+        "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
+        "refs/tags/1.1.0": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16"
+      },
+      "hosted_on": "gitlab.com",
+      "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
       "name": "FullProfAPP",
       "subpage": "apps/FullProfAPP.html"
     },
