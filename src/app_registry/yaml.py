@@ -12,7 +12,6 @@ REQUESTS = cachecontrol.CacheControl(requests.Session())
 
 
 class JsonYamlLoader(jsonref.JsonLoader):
-
     safe_yaml = YAML(typ="safe")
 
     def __call__(self, uri, **kwargs):

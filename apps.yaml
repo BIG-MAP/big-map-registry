@@ -201,12 +201,15 @@ FullProfAPP:
         description: |
             An PyQt5 based graphical user interface for the automated analysis of powder X-ray diffraction data based on the refinement engine FullProf.
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
-        external_url: https://code.ill.fr/rodriguez-carvajal/fullprof-app
-        logo: https://code.ill.fr/rodriguez-carvajal/fullprof-app/-/raw/master/src/fpgui/icons/splash.png
+        external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
+        documentation_url: https://fullprofapp.readthedocs.io/en/stable/
+        logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
         state: development
+        version: 1.1.0
     categories:
         - data-analysis
         - utilities
+    git_url: https://gitlab.com/d7081/fullprofapp/
 aiida-seigrowth:
     metadata:
         title: aiida-seigrowth
@@ -396,3 +399,18 @@ EVA:
     categories:
         - data-visualization
         - data-analysis
+SEI-Active-learning-workflow:
+    metadata:
+        title: SEI-Model-Active-Learning
+        description: |
+            Workflow for coupling Solid Electrolyte Interface (SEI) model with Active Learning approach
+        authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
+        external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
+        documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
+        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png
+        state: development
+        version: '1.0'
+    categories:
+        - technology-active-learning
+        - technology-simstack
+        - wp3
