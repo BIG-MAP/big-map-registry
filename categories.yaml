@@ -47,6 +47,12 @@ inverse-design:
 ml-metadata:
     description: ML Metadata is a library for recording and retrieving metadata associated with ML workflows.
     title: MLMD
+neb:
+    description: Nudged Elastic Band is a reaction path method for identifying minimum energy paths and transition states.
+    title: NEB
+virtual-reality:
+    description: Can only be run on Virtual Reality hardware.
+    title: Virtual Reality
 wp1:
     description: Project management and education, exploitation and outreach.
     title: WP1
