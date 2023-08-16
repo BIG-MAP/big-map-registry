@@ -844,7 +844,7 @@
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-integral-behaviour": "bca4934e4d1854dbc6f35e56071b75c8744a2a50",
-        "refs/heads/fix-multiple-spectra-analysis": "8356294d1d9a1a6bdf7f8e382f7cee36b8ed32ce",
+        "refs/heads/fix-multiple-spectra-analysis": "f29857ebd18847c76c47e9dde02e2e9d7735e587",
         "refs/heads/fix-spectra-vertical-scale": "76bed452876d93ecbbde6a3b18c33a22b510d720",
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fix-unhandled-error-in-crosslinepointer": "112523cf8fd0ba37bd976e37a8c9d4c2aaa3d4c4",
