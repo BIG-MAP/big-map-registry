@@ -832,6 +832,7 @@
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
         "refs/heads/2406-replace-with-checkbox-component-from-react-science": "252f387041b8131abfe27e9d16663235ff989622",
+        "refs/heads/2595-replace-information-panel-with-new-infopanel": "252f387041b8131abfe27e9d16663235ff989622",
         "refs/heads/2609-confirmation-dialog": "e915da0ca66d9cb9fe1cd10d7878076c5957162e",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
