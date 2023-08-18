@@ -301,6 +301,7 @@
       },
       "gitinfo": {
         "HEAD": "34ad3b965010f755831f4786e6b832ad40fb3976",
+        "refs/heads/app-module": "ddef3303f1d042463586911a16c420053527b30a",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
         "refs/heads/clean-up-deps-text": "1ccab03f907634102735c2a9697e3a1f600da6f6",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
