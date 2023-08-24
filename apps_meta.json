@@ -856,6 +856,7 @@
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
+        "refs/heads/fix-1d-traces-lookup": "be14172991d16782116ca19f14b0d5b88265a0b4",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-full-out-domain": "13b944d55cdfdde11436ac67d8aa8020791b9fd8",
