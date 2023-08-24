@@ -826,7 +826,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "223439f59ea7f567efb66aad0ca627893e4411ce",
+        "HEAD": "819f828bfb15358ff14676dccadae7ce0a5156d3",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -844,7 +844,6 @@
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
         "refs/heads/2406-replace-with-checkbox-component-from-react-science": "252f387041b8131abfe27e9d16663235ff989622",
-        "refs/heads/2596-upgrade-openchemlib-utils-to-v5": "246109c9aa90e7b33b6ddd2aa5276958805319e1",
         "refs/heads/2609-confirmation-dialog": "e915da0ca66d9cb9fe1cd10d7878076c5957162e",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
@@ -874,7 +873,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "223439f59ea7f567efb66aad0ca627893e4411ce",
+        "refs/heads/main": "819f828bfb15358ff14676dccadae7ce0a5156d3",
         "refs/heads/multiplet-analysis-modal-migration": "82e4771788670d62451ac3e724f96e298795f5eb",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -1555,6 +1554,7 @@
         "refs/pull/2644/merge": "408d99cacf722af4b47d55c3579f3d85b6b4c7b9",
         "refs/pull/2645/head": "5dccfd4b3ef516d0e672e0e231add73a7b69d7ce",
         "refs/pull/2646/head": "57919e479a09382649168d605a3335a27796cf3d",
+        "refs/pull/2648/head": "b3b880de0706aa5dc7e26de49c81e6139b8fccad",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
         "refs/pull/304/head": "70fc242cf96aa05e01ca00528323559adf860ec7",
         "refs/pull/305/head": "fda1eb28a537ad94636d5afcd34dfbc46715ad19",
