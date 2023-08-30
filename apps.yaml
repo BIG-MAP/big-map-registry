@@ -419,7 +419,7 @@ KMC-CIDEMOD:
         title: KMC-CIDEMOD
         description: |
             Workflow for computing Solid Electrolyte Interface (SEI) physical propertise by combining KMC and continuum models
-        authors: Meysam Esmaeilpour, Diego Del Olmo 
+        authors: Meysam Esmaeilpour, Diego Del Olmo
         external_url: https://github.com/KIT-Workflows/KMC-CIDEMOD
         documentation_url: https://github.com/KIT-Workflows/KMC-CIDEMOD/blob/main/README.md
         logo: https://github.com/KIT-Workflows/KMC-CIDEMOD/blob/main/KMC_CIDEMOD.png
