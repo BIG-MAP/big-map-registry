@@ -863,6 +863,7 @@
         "refs/heads/database-structure-modal": "0867ac054c9829319f67742f847cd67de79e9bf8",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/depup": "5455a573f7eeb89336b2c8ce2b4102f1639d5c80",
+        "refs/heads/display-peaks-in-ranges": "0e11fd6dbd88888b76a4e2e411e0d37de39fea4a",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
