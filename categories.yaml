@@ -35,6 +35,9 @@ technology-lab:
 technology-active-learning:
     description: Software that deploys active learning to instrumentation
     title: Active Learning
+technology-phasetree:
+    description: The app utilizes PhaseTree (https://www.phasetree.ai).
+    title: PhaseTree
 utilities:
     description: Utility apps for everyday tasks.
     title: Utilities
@@ -86,3 +89,6 @@ stakeholder:
 stakeholder-aurora:
     description: Autonomous Robotic Battery Innovation Platform
     title: Aurora
+stakeholder-canada:
+    description: Cluster Expansion App and APIs
+    title: CANADA
