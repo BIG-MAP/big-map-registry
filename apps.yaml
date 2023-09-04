@@ -414,3 +414,16 @@ SEI-Active-learning-workflow:
         - technology-active-learning
         - technology-simstack
         - wp3
+ECXAS:
+    metadata:
+        title: ECXAS
+        description: |
+            An app to aggregate data from multitechnique experiments (XAS coupled with electrochemical characterization and Raman spectroscopy) in ROCK beamline at Synchrotron SOLEIL. Basic visualization functions are included.
+        authors: Lucía Pérez Ramírez
+        external_url: https://github.com/GhostDeini/perex
+        documentation_url: https://github.com/GhostDeini/perex/blob/09a2c066046a603506816f74441ab0d1ada63e46/ECXAS_documentation.pdf
+        state: development
+    categories:
+        - data-analysis
+        - data-visualization
+        - utilities
