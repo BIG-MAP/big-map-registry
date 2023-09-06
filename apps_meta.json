@@ -890,7 +890,7 @@
         "refs/heads/fix-unhandled-error-in-filter-action": "c6500003e8c762d36e55ce7c719e392577590303",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
-        "refs/heads/hide-columns": "8d7e02c713fa337ae7c7009150c4aa710c4f8cad",
+        "refs/heads/hide-columns": "59adcc455db79235799a389ace60839658833c9e",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
