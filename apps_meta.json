@@ -243,8 +243,8 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "06616fecfb6ed6b48e071936ea9a1e68fcd67220",
-        "refs/heads/main": "06616fecfb6ed6b48e071936ea9a1e68fcd67220",
+        "HEAD": "70113857856a5b222b4d9c2c3b5b4e1e52cd762c",
+        "refs/heads/main": "70113857856a5b222b4d9c2c3b5b4e1e52cd762c",
         "refs/pull/1/head": "1f37533d78fc228cb2a0cba985a5f4c04d98f88f",
         "refs/pull/17/head": "6210ce468dfb71544344b558d983d911a5d82601",
         "refs/pull/21/head": "442d767ca9e79486e7ae0cce8d124255e13d78c1",
@@ -266,13 +266,12 @@
         "refs/pull/39/head": "5f6e3ea0d0232ea38048be3c564a19f02d4e34b8",
         "refs/pull/40/head": "8c80ad2e59ffce5fda257df0cfe0e071d5590c55",
         "refs/pull/41/head": "12e4f0b3fb91a4ef6db6a87f8f236f3010cf4a6c",
-        "refs/pull/42/head": "df9ba4dd836c31f4a3a08f131fe4fb610fea50c6",
-        "refs/pull/42/merge": "f7f8c75a23af6137667977e35fe947f8d4ce7a3d",
+        "refs/pull/42/head": "6ec861144239cb35794730a0d5acd6470afe4ede",
+        "refs/pull/42/merge": "b4b36e831197e1766b8dd45e6eadd9b0a9c213c6",
         "refs/pull/48/head": "ac742ce5750bd8554658d4e83e9e4571107bafc7",
         "refs/pull/49/head": "faf4643b1949ae00759a044ae1792796b8dc6a21",
         "refs/pull/5/head": "0da49a5656b7ead748688067b3903ae56009b544",
-        "refs/pull/50/head": "6266662757d6e2af39ef35c4eddd77a5cca4bc34",
-        "refs/pull/50/merge": "21cccbd39f317ad83fc1a82bc32a4b6db13d1978",
+        "refs/pull/50/head": "e81fd14cc96586bec3ac13926e2d3b7f1e7bd000",
         "refs/pull/51/head": "f3c73b31bf814bdee427c73107eb74ba20da74e8",
         "refs/pull/52/head": "e5be6e564e017c08b9410d8e9ce7aad0a77048c4",
         "refs/pull/53/head": "439186e0ab2690eeada209cb7742ed78abe38568",
@@ -286,7 +285,9 @@
         "refs/tags/0.5.0": "2e8013f3b72bad8c985c1a2f3879ee1616f7f616",
         "refs/tags/0.6.0": "1dec7ceb4e1c22e33901fb5f4d3efd4f544b32dc",
         "refs/tags/0.7.0": "5b4259ab4f111fff92541496ae311c8b239284ca",
-        "refs/tags/0.7.0^{}": "243427f7e8d6647c452b7d2ff1c2c4141fb22f0a"
+        "refs/tags/0.7.0^{}": "243427f7e8d6647c452b7d2ff1c2c4141fb22f0a",
+        "refs/tags/0.8.0": "ca60258d826c8207d4adf32af7e1fdc311752091",
+        "refs/tags/0.8.0^{}": "70113857856a5b222b4d9c2c3b5b4e1e52cd762c"
       },
       "hosted_on": "github.com",
       "name": "aiidalab-aurora",
