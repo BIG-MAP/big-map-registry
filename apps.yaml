@@ -415,3 +415,22 @@ SEI-Active-learning-workflow:
         - technology-active-learning
         - technology-simstack
         - wp3
+
+Onterface:
+    metadata:
+        title: Onterface
+        description: |
+            Semantic web platform demonstrator coupling knowledge graphs with simulation and optimization workflows to enable on-click end-user solutions
+        authors: Simon Stier, Daniel Pacheco, Lukas Gold, Loïc Roch, Andreas Räder, Matthias Popp
+        external_url: https://onterface.open-semantic-lab.org/wiki/
+        documentation_url: https://onterface.open-semantic-lab.org/wiki/Item:OSW47e059d06b0b4d5e978ad4460dabafaa
+        logo: https://onterface.open-semantic-lab.org/w/logo.svg
+        state: stable
+        version: '1.0'
+    git_url: https://github.com/BIG-MAP/Onterface
+    categories:
+        - data-visualization
+        - data-management
+        - utilities
+        - wp7
+        - stakeholder
