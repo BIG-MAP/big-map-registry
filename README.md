@@ -117,6 +117,11 @@ To execute tests, run:
 ```console
 $ PYTHONPATH=src pytest
 ```
+on linux or
+```powershell
+$env:PYTHONPATH = "$pwd\src" ; pytest
+```
+on windows (powershell).
 
 Executed tests include unit, integration, and validation tests.
 The validation tests check the validity of all schema files, the data files (e.g. `apps.yaml` and `categories.yaml`, and – if present – the configuration file (`config.yaml`).
