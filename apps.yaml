@@ -427,4 +427,5 @@ CCS:
         state: development
         version: 0.22.3
     categories:
-        - WP3
+        - wp3
+        - technology-ase
