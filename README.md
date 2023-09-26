@@ -56,6 +56,12 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
 3. **NOTE**: It is important that you mention your name (along with your email id), the name of your PI and the BIG-MAP partner institute in the PR. This helps us keep track of who is making the contribution and whom to contact for future updates/news.
 
+4. To facilitate the review process of your apps, it is required that you make two videos (maximum lenght 4 minutes, each) showing:
+  - the app running under working conditions and being used, starting with a short (30 second) explanation of the goal of the app and what problem it is trying to solve
+  - how the app can be downloaded, installed, and put in working condition, with clear and concise instructions for each step
+
+5. To share these videos get in touch with the maintainers of this repository. 
+
 **Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
 That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
 For example, if you place a `metadata.yaml` file within your app repository, then you can reference that file in the app store like this:
