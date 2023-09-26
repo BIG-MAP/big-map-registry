@@ -22,9 +22,9 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 - The repository provides sufficient technical documentation on how to install and run the software. This can be achieved via a README file, a Wiki page, or a software documentation hosting platform such as [Read The Docs](https://readthedocs.org/). Please pay particular attention to this, since it is a criterion the evaluators will use to test the apps.
 
-Apps are added to the registry by adding an entry to the `apps.yaml` file within this repository.
+*Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before adding your app.*
 
-*Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before or after adding your app.*
+Apps are added to the registry by adding an entry to the `apps.yaml` file within this repository.
 
 1. Create a pull request to this repository that adds a new entry to the `apps.yaml` file, e.g., by [editing the file directly in the browser](https://github.com/BIG-MAP/big-map-registry/edit/main/apps.yaml?message=Add%20app%20%3Capp-name%3E). Example:
 
@@ -36,6 +36,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
             My BIG-MAP app helps to promote accelerated discovery
             of novel battery materials.
         authors: A. Doe, B. Doe
+        affiliations: University of XYZ
         external_url: http://my-app.example.com
         documentation_url: https://my-big-map-app.readthedocs.io
         logo: https://github.com/my-org/my-big-map-app/raw/main/logo.png
@@ -48,10 +49,18 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
         - WP9
     ```
 
-    **Note**: Only the metadata fields `title` and `description` are mandatory; the `categories` field must contain at least one item.
+    **Note**: Only the metadata fields `title` and `description` are mandatory; the `categories` field must contain at least one item, but it is highly encouraged to fill in the rest of the fields especially authors and affiliations to let us know which BIG-MAP partner institute you are affiliated with, and process your PR quickly.
 
 
 2. Your app will show up in the [BIG-MAP App Store](https://big-map.github.io/big-map-registry) once your pull request is approved and merged.
+
+3. **NOTE**: It is important that you mention your name (along with your email id), the name of your PI and the BIG-MAP partner institute in the PR. This helps us keep track of who is making the contribution and whom to contact for future updates/news.
+
+4. To facilitate the review process of your apps, it is required that you make two videos (maximum lenght 4 minutes, each) showing:
+  - the app running under working conditions and being used, starting with a short (30 second) explanation of the goal of the app and what problem it is trying to solve
+  - how the app can be downloaded, installed, and put in working condition, with clear and concise instructions for each step
+
+5. To share these videos get in touch with the maintainers of this repository.
 
 **Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
 That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
@@ -98,6 +107,7 @@ my-big-map-app:
 | `title` | **Mandatory** | The title will be displayed in the list of apps in the application manager. |
 | `description` | **Mandatory** | The description will be displayed on the detail page of your app. |
 | `authors` | Optional | Comma-separated list of authors. |
+| `affiliations` | Optional | Single university/institution name or a comma-separted list of institutes in case of multiple affiliations. |
 | `logo` | Optional | Url to a logo file (png or jpg). |
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
 | `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
