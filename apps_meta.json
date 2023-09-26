@@ -60,13 +60,14 @@
       ],
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
-        "HEAD": "f4131de56bb4cdf82f9196be4ab5816bf3a9f37a",
-        "refs/heads/main": "f4131de56bb4cdf82f9196be4ab5816bf3a9f37a",
+        "HEAD": "05ca6235c5cbfe46607564562c1287066019f364",
+        "refs/heads/main": "05ca6235c5cbfe46607564562c1287066019f364",
         "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
         "refs/tags/1.1.0": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
         "refs/tags/1.1.1": "0e1b8aac83918465e40c343192c8f2999c87e26b",
         "refs/tags/1.2.0": "0d7274a268e2be02e3b2a200978edafd491b374c",
-        "refs/tags/1.2.1": "f4131de56bb4cdf82f9196be4ab5816bf3a9f37a"
+        "refs/tags/1.2.1": "f4131de56bb4cdf82f9196be4ab5816bf3a9f37a",
+        "refs/tags/1.2.2": "05ca6235c5cbfe46607564562c1287066019f364"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
@@ -333,7 +334,7 @@
         "version": "23.10"
       },
       "gitinfo": {
-        "HEAD": "1d71c7f0427b818020d1ebff5578079df8805e8a",
+        "HEAD": "10ed6a212d0c86138c7e9d73f120df1b8495ce56",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/doc_plugin": "963666381d11624c0e59dc196134d50d2193efd2",
@@ -343,8 +344,7 @@
         "refs/heads/feature/xas": "989dc001c1c9376e6dc516eb8cf8b3a365c49477",
         "refs/heads/feature/xps": "ee7afd625583f5dc8dbf088101fee6342882aca3",
         "refs/heads/fix/traitlets-warnings": "7c9b075673bcebd728cc8c1f80e13bcb4bdc748c",
-        "refs/heads/main": "1d71c7f0427b818020d1ebff5578079df8805e8a",
-        "refs/heads/nscf-override-bugfix": "076fe47d6c0c42f7dffa6fa35ccb70dcb5b36a1e",
+        "refs/heads/main": "10ed6a212d0c86138c7e9d73f120df1b8495ce56",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
         "refs/heads/plugin_workchain": "bbbb22018f01eec7efca970d982b916bbb45e050",
         "refs/heads/r-x-workflow-app-merge": "f39d684254521506d578c02912fd1eaaf934c932",
@@ -557,7 +557,6 @@
         "refs/pull/443/head": "dd57cf78141c838b22f0e02284d7e6df5aa88e80",
         "refs/pull/445/head": "41a81f4fe32079fcecdd020353da780da658c571",
         "refs/pull/446/head": "076fe47d6c0c42f7dffa6fa35ccb70dcb5b36a1e",
-        "refs/pull/446/merge": "cc091dd25ba599254c942eb16b6552e3b880316d",
         "refs/pull/447/head": "cb59eb35136c7f6e740164ed3a59a5c99f9b562a",
         "refs/pull/449/head": "6323ec5c372348646845205ad340a8b15b4ab1ac",
         "refs/pull/45/head": "97d51368f14c79195cef8d038dbd8ae9b02c8a74",
