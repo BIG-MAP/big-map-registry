@@ -412,3 +412,17 @@ SEI-Active-learning-workflow:
         - technology-active-learning
         - technology-simstack
         - wp3
+CCS:
+    metadata:
+        title: CCS (Curvature Constrained Splines)
+        description: |
+            CCS is a software tool to generate force fields in a flexible yet robust way.
+        authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
+        external_url: https://github.com/Teoroo-CMC/CCS
+        documentation_url: https://teoroo-cmc.github.io/CCS/
+        logo: https://github.com/Teoroo-CMC/CCS/blob/master/logo.png
+        state: development
+        version: 0.22.3
+    categories:
+        - wp3
+        - technology-ase
