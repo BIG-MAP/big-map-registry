@@ -60,7 +60,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
   - the app running under working conditions and being used, starting with a short (30 second) explanation of the goal of the app and what problem it is trying to solve
   - how the app can be downloaded, installed, and put in working condition, with clear and concise instructions for each step
 
-5. To share these videos get in touch with the maintainers of this repository. 
+5. To share these videos get in touch with the maintainers of this repository.
 
 **Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
 That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
