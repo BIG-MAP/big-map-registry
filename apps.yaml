@@ -27,7 +27,7 @@ MADAP:
         state: stable
         title: MADAP
         external_url: https://youtu.be/nL-eJpb1AxI
-        version: '0.11.0'
+        version: 0.11.0
         logo: https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png
 aiidalab-qe:
     categories:
@@ -202,7 +202,7 @@ FullProfAPP:
         documentation_url: https://fullprofapp.readthedocs.io/en/stable/
         logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
         state: development
-        version: '1.1.0'
+        version: 1.1.0
     categories:
         - data-analysis
         - utilities
@@ -216,7 +216,7 @@ aiida-seigrowth:
         external_url: https://github.com/lucabanetta/aiida-seigrowth
         documentation_url: https://github.com/lucabanetta/aiida-seigrowth/blob/main/README.md
         state: development
-        version: '0.1.0'
+        version: 0.1.0
     categories:
         - wp3
         - technology-aiida
@@ -245,7 +245,7 @@ SEI-Builder:
         documentation_url: https://sei-builder.readthedocs.io
         logo: https://raw.githubusercontent.com/paolodeangelis/SEI_builder/main/img/logo.png
         state: development
-        version: '0.1.0'
+        version: 0.1.0
     categories:
         - wp3
         - utilities
