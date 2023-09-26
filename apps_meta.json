@@ -1,5 +1,24 @@
 {
   "apps": {
+    "CCS": {
+      "metadata": {
+        "title": "CCS (Curvature Constrained Splines)",
+        "description": "CCS is a software tool to generate force fields in a flexible yet robust way.\n",
+        "authors": "AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren",
+        "external_url": "https://github.com/Teoroo-CMC/CCS",
+        "documentation_url": "https://teoroo-cmc.github.io/CCS/",
+        "logo": "https://github.com/Teoroo-CMC/CCS/blob/master/logo.png",
+        "state": "development",
+        "version": "0.22.3"
+      },
+      "categories": [
+        "wp3",
+        "technology-ase"
+      ],
+      "logo": "https://github.com/Teoroo-CMC/CCS/blob/master/logo.png",
+      "name": "CCS",
+      "subpage": "apps/CCS.html"
+    },
     "EVA": {
       "metadata": {
         "title": "EVA",
