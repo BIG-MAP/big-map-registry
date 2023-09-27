@@ -17,7 +17,7 @@
                     "type": "string"
                 },
                 "affiliations": {
-                  "type": "string"
+                    "type": "string"
                 },
                 "version": {
                     "type": "string"
