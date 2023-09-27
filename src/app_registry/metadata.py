@@ -18,7 +18,7 @@ def complete_metadata(app_name, metadata, git_url):
 
     metadata.setdefault("state", "registered")
     metadata.setdefault("title", app_name)
-    # metadata.setdefault("affiliations", "not available")
+    metadata.setdefault("affiliations", "not available")
     if git_url:
         metadata.setdefault("authors", util.get_git_author(git_url))
     return metadata
