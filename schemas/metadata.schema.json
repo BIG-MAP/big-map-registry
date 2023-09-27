@@ -16,6 +16,9 @@
                 "authors": {
                     "type": "string"
                 },
+                "affiliations": {
+                  "type": "string"
+                },
                 "version": {
                     "type": "string"
                 },
