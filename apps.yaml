@@ -421,7 +421,7 @@ NanoBattVR:
             A virtual reality lab for exploring battery materials at the atomic level.
             Simulate using either fast classical methods or deploy DFT calculation on a cluster.
         authors: Z. Mahmood, I. Castelli, S. Lysgaard, M. Brandbyge, P. Bøggild
-        external_url: https://drive.google.com/drive/folders/1B3yrpWTZCHrKotWMuzhscNiD4PG_MYC7?usp=drive_link
+        external_url: https://nanoscale-simulations.itch.io/nanobattvr
         documentation_url: https://github.com/NanoscaleSimulations/NanoBattVR_documentation
         logo: https://nanoscalesimulations.com/Logo/Favicon/Favicon%20(M%C3%B8rk%20baggrund).svg
         state: development
