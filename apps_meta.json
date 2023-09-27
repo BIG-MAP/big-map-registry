@@ -9,7 +9,8 @@
         "documentation_url": "https://teoroo-cmc.github.io/CCS/",
         "logo": "https://github.com/Teoroo-CMC/CCS/blob/master/logo.png",
         "state": "development",
-        "version": "0.22.3"
+        "version": "0.22.3",
+        "affiliations": "not available"
       },
       "categories": [
         "wp3",
@@ -26,7 +27,8 @@
         "authors": "Marc Duquesnoy, Matheus Leal De Souza, Mathieu Morcrette, Alejandro A. Franco",
         "logo": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/images/logo.pdf",
         "state": "development",
-        "documentation_url": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/index.html"
+        "documentation_url": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/index.html",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/ARTISTIC-ERC/EVA",
       "categories": [
@@ -52,7 +54,8 @@
         "documentation_url": "https://fullprofapp.readthedocs.io/en/stable/",
         "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
         "state": "development",
-        "version": "1.1.0"
+        "version": "1.1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "data-analysis",
@@ -83,7 +86,8 @@
         "documentation_url": "https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf",
         "logo": "https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg",
         "state": "development",
-        "version": "2.1"
+        "version": "2.1",
+        "affiliations": "not available"
       },
       "categories": [
         "technology-lab",
@@ -107,7 +111,8 @@
         "logo": "https://githubraw.com/raulorteg/big-map-registry/logo/logo/icon.png",
         "state": "development",
         "title": "HierCVAE",
-        "external_url": "https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/"
+        "external_url": "https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/",
+        "affiliations": "not available"
       },
       "gitinfo": {
         "HEAD": "039992ff0d2cd59b1aabe20ea38900b290c620a3",
@@ -133,7 +138,8 @@
         "title": "MADAP",
         "external_url": "https://youtu.be/nL-eJpb1AxI",
         "version": "0.11.0",
-        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png"
+        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
+        "affiliations": "not available"
       },
       "gitinfo": {
         "HEAD": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
@@ -175,7 +181,8 @@
         "documentation_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md",
         "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png",
         "state": "development",
-        "version": "1.0"
+        "version": "1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "technology-active-learning",
@@ -195,7 +202,8 @@
         "documentation_url": "https://sei-builder.readthedocs.io",
         "logo": "https://raw.githubusercontent.com/paolodeangelis/SEI_builder/main/img/logo.png",
         "state": "development",
-        "version": "0.1.0"
+        "version": "0.1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "wp3",
@@ -239,7 +247,8 @@
         "external_url": "https://github.com/lucabanetta/aiida-seigrowth",
         "documentation_url": "https://github.com/lucabanetta/aiida-seigrowth/blob/main/README.md",
         "state": "development",
-        "version": "0.1.0"
+        "version": "0.1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "wp3",
@@ -254,7 +263,8 @@
         "description": "AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative\n",
         "authors": "Loris Ercole",
         "documentation_url": "https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md",
-        "state": "registered"
+        "state": "registered",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/epfl-theos/aiidalab-aurora",
       "categories": [
@@ -326,6 +336,7 @@
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "metadata": {
         "authors": "Xing Wang, Giovanni Pizzi",
+        "affiliations": "PSI, EPFL",
         "description": "Compute band structures and other structure properties with Quantum ESPRESSO\non the AiiDAlab platform.\n",
         "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
         "state": "development",
@@ -713,7 +724,8 @@
         "external_url": "https://gitlab.com/computationalmaterials/clease-gui",
         "documentation_url": "https://clease-gui.readthedocs.io",
         "logo": "https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png",
-        "state": "development"
+        "state": "development",
+        "affiliations": "not available"
       },
       "categories": [
         "data-analysis",
@@ -733,7 +745,8 @@
         "documentation_url": "https://the-datalab.readthedocs.io",
         "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
         "state": "development",
-        "version": "0.1"
+        "version": "0.1",
+        "affiliations": "not available"
       },
       "categories": [
         "data-management",
@@ -752,7 +765,8 @@
         "external_url": "https://github.com/BIG-MAP/densityNEB",
         "documentation_url": "https://github.com/BIG-MAP/densityNEB/blob/main/README.md",
         "logo": "https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png",
-        "state": "development"
+        "state": "development",
+        "affiliations": "not available"
       },
       "categories": [
         "utilities"
@@ -770,7 +784,8 @@
         "documentation_url": "https://github.com/KIT-Workflows/DFT-QE/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png",
         "state": "development",
-        "version": "1.0"
+        "version": "1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "quantum",
@@ -790,7 +805,8 @@
         "documentation_url": "https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/dft_surface_logo.png",
         "state": "development",
-        "version": "1.0"
+        "version": "1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "quantum",
@@ -809,7 +825,8 @@
         "documentation_url": "https://github.com/KIT-Workflows/DFT-VASP/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
         "state": "development",
-        "version": "1.0"
+        "version": "1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "quantum",
@@ -828,7 +845,8 @@
         "documentation_url": "https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png",
         "state": "development",
-        "version": "1.0"
+        "version": "1.0",
+        "affiliations": "not available"
       },
       "categories": [
         "quantum",
@@ -846,7 +864,8 @@
         "authors": "Michaël Zasso, Daniel Kostro, Santiago Miranda, Luc Patiny",
         "logo": "https://www.galvanicium.org/images/galvanicium.svg",
         "state": "stable",
-        "documentation_url": "https://www.galvanicium.org/"
+        "documentation_url": "https://www.galvanicium.org/",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/zakodium-oss/galvanicium-app",
       "categories": [
@@ -875,7 +894,8 @@
         "logo": "https://www.nmrium.org/brand/nmrium-logo.svg",
         "state": "stable",
         "external_url": "https://www.nmrium.org",
-        "documentation_url": "https://nmrdata.github.io/bigmap-solid-state-nmr/"
+        "documentation_url": "https://nmrdata.github.io/bigmap-solid-state-nmr/",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/cheminfo/nmrium",
       "categories": [
@@ -1860,7 +1880,8 @@
         "external_url": "https://www.materialscloud.org/work/tools/optimadeclient",
         "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png",
         "state": "development",
-        "title": "OPTIMADE Web Client"
+        "title": "OPTIMADE Web Client",
+        "affiliations": "not available"
       },
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png",
       "name": "optimade-web",
@@ -1873,7 +1894,8 @@
         "authors": "Eibar Flores",
         "external_url": "https://github.com/BIG-MAP/PRISMA",
         "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
-        "state": "development"
+        "state": "development",
+        "affiliations": "not available"
       },
       "categories": [
         "data-analysis",
@@ -1891,7 +1913,8 @@
         "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
         "state": "stable",
         "documentation_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md",
-        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/"
+        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/",
+        "affiliations": "not available"
       },
       "git_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop",
       "categories": [
@@ -1948,7 +1971,8 @@
         "external_url": "https://biolib.com/jbusk/qm9-schnet-uncertainty/",
         "documentation_url": "https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png",
-        "state": "development"
+        "state": "development",
+        "affiliations": "not available"
       },
       "categories": [
         "technology-ase"
@@ -1971,7 +1995,8 @@
         "documentation_url": "https://dgbowl.github.io/tomato",
         "logo": "https://dgbowl.github.io/images/tomato.png",
         "state": "development",
-        "version": "0.2"
+        "version": "0.2",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/dgbowl/tomato",
       "categories": [
@@ -2055,7 +2080,8 @@
         "documentation_url": "https://dgbowl.github.io/yadg",
         "logo": "https://dgbowl.github.io/images/yadg.png",
         "state": "development",
-        "version": "4.2"
+        "version": "4.2",
+        "affiliations": "not available"
       },
       "git_url": "https://github.com/dgbowl/yadg",
       "categories": [
