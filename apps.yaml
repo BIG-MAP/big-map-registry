@@ -37,6 +37,7 @@ aiidalab-qe:
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
         authors: Xing Wang, Giovanni Pizzi
+        affiliations: PSI, EPFL
         description: |
             Compute band structures and other structure properties with Quantum ESPRESSO
             on the AiiDAlab platform.
