@@ -63,14 +63,14 @@
       ],
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
-        "HEAD": "1390a08be3b687da4b3a0e4f046e6d72e47afd65",
-        "refs/heads/main": "1390a08be3b687da4b3a0e4f046e6d72e47afd65",
+        "HEAD": "2a1d2101ef546861f705b6261f52c868df8daa55",
+        "refs/heads/main": "2a1d2101ef546861f705b6261f52c868df8daa55",
         "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
         "refs/tags/1.1.0": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
         "refs/tags/1.1.1": "0e1b8aac83918465e40c343192c8f2999c87e26b",
         "refs/tags/1.2.0": "0d7274a268e2be02e3b2a200978edafd491b374c",
         "refs/tags/1.2.1": "f4131de56bb4cdf82f9196be4ab5816bf3a9f37a",
-        "refs/tags/1.2.2": "1390a08be3b687da4b3a0e4f046e6d72e47afd65"
+        "refs/tags/1.2.2": "2a1d2101ef546861f705b6261f52c868df8daa55"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
