@@ -924,7 +924,7 @@
         "refs/heads/2609-confirmation-dialog": "e915da0ca66d9cb9fe1cd10d7878076c5957162e",
         "refs/heads/2647-issues-parsing-nmredata-file-associated-with-bruker-zip-file": "634d9fd35f586d9cd5e8ac2fc72be38f96c0971b",
         "refs/heads/2665-manual-range-picking-would-not-calculate-peaks": "4629022e5282534006ac4eb69d11df9465b0d396",
-        "refs/heads/2688-oxford-instrument-jcamp-dx": "92ed6464aab543775f3acdcaa30b2ff09fe25899",
+        "refs/heads/2688-oxford-instrument-jcamp-dx": "da2352fce240622a69d90b4dc5335faaa3228970",
         "refs/heads/2d-phase-correction": "438c5a6ab22956394fffe31412107bbc52604f05",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
