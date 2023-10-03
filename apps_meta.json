@@ -347,6 +347,7 @@
       "gitinfo": {
         "HEAD": "10ed6a212d0c86138c7e9d73f120df1b8495ce56",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
+        "refs/heads/dependabot/pip/docs/urllib3-2.0.6": "94329c7e682018f93e30fba986e9120c6fc71aa1",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/doc_plugin": "963666381d11624c0e59dc196134d50d2193efd2",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
@@ -613,6 +614,8 @@
         "refs/pull/49/head": "66ea640dc172f0904669abe7644f78e39399de4f",
         "refs/pull/492/head": "a6251c8a1ce2bd9955bfea5a7e55f288d9180e49",
         "refs/pull/492/merge": "42e52acf597a7f3a685318282a10ea0d1ec0e500",
+        "refs/pull/493/head": "94329c7e682018f93e30fba986e9120c6fc71aa1",
+        "refs/pull/493/merge": "faa272c4a468511506b212fcfb3f456a50c36455",
         "refs/pull/5/head": "bf09fef2a6f82cba86eaccdf603ddbde8e587442",
         "refs/pull/50/head": "d8c2f2c17eb797dffd625fa4fc80ff6dbf77abbf",
         "refs/pull/51/head": "fc43304cfcc71db0c71ce29b2e25969d9441cb90",
