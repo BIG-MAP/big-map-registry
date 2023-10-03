@@ -84,6 +84,19 @@
     </div>
     {% endif %}
 
+    <h2>Video showcase</h2>
+
+    {% if metadata.video_installation_url %}
+        <p>
+            <strong>Installation</strong>: <a href="{{ metadata.video_installation_url }}" target="_blank">Go to app installation video</a>
+        <p>
+    {% endif %}
+
+    {% if metadata.video_demonstration_url %}
+        <p>
+            <strong>Demonstration</strong>: <a href="{{ metadata.video_demonstration_url }}" target="_blank">Go to app demonstration video</a>
+        <p>
+    {% endif %}
 </main>
 
 {% endblock body %}

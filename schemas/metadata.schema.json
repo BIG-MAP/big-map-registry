@@ -19,15 +19,13 @@
                 "affiliations": {
                     "type": "string"
                 },
-                "videos":{
-                    "installation_url": {
-                        "type": "string",
-                        "format": "uri"
-                    },
-                    "demonstration_url": {
-                        "type": "string",
-                        "format": "uri"
-                    }
+                "video_installation_url": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "video_demonstration_url": {
+                    "type": "string",
+                    "format": "uri"
                 },
                 "version": {
                     "type": "string"
