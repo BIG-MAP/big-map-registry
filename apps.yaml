@@ -36,18 +36,16 @@ aiidalab-qe:
         - quantum
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
-        authors:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+        authors: Xing Wang, Giovanni Pizzi
+        affiliations: PSI, EPFL
         description: |
             Compute band structures and other structure properties with Quantum ESPRESSO
             on the AiiDAlab platform.
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-        state:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
+        state: development
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://www.materialscloud.org/work/aiidalab
-        version:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
+        version: '23.10'
 optimade-web:
     categories:
         - technology-materials-cloud
@@ -427,3 +425,17 @@ sdlabs-wrapper:
     categories:
         - wp10
         - technology-active-learning
+CCS:
+    metadata:
+        title: CCS (Curvature Constrained Splines)
+        description: |
+            CCS is a software tool to generate force fields in a flexible yet robust way.
+        authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
+        external_url: https://github.com/Teoroo-CMC/CCS
+        documentation_url: https://teoroo-cmc.github.io/CCS/
+        logo: https://github.com/Teoroo-CMC/CCS/blob/master/logo.png
+        state: development
+        version: 0.22.3
+    categories:
+        - wp3
+        - technology-ase
