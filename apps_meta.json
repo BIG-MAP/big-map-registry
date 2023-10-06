@@ -7,7 +7,7 @@
         "authors": "AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren",
         "external_url": "https://github.com/Teoroo-CMC/CCS",
         "documentation_url": "https://teoroo-cmc.github.io/CCS/",
-        "logo": "https://github.com/Teoroo-CMC/CCS/blob/master/logo.png",
+        "logo": "https://github.com/Teoroo-CMC/CCS/raw/master/logo.png",
         "state": "development",
         "version": "0.22.3",
         "affiliations": "not available"
@@ -16,7 +16,7 @@
         "wp3",
         "technology-ase"
       ],
-      "logo": "https://github.com/Teoroo-CMC/CCS/blob/master/logo.png",
+      "logo": "https://github.com/Teoroo-CMC/CCS/raw/master/logo.png",
       "name": "CCS",
       "subpage": "apps/CCS.html"
     },
@@ -52,9 +52,11 @@
         "authors": "Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho",
         "external_url": "https://www.ill.eu/sites/fullprof/php/downloads.html",
         "documentation_url": "https://fullprofapp.readthedocs.io/en/stable/",
-        "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
+        "logo": "https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png",
         "state": "development",
         "version": "1.1.0",
+        "video_installation_url": "https://drive.google.com/file/d/1eo_IEvsLW2Zr-iDTu_oQEmy9OUSqr5Ip/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1qDybdjh7lb0v7upkwd5s4xUF2_7_Mohw/preview",
         "affiliations": "not available"
       },
       "categories": [
@@ -73,7 +75,7 @@
         "refs/tags/1.2.2": "2a1d2101ef546861f705b6261f52c868df8daa55"
       },
       "hosted_on": "gitlab.com",
-      "logo": "https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png",
+      "logo": "https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png",
       "name": "FullProfAPP",
       "subpage": "apps/FullProfAPP.html"
     },
@@ -179,7 +181,7 @@
         "authors": "Mohammad Soleymanibrojeni, Celso R. C. Rêgo",
         "external_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning",
         "documentation_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md",
-        "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png",
+        "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png",
         "state": "development",
         "version": "1.0",
         "affiliations": "not available"
@@ -189,7 +191,7 @@
         "technology-simstack",
         "wp3"
       ],
-      "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png",
+      "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png",
       "name": "SEI-Active-learning-workflow",
       "subpage": "apps/SEI-Active-learning-workflow.html"
     },
@@ -731,6 +733,8 @@
         "documentation_url": "https://clease-gui.readthedocs.io",
         "logo": "https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png",
         "state": "development",
+        "video_installation_url": "https://drive.google.com/file/d/1OSRTR3761hs1TGyk5_oMPfNyErnc6whn/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1AITCUjLnbsT2W6WIBgCqFCMuLUXALSNy/preview",
         "affiliations": "not available"
       },
       "categories": [
@@ -752,6 +756,8 @@
         "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
         "state": "development",
         "version": "0.1",
+        "video_installation_url": "https://drive.google.com/file/d/1FnfA-yLWYtJ5MUxaJLcnjeMbwDFJiyRn/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1TcxbQoYi1AICcDyZHGkmiJbPIaOwdGQ0/preview",
         "affiliations": "not available"
       },
       "categories": [
