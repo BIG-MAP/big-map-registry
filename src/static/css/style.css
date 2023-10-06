@@ -417,7 +417,7 @@ span.badge-right {
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
   }
-  
+
   .videoWrapper iframe {
     position: absolute;
     top: 0;
@@ -425,4 +425,4 @@ span.badge-right {
     width: 100%;
     height: 100%;
   }
-  
+
