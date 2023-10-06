@@ -86,17 +86,30 @@
 
     <h2>Video showcase</h2>
 
-    {% if metadata.video_installation_url %}
+    {% if metadata.video_installation_url and metadata.video_demonstration_url %}
+
+        <div style="display: flex; justify-content: center;">
+            <div style="margin-right: 20px;">
+                <h3>Installation</h3>
+                <iframe width="640" height="480" src="{{ metadata.video_installation_url }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div style="margin-left: 20px;">
+                <h3>Demonstration</h3>
+                <iframe width="640" height="480" src="{{ metadata.video_demonstration_url }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+
+    {% else %}
+    <div >
         <p>
-            <strong>Installation</strong>: <a href="{{ metadata.video_installation_url }}" target="_blank">Go to app installation video</a>
-        <p>
+            Unable to retrieve video information for this app.
+            Ask the app developers to provide a <code>metadata.json</code>
+            file in the app source code.
+        </p>
+    </div>
+      
     {% endif %}
 
-    {% if metadata.video_demonstration_url %}
-        <p>
-            <strong>Demonstration</strong>: <a href="{{ metadata.video_demonstration_url }}" target="_blank">Go to app demonstration video</a>
-        <p>
-    {% endif %}
 </main>
 
 {% endblock body %}
