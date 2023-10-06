@@ -203,7 +203,7 @@ FullProfAPP:
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
         documentation_url: https://fullprofapp.readthedocs.io/en/stable/
-        logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
+        logo: https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png
         state: development
         version: 1.1.0
         video_installation_url: https://drive.google.com/file/d/1eo_IEvsLW2Zr-iDTu_oQEmy9OUSqr5Ip/preview
@@ -412,7 +412,7 @@ SEI-Active-learning-workflow:
         authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
         external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
-        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png
+        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
         state: development
         version: '1.0'
     categories:
@@ -427,7 +427,7 @@ CCS:
         authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
         external_url: https://github.com/Teoroo-CMC/CCS
         documentation_url: https://teoroo-cmc.github.io/CCS/
-        logo: https://github.com/Teoroo-CMC/CCS/blob/master/logo.png
+        logo: https://github.com/Teoroo-CMC/CCS/raw/master/logo.png
         state: development
         version: 0.22.3
     categories:
