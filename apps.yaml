@@ -36,18 +36,16 @@ aiidalab-qe:
         - quantum
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
-        authors:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#authors
+        authors: Xing Wang, Giovanni Pizzi
+        affiliations: PSI, EPFL
         description: |
             Compute band structures and other structure properties with Quantum ESPRESSO
             on the AiiDAlab platform.
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
-        state:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#state
+        state: development
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://www.materialscloud.org/work/aiidalab
-        version:
-            $ref: https://aiidalab.github.io/aiidalab-qe/metadata.json#version
+        version: '23.10'
 optimade-web:
     categories:
         - technology-materials-cloud
@@ -166,6 +164,8 @@ clease-gui:
         documentation_url: https://clease-gui.readthedocs.io
         logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
         state: development
+        video_installation_url: https://drive.google.com/file/d/1OSRTR3761hs1TGyk5_oMPfNyErnc6whn/preview
+        video_demonstration_url: https://drive.google.com/file/d/1AITCUjLnbsT2W6WIBgCqFCMuLUXALSNy/preview
     categories:
         - data-analysis
         - utilities
@@ -203,9 +203,11 @@ FullProfAPP:
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
         documentation_url: https://fullprofapp.readthedocs.io/en/stable/
-        logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
+        logo: https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png
         state: development
         version: 1.1.0
+        video_installation_url: https://drive.google.com/file/d/1eo_IEvsLW2Zr-iDTu_oQEmy9OUSqr5Ip/preview
+        video_demonstration_url: https://drive.google.com/file/d/1qDybdjh7lb0v7upkwd5s4xUF2_7_Mohw/preview
     categories:
         - data-analysis
         - utilities
@@ -319,11 +321,12 @@ qemu-web-desktop:
     metadata:
         title: DARTS
         description: |
-            Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, and displays them in your browser. These machines can be used for, e.g., scientific data treatment. DARTS can be installed and configured in minutes to provide data treatment and simulation environments, for instance running Quantum ESPRESSO (QE) via the Atomic Simulation Environment (ASE).
+            Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, and displays them in your browser. These machines can be used for, e.g., scientific data treatment. DARTS can be installed and configured in minutes to provide data treatment and simulation environments, for instance running Quantum ESPRESSO (QE) via the Atomic Simulation Environment (ASE). The service is in production at Synchrotron SOLEIL and available to all users having performed an experiment.
         authors: Emmanuel Farhi
         logo: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png
         state: stable
         documentation_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md
+        external_url: https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/
     git_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     categories:
         - utilities
@@ -382,6 +385,8 @@ datalab:
         logo: https://avatars.githubusercontent.com/u/50706292?s=200&v=4
         state: development
         version: '0.1'
+        video_installation_url: https://drive.google.com/file/d/1FnfA-yLWYtJ5MUxaJLcnjeMbwDFJiyRn/preview
+        video_demonstration_url: https://drive.google.com/file/d/1TcxbQoYi1AICcDyZHGkmiJbPIaOwdGQ0/preview
     categories:
         - data-management
         - data-analysis
@@ -407,13 +412,27 @@ SEI-Active-learning-workflow:
         authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
         external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
-        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png
+        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
         state: development
         version: '1.0'
     categories:
         - technology-active-learning
         - technology-simstack
         - wp3
+CCS:
+    metadata:
+        title: CCS (Curvature Constrained Splines)
+        description: |
+            CCS is a software tool to generate force fields in a flexible yet robust way.
+        authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
+        external_url: https://github.com/Teoroo-CMC/CCS
+        documentation_url: https://teoroo-cmc.github.io/CCS/
+        logo: https://github.com/Teoroo-CMC/CCS/raw/master/logo.png
+        state: development
+        version: 0.22.3
+    categories:
+        - wp3
+        - technology-ase
 NanoBattVR:
     metadata:
         title: NanoBattVR

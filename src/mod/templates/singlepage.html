@@ -62,6 +62,9 @@
             <strong>Author(s)</strong>: {{ metadata.authors }}
         </p>
         <p>
+            <strong>Affiliation(s)</strong>: {{ metadata.affiliations }}
+        </p>
+        <p>
             <strong>Short description</strong>: {{ metadata.description }}
         </p>
         {% if metadata.version %}
@@ -79,6 +82,35 @@
             file in the app source code.
         </p>
     </div>
+    {% endif %}
+
+    <h2>Video showcase</h2>
+
+    {% if metadata.video_installation_url and metadata.video_demonstration_url %}
+
+        <div id='description'>
+            <h3>Installation</h3>
+        </div>
+        <div class="videoWrapper">
+            <iframe src="{{ metadata.video_installation_url }}" frameborder="0" allowfullscreen title="Installation"></iframe>
+        </div>
+
+        <div id='description'>
+            <h3>Demonstration</h3>
+        </div>
+        <div class="videoWrapper">
+            <iframe src="{{ metadata.video_demonstration_url }}" frameborder="0" allowfullscreen title="Demonstration"></iframe>
+        </div>
+
+    {% else %}
+    <div >
+        <p>
+            Unable to retrieve video information for this app.
+            Ask the app developers to provide a <code>metadata.json</code>
+            file in the app source code.
+        </p>
+    </div>
+
     {% endif %}
 
 </main>

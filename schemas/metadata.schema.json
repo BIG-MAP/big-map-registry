@@ -16,6 +16,17 @@
                 "authors": {
                     "type": "string"
                 },
+                "affiliations": {
+                    "type": "string"
+                },
+                "video_installation_url": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "video_demonstration_url": {
+                    "type": "string",
+                    "format": "uri"
+                },
                 "version": {
                     "type": "string"
                 },

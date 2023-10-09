@@ -53,6 +53,7 @@ def app_metadata(requests_mock, app_logo):
         "title": "Test App",
         "version": "1.0.0",
         "authors": "big-map",
+        "affiliations": "big-map",
         "logo": app_logo.url,
         "state": "development",
     }
