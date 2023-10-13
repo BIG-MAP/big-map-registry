@@ -415,12 +415,16 @@ SEI-Active-learning-workflow:
         - wp3
 sdlabs-wrapper:
     metadata:
-        title: sdlabs_wrapper
+        title: Self-Driving Labs (SDLabs) app
+        authors: Daniel Pacheco Gutierrez, Loïc Roch
+        affiliations: Atinary Technologies
         description: |
             SDK for closed-loop optimization via the Atinary SDLabs platform.
             Users can define their parameters, objectives and the optimization algorithm of their choice.
             Requires an academic account on the SDLabs platform (https://home.atinary.com/)
         state: development
+        video_installation_url: https://drive.google.com/file/d/1-8A7QJIow5M-eQOVjlQ1cW1JTAfhdLEA/preview
+        video_demonstration_url: https://drive.google.com/file/d/12LqcAsBuOEoJkiu9Sy0whTgVqPpRgFdz/preview
     git_url: https://github.com/Atinary-technologies/sdlabs_wrapper
     categories:
         - wp10
