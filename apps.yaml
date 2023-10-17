@@ -46,6 +46,8 @@ aiidalab-qe:
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://www.materialscloud.org/work/aiidalab
         version: '23.10'
+        video_installation_url: https://drive.google.com/file/d/1ke5_OAoZourhZoberkZrvrYGLmH3ZI_7/preview
+        video_demonstration_url: https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview
 optimade-web:
     categories:
         - technology-materials-cloud
@@ -70,6 +72,8 @@ dft-vasp:
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
         state: development
         version: '1.0'
+        video_installation_url: https://drive.google.com/file/d/1iLOlZ683WT2zz5So7Es_QMh8p9v-VmTR/preview
+        video_demonstration_url: https://drive.google.com/file/d/1P3RrTvAEYxWYEpbIy9SdGV4P2xSJ5Mdm/preview
     categories:
         - quantum
         - technology-simstack
@@ -111,6 +115,8 @@ density-neb:
         documentation_url: https://github.com/BIG-MAP/densityNEB/blob/main/README.md
         logo: https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png
         state: development
+        video_installation_url: https://drive.google.com/file/d/10VOwkYeDu8pAB8RNq9m3ocodugEoCODb/preview
+        video_demonstration_url: https://drive.google.com/file/d/1XRqwHpiy3gTCF7z0FQZrdgukAGfZr7Qd/preview
     categories:
         - utilities
 qm9-schnet-uncertainty:
@@ -164,6 +170,8 @@ clease-gui:
         documentation_url: https://clease-gui.readthedocs.io
         logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
         state: development
+        video_installation_url: https://drive.google.com/file/d/1OSRTR3761hs1TGyk5_oMPfNyErnc6whn/preview
+        video_demonstration_url: https://drive.google.com/file/d/1AITCUjLnbsT2W6WIBgCqFCMuLUXALSNy/preview
     categories:
         - data-analysis
         - utilities
@@ -201,9 +209,11 @@ FullProfAPP:
         authors: Oier Arcelus, Juan Rodriguez-Carvajal, Nebil Ayape Katcho
         external_url: https://www.ill.eu/sites/fullprof/php/downloads.html
         documentation_url: https://fullprofapp.readthedocs.io/en/stable/
-        logo: https://gitlab.com/d7081/fullprofapp/-/tree/main/src/fpgui/icons/splash.png
+        logo: https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png
         state: development
         version: 1.1.0
+        video_installation_url: https://drive.google.com/file/d/1eo_IEvsLW2Zr-iDTu_oQEmy9OUSqr5Ip/preview
+        video_demonstration_url: https://drive.google.com/file/d/1qDybdjh7lb0v7upkwd5s4xUF2_7_Mohw/preview
     categories:
         - data-analysis
         - utilities
@@ -232,6 +242,8 @@ electrolyte-screening:
         logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png
         state: development
         version: '1.0'
+        video_installation_url: https://drive.google.com/file/d/19oyqM7oa2XTtTQNIKMYWkDe0KRBgiNUn/preview
+        video_demonstration_url: https://drive.google.com/file/d/1meiPgDMHWc3TLQMFh9FepncT7HZLc5kP/preview
     categories:
         - quantum
         - technology-simstack
@@ -268,6 +280,8 @@ HierCVAE:
         state: development
         title: HierCVAE
         external_url: https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/
+        video_installation_url: https://drive.google.com/file/d/1wO1k1ji85AofscfhtS_DNHCK6e1RefES/preview
+        video_demonstration_url: https://drive.google.com/file/d/1Tt9OMlFJ4gDeLmTucc94n1HEHuFMXqxs/preview
 yadg:
     metadata:
         title: yadg
@@ -306,6 +320,8 @@ aiidalab-aurora:
         authors: Loris Ercole
         documentation_url: https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md
         state: registered
+        video_installation_url: https://drive.google.com/file/d/1JI6kJq100u1RecCum0BHoz_wiBj8HWay/preview
+        video_demonstration_url: https://drive.google.com/file/d/183qPIfW9gQSKq5IU8WmfyVK5o1BcQ4A_/preview
     git_url: https://github.com/epfl-theos/aiidalab-aurora
     categories:
         - technology-aiida
@@ -365,6 +381,8 @@ dft-qe:
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png
         state: development
         version: '1.0'
+        video_installation_url: https://drive.google.com/file/d/1SxzWXHU9bHFJ2t8sDkxbl0ItJt4QAiCE/preview
+        video_demonstration_url: https://drive.google.com/file/d/1pcQWx9AdOOHhIokv4YfaiatEPhJ01DkF/preview
     categories:
         - quantum
         - technology-simstack
@@ -381,6 +399,8 @@ datalab:
         logo: https://avatars.githubusercontent.com/u/50706292?s=200&v=4
         state: development
         version: '0.1'
+        video_installation_url: https://drive.google.com/file/d/1FnfA-yLWYtJ5MUxaJLcnjeMbwDFJiyRn/preview
+        video_demonstration_url: https://drive.google.com/file/d/1TcxbQoYi1AICcDyZHGkmiJbPIaOwdGQ0/preview
     categories:
         - data-management
         - data-analysis
@@ -406,7 +426,7 @@ SEI-Active-learning-workflow:
         authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
         external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
-        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/logo.png
+        logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
         state: development
         version: '1.0'
     categories:
@@ -437,7 +457,7 @@ CCS:
         authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
         external_url: https://github.com/Teoroo-CMC/CCS
         documentation_url: https://teoroo-cmc.github.io/CCS/
-        logo: https://github.com/Teoroo-CMC/CCS/blob/master/logo.png
+        logo: https://github.com/Teoroo-CMC/CCS/raw/master/logo.png
         state: development
         version: 0.22.3
     categories:
