@@ -114,6 +114,8 @@
         "state": "development",
         "title": "HierCVAE",
         "external_url": "https://biolib.com/ATGGAGCTGTACGTTAAG/HierCVAE/",
+        "video_installation_url": "https://drive.google.com/file/d/1wO1k1ji85AofscfhtS_DNHCK6e1RefES/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1Tt9OMlFJ4gDeLmTucc94n1HEHuFMXqxs/preview",
         "affiliations": "not available"
       },
       "gitinfo": {
@@ -267,6 +269,8 @@
         "authors": "Loris Ercole",
         "documentation_url": "https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md",
         "state": "registered",
+        "video_installation_url": "https://drive.google.com/file/d/1JI6kJq100u1RecCum0BHoz_wiBj8HWay/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/183qPIfW9gQSKq5IU8WmfyVK5o1BcQ4A_/preview",
         "affiliations": "not available"
       },
       "git_url": "https://github.com/epfl-theos/aiidalab-aurora",
@@ -345,7 +349,9 @@
         "state": "development",
         "title": "Quantum ESPRESSO AiiDAlab app",
         "external_url": "https://www.materialscloud.org/work/aiidalab",
-        "version": "23.10"
+        "version": "23.10",
+        "video_installation_url": "https://drive.google.com/file/d/1ke5_OAoZourhZoberkZrvrYGLmH3ZI_7/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
         "HEAD": "fc36106f315b2c46ec50995b048b4aa9bf5e5cd3",
@@ -802,6 +808,8 @@
         "documentation_url": "https://github.com/BIG-MAP/densityNEB/blob/main/README.md",
         "logo": "https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png",
         "state": "development",
+        "video_installation_url": "https://drive.google.com/file/d/10VOwkYeDu8pAB8RNq9m3ocodugEoCODb/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1XRqwHpiy3gTCF7z0FQZrdgukAGfZr7Qd/preview",
         "affiliations": "not available"
       },
       "categories": [
@@ -821,6 +829,8 @@
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png",
         "state": "development",
         "version": "1.0",
+        "video_installation_url": "https://drive.google.com/file/d/1SxzWXHU9bHFJ2t8sDkxbl0ItJt4QAiCE/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1pcQWx9AdOOHhIokv4YfaiatEPhJ01DkF/preview",
         "affiliations": "not available"
       },
       "categories": [
@@ -862,6 +872,8 @@
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
         "state": "development",
         "version": "1.0",
+        "video_installation_url": "https://drive.google.com/file/d/1iLOlZ683WT2zz5So7Es_QMh8p9v-VmTR/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1P3RrTvAEYxWYEpbIy9SdGV4P2xSJ5Mdm/preview",
         "affiliations": "not available"
       },
       "categories": [
@@ -882,6 +894,8 @@
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png",
         "state": "development",
         "version": "1.0",
+        "video_installation_url": "https://drive.google.com/file/d/19oyqM7oa2XTtTQNIKMYWkDe0KRBgiNUn/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1meiPgDMHWc3TLQMFh9FepncT7HZLc5kP/preview",
         "affiliations": "not available"
       },
       "categories": [
