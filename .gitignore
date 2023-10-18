@@ -9,5 +9,3 @@ build/
 
 # Cache files
 .requests-cache.sqlite
-# virtual environment
-venv
