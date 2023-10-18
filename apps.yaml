@@ -21,6 +21,7 @@ MADAP:
     git_url: https://github.com/fuzhanrahmanian/MADAP.git
     metadata:
         authors: Fuzhan Rahmanian
+        affiliations: Karlsruhe Institute of Technology
         description: |
             Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis for three different classes: Impedance, Arrhenius and Voltammetry
         documentation_url: https://fuzhanrahmanian.github.io/MADAP/
@@ -37,7 +38,7 @@ aiidalab-qe:
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
         authors: Xing Wang, Giovanni Pizzi
-        affiliations: PSI, EPFL
+        affiliations: Paul Scherrer Institute
         description: |
             Compute band structures and other structure properties with Quantum ESPRESSO
             on the AiiDAlab platform.
@@ -67,6 +68,7 @@ dft-vasp:
         description: |
             The DFT-VASP WaNo implements a wide range of methods available within the VASP code.
         authors: Celso R. C. Rêgo
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://www.simstack.de
         documentation_url: https://github.com/KIT-Workflows/DFT-VASP/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png
@@ -97,6 +99,7 @@ dft-surface:
         description: |
             This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.
         authors: Celso R. C. Rêgo
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://www.simstack.de
         documentation_url: https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/dft_surface_logo.png
@@ -111,6 +114,7 @@ density-neb:
         description: |
             Code for calculating the path of least resistance between two points in a scalar field using nudged elastic band (NEB).
         authors: Peter Bjørn Jørgensen
+        affiliations: Technical University of Denmark
         external_url: https://github.com/BIG-MAP/densityNEB
         documentation_url: https://github.com/BIG-MAP/densityNEB/blob/main/README.md
         logo: https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png
@@ -125,6 +129,7 @@ qm9-schnet-uncertainty:
         description: |
             A BioLib app for predicting atomization energies of QM9-like molecules with calibrated uncertainty using an ensemble of graph neural network models. For details about the method, please see our paper: https://doi.org/10.1088/2632-2153/ac3eb3.
         authors: Jonas Busk
+        affiliations: Technical University of Denmark
         external_url: https://biolib.com/jbusk/qm9-schnet-uncertainty/
         documentation_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md
         logo: https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png
@@ -138,6 +143,7 @@ HELAO:
         description: |
             Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.
         authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://github.com/helgestein/helao-pub
         documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
         logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
@@ -152,6 +158,7 @@ prisma:
         description: |
             An app for high-throughput analysis of spectra. More details in the app homepage and peer-reviewed article.
         authors: Eibar Flores
+        affiliations: Technical University of Denmark
         external_url: https://github.com/BIG-MAP/PRISMA
         logo: https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png
         state: development
@@ -166,6 +173,7 @@ clease-gui:
             The app is only a GUI, and requires a working version of the CLEASE code.
             For more information on CLEASE, please refer to the CLEASE documentation (https://clease.readthedocs.io/).
         authors: Alexander S. Tygesen, Jin Hyun Chang
+        affiliations: Technical University of Denmark
         external_url: https://gitlab.com/computationalmaterials/clease-gui
         documentation_url: https://clease-gui.readthedocs.io
         logo: https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png
@@ -237,6 +245,7 @@ electrolyte-screening:
         description: |
             In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.
         authors: Celso R. C. Rêgo, Wolfgang Wenzel
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://simstack.readthedocs.io/
         documentation_url: https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png
@@ -318,6 +327,7 @@ aiidalab-aurora:
         description: |
             AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative
         authors: Loris Ercole
+        affiliations: Paul Scherrer Institute
         documentation_url: https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md
         state: registered
         video_installation_url: https://drive.google.com/file/d/1JI6kJq100u1RecCum0BHoz_wiBj8HWay/preview
@@ -335,6 +345,7 @@ qemu-web-desktop:
         description: |
             Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, and displays them in your browser. These machines can be used for, e.g., scientific data treatment. DARTS can be installed and configured in minutes to provide data treatment and simulation environments, for instance running Quantum ESPRESSO (QE) via the Atomic Simulation Environment (ASE). The service is in production at Synchrotron SOLEIL and available to all users having performed an experiment.
         authors: Emmanuel Farhi
+        affiliations: SOLEIL
         logo: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png
         state: stable
         documentation_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md
@@ -376,6 +387,7 @@ dft-qe:
         description: |
             The DFT-QE WaNo implements various methods available within the Quantum Espresso code.
         authors: Celso R. C. Rêgo
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://simstack.readthedocs.io/en/latest/
         documentation_url: https://github.com/KIT-Workflows/DFT-QE/blob/main/README.md
         logo: https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png
@@ -387,7 +399,6 @@ dft-qe:
         - quantum
         - technology-simstack
         - technology-ase
-
 datalab:
     metadata:
         title: Datalab
@@ -424,6 +435,7 @@ SEI-Active-learning-workflow:
         description: |
             Workflow for coupling Solid Electrolyte Interface (SEI) model with Active Learning approach
         authors: Mohammad Soleymanibrojeni, Celso R. C. Rêgo
+        affiliations: Karlsruhe Institute of Technology
         external_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
         logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
@@ -456,6 +468,7 @@ CCS:
         description: |
             CCS is a software tool to generate force fields in a flexible yet robust way.
         authors: AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren
+        affiliations: Uppsala Universitet
         external_url: https://github.com/Teoroo-CMC/CCS
         documentation_url: https://teoroo-cmc.github.io/CCS/
         logo: https://github.com/Teoroo-CMC/CCS/raw/master/logo.png
