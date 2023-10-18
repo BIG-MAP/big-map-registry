@@ -977,7 +977,7 @@
         "refs/heads/2647-issues-parsing-nmredata-file-associated-with-bruker-zip-file": "888d820ed2560cfb308847737b208f51417f017d",
         "refs/heads/2665-manual-range-picking-would-not-calculate-peaks": "8e6dc31305128fa1f030fe3c95b8e9d5218ae7ba",
         "refs/heads/2688-oxford-instrument-jcamp-dx": "094d6ee13175e38e84068c7ec72366bb17a24d00",
-        "refs/heads/2d-phase-correction": "5c24c4684eccb05d472c0b136895ce139220db54",
+        "refs/heads/2d-phase-correction": "65325e400f902c17bead031aff20d7d55da41999",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
@@ -1706,8 +1706,8 @@
         "refs/pull/2668/merge": "9b51142a4a994814ebae15d8e608a4e81ccededd",
         "refs/pull/2669/head": "214702d707e0857bbbfaaa7243385a84d19788bb",
         "refs/pull/2670/head": "783c0d86516387209129c5bc8b101da4c296551f",
-        "refs/pull/2671/head": "5c24c4684eccb05d472c0b136895ce139220db54",
-        "refs/pull/2671/merge": "2b3f8da3bcaac4c92b0a24014f8d461734c2c008",
+        "refs/pull/2671/head": "65325e400f902c17bead031aff20d7d55da41999",
+        "refs/pull/2671/merge": "d6278b9503c761bbbc99324e567810dd93e4f901",
         "refs/pull/2672/head": "ce4d3c1365e55eb6c9a6e0f5c594f3a30f97dec9",
         "refs/pull/2672/merge": "8caae5888e1d1a02b14af8fa4a5ec9c0c47fa714",
         "refs/pull/2678/head": "cfa085e9931de8e0c9aeafac59318ac959186e10",
@@ -2053,6 +2053,45 @@
       "logo": "https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png",
       "name": "qm9-schnet-uncertainty",
       "subpage": "apps/qm9-schnet-uncertainty.html"
+    },
+    "sdlabs-wrapper": {
+      "metadata": {
+        "title": "Self-Driving Labs (SDLabs) app",
+        "authors": "Daniel Pacheco Gutierrez, Loïc Roch",
+        "affiliations": "Atinary Technologies",
+        "description": "SDK for closed-loop optimization via the Atinary SDLabs platform.\nUsers can define their parameters, objectives and the optimization algorithm of their choice.\nRequires an academic account on the SDLabs platform (https://home.atinary.com/)\n",
+        "state": "development",
+        "video_installation_url": "https://drive.google.com/file/d/1-8A7QJIow5M-eQOVjlQ1cW1JTAfhdLEA/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/12LqcAsBuOEoJkiu9Sy0whTgVqPpRgFdz/preview"
+      },
+      "git_url": "https://github.com/Atinary-technologies/sdlabs_wrapper",
+      "categories": [
+        "wp10",
+        "technology-active-learning"
+      ],
+      "gitinfo": {
+        "HEAD": "caee8884f2b720b02405143698f1aba2c21ecac3",
+        "refs/heads/main": "caee8884f2b720b02405143698f1aba2c21ecac3",
+        "refs/tags/v0.1.0": "0a86cfa3faea0cf120ae8ff78025c6cd54164a3e",
+        "refs/tags/v0.2.0": "49013fca1fdaaa9161fca4ff84871b9afb0e47db",
+        "refs/tags/v0.3.0": "7fd781da76b14b142a753f376ffe8f6ac608bdc6",
+        "refs/tags/v0.4.0": "05cd1d24c3de2a3d96d56b17e34c71265438ed5d",
+        "refs/tags/v0.4.1": "fe27c82c715f364c695eaf21f0edad206cb9669f",
+        "refs/tags/v0.4.2": "7a19dec0bb89be62d2c76afe75e27d582aa4fe09",
+        "refs/tags/v0.5.0": "5cec412d5356075f8a1ad8283c413728a2ee5d19",
+        "refs/tags/v0.6.0": "2240e4027fe433ef15747ebdba4c440695d0844a",
+        "refs/tags/v0.6.1": "36face31b468c4d3fced49eedee9d11c5c8115d1",
+        "refs/tags/v0.6.2": "8ebef03260addb8dd45195497e0ebef44c2575d0",
+        "refs/tags/v0.6.3": "ba3ddaa657402b1a6bb2a80c1b7a625cb4933658",
+        "refs/tags/v0.6.4": "1c1d4c0b8833e78924a50324083a3bc9c975bcca",
+        "refs/tags/v0.6.5": "9d9e742e8f63419de8e8d183bd72e94ceb7c4282",
+        "refs/tags/v0.7.0": "5c67894302fcfab615758f174a4adbccc620c1cb",
+        "refs/tags/v0.7.1": "9133c0878c1e142eba71df8230482a22d1bb174c",
+        "refs/tags/v0.8.0": "f437a7a57eafcf3bc9de9c8966c93d99b0baf8ad"
+      },
+      "hosted_on": "github.com",
+      "name": "sdlabs-wrapper",
+      "subpage": "apps/sdlabs-wrapper.html"
     },
     "tomato": {
       "metadata": {
