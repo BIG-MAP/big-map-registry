@@ -5,12 +5,12 @@
         "title": "CCS (Curvature Constrained Splines)",
         "description": "CCS is a software tool to generate force fields in a flexible yet robust way.\n",
         "authors": "AK Akshay Krishna, Eddie Wadbro, Peter Broqvist, Thijs Smolders and Jolla Kullgren",
+        "affiliations": "Uppsala Universitet",
         "external_url": "https://github.com/Teoroo-CMC/CCS",
         "documentation_url": "https://teoroo-cmc.github.io/CCS/",
         "logo": "https://github.com/Teoroo-CMC/CCS/raw/master/logo.png",
         "state": "development",
-        "version": "0.22.3",
-        "affiliations": "not available"
+        "version": "0.22.3"
       },
       "categories": [
         "wp3",
@@ -84,12 +84,12 @@
         "title": "HELAO",
         "description": "Small fastAPI based framework to deploy active learning and laboratory automation to a distributed fleet of research instruments. Contains many drivers and high level actions and datamanagement for a wide range of instruments.\n",
         "authors": "Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M Gregoire, Helge S Stein",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://github.com/helgestein/helao-pub",
         "documentation_url": "https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf",
         "logo": "https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg",
         "state": "development",
-        "version": "2.1",
-        "affiliations": "not available"
+        "version": "2.1"
       },
       "categories": [
         "technology-lab",
@@ -136,14 +136,14 @@
       "git_url": "https://github.com/fuzhanrahmanian/MADAP.git",
       "metadata": {
         "authors": "Fuzhan Rahmanian",
+        "affiliations": "Karlsruhe Institute of Technology",
         "description": "Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis for three different classes: Impedance, Arrhenius and Voltammetry\n",
         "documentation_url": "https://fuzhanrahmanian.github.io/MADAP/",
         "state": "stable",
         "title": "MADAP",
         "external_url": "https://youtu.be/nL-eJpb1AxI",
         "version": "0.11.0",
-        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
-        "affiliations": "not available"
+        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png"
       },
       "gitinfo": {
         "HEAD": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
@@ -181,12 +181,12 @@
         "title": "SEI-Model-Active-Learning",
         "description": "Workflow for coupling Solid Electrolyte Interface (SEI) model with Active Learning approach\n",
         "authors": "Mohammad Soleymanibrojeni, Celso R. C. Rêgo",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning",
         "documentation_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md",
         "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png",
         "state": "development",
-        "version": "1.0",
-        "affiliations": "not available"
+        "version": "1.0"
       },
       "categories": [
         "technology-active-learning",
@@ -267,11 +267,11 @@
         "title": "Aurora AiiDAlab",
         "description": "AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative\n",
         "authors": "Loris Ercole",
+        "affiliations": "Paul Scherrer Institute",
         "documentation_url": "https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md",
         "state": "registered",
         "video_installation_url": "https://drive.google.com/file/d/1JI6kJq100u1RecCum0BHoz_wiBj8HWay/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/183qPIfW9gQSKq5IU8WmfyVK5o1BcQ4A_/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/183qPIfW9gQSKq5IU8WmfyVK5o1BcQ4A_/preview"
       },
       "git_url": "https://github.com/epfl-theos/aiidalab-aurora",
       "categories": [
@@ -343,7 +343,7 @@
       "git_url": "https://github.com/aiidalab/aiidalab-qe.git",
       "metadata": {
         "authors": "Xing Wang, Giovanni Pizzi",
-        "affiliations": "PSI, EPFL",
+        "affiliations": "Paul Scherrer Institute",
         "description": "Compute band structures and other structure properties with Quantum ESPRESSO\non the AiiDAlab platform.\n",
         "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
         "state": "development",
@@ -762,13 +762,13 @@
         "title": "CLEASE GUI",
         "description": "A notebook-based graphical user interface for the Cluster Expansion code CLEASE.\nThe app is only a GUI, and requires a working version of the CLEASE code.\nFor more information on CLEASE, please refer to the CLEASE documentation (https://clease.readthedocs.io/).\n",
         "authors": "Alexander S. Tygesen, Jin Hyun Chang",
+        "affiliations": "Technical University of Denmark",
         "external_url": "https://gitlab.com/computationalmaterials/clease-gui",
         "documentation_url": "https://clease-gui.readthedocs.io",
         "logo": "https://gitlab.com/computationalmaterials/clease-gui/-/raw/master/clease_gui/assets/clease_logo.png",
         "state": "development",
         "video_installation_url": "https://drive.google.com/file/d/1OSRTR3761hs1TGyk5_oMPfNyErnc6whn/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1AITCUjLnbsT2W6WIBgCqFCMuLUXALSNy/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/1AITCUjLnbsT2W6WIBgCqFCMuLUXALSNy/preview"
       },
       "categories": [
         "data-analysis",
@@ -807,13 +807,13 @@
         "title": "densityNEB",
         "description": "Code for calculating the path of least resistance between two points in a scalar field using nudged elastic band (NEB).\n",
         "authors": "Peter Bjørn Jørgensen",
+        "affiliations": "Technical University of Denmark",
         "external_url": "https://github.com/BIG-MAP/densityNEB",
         "documentation_url": "https://github.com/BIG-MAP/densityNEB/blob/main/README.md",
         "logo": "https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png",
         "state": "development",
         "video_installation_url": "https://drive.google.com/file/d/10VOwkYeDu8pAB8RNq9m3ocodugEoCODb/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1XRqwHpiy3gTCF7z0FQZrdgukAGfZr7Qd/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/1XRqwHpiy3gTCF7z0FQZrdgukAGfZr7Qd/preview"
       },
       "categories": [
         "utilities"
@@ -827,14 +827,14 @@
         "title": "DFT-QE",
         "description": "The DFT-QE WaNo implements various methods available within the Quantum Espresso code.\n",
         "authors": "Celso R. C. Rêgo",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://simstack.readthedocs.io/en/latest/",
         "documentation_url": "https://github.com/KIT-Workflows/DFT-QE/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-QE/main/dft_qe_logo.png",
         "state": "development",
         "version": "1.0",
         "video_installation_url": "https://drive.google.com/file/d/1SxzWXHU9bHFJ2t8sDkxbl0ItJt4QAiCE/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1pcQWx9AdOOHhIokv4YfaiatEPhJ01DkF/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/1pcQWx9AdOOHhIokv4YfaiatEPhJ01DkF/preview"
       },
       "categories": [
         "quantum",
@@ -850,12 +850,12 @@
         "title": "DFT-Surface",
         "description": "This workflow uses the SimStack framework features to perform as an option a single shot DFT calculation of molecules absorbing on a surface.\n",
         "authors": "Celso R. C. Rêgo",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://www.simstack.de",
         "documentation_url": "https://github.com/KIT-Workflows/DFT-Surface/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-Surface/main/dft_surface_logo.png",
         "state": "development",
-        "version": "1.0",
-        "affiliations": "not available"
+        "version": "1.0"
       },
       "categories": [
         "quantum",
@@ -870,14 +870,14 @@
         "title": "DFT-VASP",
         "description": "The DFT-VASP WaNo implements a wide range of methods available within the VASP code.\n",
         "authors": "Celso R. C. Rêgo",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://www.simstack.de",
         "documentation_url": "https://github.com/KIT-Workflows/DFT-VASP/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/DFT-VASP/main/DFT-VASP.png",
         "state": "development",
         "version": "1.0",
         "video_installation_url": "https://drive.google.com/file/d/1iLOlZ683WT2zz5So7Es_QMh8p9v-VmTR/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1P3RrTvAEYxWYEpbIy9SdGV4P2xSJ5Mdm/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/1P3RrTvAEYxWYEpbIy9SdGV4P2xSJ5Mdm/preview"
       },
       "categories": [
         "quantum",
@@ -892,14 +892,14 @@
         "title": "Electrolyte-Screening",
         "description": "In this workflow, we use the SimStack framework features to screening electrolytes systems using DFT calculation.\n",
         "authors": "Celso R. C. Rêgo, Wolfgang Wenzel",
+        "affiliations": "Karlsruhe Institute of Technology",
         "external_url": "https://simstack.readthedocs.io/",
         "documentation_url": "https://github.com/KIT-Workflows/Electrolyte-Screening/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/KIT-Workflows/Electrolyte-Screening/main/logo_workflow.png",
         "state": "development",
         "version": "1.0",
         "video_installation_url": "https://drive.google.com/file/d/19oyqM7oa2XTtTQNIKMYWkDe0KRBgiNUn/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1meiPgDMHWc3TLQMFh9FepncT7HZLc5kP/preview",
-        "affiliations": "not available"
+        "video_demonstration_url": "https://drive.google.com/file/d/1meiPgDMHWc3TLQMFh9FepncT7HZLc5kP/preview"
       },
       "categories": [
         "quantum",
@@ -995,7 +995,7 @@
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
-        "refs/heads/fix-build-esm": "67cb0a7722994974d5f7e21fae707e10f6553815",
+        "refs/heads/fix-build-esm": "265b131d29656406349e58ff79b8e5b30ab2c857",
         "refs/heads/fix-jcamp-exportation": "d0ae170b926f00afe1899fcd84ae1afa283901e1",
         "refs/heads/fix-mouse-out-highlighted-zones": "5d24b08b1bbf0570a01c283cdfcdf015c7838945",
         "refs/heads/fix-spectra-vertical-scale": "76bed452876d93ecbbde6a3b18c33a22b510d720",
@@ -1734,8 +1734,8 @@
         "refs/pull/2707/head": "f7c6e0162d904d3861a4b9dca6b4a55653a41560",
         "refs/pull/2710/head": "c826a0d66a0d805be18d136c62fef9cd4ca24f69",
         "refs/pull/2711/head": "1fb746087c44b64a0eca6a4cf2a74a2e5bfdb465",
-        "refs/pull/2712/head": "67cb0a7722994974d5f7e21fae707e10f6553815",
-        "refs/pull/2712/merge": "407b96820e687b811535e849ebe51521d78a3ddc",
+        "refs/pull/2712/head": "265b131d29656406349e58ff79b8e5b30ab2c857",
+        "refs/pull/2712/merge": "897f529a9c5d72c92762dc83fe2679a8a70ab844",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
         "refs/pull/304/head": "70fc242cf96aa05e01ca00528323559adf860ec7",
         "refs/pull/305/head": "fda1eb28a537ad94636d5afcd34dfbc46715ad19",
@@ -1959,10 +1959,10 @@
         "title": "PRISMA",
         "description": "An app for high-throughput analysis of spectra. More details in the app homepage and peer-reviewed article.\n",
         "authors": "Eibar Flores",
+        "affiliations": "Technical University of Denmark",
         "external_url": "https://github.com/BIG-MAP/PRISMA",
         "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
-        "state": "development",
-        "affiliations": "not available"
+        "state": "development"
       },
       "categories": [
         "data-analysis",
@@ -1977,11 +1977,11 @@
         "title": "DARTS",
         "description": "Data Analysis Remote Treatment Service (DARTS) is a remote desktop service that launches virtual machines in the cloud, and displays them in your browser. These machines can be used for, e.g., scientific data treatment. DARTS can be installed and configured in minutes to provide data treatment and simulation environments, for instance running Quantum ESPRESSO (QE) via the Atomic Simulation Environment (ASE). The service is in production at Synchrotron SOLEIL and available to all users having performed an experiment.\n",
         "authors": "Emmanuel Farhi",
+        "affiliations": "SOLEIL",
         "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
         "state": "stable",
         "documentation_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md",
-        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/",
-        "affiliations": "not available"
+        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/"
       },
       "git_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop",
       "categories": [
@@ -2036,11 +2036,11 @@
         "title": "QM9 SchNet Uncertainty",
         "description": "A BioLib app for predicting atomization energies of QM9-like molecules with calibrated uncertainty using an ensemble of graph neural network models. For details about the method, please see our paper: https://doi.org/10.1088/2632-2153/ac3eb3.\n",
         "authors": "Jonas Busk",
+        "affiliations": "Technical University of Denmark",
         "external_url": "https://biolib.com/jbusk/qm9-schnet-uncertainty/",
         "documentation_url": "https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png",
-        "state": "development",
-        "affiliations": "not available"
+        "state": "development"
       },
       "categories": [
         "technology-ase"
@@ -2062,8 +2062,9 @@
         "affiliations": "Atinary Technologies",
         "description": "SDK for closed-loop optimization via the Atinary SDLabs platform.\nUsers can define their parameters, objectives and the optimization algorithm of their choice.\nRequires an academic account on the SDLabs platform (https://home.atinary.com/)\n",
         "state": "development",
-        "video_installation_url": "https://drive.google.com/file/d/1-8A7QJIow5M-eQOVjlQ1cW1JTAfhdLEA/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/12LqcAsBuOEoJkiu9Sy0whTgVqPpRgFdz/preview"
+        "documentation_url": "https://github.com/Atinary-technologies/sdlabs_wrapper/blob/main/README.md",
+        "video_installation_url": "https://drive.google.com/file/d/1ApSBldRU8sDfxHUV2W3k12tjB0sHYEcR/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/11VBP0oHYGzxpNGigSvXQjWxxTooBijfe/preview"
       },
       "git_url": "https://github.com/Atinary-technologies/sdlabs_wrapper",
       "categories": [
