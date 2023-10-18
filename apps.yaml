@@ -443,8 +443,9 @@ sdlabs-wrapper:
             Users can define their parameters, objectives and the optimization algorithm of their choice.
             Requires an academic account on the SDLabs platform (https://home.atinary.com/)
         state: development
-        video_installation_url: https://drive.google.com/file/d/1-8A7QJIow5M-eQOVjlQ1cW1JTAfhdLEA/preview
-        video_demonstration_url: https://drive.google.com/file/d/12LqcAsBuOEoJkiu9Sy0whTgVqPpRgFdz/preview
+        documentation_url: https://github.com/Atinary-technologies/sdlabs_wrapper/blob/main/README.md
+        video_installation_url: https://drive.google.com/file/d/1ApSBldRU8sDfxHUV2W3k12tjB0sHYEcR/preview
+        video_demonstration_url: https://drive.google.com/file/d/11VBP0oHYGzxpNGigSvXQjWxxTooBijfe/preview
     git_url: https://github.com/Atinary-technologies/sdlabs_wrapper
     categories:
         - wp10
