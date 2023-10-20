@@ -971,6 +971,7 @@
         "refs/heads/2647-issues-parsing-nmredata-file-associated-with-bruker-zip-file": "888d820ed2560cfb308847737b208f51417f017d",
         "refs/heads/2665-manual-range-picking-would-not-calculate-peaks": "13f4ba27f72cbe4620b7cc62ace19b569c526d34",
         "refs/heads/2688-oxford-instrument-jcamp-dx": "be0fea1e13f8078d8bd361b7006a3c2ad9500cdc",
+        "refs/heads/2716-auto-ranges-picking-does-not-detect-negative-peaks": "7f276fa3b7220b63ec2a44eb24bc4a8bb42e5649",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
