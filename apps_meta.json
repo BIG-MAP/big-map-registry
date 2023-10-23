@@ -371,6 +371,7 @@
         "refs/heads/fix/490/pre-download-pseudos": "023346e35c9b58ffcb123ed1cdd3977449ee1d7a",
         "refs/heads/fix/527/reset_structure": "bcccb39d62b99c823dd1b5420bd186ea6c1395ea",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
+        "refs/heads/fix/xx/test-on-app-store-installation": "7d771d50ca446f51f61b9d55a1a3c01228bc579a",
         "refs/heads/fix_tot_magnetization": "4c28d436e53ad6a5889389280642f319ac0cc045",
         "refs/heads/main": "bfcf247cfc592e97b00298cfc55a860e0259f575",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
