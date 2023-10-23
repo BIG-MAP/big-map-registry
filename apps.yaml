@@ -487,8 +487,8 @@ Onterface:
         affiliations: Fraunhofer ISC, Atinary Technologies
         external_url: https://onterface.open-semantic-lab.org/wiki/
         documentation_url: https://onterface.open-semantic-lab.org/wiki/Item:OSW47e059d06b0b4d5e978ad4460dabafaa
-        video_installation_url: https://onterface.open-semantic-lab.org/w/img_auth.php/d/d1/OSW216c91ab884945c38bd918a0ad2a94a5.mp4
-        video_demonstration_url: https://onterface.open-semantic-lab.org/w/img_auth.php/5/56/OSWdcf0b1a277184943a7856b53408d7ea6.mp4
+        video_installation_url: https://onterface.open-semantic-lab.org/wiki/Special:Redirect/file/OSW216c91ab884945c38bd918a0ad2a94a5.mp4
+        video_demonstration_url: https://onterface.open-semantic-lab.org/wiki/Special:Redirect/file/OSWdcf0b1a277184943a7856b53408d7ea6.mp4
         logo: https://onterface.open-semantic-lab.org/w/logo.svg
         state: development
         version: '1.0'
