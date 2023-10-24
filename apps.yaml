@@ -27,9 +27,10 @@ MADAP:
         documentation_url: https://fuzhanrahmanian.github.io/MADAP/
         state: stable
         title: MADAP
-        external_url: https://youtu.be/nL-eJpb1AxI
         version: 0.11.0
         logo: https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png
+        video_installation_url: https://drive.google.com/file/d/1CriAPJKTiZwyZ-5NUYlHMktSm3bsog1g/preview
+        video_demonstration_url: https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview
 aiidalab-qe:
     categories:
         - technology-aiida
