@@ -142,9 +142,10 @@
         "documentation_url": "https://fuzhanrahmanian.github.io/MADAP/",
         "state": "stable",
         "title": "MADAP",
-        "external_url": "https://youtu.be/nL-eJpb1AxI",
         "version": "0.11.0",
-        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png"
+        "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
+        "video_installation_url": "https://drive.google.com/file/d/1CriAPJKTiZwyZ-5NUYlHMktSm3bsog1g/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview"
       },
       "gitinfo": {
         "HEAD": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
@@ -349,7 +350,8 @@
         "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
         "state": "development",
         "title": "Quantum ESPRESSO AiiDAlab app",
-        "external_url": "https://www.materialscloud.org/work/aiidalab",
+        "external_url": "https://github.com/aiidalab/aiidalab-qe",
+        "documentation_url": "https://aiidalab-qe.readthedocs.io/",
         "version": "23.10",
         "video_installation_url": "https://drive.google.com/file/d/1ke5_OAoZourhZoberkZrvrYGLmH3ZI_7/preview",
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
@@ -643,7 +645,7 @@
         "refs/pull/514/head": "7c03ddd7aa2cb1d255f30a8483ca4b419b0eff22",
         "refs/pull/517/head": "b36fef3d2e289e9092bb3c38ca6c22a6181ef7c8",
         "refs/pull/518/head": "436b4a860c598f39786e54a16d3d70187f234cd7",
-        "refs/pull/518/merge": "2b855cf653ed64ff1e4cb76caddd2483f2582dc2",
+        "refs/pull/518/merge": "addc01233bf258a0739ac3ee30d413d1948fd301",
         "refs/pull/519/head": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/pull/519/merge": "cfb47d063420d04b44ab5237af0e28909e99fff0",
         "refs/pull/52/head": "afb91f2307d7f0740491c2967fc21673cc656c56",
