@@ -27,9 +27,10 @@ MADAP:
         documentation_url: https://fuzhanrahmanian.github.io/MADAP/
         state: stable
         title: MADAP
-        external_url: https://youtu.be/nL-eJpb1AxI
         version: 0.11.0
         logo: https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png
+        video_installation_url: https://drive.google.com/file/d/1CriAPJKTiZwyZ-5NUYlHMktSm3bsog1g/preview
+        video_demonstration_url: https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview
 aiidalab-qe:
     categories:
         - technology-aiida
@@ -45,7 +46,8 @@ aiidalab-qe:
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
         state: development
         title: Quantum ESPRESSO AiiDAlab app
-        external_url: https://www.materialscloud.org/work/aiidalab
+        external_url: https://github.com/aiidalab/aiidalab-qe
+        documentation_url: https://aiidalab-qe.readthedocs.io/
         version: '23.10'
         video_installation_url: https://drive.google.com/file/d/1ke5_OAoZourhZoberkZrvrYGLmH3ZI_7/preview
         video_demonstration_url: https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview
@@ -477,3 +479,25 @@ CCS:
     categories:
         - wp3
         - technology-ase
+
+Onterface:
+    metadata:
+        title: Onterface
+        description: |
+            Semantic web platform demonstrator coupling knowledge graphs with simulation and optimization workflows to enable on-click end-user solutions
+        authors: Simon Stier, Daniel Pacheco, Lukas Gold, Loïc Roch, Andreas Räder, Matthias Popp
+        affiliations: Fraunhofer ISC, Atinary Technologies
+        external_url: https://onterface.open-semantic-lab.org/wiki/
+        documentation_url: https://onterface.open-semantic-lab.org/wiki/Item:OSW47e059d06b0b4d5e978ad4460dabafaa
+        video_installation_url: https://onterface.open-semantic-lab.org/wiki/Special:Redirect/file/OSW216c91ab884945c38bd918a0ad2a94a5.mp4
+        video_demonstration_url: https://onterface.open-semantic-lab.org/wiki/Special:Redirect/file/OSWdcf0b1a277184943a7856b53408d7ea6.mp4
+        logo: https://onterface.open-semantic-lab.org/w/logo.svg
+        state: development
+        version: '1.0'
+    git_url: https://github.com/BIG-MAP/Onterface
+    categories:
+        - data-visualization
+        - data-management
+        - utilities
+        - wp7
+        - stakeholder
