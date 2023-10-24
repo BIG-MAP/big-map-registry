@@ -38,8 +38,8 @@ aiidalab-qe:
         - quantum
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
-        authors: Xing Wang, Giovanni Pizzi
-        affiliations: Paul Scherrer Institute
+        authors: X. Wang, J. Yu, A. V. Yakutovich, M. Bercx, D. Du, D. Hollas, A. Ortega-Guerrero , M. Bonacci, E. Bainglass, N. Marzari, C. A. Pignedoli, G. Pizzi
+        affiliations: Paul Scherrer Institute, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal Laboratories for Materials Science and Technology
         description: |
             Compute band structures and other structure properties with Quantum ESPRESSO
             on the AiiDAlab platform.
