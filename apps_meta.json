@@ -401,12 +401,13 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "8a550c80d848357d406fd3e3c435f123c3850703",
+        "HEAD": "e0f0e7e2bd30a2087648d13aa11b0687d891f746",
         "refs/heads/amend/497/clean-workdir-button-default-false": "0569c9c4058ade879fbe7f5e5e1534e7057a76fd",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/doc_plugin": "cf0fd50d4097ece09783f6a081795401a74d383d",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
+        "refs/heads/feature/code_entrypoint": "ffce70f0e16c4aa62c0622d8550d06eaff71fd47",
         "refs/heads/feature/edit_step": "e2a625f86e2a61b0b07264488699aff4b28eb1e7",
         "refs/heads/feature/edit_step_amend": "8fe84c6ddbfcd3edf040e39ee40a5999e0ece03b",
         "refs/heads/feature/plugin/xps": "436b4a860c598f39786e54a16d3d70187f234cd7",
@@ -419,7 +420,7 @@
         "refs/heads/fix/527/reset_structure": "0c91f4ad3ab02b5f289bd17f62d4ed3a6cadcfa8",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "4c28d436e53ad6a5889389280642f319ac0cc045",
-        "refs/heads/main": "8a550c80d848357d406fd3e3c435f123c3850703",
+        "refs/heads/main": "e0f0e7e2bd30a2087648d13aa11b0687d891f746",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
         "refs/heads/plugin_workchain": "bbbb22018f01eec7efca970d982b916bbb45e050",
         "refs/heads/r-x-workflow-app-merge": "f39d684254521506d578c02912fd1eaaf934c932",
