@@ -356,6 +356,8 @@ qemu-web-desktop:
         state: stable
         documentation_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md
         external_url: https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/
+        video_installation_url: https://drive.google.com/file/d/1WjWOE2OmS1mGJbhQqNeKmHw1hLedmNba/preview
+        video_demonstration_url: https://drive.google.com/file/d/1nZxviHK-wKNytk3s_oDE-VV-X4NtWKH9/preview
     git_url: https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop
     categories:
         - utilities
