@@ -371,6 +371,8 @@ nmrium:
         state: stable
         external_url: https://www.nmrium.org
         documentation_url: https://nmrdata.github.io/bigmap-solid-state-nmr/
+        video_installation_url: https://drive.google.com/file/d/1bcjOhqqWWtcoPrDTAwXKWPomXVhYLWgU/preview
+        video_demonstration_url: https://drive.google.com/file/d/1aVwLnE4DTXMeetz6F1szkbzJFE3phFSM/preview
     git_url: https://github.com/cheminfo/nmrium
     categories:
         - data-visualization
