@@ -382,6 +382,8 @@ galvanicium:
         logo: https://www.galvanicium.org/images/galvanicium.svg
         state: stable
         documentation_url: https://www.galvanicium.org/
+        video_installation_url: https://drive.google.com/file/d/1YeFucfnQkInQ3_eMPGfxniyvcsfHwXMJ/preview
+        video_demonstration_url: https://drive.google.com/file/d/1R8CAVJHDeJjafeLsWCFuwbvNdWvaijEO/preview
     git_url: https://github.com/zakodium-oss/galvanicium-app
     categories:
         - data-visualization
