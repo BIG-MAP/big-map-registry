@@ -429,6 +429,8 @@ EVA:
         logo: https://www.erc-artistic.eu/fileadmin/user_upload/EVA/images/logo.pdf
         state: development
         documentation_url: https://www.erc-artistic.eu/fileadmin/user_upload/EVA/index.html
+        video_installation_url: https://drive.google.com/file/d/1NP_8L_18ZEEsLL2sW4GEqDSMt-juLDTZ/preview
+        video_demonstration_url: https://drive.google.com/file/d/10jv0gXQHCo6zBhIH33O_7gT0UIVl9qxV/preview
     git_url: https://github.com/ARTISTIC-ERC/EVA
     categories:
         - data-visualization
