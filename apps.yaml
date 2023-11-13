@@ -153,6 +153,8 @@ HELAO:
         logo: https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg
         state: development
         version: '2.1'
+        video_installation_url: https://drive.google.com/file/d/1hRBaboKbj6dN5cabzV1QQpwVNX3R4tUe/preview
+        video_demonstration_url: https://drive.google.com/file/d/1CtPum85RE2DzbssHyhil9A_yy3CmsOm-/preview
     categories:
         - technology-lab
         - technology-active-learning
