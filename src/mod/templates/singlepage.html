@@ -102,6 +102,15 @@
             <iframe src="{{ metadata.video_demonstration_url }}" frameborder="0" allowfullscreen title="Demonstration"></iframe>
         </div>
 
+    {% elif metadata.video_demonstration_url %}
+    
+        <div id='description'>
+            <h3>Demonstration</h3>
+        </div>
+        <div class="videoWrapper">
+            <iframe src="{{ metadata.video_demonstration_url }}" frameborder="0" allowfullscreen title="Demonstration"></iframe>
+        </div>
+
     {% else %}
     <div >
         <p>
