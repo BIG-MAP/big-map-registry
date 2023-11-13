@@ -137,6 +137,7 @@ qm9-schnet-uncertainty:
         documentation_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md
         logo: https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png
         state: development
+        video_demonstration_url: https://drive.google.com/file/d/1BMh79vZRudaWYABOTeNbqS9zJsP-jvqy/preview
     categories:
         - technology-ase
     git_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/
