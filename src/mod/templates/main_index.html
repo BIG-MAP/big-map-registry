@@ -10,12 +10,17 @@
     <h2>Total number of apps: {{ apps | length }}</h2>
 
     <h1>
-        Available apps
+        Open Source Apps
     </h1>
     <small><i>Sorted alphabetically by app id.</i></small>
 
     <div id='entrylist'>
         {% for app_name, app in apps|dictsort %}
+
+            <!-- Skip if its a closed source industrial partener -->
+            <!-- These apps will be displayed at the bottom -->
+            {% if not app.metadata.industrial_collaboration %}
+
         <div class="submenu-entry">
             <div class="submenu-img">
                 <a href="{{ app.subpage }}">
@@ -67,6 +72,86 @@
                 <p class='details'><a href="{{ app.subpage }}">Show app details</a></p>
             </div>
         </div>
+
+        {% endif %}
+        
+        {#
+            {% if not loop.last %}
+            <hr>
+            {% endif %}
+        #}
+        {% endfor %}
+    </div>
+
+    <!-- I don't know how to make this not a boilerplate code -->
+    <!-- The following is the same repeated block as above but for closed source apps -->
+
+    <h1>
+        Industrial Collaborations
+    </h1>
+    <small><i>Closed source apps</i></small>
+
+    <div id='entrylist'>
+        {% for app_name, app in apps|dictsort %}
+
+            <!-- Skip if its a closed source industrial partener -->
+            <!-- These apps will be displayed at the bottom -->
+            {% if app.metadata.industrial_collaboration %}
+
+        <div class="submenu-entry">
+            <div class="submenu-img">
+                <a href="{{ app.subpage }}">
+                {% if app.logo %}
+                    <!-- img with error handler for dead links (fallback to big-map logo) -->
+                    <img src="{{ app.logo }}" alt="{{ app.metadata.title }}"
+                        onerror="this.src='static/img/big-map-white-transparent.png';this.onerror='';">
+                {% else %}
+                    <img src="static/img/big-map-white-transparent.png" alt="{{ app.metadata.title }}">
+                {% endif %}
+                </a>
+            </div>
+            <div class="submenu-text">
+                <h2><a href="{{ app.subpage }}">{{ app.metadata.title }}</a>
+                {% if app.categories %}
+                    {% for category in app.categories %}
+                        <span class="category">{{ categories[category]["title"] }}</span>
+                    {% endfor %}
+                {% endif %}
+                </h2>
+                <p class="packagename">Package name: {{ app_name }}
+                    {% if app.hosted_on %} (hosted on <a href="{{ app.git_url }}">{{ app.hosted_on }}</a>){% endif %}
+                </p>
+                <p class="currentstate">Current state: {{ app.metadata.state }}
+                    {% if app.metadata.version %} (version {{ app.metadata.version }}){% endif %}
+                </p>
+
+                {% if app.metadata.description %}
+                    <p class=description>{{app.metadata.description}}</p>
+                {% endif %}
+
+                <p>
+                {% if not app.categories %}
+                    No categories specified.<br>
+                {% endif %}
+                </p>
+
+                <!-- Summaryinfo has not yet been introduced to the BIG-MAP app registry -->
+                {% if app.summaryinfo %}
+                    <p class="summaryinfo">
+                        {% for summaryinfoelem in app.summaryinfo %}
+                        <span class="badge">
+                            <span class="badge-left {{summaryinfoelem.colorclass}}">{{summaryinfoelem.text}}</span>
+                            <span class="badge-right">{{summaryinfoelem.count}}</span>
+                        </span>
+                        {% endfor %}
+                    </p>
+                {% endif %}
+                <p class='details'><a href="{{ app.subpage }}">Show app details</a></p>
+            </div>
+        </div>
+
+        {% endif %}
+        
         {#
             {% if not loop.last %}
             <hr>
