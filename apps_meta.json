@@ -28,6 +28,8 @@
         "logo": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/images/logo.pdf",
         "state": "development",
         "documentation_url": "https://www.erc-artistic.eu/fileadmin/user_upload/EVA/index.html",
+        "video_installation_url": "https://drive.google.com/file/d/1NP_8L_18ZEEsLL2sW4GEqDSMt-juLDTZ/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/10jv0gXQHCo6zBhIH33O_7gT0UIVl9qxV/preview",
         "affiliations": "not available"
       },
       "git_url": "https://github.com/ARTISTIC-ERC/EVA",
@@ -94,7 +96,9 @@
         "documentation_url": "https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf",
         "logo": "https://raw.githubusercontent.com/helgestein/helao-pub/master/helaologo.svg",
         "state": "development",
-        "version": "2.1"
+        "version": "2.1",
+        "video_installation_url": "https://drive.google.com/file/d/1hRBaboKbj6dN5cabzV1QQpwVNX3R4tUe/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1CtPum85RE2DzbssHyhil9A_yy3CmsOm-/preview"
       },
       "categories": [
         "technology-lab",
@@ -982,6 +986,8 @@
         "logo": "https://www.galvanicium.org/images/galvanicium.svg",
         "state": "stable",
         "documentation_url": "https://www.galvanicium.org/",
+        "video_installation_url": "https://drive.google.com/file/d/1YeFucfnQkInQ3_eMPGfxniyvcsfHwXMJ/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1R8CAVJHDeJjafeLsWCFuwbvNdWvaijEO/preview",
         "affiliations": "not available"
       },
       "git_url": "https://github.com/zakodium-oss/galvanicium-app",
@@ -1012,6 +1018,8 @@
         "state": "stable",
         "external_url": "https://www.nmrium.org",
         "documentation_url": "https://nmrdata.github.io/bigmap-solid-state-nmr/",
+        "video_installation_url": "https://drive.google.com/file/d/1bcjOhqqWWtcoPrDTAwXKWPomXVhYLWgU/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1aVwLnE4DTXMeetz6F1szkbzJFE3phFSM/preview",
         "affiliations": "not available"
       },
       "git_url": "https://github.com/cheminfo/nmrium",
@@ -2050,7 +2058,9 @@
         "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
         "state": "stable",
         "documentation_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/blob/master/README.md",
-        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/"
+        "external_url": "https://data-analysis.synchrotron-soleil.fr/qemu-web-desktop/",
+        "video_installation_url": "https://drive.google.com/file/d/1WjWOE2OmS1mGJbhQqNeKmHw1hLedmNba/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1nZxviHK-wKNytk3s_oDE-VV-X4NtWKH9/preview"
       },
       "git_url": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop",
       "categories": [
@@ -2111,7 +2121,8 @@
         "external_url": "https://biolib.com/jbusk/qm9-schnet-uncertainty/",
         "documentation_url": "https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/blob/main/README.md",
         "logo": "https://raw.githubusercontent.com/jonasbusk/big-map-registry/logo/images/icon.png",
-        "state": "development"
+        "state": "development",
+        "video_demonstration_url": "https://drive.google.com/file/d/1BMh79vZRudaWYABOTeNbqS9zJsP-jvqy/preview"
       },
       "categories": [
         "technology-ase"
