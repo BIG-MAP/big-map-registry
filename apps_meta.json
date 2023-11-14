@@ -186,6 +186,27 @@
       "name": "MADAP",
       "subpage": "apps/MADAP.html"
     },
+    "NanoBattVR": {
+      "metadata": {
+        "title": "NanoBattVR",
+        "description": "A virtual reality lab for exploring battery materials at the atomic level.\nSimulate using either fast classical methods or deploy DFT calculation on a cluster.\n",
+        "authors": "Z. Mahmood, I. Castelli, S. Lysgaard, M. Brandbyge, P. Bøggild",
+        "affiliations": "Nanoscale Simulations, Technical University of Denmark",
+        "external_url": "https://nanoscale-simulations.itch.io/nanobattvr",
+        "documentation_url": "https://github.com/NanoscaleSimulations/NanoBattVR_documentation",
+        "logo": "https://nanoscalesimulations.com/Logo/Favicon/Favicon%20(M%C3%B8rk%20baggrund).svg",
+        "state": "development",
+        "version": "1.0",
+        "industrial_collaboration": true
+      },
+      "categories": [
+        "neb",
+        "virtual-reality"
+      ],
+      "logo": "https://nanoscalesimulations.com/Logo/Favicon/Favicon%20(M%C3%B8rk%20baggrund).svg",
+      "name": "NanoBattVR",
+      "subpage": "apps/NanoBattVR.html"
+    },
     "Onterface": {
       "metadata": {
         "title": "Onterface",
@@ -2146,7 +2167,8 @@
         "state": "development",
         "documentation_url": "https://github.com/Atinary-technologies/sdlabs_wrapper/blob/main/README.md",
         "video_installation_url": "https://drive.google.com/file/d/1ApSBldRU8sDfxHUV2W3k12tjB0sHYEcR/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/11VBP0oHYGzxpNGigSvXQjWxxTooBijfe/preview"
+        "video_demonstration_url": "https://drive.google.com/file/d/11VBP0oHYGzxpNGigSvXQjWxxTooBijfe/preview",
+        "industrial_collaboration": true
       },
       "git_url": "https://github.com/Atinary-technologies/sdlabs_wrapper",
       "categories": [
@@ -2530,6 +2552,14 @@
     "stakeholder-aurora": {
       "description": "Autonomous Robotic Battery Innovation Platform",
       "title": "Aurora"
+    },
+    "neb": {
+      "description": "Nudged Elastic Band is a reaction path method for identifying minimum energy paths and transition states.",
+      "title": "NEB"
+    },
+    "virtual-reality": {
+      "description": "Can only be run on Virtual Reality hardware.",
+      "title": "Virtual Reality"
     }
   }
 }
