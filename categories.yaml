@@ -86,3 +86,9 @@ stakeholder:
 stakeholder-aurora:
     description: Autonomous Robotic Battery Innovation Platform
     title: Aurora
+neb:
+    description: Nudged Elastic Band is a reaction path method for identifying minimum energy paths and transition states.
+    title: NEB
+virtual-reality:
+    description: Can only be run on Virtual Reality hardware.
+    title: Virtual Reality
