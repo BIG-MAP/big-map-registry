@@ -432,6 +432,7 @@
       "gitinfo": {
         "HEAD": "5734a5f3cba935b08b7dd1f91dbf1a5606dabe7f",
         "refs/heads/back-compatible-report-widget": "66a3d8cb10dcc0d09564653c48ab1c2d55e2ee6d",
+        "refs/heads/bump-awb/2.1.0b1": "89ebfbf21b84ca1720f924c7bd4487c0bce6e086",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/plugin/xps": "436b4a860c598f39786e54a16d3d70187f234cd7",
@@ -740,6 +741,8 @@
         "refs/pull/555/head": "36c4af03b66965f0b7adaceeb92810a6b02724be",
         "refs/pull/556/head": "ae36a4a5413b6b47804299110cc3de233917f15f",
         "refs/pull/557/head": "6e0162139158fe094da68f56a7e09fe14f8bd9db",
+        "refs/pull/558/head": "89ebfbf21b84ca1720f924c7bd4487c0bce6e086",
+        "refs/pull/558/merge": "f0e4b8e458f6947ef18e797704fcdd0f7eea42e9",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
