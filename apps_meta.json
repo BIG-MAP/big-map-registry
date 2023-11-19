@@ -157,7 +157,6 @@
       },
       "gitinfo": {
         "HEAD": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
-        "refs/heads/cp_analysis": "4443385a2f6f95e69115035287e949186a3f1874",
         "refs/heads/gh-pages": "7d9c81648068c63f08e971080ec1e9be720e42e0",
         "refs/heads/master": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
