@@ -436,6 +436,7 @@
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/monitor_pw": "4c88cfcc5e8a122a1c76316db412f135e0ccd5f4",
         "refs/heads/feature/plugin/xps": "436b4a860c598f39786e54a16d3d70187f234cd7",
+        "refs/heads/feature/plugin_node_viewer": "b3acccbd287243e98703e0c3378852f00243b1d8",
         "refs/heads/feature/structure_importers": "bc5a8a5cd7a5328227b387d38be258982202aed3",
         "refs/heads/feature/xas": "989dc001c1c9376e6dc516eb8cf8b3a365c49477",
         "refs/heads/feature/xps": "ee7afd625583f5dc8dbf088101fee6342882aca3",
