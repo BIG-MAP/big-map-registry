@@ -1105,6 +1105,7 @@
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
+        "refs/heads/fix-1d-traces-projection": "c8bee9c92ede5fd32cf7a03dc55d0c8e5b6bf7b2",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
