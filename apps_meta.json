@@ -447,6 +447,7 @@
         "refs/heads/fix/533/unittest-clarity": "4aa95e748b7a473df15728278a5b7384182e1c31",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "4c28d436e53ad6a5889389280642f319ac0cc045",
+        "refs/heads/improve-setup-code-performance": "0d860a6d9c9b6a66bed7df4a84ad727010548116",
         "refs/heads/main": "a1a1a008d7d06744da96bf4340930b0fb1079546",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
         "refs/heads/plugin_workchain": "bbbb22018f01eec7efca970d982b916bbb45e050",
