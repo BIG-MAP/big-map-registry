@@ -156,11 +156,12 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview"
       },
       "gitinfo": {
-        "HEAD": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
+        "HEAD": "f463cfa46b044c902f38ab473c1bfdf8de0239f2",
         "refs/heads/gh-pages": "7d9c81648068c63f08e971080ec1e9be720e42e0",
-        "refs/heads/master": "fda406a1a5c72d74784bbb01f70c2b89fb0a6241",
+        "refs/heads/master": "f463cfa46b044c902f38ab473c1bfdf8de0239f2",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
         "refs/heads/voltammetry": "cb2b143bab7ebdd6f38b8e5de474753f78c2b7a3",
+        "refs/heads/voltammetry-cp": "f463cfa46b044c902f38ab473c1bfdf8de0239f2",
         "refs/pull/10/head": "8fc8098df11bb60cb4607e711718c2d4fbcde5de",
         "refs/pull/11/head": "1136f8fca6fa4843dc1904be299b9499f71c5168",
         "refs/pull/12/head": "8523de375e35df54250929f16de1f08c077275a4",
@@ -172,6 +173,7 @@
         "refs/pull/20/head": "f9ef4af345d372f36e27fe8c8dd4597eb8723cee",
         "refs/pull/23/head": "944e33c9fef5d998a677545ef1b128909e4af6da",
         "refs/pull/24/head": "944e33c9fef5d998a677545ef1b128909e4af6da",
+        "refs/pull/26/head": "cb2b143bab7ebdd6f38b8e5de474753f78c2b7a3",
         "refs/tags/0.10.0": "4878b368dd8e7f1d93bc496fa53a421e680987c0",
         "refs/tags/0.2": "f55410c014fb29bfcdbc694d910b884d8167ea3e",
         "refs/tags/0.3": "d886102edcc7e9bb62b3b31bfb6b034f8e34c738",
