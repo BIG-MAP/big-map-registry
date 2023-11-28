@@ -2260,12 +2260,12 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "044b8f55f2aac83fd30929f84ee24744073da101",
+        "HEAD": "d6b138699d2e3ff1031a1dcc186c63b952c10d84",
         "refs/heads/0.2.x": "1b0730fcba689121682506df5a7e4e742e052295",
         "refs/heads/biologic": "04d102502c54f9330367999db2c659db9b7da864",
         "refs/heads/export": "58e8713b30502bbf78095b4bdc37224bdc8a7973",
-        "refs/heads/gh-pages": "1bf2780cf6dfa0f415a4ba5dbcd7ebdde01ce0b9",
-        "refs/heads/master": "044b8f55f2aac83fd30929f84ee24744073da101",
+        "refs/heads/gh-pages": "0ae7ec5418595c8b642409c4ac93a2df3ca81da8",
+        "refs/heads/master": "d6b138699d2e3ff1031a1dcc186c63b952c10d84",
         "refs/heads/passata_daemon": "8fc0d47dd9d61ed6032e941ecaafa1a92a42afd4",
         "refs/pull/10/head": "580948bc540dbbccd6e497a4cc7fdd61b9c65f1f",
         "refs/pull/11/head": "6c45cf345ea9f66ed37374e284aff6d5800016f6",
@@ -2307,7 +2307,6 @@
         "refs/pull/52/head": "69a2d14c47c537d05a187ebf08367a461061f45e",
         "refs/pull/53/head": "a149cbe1372ebe57a719dfa95e665454d17ed50b",
         "refs/pull/54/head": "8fc0d47dd9d61ed6032e941ecaafa1a92a42afd4",
-        "refs/pull/54/merge": "3617da6658b1fc29537199c4c416f06c8b431aae",
         "refs/pull/6/head": "7a22cbcb0f20e25b806f9e3a851f495d841bed44",
         "refs/pull/7/head": "3b4962c3862db2e345d70f77bb498236ed38ee9b",
         "refs/tags/0.1rc10": "9804919365dd579df4441672596196badd2bef25",
