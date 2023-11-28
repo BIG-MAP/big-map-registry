@@ -2258,6 +2258,7 @@
       ],
       "gitinfo": {
         "HEAD": "044b8f55f2aac83fd30929f84ee24744073da101",
+        "refs/heads/0.2.x": "1b0730fcba689121682506df5a7e4e742e052295",
         "refs/heads/biologic": "04d102502c54f9330367999db2c659db9b7da864",
         "refs/heads/export": "58e8713b30502bbf78095b4bdc37224bdc8a7973",
         "refs/heads/gh-pages": "b51bc66df50df307e94a5db2f00b7c77414773ac",
@@ -2312,6 +2313,7 @@
         "refs/tags/0.1rc8": "1e66d10cb96076d54c3d5501ff808f91af81a9a7",
         "refs/tags/0.1rc9": "682859cea6a7d657895295e70d2126f8fc15f837",
         "refs/tags/0.2": "035c57be735b9ec4f51e96a1bf2f0d107b9efd9b",
+        "refs/tags/0.2.1": "1b0730fcba689121682506df5a7e4e742e052295",
         "refs/tags/0.2a1": "31d847870c938dd57ee71c976d14462b2d0941cb",
         "refs/tags/0.2a2": "dc2df5ab0863c50852283af2b70b47ef2d813bf2",
         "refs/tags/0.2rc1": "ea713c60819fee837010a2ec0fddf4fa5a77a2e4",
