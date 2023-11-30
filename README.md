@@ -52,7 +52,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
         - WP9
     ```
 
-    **Note**: To check which fields are optional, refer to the `valid keys` subsection; but it is highly encouraged to fill in all the fields to process your PR quickly. The `categories` field must contain at least one item. 
+    **Note**: To check which fields are optional, refer to the `valid keys` subsection; but it is highly encouraged to fill in all the fields to process your PR quickly. The `categories` field must contain at least one item.
 
 
 2. Your app will show up in the [BIG-MAP App Store](https://big-map.github.io/big-map-registry) once your pull request is approved and merged.
