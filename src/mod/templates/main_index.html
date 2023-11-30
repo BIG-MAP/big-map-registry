@@ -41,11 +41,16 @@
                     {% endfor %}
                 {% endif %}
                 </h2>
-                <p class="packagename">Package name: {{ app_name }}
-                    {% if app.hosted_on %} (hosted on <a href="{{ app.git_url }}">{{ app.hosted_on }}</a>){% endif %}
-                </p>
-                <p class="currentstate">Current state: {{ app.metadata.state }}
-                    {% if app.metadata.version %} (version {{ app.metadata.version }}){% endif %}
+                <!-- Links to the videos -->
+                <p class="videos">Video tutorials: 
+                    {% if app.metadata.video_installation_url %} 
+                    <a href="{{ app.metadata.video_installation_url }}">Installation</a>, 
+                    {% endif %}
+                    {% if app.metadata.video_demonstration_url %} 
+                    <a href="{{ app.metadata.video_demonstration_url }}">Demonstration</a>
+                    {% else %} 
+                    Not available
+                    {% endif %}
                 </p>
 
                 {% if app.metadata.description %}
@@ -118,11 +123,16 @@
                     {% endfor %}
                 {% endif %}
                 </h2>
-                <p class="packagename">Package name: {{ app_name }}
-                    {% if app.hosted_on %} (hosted on <a href="{{ app.git_url }}">{{ app.hosted_on }}</a>){% endif %}
-                </p>
-                <p class="currentstate">Current state: {{ app.metadata.state }}
-                    {% if app.metadata.version %} (version {{ app.metadata.version }}){% endif %}
+                <!-- Links to the videos -->
+                <p class="videos">Video tutorials: 
+                    {% if app.metadata.video_installation_url %} 
+                    <a href="{{ app.metadata.video_installation_url }}">Installation</a>, 
+                    {% endif %}
+                    {% if app.metadata.video_demonstration_url %} 
+                    <a href="{{ app.metadata.video_demonstration_url }}">Demonstration</a>
+                    {% else %} 
+                    Not available
+                    {% endif %}
                 </p>
 
                 {% if app.metadata.description %}
