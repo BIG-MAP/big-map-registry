@@ -56,6 +56,7 @@ optimade-web:
     categories:
         - technology-materials-cloud
         - utilities
+    git_url: https://github.com/CasperWA/voila-optimade-client
     metadata:
         authors: Casper Welzel Andersen
         description: |
@@ -67,6 +68,7 @@ optimade-web:
         video_demonstration_url: https://drive.google.com/file/d/1M4udtkXebmKRZNv9-7Etk3Z2fc1TGe52/preview
         title: OPTIMADE Web Client
 dft-vasp:
+    git_url: https://github.com/KIT-Workflows/DFT-VASP
     metadata:
         title: DFT-VASP
         description: |
@@ -98,6 +100,7 @@ dft-vasp:
 #         - technology-ase
 #         - technology-simstack
 dft-surface:
+    git_url: https://github.com/KIT-Workflows/DFT-Surface
     metadata:
         title: DFT-Surface
         description: |
@@ -113,6 +116,7 @@ dft-surface:
         - quantum
         - technology-simstack
 density-neb:
+    git_url: https://github.com/BIG-MAP/densityNEB
     metadata:
         title: densityNEB
         description: |
@@ -143,6 +147,7 @@ qm9-schnet-uncertainty:
         - technology-ase
     git_url: https://github.com/BIG-MAP/qm9-schnet-uncertainty-app/
 HELAO:
+    git_url: https://github.com/helgestein/helao-pub
     metadata:
         title: HELAO
         description: |
@@ -160,6 +165,7 @@ HELAO:
         - technology-lab
         - technology-active-learning
 prisma:
+    git_url: https://github.com/BIG-MAP/PRISMA
     metadata:
         title: PRISMA
         description: |
@@ -173,6 +179,7 @@ prisma:
         - data-analysis
         - utilities
 clease-gui:
+    git_url: https://gitlab.com/computationalmaterials/clease-gui
     metadata:
         title: CLEASE GUI
         description: |
@@ -234,6 +241,7 @@ FullProfAPP:
         - utilities
     git_url: https://gitlab.com/d7081/fullprofapp/
 aiida-seigrowth:
+    git_url: https://github.com/lucabanetta/aiida-seigrowth
     metadata:
         title: aiida-seigrowth
         description: |
@@ -247,6 +255,7 @@ aiida-seigrowth:
         - wp3
         - technology-aiida
 electrolyte-screening:
+    git_url: https://github.com/KIT-Workflows/Electrolyte-Screening
     metadata:
         title: Electrolyte-Screening
         description: |
@@ -399,6 +408,7 @@ galvanicium:
     categories:
         - data-visualization
 dft-qe:
+    git_url: https://github.com/KIT-Workflows/DFT-QE
     metadata:
         title: DFT-QE
         description: |
@@ -417,6 +427,7 @@ dft-qe:
         - technology-simstack
         - technology-ase
 datalab:
+    git_url: https://github.com/the-grey-group/datalab
     metadata:
         title: Datalab
         description: |
@@ -449,6 +460,7 @@ EVA:
         - data-visualization
         - data-analysis
 SEI-Active-learning-workflow:
+    git_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning
     metadata:
         title: SEI-Model-Active-Learning
         description: |
@@ -485,6 +497,7 @@ sdlabs-wrapper:
         - wp10
         - technology-active-learning
 CCS:
+    git_url: https://github.com/Teoroo-CMC/CCS
     metadata:
         title: CCS (Curvature Constrained Splines)
         description: |
