@@ -22,6 +22,8 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 - The repository provides sufficient technical documentation on how to install and run the software. This can be achieved via a README file, a Wiki page, or a software documentation hosting platform such as [Read The Docs](https://readthedocs.org/). Please pay particular attention to this, since it is a criterion the evaluators will use to test the apps.
 
+- Two videos, maximum length 4 minutes, showing the installation and demonstration of your app, refer to point 4 for details.
+
 *Feel free to propose a new app category to be added to [`category.yaml`](https://github.com/BIG-MAP/big-map-registry/edit/main/categories.yaml) before adding your app.*
 
 Apps are added to the registry by adding an entry to the `apps.yaml` file within this repository.
@@ -30,8 +32,9 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
     ```yaml
     my-big-map-app:
+    git_url: https://github.com/big-map/mybigmapapp.git
       metadata:
-        title: MyBIG-MAP app
+        title: My BIG-MAP app
         description: |
             My BIG-MAP app helps to promote accelerated discovery
             of novel battery materials.
@@ -49,7 +52,7 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
         - WP9
     ```
 
-    **Note**: Only the metadata fields `title` and `description` are mandatory; the `categories` field must contain at least one item, but it is highly encouraged to fill in the rest of the fields especially authors and affiliations to let us know which BIG-MAP partner institute you are affiliated with, and process your PR quickly.
+    **Note**: To check which fields are optional, refer to the `valid keys` subsection; but it is highly encouraged to fill in all the fields to process your PR quickly. The `categories` field must contain at least one item. 
 
 
 2. Your app will show up in the [BIG-MAP App Store](https://big-map.github.io/big-map-registry) once your pull request is approved and merged.
@@ -62,9 +65,9 @@ Apps are added to the registry by adding an entry to the `apps.yaml` file within
 
 5. To share these videos get in touch with the maintainers of this repository.
 
-**Tip**: The app store supports the `$ref` syntax to reference externally hosted documents.
+**Tip**: The App Store supports the `$ref` syntax to reference externally hosted documents.
 That means you can reference metadata that is hosted at a different location, which makes it easier to dynamically update it.
-For example, if you place a `metadata.yaml` file within your app repository, then you can reference that file in the app store like this:
+For example, if you place a `metadata.yaml` file within your app repository, then you can reference that file in the App Store like this:
 
 ```yaml
 my-big-map-app:
@@ -90,15 +93,15 @@ my-big-map-app:
     - WP9
 ```
 
-*The app store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
+*The App Store will assume that external references are in JSON format unless the referenced path ends with `.yaml` or `.yml`.*
 
 ### Valid keys for app entries in `apps.yaml`
 
 | Key | Requirement | Description |
 |:---:|:---:|:---|
-| `metadata` | **Mandatory** | General description of the app (see below).                                                                                                  |
+| `metadata` | **Mandatory** | General description of the app (see below). |
 | `categories` | **Mandatory** | An array of categories, where each category must be one of the categories specified in [`categories.yaml`](https://github.com/big-map/big-map-registry/blob/main/categories.yaml). |
-| `git_url` | Optional | Link to the source code git repository.                                                                                                      |
+| `git_url` | **Mandatory** | Link to the source code, can be github or gitlab or any other publicly available repository. |
 
 ### Valid keys for app metadata
 
@@ -106,12 +109,15 @@ my-big-map-app:
 |:---:|:---:|:---|
 | `title` | **Mandatory** | The title will be displayed in the list of apps in the application manager. |
 | `description` | **Mandatory** | The description will be displayed on the detail page of your app. |
-| `authors` | Optional | Comma-separated list of authors. |
-| `affiliations` | Optional | Single university/institution name or a comma-separted list of institutes in case of multiple affiliations. |
+| `authors` | **Mandatory** | Comma-separated list of authors. |
+| `affiliations` | **Mandatory** | Single university/institution name or a comma-separted list of institutes in case of multiple affiliations. |
+| `documentation_url` | **Mandatory** | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
+| `video_installation_url` | **Mandatory** | A video of maximum length of 4 minutes showing how the app can be downloaded, installed, and put in working conditions. |
+| `video_demonstration_url` | **Mandatory** | A video of maximum length of 4 minutes showing the app running under working conditions and being used, starting with a short explanation of the goal of the app and what it is trying to solve. |
+| `external_url` | Optional | General homepage for your app. |
 | `logo` | Optional | Url to a logo file (png or jpg). |
 | `state` | Optional | One of<br>- `registered`: lowest level - app may not yet be in a working state. Use this to secure a specific name.<br>- `development`: app is under active development, expect the occasional bug.<br>- `stable`: app can be used in production. |
-| `documentation_url` | Optional | The link to the online documentation of the app (e.g. on [Read The Docs](https://readthedocs.org/)). |
-| `external_url` | Optional | General homepage for your app. |
+| `industrial_collaboration` | Optional | If you have a closed-source app and you are an industrial partner of BIG-MAP. |
 
 ## Information for maintainers
 
@@ -129,7 +135,7 @@ $ PYTHONPATH=src pytest
 ```
 
 Executed tests include unit, integration, and validation tests.
-The validation tests check the validity of all schema files, the data files (e.g. `apps.yaml` and `categories.yaml`, and – if present – the configuration file (`config.yaml`).
+The validation tests check the validity of all schema files, the data files e.g. `apps.yaml` and `categories.yaml`, and – if present – the configuration file (`config.yaml`).
 
 To generate the website, simply execute the following script:
 
