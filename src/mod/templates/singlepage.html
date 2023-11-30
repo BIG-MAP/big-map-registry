@@ -65,6 +65,13 @@
             <strong>Affiliation(s)</strong>: {{ metadata.affiliations }}
         </p>
         <p>
+            <strong>Current state:</strong> {{ metadata.state }}
+            {% if metadata.version %} (version {{ metadata.version }}){% endif %}
+        </p>
+        <p>
+            {% if hosted_on %} <strong>Source code:</strong> <a href="{{ git_url }}">{{ hosted_on }}</a>{% endif %}
+        </p>
+        <p>
             <strong>Short description</strong>: {{ metadata.description }}
         </p>
         {% if metadata.version %}
