@@ -64,6 +64,7 @@ optimade-web:
         external_url: https://www.materialscloud.org/work/tools/optimadeclient
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-optimade/master/img/optimade-no-text-transparent-bg.png
         state: development
+        video_demonstration_url: https://drive.google.com/file/d/1M4udtkXebmKRZNv9-7Etk3Z2fc1TGe52/preview
         title: OPTIMADE Web Client
 dft-vasp:
     metadata:
@@ -307,6 +308,8 @@ yadg:
         logo: https://dgbowl.github.io/images/yadg.png
         state: development
         version: '4.2'
+        video_installation_url: https://drive.google.com/file/d/1EZiUGWJi5JKxucrE3joW9re_2H1wJj_r/preview
+        video_demonstration_url: https://drive.google.com/file/d/1_lIF8RwCPs4C7zdgNIt_ffMY4lcBmOBA/preview
     git_url: https://github.com/dgbowl/yadg
     categories:
         - technology-lab
@@ -322,6 +325,8 @@ tomato:
         logo: https://dgbowl.github.io/images/tomato.png
         state: development
         version: '0.2'
+        video_installation_url: https://drive.google.com/file/d/1bbxr45Rg2PqVjFQeyPnhBX-8BeacKZAO/preview
+        video_demonstration_url: https://drive.google.com/file/d/1XSv-EVecshiB3GYqAt4G9J-zNl88a_C8/preview
     git_url: https://github.com/dgbowl/tomato
     categories:
         - technology-lab
@@ -454,6 +459,8 @@ SEI-Active-learning-workflow:
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
         logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
         state: development
+        video_installation_url: https://drive.google.com/file/d/1DIGjSCgOasn7t2B-fuI5XZLJRzGUhJ-t/preview
+        video_demonstration_url: https://drive.google.com/file/d/1QQM6aSpWeMOkSUvMQda6NtCbhnrFQCmg/preview
         version: '1.0'
     categories:
         - technology-active-learning
@@ -492,7 +499,6 @@ CCS:
     categories:
         - wp3
         - technology-ase
-
 Onterface:
     metadata:
         title: Onterface
@@ -527,6 +533,8 @@ NanoBattVR:
         logo: https://nanoscalesimulations.com/Logo/Favicon/Favicon%20(M%C3%B8rk%20baggrund).svg
         state: development
         version: '1.0'
+        video_installation_url: https://drive.google.com/file/d/10zuj0nP2qmBhj8mUf-csvExCt7qucUZ6/preview
+        video_demonstration_url: https://drive.google.com/file/d/1tdKVQr9l3b6wW-45b2qfGbDpCc-Hrz_v/preview
         industrial_collaboration: true
     categories:
         - neb
