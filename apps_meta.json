@@ -469,7 +469,7 @@
       },
       "gitinfo": {
         "HEAD": "170433b65b736d0b5f67d773a0178c3bd3dfece0",
-        "refs/heads/28-voltammetry-cv": "170433b65b736d0b5f67d773a0178c3bd3dfece0",
+        "refs/heads/28-voltammetry-cv": "f11d51deab4ff512fa9261aa6398c7e560215d2c",
         "refs/heads/gh-pages": "7d9c81648068c63f08e971080ec1e9be720e42e0",
         "refs/heads/master": "170433b65b736d0b5f67d773a0178c3bd3dfece0",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
