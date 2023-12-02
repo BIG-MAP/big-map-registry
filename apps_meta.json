@@ -3980,6 +3980,7 @@
         "HEAD": "620247cf0a4006a1ef727c2618b0a3b8a6cf8ec7",
         "refs/heads/0.2.x": "1b0730fcba689121682506df5a7e4e742e052295",
         "refs/heads/biologic": "04d102502c54f9330367999db2c659db9b7da864",
+        "refs/heads/daemon_state": "7ef6e5dd2341b805ae562146fe0df4a3e57c1b89",
         "refs/heads/excise_setlib": "5702780931d528788a0b2318c62c0905217fbc61",
         "refs/heads/export": "58e8713b30502bbf78095b4bdc37224bdc8a7973",
         "refs/heads/gh-pages": "fe7ce44a1dab338e67f0b8ddb0f3c65d2c305992",
