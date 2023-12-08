@@ -468,11 +468,11 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview"
       },
       "gitinfo": {
-        "HEAD": "c8c62225c858628f6b274b89760ded4c3a8a5adc",
+        "HEAD": "a5d703590da033b212f5c7e7461d38b5e92369ec",
         "refs/heads/28-voltammetry-cv": "bca951a8489a247c69b6f277c2d1f7f9fddeb451",
         "refs/heads/fuzhanrahmanian-patch-1": "b86a2c4fa598f036c477c219dfca72159748e1bf",
         "refs/heads/gh-pages": "7d9c81648068c63f08e971080ec1e9be720e42e0",
-        "refs/heads/master": "c8c62225c858628f6b274b89760ded4c3a8a5adc",
+        "refs/heads/master": "a5d703590da033b212f5c7e7461d38b5e92369ec",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
         "refs/heads/voltammetry": "cb2b143bab7ebdd6f38b8e5de474753f78c2b7a3",
         "refs/heads/voltammetry-cp": "4d4199ca8dce9b2fe6857bbe5f64cc6dbce41c14",
