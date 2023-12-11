@@ -468,12 +468,12 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1EJWva4NCJds3eLG2k5SQ5tZFhZxnuzpL/preview"
       },
       "gitinfo": {
-        "HEAD": "5fe4fad2c70210f7cca4ddcedf8ab6803c38673d",
+        "HEAD": "eec49f6f1844a5c6fb6ca6ac4b49e8d743aec951",
         "refs/heads/28-voltammetry-cv": "fe7e7d0486e23f2e467a7e6031e03c04c4ad70e5",
         "refs/heads/33-aesthetic-improvement-code-cleaning": "74fad906f8c9f25bcf7af6434823fcbaa762c893",
         "refs/heads/fuzhanrahmanian-patch-1": "b86a2c4fa598f036c477c219dfca72159748e1bf",
         "refs/heads/gh-pages": "1ba66680df5503073ec4a49cee415ebe00d01029",
-        "refs/heads/master": "5fe4fad2c70210f7cca4ddcedf8ab6803c38673d",
+        "refs/heads/master": "eec49f6f1844a5c6fb6ca6ac4b49e8d743aec951",
         "refs/heads/paper_figures": "03b42fc0cc24a2dee2e77e2bac7716c33726e37f",
         "refs/heads/voltammetry": "cb2b143bab7ebdd6f38b8e5de474753f78c2b7a3",
         "refs/heads/voltammetry-cp": "4d4199ca8dce9b2fe6857bbe5f64cc6dbce41c14",
