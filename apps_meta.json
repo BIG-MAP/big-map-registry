@@ -377,12 +377,12 @@
         "technology-active-learning"
       ],
       "gitinfo": {
-        "HEAD": "71e06655c01f4f17cc9e33f9af83d456b3d3ac9a",
+        "HEAD": "a341cd742a176168770b547304ea160be8740817",
         "refs/heads/Phil": "4dd3a6f5d7acf1ba61289638b718bac5865675d3",
         "refs/heads/async-orch": "a3d88527ccc40630ad7169954149d601fe5842dd",
         "refs/heads/async-orch-v2": "025e4e41d5186b4f40471dd8055a53b7e38add00",
         "refs/heads/async-orch-v2.5": "0fbbb05a175d6dbfe3631f802f6240009fe66610",
-        "refs/heads/master": "71e06655c01f4f17cc9e33f9af83d456b3d3ac9a",
+        "refs/heads/master": "a341cd742a176168770b547304ea160be8740817",
         "refs/pull/17/head": "ff9afc9d42c94bcd80d91fe6285de6805e00e377",
         "refs/pull/18/head": "76ff8c39ef14acb5d1251e30deb5ce76337dad03",
         "refs/pull/19/head": "1c5a364887dcd3277bbd066b71fffcb7549a1d98",
@@ -1125,6 +1125,8 @@
         "refs/pull/577/merge": "793c78064ef1a4a91ec686aa53afd5b792d79b18",
         "refs/pull/578/head": "e628321b7261b90e4d210f2420865440d3423932",
         "refs/pull/578/merge": "55fcbd264a9ff8a1992d41fd89883afac5e2f625",
+        "refs/pull/580/head": "3f6acbceb603cc282e1333674e3b4b7ddb0f84a2",
+        "refs/pull/580/merge": "285ffa8c1f084af0649a4264ad689a3cc1dcfadf",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
