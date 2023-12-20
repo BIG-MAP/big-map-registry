@@ -3254,7 +3254,6 @@
       "gitinfo": {
         "HEAD": "2639e61addf25abad43d8d88c51909b97fa042a2",
         "refs/heads/ci/dependabot-updates": "264034d25e7cc47b4d80ecbc89fc2c655aba5973",
-        "refs/heads/ci/update-dependencies": "264034d25e7cc47b4d80ecbc89fc2c655aba5973",
         "refs/heads/dependabot/pip/ci/dependabot-updates/ipywidgets-approx-eq-8.1": "06f396f77693f6bc9db041e6574eb90970bf490b",
         "refs/heads/dependabot/pip/ci/dependabot-updates/optimade-approx-eq-1.0.1": "b63ebce4257f14fd4e5ebdf0ac16a4723633fdf8",
         "refs/heads/develop": "2639e61addf25abad43d8d88c51909b97fa042a2",
@@ -3708,7 +3707,6 @@
         "refs/pull/580/head": "934b4282b9021f1ff4c49e6dc75da495dc4947ef",
         "refs/pull/581/head": "c1fb51e75001498ed0705bd86707977e2efbe8fc",
         "refs/pull/582/head": "264034d25e7cc47b4d80ecbc89fc2c655aba5973",
-        "refs/pull/582/merge": "95a88ddc213db8b447bbc7b464c31be5d26b23e2",
         "refs/pull/59/head": "f7fc1077b756f77529df1ff47782b856c1452b33",
         "refs/pull/6/head": "7002399d83342f525580a6a24524268c915bf9e9",
         "refs/pull/62/head": "a6a22030e5e418a90c344e60dec9b8c9332136f6",
