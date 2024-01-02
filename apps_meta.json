@@ -1643,7 +1643,6 @@
       "gitinfo": {
         "HEAD": "f51cee5af05f5f35199cd2d46bf1a564fa414b3e",
         "refs/heads/dependabot/npm_and_yarn/webapp/tinymce-5.10.9": "faff652cf985ec5ad40ac4724e84d05da5646719",
-        "refs/heads/dependabot/pip/pydatalab/aiohttp-3.9.0": "c0ba0ccbf9e659791d8c8810f3275136006b899b",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -1677,6 +1676,7 @@
         "refs/heads/ml-evs/email_login_ui": "775b106f4730b9ad08b532495ca921781fa90737",
         "refs/heads/ml-evs/fancy_table_updates": "9f57700887409f3fe1d643db33e3e818db7dbba0",
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
+        "refs/heads/ml-evs/improve-startup-logs": "7c2b11381a6f8de125ae4ffcb2372fab5f9f84ef",
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
         "refs/heads/ml-evs/model_refactors": "f0e0323fab8aca846ef7b4365d2483a9dd3188d3",
         "refs/heads/ml-evs/mri_block": "6d12b518ddb46d5aa16434d38fe1bf58a520c3be",
@@ -1963,7 +1963,6 @@
         "refs/pull/518/merge": "ba1ffd737f6a54f037ee4060e25ed7fdc56f2418",
         "refs/pull/519/head": "1f27255bfae9db660468b72c75b7d77254f55eed",
         "refs/pull/520/head": "c0ba0ccbf9e659791d8c8810f3275136006b899b",
-        "refs/pull/520/merge": "8d811a9b61288da58a610c21c720631dd19bdc70",
         "refs/pull/521/head": "2ed27f1d733977b21974987c8e841bdcf3a80e9a",
         "refs/pull/523/head": "bd3642a966c14c17438b57b820c6fcdc8e41ea27",
         "refs/pull/525/head": "2b36511b5504e55d004eb5c73ad159995cc861c5",
