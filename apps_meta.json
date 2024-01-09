@@ -1642,7 +1642,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "2609b9b75ff9fd311a123f14abad41e706407999",
+        "HEAD": "4b69e962be7e30a80348d960247abd868e75aac0",
         "refs/heads/dependabot/npm_and_yarn/webapp/tinymce-5.10.9": "faff652cf985ec5ad40ac4724e84d05da5646719",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
@@ -1657,7 +1657,7 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "2609b9b75ff9fd311a123f14abad41e706407999",
+        "refs/heads/main": "4b69e962be7e30a80348d960247abd868e75aac0",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
         "refs/heads/ml-evs/add_collections": "ce01dfac3b98c49b46ac842b76e876e9a2f71df5",
@@ -1975,6 +1975,7 @@
         "refs/pull/53/head": "d7ef167f1de1088b16f97927b0c71b4d589ab9b5",
         "refs/pull/531/head": "8776e376fd18f7ec8e2b22e84fa409c1132aa7b4",
         "refs/pull/531/merge": "2a1313f1e03b87288a77d393a47d09757f7bda7e",
+        "refs/pull/532/head": "53761a521786297f179a677b7333361a0d59ba2e",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
