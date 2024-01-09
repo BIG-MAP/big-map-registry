@@ -337,8 +337,8 @@
       ],
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
-        "HEAD": "b873ed281634edb4983fa1dcc5aeb707348ad867",
-        "refs/heads/main": "b873ed281634edb4983fa1dcc5aeb707348ad867",
+        "HEAD": "9a7d57c3aefb82ca1e258f3aedde49a9f97a3f37",
+        "refs/heads/main": "9a7d57c3aefb82ca1e258f3aedde49a9f97a3f37",
         "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
         "refs/tags/1.1.0": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
         "refs/tags/1.1.1": "0e1b8aac83918465e40c343192c8f2999c87e26b",
@@ -350,7 +350,8 @@
         "refs/tags/1.2.4": "411f41c834f58fe5b636f35469e3d89215a3e000",
         "refs/tags/1.2.5": "537549154b990864b546ca7907de2dba8a4b064a",
         "refs/tags/1.2.6": "8b6aae44e6bbdf863aab01deaddd8d95992e7b9b",
-        "refs/tags/1.2.7": "6eda6757be5f7b8f8c4dd2a6a8813bdce625a6f2"
+        "refs/tags/1.2.7": "6eda6757be5f7b8f8c4dd2a6a8813bdce625a6f2",
+        "refs/tags/1.2.8": "9a7d57c3aefb82ca1e258f3aedde49a9f97a3f37"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png",
