@@ -1645,6 +1645,7 @@
       ],
       "gitinfo": {
         "HEAD": "4b69e962be7e30a80348d960247abd868e75aac0",
+        "refs/heads/dependabot/npm_and_yarn/webapp/follow-redirects-1.15.4": "b1bd66c1cc48fd99dec10e782b9cb80e137f763b",
         "refs/heads/dependabot/npm_and_yarn/webapp/tinymce-5.10.9": "faff652cf985ec5ad40ac4724e84d05da5646719",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
@@ -1978,6 +1979,8 @@
         "refs/pull/531/head": "8776e376fd18f7ec8e2b22e84fa409c1132aa7b4",
         "refs/pull/531/merge": "2a1313f1e03b87288a77d393a47d09757f7bda7e",
         "refs/pull/532/head": "53761a521786297f179a677b7333361a0d59ba2e",
+        "refs/pull/533/head": "b1bd66c1cc48fd99dec10e782b9cb80e137f763b",
+        "refs/pull/533/merge": "6d2aad065ef47ffa782be3b40a633f6d701a18fb",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
