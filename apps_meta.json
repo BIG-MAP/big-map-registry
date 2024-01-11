@@ -790,6 +790,7 @@
       },
       "gitinfo": {
         "HEAD": "65e908e21da0bd7ccd22a95e45338bd6eb09d255",
+        "refs/heads/dependabot/pip/docs/jinja2-3.1.3": "833378a4c45c482fbe1273f80c9c7025cd63ffa7",
         "refs/heads/deps/xx/pydantic-and-qe-plugin": "1343b582aa5d76a170c4330e45afc6befb49f2c9",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
@@ -1140,6 +1141,8 @@
         "refs/pull/589/head": "ce870699bfe80028d9f939c54225fd5fd94f3a28",
         "refs/pull/591/head": "1343b582aa5d76a170c4330e45afc6befb49f2c9",
         "refs/pull/591/merge": "01b1e2c6c6269afd7b7e7f104cb15a602b35f337",
+        "refs/pull/592/head": "833378a4c45c482fbe1273f80c9c7025cd63ffa7",
+        "refs/pull/592/merge": "7965f9879104a684682dfd2e4417d14669deb833",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
