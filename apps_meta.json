@@ -2259,6 +2259,7 @@
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
+        "refs/heads/allow-add-range-manual-with-no-signals": "8fcfb7719c7fd5fe0fb038c730486585b8d9b009",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/calculateDerivedProperty": "f29914f895fe1a47d137b28ad7bde695b1be0b1d",
