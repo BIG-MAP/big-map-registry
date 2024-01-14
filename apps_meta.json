@@ -3975,8 +3975,6 @@
         "refs/heads/master": "e724623d52ea670ed7fb6eb73184566efce9eef7",
         "refs/merge-requests/1/head": "9736d8bb65a8fc2f4b669eafb8e9cae5ec748158",
         "refs/merge-requests/1/merge": "33c9a538c04aaf80fa40b8c17aba8b3bb7ce06b9",
-        "refs/merge-requests/10/head": "98b9cb1d64725727e8c5583a3c0586cf15b83d39",
-        "refs/merge-requests/10/merge": "0c0621f7b336d5bdc3a2712953c85bb13b7b0a15",
         "refs/merge-requests/2/head": "6fc4fd2bbdeea9e14a516f80f8165441147fc1b5",
         "refs/merge-requests/2/merge": "a09fdd46f8b3b1de091ed5eb8be187d10ba698f4",
         "refs/merge-requests/3/head": "48750a8f713274a6b30cbea0636e896765651d1a",
