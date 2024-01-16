@@ -788,8 +788,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "65e908e21da0bd7ccd22a95e45338bd6eb09d255",
-        "refs/heads/deps/xx/pydantic-and-qe-plugin": "1343b582aa5d76a170c4330e45afc6befb49f2c9",
+        "HEAD": "5f40802aa89215cb06e9d2181a45b80f3c1b5d82",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
@@ -806,7 +805,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "0fc0f15b6406f24f42efc109b58dbd7ec60a18b3",
         "refs/heads/improve-setup-code-performance": "4587df4b30c11849fc6ff9536045f9a5ea201773",
-        "refs/heads/main": "65e908e21da0bd7ccd22a95e45338bd6eb09d255",
+        "refs/heads/main": "5f40802aa89215cb06e9d2181a45b80f3c1b5d82",
         "refs/heads/new_bandswidget": "374250939621f76ee2746515b307b096d7c4e9f0",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
         "refs/heads/plugin_workchain": "bbbb22018f01eec7efca970d982b916bbb45e050",
@@ -1138,7 +1137,6 @@
         "refs/pull/588/head": "d328537c9887b8f7fc59b2ddb4fedbf80317cac4",
         "refs/pull/589/head": "ce870699bfe80028d9f939c54225fd5fd94f3a28",
         "refs/pull/591/head": "1343b582aa5d76a170c4330e45afc6befb49f2c9",
-        "refs/pull/591/merge": "01b1e2c6c6269afd7b7e7f104cb15a602b35f337",
         "refs/pull/592/head": "833378a4c45c482fbe1273f80c9c7025cd63ffa7",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
