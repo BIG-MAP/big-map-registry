@@ -1690,6 +1690,7 @@
         "refs/heads/ml-evs/new_add_collections": "58e260d1d1539ac37f899d0586db29865d656157",
         "refs/heads/ml-evs/separator-box": "53ff7b29642fc5e5dd43c12d04e76925200b3bf1",
         "refs/heads/ml-evs/tweak-docs": "a0b50c7550f836c52da23dcad72e67afca7ca8a4",
+        "refs/heads/ml-evs/tweak-logging": "375cac2e1a413b5a9e8487dee2621e8c714ae9fb",
         "refs/heads/ml-evs/update_flask": "3c05c7397a15cefe1fa83efae72490868f503eee",
         "refs/heads/ml-evs/v0_2_api": "bc7fed84db695938402ed4867856c61fe49c4c90",
         "refs/heads/pre-commit-ci-update-config": "998eb1d015c436a0320ed9ed9307e30888e9406e",
@@ -1990,6 +1991,8 @@
         "refs/pull/542/head": "047026cff11472b1f180fffc065e10bb82ea1ecd",
         "refs/pull/544/head": "a0b50c7550f836c52da23dcad72e67afca7ca8a4",
         "refs/pull/544/merge": "a428f00b08944dd9b7ec883c24c899171e2c560e",
+        "refs/pull/545/head": "375cac2e1a413b5a9e8487dee2621e8c714ae9fb",
+        "refs/pull/545/merge": "04893cb19213ccefb599a5d6ea8bcf98b55a92db",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
@@ -3988,10 +3991,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "827ac5df61b1684dac95a40e1198da6b1796bb45",
+        "HEAD": "b7b5044cdbd57a58a8c2585516df537e0f4a2deb",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "827ac5df61b1684dac95a40e1198da6b1796bb45",
+        "refs/heads/master": "b7b5044cdbd57a58a8c2585516df537e0f4a2deb",
         "refs/merge-requests/1/head": "9736d8bb65a8fc2f4b669eafb8e9cae5ec748158",
         "refs/merge-requests/1/merge": "33c9a538c04aaf80fa40b8c17aba8b3bb7ce06b9",
         "refs/merge-requests/2/head": "6fc4fd2bbdeea9e14a516f80f8165441147fc1b5",
@@ -4023,7 +4026,8 @@
         "refs/tags/v23.02.16": "1c85304d17a8579174d9139e79ff2c2aa690455e",
         "refs/tags/v23.06.22": "8133d6382b4bb01c2825345dbdb05c878e684e41",
         "refs/tags/v23.10.18": "e46291e03639f6420d4985da682e1eea42d6d4d1",
-        "refs/tags/v24.01.12": "e724623d52ea670ed7fb6eb73184566efce9eef7"
+        "refs/tags/v24.01.12": "e724623d52ea670ed7fb6eb73184566efce9eef7",
+        "refs/tags/v24.01.19": "b7b5044cdbd57a58a8c2585516df537e0f4a2deb"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
