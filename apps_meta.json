@@ -1645,8 +1645,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "8f01f473af31bc9aff20f9883852a470c08c4ae3",
-        "refs/heads/dependabot/npm_and_yarn/webapp/tinymce-5.10.9": "d5f48dbe7a6248c975f02ac38696e6bd0e9d7231",
+        "HEAD": "7331f633f576b2f1b7bbc8e03953b5ba04674cb2",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -1660,7 +1659,7 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "8f01f473af31bc9aff20f9883852a470c08c4ae3",
+        "refs/heads/main": "7331f633f576b2f1b7bbc8e03953b5ba04674cb2",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
         "refs/heads/ml-evs/add_collections": "ce01dfac3b98c49b46ac842b76e876e9a2f71df5",
@@ -1954,7 +1953,6 @@
         "refs/pull/503/merge": "9e4aeb99b62ad0be7d3e3cc4f49357144dac72b6",
         "refs/pull/504/head": "27db0ff2c6be59e2ab12295cb81164e02c727ed2",
         "refs/pull/508/head": "d5f48dbe7a6248c975f02ac38696e6bd0e9d7231",
-        "refs/pull/508/merge": "efe46b40f2484906306f176ee7a2e564c44ed6e9",
         "refs/pull/511/head": "46c03cdb66f1f4fc459b7f351b150f7ba1811f04",
         "refs/pull/512/head": "edc92f943168deb907e610e63b8c22adcf877038",
         "refs/pull/515/head": "bb23c3104d55959ca6895a185c0c1afa011eaa47",
