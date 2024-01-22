@@ -1646,6 +1646,7 @@
       ],
       "gitinfo": {
         "HEAD": "7331f633f576b2f1b7bbc8e03953b5ba04674cb2",
+        "refs/heads/dependabot/pip/pydatalab/pillow-10.2.0": "8049caa82037add734523ca7ed3ca0038f0d4e70",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -1982,6 +1983,8 @@
         "refs/pull/542/head": "047026cff11472b1f180fffc065e10bb82ea1ecd",
         "refs/pull/544/head": "3b850bca3e4c28b23dbe386387640cb7ac840292",
         "refs/pull/545/head": "375cac2e1a413b5a9e8487dee2621e8c714ae9fb",
+        "refs/pull/546/head": "8049caa82037add734523ca7ed3ca0038f0d4e70",
+        "refs/pull/546/merge": "1022af1787996a41ad708cd41c8e4c54ee0c4a05",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
