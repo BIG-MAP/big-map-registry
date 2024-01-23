@@ -789,7 +789,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "622a922803ea8391cc6497008683391fcd9eaa9e",
+        "HEAD": "345901abf20c921effe419c680dfe582ca1dec8a",
         "refs/heads/doc/xps": "b14a215428d1c57561d63ec4d5d5571e70c37683",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
@@ -806,7 +806,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "0fc0f15b6406f24f42efc109b58dbd7ec60a18b3",
         "refs/heads/improve-setup-code-performance": "4587df4b30c11849fc6ff9536045f9a5ea201773",
-        "refs/heads/main": "622a922803ea8391cc6497008683391fcd9eaa9e",
+        "refs/heads/main": "345901abf20c921effe419c680dfe582ca1dec8a",
         "refs/heads/new_bandswidget": "0f4177b024b5aadbaf9baddaa23c2b6cbc00b7b2",
         "refs/heads/plugin_ui": "2051c6910a25df11ec28a7ad3ee464789cd3f7dd",
         "refs/heads/plugin_workchain": "bbbb22018f01eec7efca970d982b916bbb45e050",
@@ -1142,6 +1142,7 @@
         "refs/pull/593/head": "c1f7f520db439c22d47204d585daf4ba4f8084c0",
         "refs/pull/594/head": "ab59ae8e990721db77ad1090eba9611b7f754dd9",
         "refs/pull/594/merge": "db8c310cef24cda3cfa56fb658594c13131f3ebf",
+        "refs/pull/597/head": "0034e641e3378a3e80d9160af01c84ca9bc902f7",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
