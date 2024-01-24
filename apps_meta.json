@@ -1678,6 +1678,7 @@
         "refs/heads/ml-evs/chatblock": "7debd32672977ce13d7225a185a0c895303c4dbc",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
         "refs/heads/ml-evs/collection_graphs": "4e6798b00eb3fac590e6b649bfe73e7f91a23251",
+        "refs/heads/ml-evs/collections-ui": "0cfbda72a9ab9ff5023dab2e37a26923480977e0",
         "refs/heads/ml-evs/continuing_refcodes": "54c0637a7bdcbf0f7612b7abd31eed249423e3b7",
         "refs/heads/ml-evs/cypress-13": "c9fa9441a7493b189f4a94576926e3551243d956",
         "refs/heads/ml-evs/database_repair_task": "8dbc473a727424ff44aa7c0a7bdb91de4fba2158",
