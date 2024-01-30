@@ -1661,8 +1661,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "1bda0519294033edbd3ed9b3234120a3af9bb9d2",
-        "refs/heads/dependabot/pip/pydatalab/aiohttp-3.9.2": "9ecd936c62f4a883df7bf57c5f2e6a4e8907aafa",
+        "HEAD": "858385343cbeeffdc192ff4be8849193c1355ad9",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -1676,7 +1675,7 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "1bda0519294033edbd3ed9b3234120a3af9bb9d2",
+        "refs/heads/main": "858385343cbeeffdc192ff4be8849193c1355ad9",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
         "refs/heads/ml-evs/add_collections": "ce01dfac3b98c49b46ac842b76e876e9a2f71df5",
@@ -2009,7 +2008,6 @@
         "refs/pull/557/head": "63f170db7b88f1cfdd5910597aa1063d16ede191",
         "refs/pull/557/merge": "c1e10088fc76e04e105fc988f29a02c785a78895",
         "refs/pull/559/head": "9ecd936c62f4a883df7bf57c5f2e6a4e8907aafa",
-        "refs/pull/559/merge": "0aa97ee931209c67c8b5a74d6313559aa524c7b2",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
