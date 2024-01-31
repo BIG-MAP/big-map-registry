@@ -43,7 +43,7 @@ aiidalab-qe:
         affiliations: Paul Scherrer Institute, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal Laboratories for Materials Science and Technology
         description: |
             The Quantum ESPRESSO (QE) app is a user-friendly, web-based interface within AiiDAlab. It empowers users to conduct and streamline first-principles calculations by leveraging AiiDA’s powerful workflows implemented in the AiiDA Quantum ESPRESSO plugins. With this app researchers can calculate material properties (e.g., bands structure) on the web browser directly without writing any code.
-        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/logos/QE.jpg
         state: development
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://github.com/aiidalab/aiidalab-qe
