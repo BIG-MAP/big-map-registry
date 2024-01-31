@@ -470,8 +470,8 @@ SEI-Active-learning-workflow:
         documentation_url: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md
         logo: https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png
         state: development
-        video_installation_url: https://drive.google.com/file/d/1DIGjSCgOasn7t2B-fuI5XZLJRzGUhJ-t/preview
-        video_demonstration_url: https://drive.google.com/file/d/1QQM6aSpWeMOkSUvMQda6NtCbhnrFQCmg/preview
+        # video_installation_url: https://drive.google.com/file/d/1DIGjSCgOasn7t2B-fuI5XZLJRzGUhJ-t/preview
+        # video_demonstration_url: https://drive.google.com/file/d/1QQM6aSpWeMOkSUvMQda6NtCbhnrFQCmg/preview
         version: '1.0'
     categories:
         - technology-active-learning
