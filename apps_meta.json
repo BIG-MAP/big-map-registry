@@ -1,5 +1,26 @@
 {
   "apps": {
+    "BEM-VR": {
+      "metadata": {
+        "title": "Battery Electrode Manufacturing VR",
+        "description": "This App, developed under the funding of the BIG MAP Stakeholders Initiative, allows\nthe user to use through an innovative and intuitive Virtual Reality interface the\nARTISTIC Online Calculator, an online service developed by  CNRS and\nUniversité de Picardie Jules Verne -UPJV- (Amiens, France), which allows simulating the\nmanufacturing process of lithium ion battery electrodes.\n",
+        "authors": "Alejandro A. Franco, Romain Lelong, Lucie Denisart, Javier Troncoso",
+        "affiliations": "CNRS, Université de Picardie Jules Verne (Amiens, France)",
+        "external_url": "https://www.modeling-electrochemistry.com/",
+        "documentation_url": "https://zenodo.org/records/10424085",
+        "state": "development",
+        "version": "1.0",
+        "video_installation_url": "https://drive.google.com/file/d/1dwfK1JsmnGyaDA1QdJDt8So8_hbg2mCb/preview",
+        "video_demonstration_url": "https://drive.google.com/file/d/1xkV5Bn8ROJcZhIV8STiQrd0prDvuIqml/preview",
+        "industrial_collaboration": true
+      },
+      "categories": [
+        "virtual-reality",
+        "stakeholder"
+      ],
+      "name": "BEM-VR",
+      "subpage": "apps/BEM-VR.html"
+    },
     "CCS": {
       "git_url": "https://github.com/Teoroo-CMC/CCS",
       "metadata": {
@@ -583,8 +604,6 @@
         "documentation_url": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/blob/main/README.md",
         "logo": "https://github.com/KIT-Workflows/SEI-Model-Active-Learning/raw/main/logo.png",
         "state": "development",
-        "video_installation_url": "https://drive.google.com/file/d/1DIGjSCgOasn7t2B-fuI5XZLJRzGUhJ-t/preview",
-        "video_demonstration_url": "https://drive.google.com/file/d/1QQM6aSpWeMOkSUvMQda6NtCbhnrFQCmg/preview",
         "version": "1.0"
       },
       "categories": [
@@ -779,7 +798,7 @@
         "authors": "X. Wang, J. Yu, A. V. Yakutovich, M. Bercx, D. Du, D. Hollas, A. Ortega-Guerrero , M. Bonacci, E. Bainglass, N. Marzari, C. A. Pignedoli, G. Pizzi",
         "affiliations": "Paul Scherrer Institute, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal Laboratories for Materials Science and Technology",
         "description": "The Quantum ESPRESSO (QE) app is a user-friendly, web-based interface within AiiDAlab. It empowers users to conduct and streamline first-principles calculations by leveraging AiiDA’s powerful workflows implemented in the AiiDA Quantum ESPRESSO plugins. With this app researchers can calculate material properties (e.g., bands structure) on the web browser directly without writing any code.\n",
-        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
+        "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/logos/QE.jpg",
         "state": "development",
         "title": "Quantum ESPRESSO AiiDAlab app",
         "external_url": "https://github.com/aiidalab/aiidalab-qe",
@@ -1150,8 +1169,8 @@
         "refs/pull/608/head": "d3d50871c985ba57cb8e3f24db03cdb41fd2c98c",
         "refs/pull/609/head": "aebdd646ae2804e47bca4259d724be6d90983592",
         "refs/pull/612/head": "3d1b446ba8424638548aab22573f21cbdeb7fc4f",
-        "refs/pull/614/head": "e9aea66436e7655329c141479ff1ea02c2edc98d",
-        "refs/pull/614/merge": "d9b0978b16f0ea56ce5dac964ecc13f9af74ee45",
+        "refs/pull/614/head": "aba4fdfa4d9a999cfdcd5dbea9d8ad961da068f7",
+        "refs/pull/614/merge": "cca553fe8f7232656a2b22b687b7ff69422a3db8",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
@@ -1270,7 +1289,7 @@
         "refs/tags/v24.04.0a1^{}": "a17893e786a289341c94ad69e53e6905201d5899"
       },
       "hosted_on": "github.com",
-      "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/master/miscellaneous/logos/QE.jpg",
+      "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/logos/QE.jpg",
       "name": "aiidalab-qe",
       "subpage": "apps/aiidalab-qe.html"
     },
@@ -2256,7 +2275,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "c1e1107920dfc38385671d3503c97a84528fbc06",
+        "HEAD": "004d98374acac909df2e2219772887e6c9c4beb2",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -2317,7 +2336,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "c1e1107920dfc38385671d3503c97a84528fbc06",
+        "refs/heads/main": "004d98374acac909df2e2219772887e6c9c4beb2",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -2340,7 +2359,7 @@
         "refs/heads/refactor-view-object": "707239232599401e568b3dfe8594cf5d0458559d",
         "refs/heads/refactorPanels": "19e4493baf8c4773646daac4e20f2538a744e9be",
         "refs/heads/refactorSampleTest": "686429a10ad5b2de3c7f4b413d91b2bc78b97f52",
-        "refs/heads/release-please--branches--main--components--nmrium": "f51bbf77e93c7fec49681cd4e22f4b05339a4e45",
+        "refs/heads/release-please--branches--main--components--nmrium": "9016daec531c650380033e355ca64ff2b0cf766f",
         "refs/heads/release-please--branches--master": "f5e74d28a531a68fb3070db54d36582999054568",
         "refs/heads/release-v0.15.1": "00128178f3f8b022bf143d2bf4706aca7cca0657",
         "refs/heads/revert-2124-fix-2123-commit": "106ad9beb17025b2f7d1920807f9414abe9ef18d",
@@ -2354,7 +2373,6 @@
         "refs/heads/toNmredata": "21de812f9d51c865412ac70fe984d7e6d6984803",
         "refs/heads/update-react-science-v33": "6ecb31a8148a77f01f12f24895425a3d84a8b171",
         "refs/heads/updateGSD": "013c93dc38178f049e7f16362f2b3f1821e49090",
-        "refs/heads/validate-import-from-publication-string": "5731dadd1b10a0eaf85fd0dcef1a0941c32f1319",
         "refs/pull/1005/head": "e4df4e614e6c04c83caa8b9d815bd8f427ef875a",
         "refs/pull/1007/head": "0da9fb9717fbea7a0d1974341269bd2773ec7047",
         "refs/pull/102/head": "f4c439e7dd6ad572005e45777c78f2c6e0a62e4e",
@@ -3123,8 +3141,8 @@
         "refs/pull/2865/head": "6ecb31a8148a77f01f12f24895425a3d84a8b171",
         "refs/pull/2865/merge": "735c15a403f3cafcbd9ccf2ead6a3742ef22a68e",
         "refs/pull/2867/head": "51fd2bbd38abac6a889f2b10870acfc2e9aa431d",
-        "refs/pull/2868/head": "f51bbf77e93c7fec49681cd4e22f4b05339a4e45",
-        "refs/pull/2868/merge": "bd2dfb4d2b601c1f8824f4d0f09ab82ddf47b0db",
+        "refs/pull/2868/head": "9016daec531c650380033e355ca64ff2b0cf766f",
+        "refs/pull/2868/merge": "c38ab3c67638deb1d8564dd67168f06d940b4033",
         "refs/pull/2869/head": "f6e02b554d4ad571fa4633bafa85256af8ed69fb",
         "refs/pull/287/head": "bc40d7d5ecae91aa796b04653e8eedc8489c1025",
         "refs/pull/2874/head": "312152f132350b99fe8dd44d2ee50839d369860d",
@@ -3132,7 +3150,6 @@
         "refs/pull/2877/head": "6c520a1c094bf6a88a5d30499cc91bd692bbf91f",
         "refs/pull/2878/head": "1a0357450dbf667c759c5b3beb63f1271b08c451",
         "refs/pull/2879/head": "5731dadd1b10a0eaf85fd0dcef1a0941c32f1319",
-        "refs/pull/2879/merge": "b78592a01cc9c1d5bba4b77f5606ec2a33953d01",
         "refs/pull/304/head": "70fc242cf96aa05e01ca00528323559adf860ec7",
         "refs/pull/305/head": "fda1eb28a537ad94636d5afcd34dfbc46715ad19",
         "refs/pull/315/head": "c3f9905c2765349ec1d6e89f7a92f0589d12dd98",
