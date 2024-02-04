@@ -1145,7 +1145,7 @@
         "refs/pull/576/head": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/pull/576/merge": "3f1dc32f260cb41c35ffea00531af54d19301044",
         "refs/pull/577/head": "1641e8bd3ca2d1e083271a4cdc8b7dfc020851e8",
-        "refs/pull/577/merge": "c7cc814b893534d39a1c58a60dce7646b0fd0c7e",
+        "refs/pull/577/merge": "b4b7d8f367d5cabd5f4f51ad437c96da4285a9a6",
         "refs/pull/578/head": "a0f03cd8b1ef25c14daa0cfd21cfa987a6e70d93",
         "refs/pull/580/head": "b0a80acb4dec0afd658525d6b531125888215eb9",
         "refs/pull/581/head": "678fc46fea7d5233b38a37f48a5c19e8a3ea8980",
@@ -1683,7 +1683,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "834790c87b59d688603f3a0e9372a6df74615218",
+        "HEAD": "2c1d42574dc32466753b18bf2ae5114e1a99f857",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -1698,7 +1698,7 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "834790c87b59d688603f3a0e9372a6df74615218",
+        "refs/heads/main": "2c1d42574dc32466753b18bf2ae5114e1a99f857",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
         "refs/heads/ml-evs/add_collections": "ce01dfac3b98c49b46ac842b76e876e9a2f71df5",
@@ -1717,7 +1717,6 @@
         "refs/heads/ml-evs/develop": "0982b2d05dabc9636fb5217424ac8c40e9c9dd43",
         "refs/heads/ml-evs/dynamic-blocks": "5f2691c33c82d0f33527f83d2cc5d33f74e0b222",
         "refs/heads/ml-evs/ebsd": "4776789a9da55afcb112b9fccad90099252a90bd",
-        "refs/heads/ml-evs/eclab": "8b3ad7ce18e0ef87560d1e546ca22fe96d0fd210",
         "refs/heads/ml-evs/email-accounts": "de7bdedaf88322b6a0a03ce550c603fdbb9e5184",
         "refs/heads/ml-evs/email_login_ui": "775b106f4730b9ad08b532495ca921781fa90737",
         "refs/heads/ml-evs/fancy_table_updates": "9f57700887409f3fe1d643db33e3e818db7dbba0",
@@ -2036,7 +2035,6 @@
         "refs/pull/562/head": "2301709958a945ca1c7523355dee0232264e3228",
         "refs/pull/562/merge": "0f67bd376dbb4c71bc4b9f732f3895cf55fa7a0e",
         "refs/pull/563/head": "8b3ad7ce18e0ef87560d1e546ca22fe96d0fd210",
-        "refs/pull/563/merge": "6436cf14672af58c25cd4b2e7e0bd30b5d8a32d0",
         "refs/pull/58/head": "681bb1202c27b01da9d7ede4bb812209a74a07f9",
         "refs/pull/6/head": "f763972e42e71d45564398834330e0ab7e8835f1",
         "refs/pull/62/head": "41d296d8c205a892a6d86c0e1f335b854042a911",
@@ -2082,7 +2080,8 @@
         "refs/tags/v0.2.4": "a465ea5700055e3c3c035814370bb775d0414a1b",
         "refs/tags/v0.2.5": "985514bb45ee39cfcb7eaaa19acbfd424936f918",
         "refs/tags/v0.3.0-rc1": "725548308317303bd6531fd545befa39585f6e37",
-        "refs/tags/v0.3.0-rc2": "f0940cea943fc31408dfeca0041bf230c33e91cb"
+        "refs/tags/v0.3.0-rc2": "f0940cea943fc31408dfeca0041bf230c33e91cb",
+        "refs/tags/v0.3.0-rc3": "2c1d42574dc32466753b18bf2ae5114e1a99f857"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
