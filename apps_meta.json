@@ -2331,6 +2331,7 @@
         "refs/heads/depup": "5455a573f7eeb89336b2c8ce2b4102f1639d5c80",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
+        "refs/heads/export-as-text-file": "b6f9a9910f758de07156833bc6fd366eaf3120d9",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
