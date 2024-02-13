@@ -2042,7 +2042,7 @@
         "refs/pull/557/merge": "b4f436df95bdc27d28f7cc35c980b8f42948e29f",
         "refs/pull/559/head": "9ecd936c62f4a883df7bf57c5f2e6a4e8907aafa",
         "refs/pull/560/head": "bd48e8ad8b830ff995fe5e039d9e0b4e8a3da1fa",
-        "refs/pull/560/merge": "00ecbb5989b5751f0b418180a9012a6f202001ba",
+        "refs/pull/560/merge": "4ddfc352669539ff07e65b6515ef4bc6e2831eae",
         "refs/pull/562/head": "2301709958a945ca1c7523355dee0232264e3228",
         "refs/pull/562/merge": "216d2d41224083ab8304914f6b69c7587497b31f",
         "refs/pull/563/head": "8b3ad7ce18e0ef87560d1e546ca22fe96d0fd210",
@@ -2100,6 +2100,7 @@
         "refs/tags/v0.2.3": "3b770bc30a19dad56724069357a821633b99dbf3",
         "refs/tags/v0.2.4": "a465ea5700055e3c3c035814370bb775d0414a1b",
         "refs/tags/v0.2.5": "985514bb45ee39cfcb7eaaa19acbfd424936f918",
+        "refs/tags/v0.3.0": "5cb81f7ac240a7d90507c964d01b4c7c4a12f3bf",
         "refs/tags/v0.3.0-rc1": "725548308317303bd6531fd545befa39585f6e37",
         "refs/tags/v0.3.0-rc2": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/tags/v0.3.0-rc3": "2c1d42574dc32466753b18bf2ae5114e1a99f857"
