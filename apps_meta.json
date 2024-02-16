@@ -39,11 +39,11 @@
         "technology-ase"
       ],
       "gitinfo": {
-        "HEAD": "6afda76d4fd46d80a496669e57e8e717df4a29ce",
+        "HEAD": "817686d9dfcb6bcaa6ac02ab977f6d1e284e9c5b",
         "refs/heads/CCS_logo": "166795390c42ae1225330d6f31c193cf4d9257dd",
         "refs/heads/fix_splines": "2cb50ebc1851520b4a6723cd6e159e482e020418",
         "refs/heads/gh-pages": "f41a8ea823c02380fe5de5ab24180567b16787c3",
-        "refs/heads/master": "6afda76d4fd46d80a496669e57e8e717df4a29ce",
+        "refs/heads/master": "817686d9dfcb6bcaa6ac02ab977f6d1e284e9c5b",
         "refs/heads/remove_key_check": "81f709b641693e943a763126a0878475f08b4d25",
         "refs/heads/wall_fit": "d1b1bfaf680848fde35207f260271195b5e8f62b",
         "refs/pull/1/head": "760b6c801923d117c09478e60a19e6ed9b62707a",
