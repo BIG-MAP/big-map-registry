@@ -1736,7 +1736,7 @@
         "refs/heads/ml-evs/plotter-block": "bac0e6edbfd74397f2f9f0b04264ca9767187287",
         "refs/heads/ml-evs/remotes": "2728d672a7cc05e514c41b046d9b0123a60f28dc",
         "refs/heads/ml-evs/separator-box": "53ff7b29642fc5e5dd43c12d04e76925200b3bf1",
-        "refs/heads/ml-evs/update-pyproject": "cdb33cf864159f0482445d9a1ef720c4df8daadb",
+        "refs/heads/ml-evs/update-pyproject": "701eca15cb30250cd05e7e82195359be4ba5d1c0",
         "refs/heads/ml-evs/update_flask": "3c05c7397a15cefe1fa83efae72490868f503eee",
         "refs/heads/ml-evs/v0_2_api": "bc7fed84db695938402ed4867856c61fe49c4c90",
         "refs/heads/vp/fix_pipfile": "a31fb9743dfa254edeeca01d9935504acb9928ce",
