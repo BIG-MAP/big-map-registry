@@ -345,9 +345,9 @@ aiidalab-aurora:
         title: Aurora AiiDAlab
         description: |
             AiiDAlab app for the Autonomous robotic battery innovation platform (Aurora) BIG-MAP Stakeholder initiative
-        authors: Loris Ercole
+        authors: Edan Bainglass, Francisco F. Ramirez, Loris Ercole, Giovanni Pizzi
         affiliations: Paul Scherrer Institute
-        documentation_url: https://github.com/epfl-theos/aiidalab-aurora/blob/main/README.md
+        documentation_url: https://aiidalab-aurora.readthedocs.io/en/latest/
         state: registered
         video_installation_url: https://drive.google.com/file/d/1JI6kJq100u1RecCum0BHoz_wiBj8HWay/preview
         video_demonstration_url: https://drive.google.com/file/d/183qPIfW9gQSKq5IU8WmfyVK5o1BcQ4A_/preview
