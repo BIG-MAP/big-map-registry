@@ -1731,6 +1731,7 @@
         "refs/heads/ml-evs/dynamic-blocks": "5f2691c33c82d0f33527f83d2cc5d33f74e0b222",
         "refs/heads/ml-evs/ebsd": "4776789a9da55afcb112b9fccad90099252a90bd",
         "refs/heads/ml-evs/email-accounts": "de7bdedaf88322b6a0a03ce550c603fdbb9e5184",
+        "refs/heads/ml-evs/email-config-refactor": "23c5aad32a82adf47d1f2be096ff5a692c7ed514",
         "refs/heads/ml-evs/email_login_ui": "775b106f4730b9ad08b532495ca921781fa90737",
         "refs/heads/ml-evs/fancy_table_updates": "9f57700887409f3fe1d643db33e3e818db7dbba0",
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
