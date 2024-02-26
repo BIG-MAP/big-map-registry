@@ -1692,7 +1692,7 @@
         "HEAD": "c0a6458bdb0e4056b74902a91db99c1a8f226106",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
-        "refs/heads/UH-deployment": "00fccb62ff259118bc732e309153e677f0d2d1e4",
+        "refs/heads/UH-deployment": "f6fe433f5edce5cd2ca6f14fa011d27405010575",
         "refs/heads/dependabot/pip/pydatalab/cryptography-42.0.4": "5c33cde11d3093932c6c30aba685ad53a7e7b28e",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
