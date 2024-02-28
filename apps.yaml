@@ -58,8 +58,8 @@ aiidalab-qe-xas:
         - quantum
     git_url: https://github.com/aiidalab/aiidalab-qe.git
     metadata:
-        authors: P. N. O. Gillespie, X. Wang, M. H. A. Bertràn, G. Pizzi, D. Prezzi, N. Marzari, E. Molinari
-        affiliations: Paul Scherrer Institute, CNR-NANO S3, Università di Modena e Reggio Emilia, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal
+        authors: P. N. O. Gillespie, X. Wang, M. H. A. Bertràn, N. Marzari, E. Molinari, G. Pizzi, D. Prezzi
+        affiliations: CNR-NANO S3, Paul Scherrer Institute, Università di Modena e Reggio Emilia, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal
             Laboratories for Materials Science and Technology.
         description: |
             An extension to the AiiDALab-QE app for DFT calculations with Quantum
