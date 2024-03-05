@@ -43,7 +43,7 @@ aiidalab-qe:
         affiliations: Paul Scherrer Institute, Ecole Polytechnique Fédérale de Lausanne, Swiss Federal Laboratories for Materials Science and Technology
         description: |
             The Quantum ESPRESSO (QE) app is a user-friendly, web-based interface within AiiDAlab. It empowers users to conduct and streamline first-principles calculations by leveraging AiiDA’s powerful workflows implemented in the AiiDA Quantum ESPRESSO plugins. With this app researchers can calculate material properties (e.g., bands structure) on the web browser directly without writing any code.
-        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/logos/QE.jpg
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
         state: development
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://github.com/aiidalab/aiidalab-qe
@@ -64,14 +64,14 @@ aiidalab-qe-xas:
         description: |
             An extension to the AiiDALab-QE app for DFT calculations with Quantum
             ESPRESSO for computing X-ray absorption near-edge spectra (XANES).
-        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/logos/QE.jpg
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
         state: development
         title: AiiDAlab-QE XAS App
         external_url: https://github.com/aiidalab/aiidalab-qe
         documentation_url: https://aiidalab-qe.readthedocs.io/howto/xas.html
         version: 24.04.02a
         video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
-        video_demonstration_url: https://drive.google.com/file/d/1m4imcAzaCJabL9Rjjal4GqqcVwGkIqmU/preview
+        video_demonstration_url: https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview
 optimade-web:
     categories:
         - technology-materials-cloud
