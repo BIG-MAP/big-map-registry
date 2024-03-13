@@ -813,7 +813,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "d77bdb251919a2dd352672149996b3085c0d1420",
+        "HEAD": "ed72b08504281ff9a8c96ae8d8a5e0afeee5083e",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/dft_plus_u": "bcdfd3df5459780660a4090c775d2c79b0162433",
@@ -822,7 +822,7 @@
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "a7f5b3321837440cb96fbbde72db004f3c6d5b23",
-        "refs/heads/main": "d77bdb251919a2dd352672149996b3085c0d1420",
+        "refs/heads/main": "ed72b08504281ff9a8c96ae8d8a5e0afeee5083e",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -1163,7 +1163,6 @@
         "refs/pull/631/head": "1abc50bff6a80fe89753961818b2df4ee9c46731",
         "refs/pull/631/merge": "30492af92bd547f03bbd29e66b2644503085a2bf",
         "refs/pull/632/head": "288e35e2d5313016a448e97d29bb79243ea009fd",
-        "refs/pull/632/merge": "ae24beec591bce5f87deab9612a1ddcd044aae1e",
         "refs/pull/633/head": "eabfdf07ba8d637cb18219321c762cc19e0a2959",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
@@ -1310,7 +1309,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "d77bdb251919a2dd352672149996b3085c0d1420",
+        "HEAD": "ed72b08504281ff9a8c96ae8d8a5e0afeee5083e",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/dft_plus_u": "bcdfd3df5459780660a4090c775d2c79b0162433",
@@ -1319,7 +1318,7 @@
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/fix_tot_magnetization": "a7f5b3321837440cb96fbbde72db004f3c6d5b23",
-        "refs/heads/main": "d77bdb251919a2dd352672149996b3085c0d1420",
+        "refs/heads/main": "ed72b08504281ff9a8c96ae8d8a5e0afeee5083e",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -1660,7 +1659,6 @@
         "refs/pull/631/head": "1abc50bff6a80fe89753961818b2df4ee9c46731",
         "refs/pull/631/merge": "30492af92bd547f03bbd29e66b2644503085a2bf",
         "refs/pull/632/head": "288e35e2d5313016a448e97d29bb79243ea009fd",
-        "refs/pull/632/merge": "ae24beec591bce5f87deab9612a1ddcd044aae1e",
         "refs/pull/633/head": "eabfdf07ba8d637cb18219321c762cc19e0a2959",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
