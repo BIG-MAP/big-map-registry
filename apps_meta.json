@@ -2185,7 +2185,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "45fdd5d792489a2d2e62f426f3c763d65c176456",
+        "HEAD": "0d1e12cd5e913f72bfa437e72dd1dfb182bce4f9",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/UH-deployment": "f6fe433f5edce5cd2ca6f14fa011d27405010575",
@@ -2209,7 +2209,7 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "45fdd5d792489a2d2e62f426f3c763d65c176456",
+        "refs/heads/main": "0d1e12cd5e913f72bfa437e72dd1dfb182bce4f9",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
         "refs/heads/ml-evs/add_collections": "ce01dfac3b98c49b46ac842b76e876e9a2f71df5",
@@ -2593,7 +2593,6 @@
         "refs/pull/626/head": "0bf7381341001d0c06b95b56a789530aafc59c92",
         "refs/pull/626/merge": "591c30f05e8885bd8ef1ae01b508fb2472837f3e",
         "refs/pull/627/head": "095f0e3180bfd88d48fd441c226932a0255853ae",
-        "refs/pull/627/merge": "61316ad4ce6703246e77774e29425253c2f1024b",
         "refs/pull/630/head": "0fa7bb5e4d2e09b6b6410f74df850be3c1ff94f2",
         "refs/pull/631/head": "ce790f49308772fa7134d9b18f6be621235bc5a4",
         "refs/pull/635/head": "1565fab4bc030322f6eef305c19f49904c342e92",
