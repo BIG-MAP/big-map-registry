@@ -4868,7 +4868,7 @@
       ],
       "gitinfo": {
         "HEAD": "a0bdf7128f906b95560ced2831a4f17bc3758a8a",
-        "refs/heads/0.2.x": "1b0730fcba689121682506df5a7e4e742e052295",
+        "refs/heads/0.2.x": "8d32432aeaddc3634b3b5f1623a250ac417474c4",
         "refs/heads/annotate_data": "9e4e4ffa0cafc839a6b41f03bec88b5d97355f54",
         "refs/heads/biologic": "04d102502c54f9330367999db2c659db9b7da864",
         "refs/heads/daemon_state": "7ca942e4bf0e658f7d67cccdd411b2980c5df793",
@@ -4989,7 +4989,7 @@
       "gitinfo": {
         "HEAD": "1b2c7f8d1324a7b2b3eb99d1d430351db40bcd08",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
-        "refs/heads/4.2.x": "c6a2f7bf875e935b29189640fd7a5311dada87a0",
+        "refs/heads/4.2.x": "645d47e47f3895c58c6c73942e8eb5ac63298b59",
         "refs/heads/5.0.x": "2e02ac7ff699c5648076aea0dba8d9ca07701f3e",
         "refs/heads/gh-pages": "b4e1f56a96c47ff4a83c31d90ef70aa303770d78",
         "refs/heads/master": "1b2c7f8d1324a7b2b3eb99d1d430351db40bcd08",
