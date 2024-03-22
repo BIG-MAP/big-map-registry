@@ -2916,6 +2916,7 @@
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/fixed-reprocessed-when-delete": "1b27799913faa42cd64bfa225c0ebd91f210b810",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
+        "refs/heads/improvement-of-spectra-simulation": "31297a2521d9b543b958894ad5402d7d42ee5f24",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
