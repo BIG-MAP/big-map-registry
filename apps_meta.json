@@ -2233,6 +2233,7 @@
         "refs/heads/UH-deployment": "f6fe433f5edce5cd2ca6f14fa011d27405010575",
         "refs/heads/bc/account-status": "e6ba44cbc8455609c96b4616c1fd0f3373eb4d7a",
         "refs/heads/bc/admin-dashboard": "388044b8651cb9f2c857598d2df7606e6825f975",
+        "refs/heads/dependabot/pip/pydatalab/pymongo-4.6.3": "8b3f0ed3b031a98c4cb80c87184387febcb4e25d",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
@@ -2679,6 +2680,8 @@
         "refs/pull/686/head": "1ae354ac337cb66aa791b54f5cbee15f9044cc27",
         "refs/pull/687/head": "e6ba44cbc8455609c96b4616c1fd0f3373eb4d7a",
         "refs/pull/688/head": "b4302c46d7a1fca2582682e89ff144d801f3058a",
+        "refs/pull/689/head": "8b3f0ed3b031a98c4cb80c87184387febcb4e25d",
+        "refs/pull/689/merge": "b339049b3cb8a42f0bf7f0c6cb94a2720dae8036",
         "refs/pull/69/head": "396f82ad99b1e0f99a37e58a70133d646427f04b",
         "refs/pull/7/head": "1a37ca76a5534302e4845c71c71bbedc2e32be1b",
         "refs/pull/71/head": "bce164f34a2685a6256975501e7df7831d093bd2",
@@ -4875,7 +4878,8 @@
         "refs/tags/v24.01.12": "e724623d52ea670ed7fb6eb73184566efce9eef7",
         "refs/tags/v24.01.19": "b7b5044cdbd57a58a8c2585516df537e0f4a2deb",
         "refs/tags/v24.04.07": "253352deb8656cf71fdd27b08a9e26a63ce98925",
-        "refs/tags/v24.04.08": "3a8b1d1dc4819da0153ef2eac83475f889bbae3d"
+        "refs/tags/v24.04.08": "3a8b1d1dc4819da0153ef2eac83475f889bbae3d",
+        "refs/tags/v24.04.08a": "269fc9d41ed950268171192a270f5fc068de0d9e"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
