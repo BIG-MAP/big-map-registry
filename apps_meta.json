@@ -2951,6 +2951,7 @@
         "refs/heads/2764-sdf-file-issue": "12b2328dcb27c9d66540ee6d70df72c91248ead4",
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
+        "refs/heads/3016-unhandled-error-when-picking-a-very-small-range": "7058ad6a682ad27544406ceecdb57e5e875dc82d",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
