@@ -814,6 +814,7 @@
       },
       "gitinfo": {
         "HEAD": "dcb951d4e5363c72347fefecab4d06192b19fae0",
+        "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/dft_plus_u": "069fc6e1ea53d1e876d89ede4dffbac4cf5f06ff",
@@ -1191,6 +1192,8 @@
         "refs/pull/669/head": "079fde7883da132ba076a307795b60e4643120be",
         "refs/pull/670/head": "e65b5f3c9a22656a3375611a5631b3db45d488aa",
         "refs/pull/670/merge": "618dd962bda158d5e8de83bdbd6de803768bc346",
+        "refs/pull/672/head": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
+        "refs/pull/672/merge": "0bb932fde44241e8cbb2f37d01264a095c990cc0",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
@@ -1339,6 +1342,7 @@
       },
       "gitinfo": {
         "HEAD": "dcb951d4e5363c72347fefecab4d06192b19fae0",
+        "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/empa_qeapp": "ff430942ebe9d6fd4f0eb06a84bae8e246505b45",
         "refs/heads/feature/dft_plus_u": "069fc6e1ea53d1e876d89ede4dffbac4cf5f06ff",
@@ -1716,6 +1720,8 @@
         "refs/pull/669/head": "079fde7883da132ba076a307795b60e4643120be",
         "refs/pull/670/head": "e65b5f3c9a22656a3375611a5631b3db45d488aa",
         "refs/pull/670/merge": "618dd962bda158d5e8de83bdbd6de803768bc346",
+        "refs/pull/672/head": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
+        "refs/pull/672/merge": "0bb932fde44241e8cbb2f37d01264a095c990cc0",
         "refs/pull/7/head": "14e441ba38036be6335cf3901ff8e56e4e488b9b",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
