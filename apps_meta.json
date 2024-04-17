@@ -2240,7 +2240,7 @@
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/UH-deployment": "f6fe433f5edce5cd2ca6f14fa011d27405010575",
         "refs/heads/bc/account-status": "f71ebddad64b873507a0b8dd2f59e3bcbbe2279b",
-        "refs/heads/bc/deployment-settings": "e6f8aa18047f9c40d383176080b3c4af9da3793b",
+        "refs/heads/bc/deployment-settings": "d0a5ac565e33a8ee7b9424fca12e0bb52dcd3363",
         "refs/heads/bc/help-bubbles": "bbbdf3171b1b501067eb507147a161bd57b4b537",
         "refs/heads/dependabot/pip/pydatalab/idna-3.7": "db1a703eae749b573e48599ae63eaa1b77327b07",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
