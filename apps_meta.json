@@ -813,7 +813,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "098a8e60b2f23b8e1b127256138db6990c88a706",
+        "HEAD": "6651c8b9d8923415b2f1d08877cdf118de6904cd",
         "refs/heads/dependabot/github_actions/gha-dependencies-f98fe8bd35": "1117d4cf21b290dd9cc9d7e8403453467b66956b",
         "refs/heads/dependabot/pip/docs/certifi-2023.7.22": "a1ead2f3771aefc48b53bb03588a8b405e387c10",
         "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
@@ -822,8 +822,9 @@
         "refs/heads/features/muons": "c548b813e0fc8543c3bad62e826b8257813d087f",
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
-        "refs/heads/main": "098a8e60b2f23b8e1b127256138db6990c88a706",
+        "refs/heads/main": "6651c8b9d8923415b2f1d08877cdf118de6904cd",
         "refs/heads/not-using-artifact": "0d21704775a5e1416250dd8dfd2a7633e7ff8c3f",
+        "refs/heads/release/2024.04.0rc2": "7784e7adeb8ae1736b0f92e3431299b4d18f6908",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -1215,7 +1216,8 @@
         "refs/pull/703/head": "c2eb21041462cc0f77b2661c9a15884e81f971da",
         "refs/pull/704/head": "52fd298da6f6ecbacd5e523bc05995fa18af9fdb",
         "refs/pull/706/head": "8557d5af1cfea309e185d5c53d3315db393b9b96",
-        "refs/pull/706/merge": "f7b5c10d3717c4ff5a799fae51dba0af2b8b107a",
+        "refs/pull/707/head": "7784e7adeb8ae1736b0f92e3431299b4d18f6908",
+        "refs/pull/707/merge": "9fb56dea7ba909cb1c986a1f15f6356a01106604",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
         "refs/pull/73/head": "3d3e205e0958b2a6f0f5b9778ce5b56245c30938",
@@ -1339,8 +1341,8 @@
         "refs/tags/v24.04.0rc0^{}": "c020d81db195b3938f92a0d44228f9aa7537373c",
         "refs/tags/v24.04.0rc1": "e9f805bd22376ace7380779fb05e94bd9be63d08",
         "refs/tags/v24.04.0rc1^{}": "5d903b6e8f6c1a66083eb305d441793e0c8c2922",
-        "refs/tags/v24.04.0rc2": "774312b492db4cf55f4190339dddcc8cfc55086d",
-        "refs/tags/v24.04.0rc2^{}": "09297940788ac87d8afe17cd35d1abfb7ea8a618"
+        "refs/tags/v24.04.0rc2": "3663899eddbad8cb33ec0cb243a664ed1e25af80",
+        "refs/tags/v24.04.0rc2^{}": "7784e7adeb8ae1736b0f92e3431299b4d18f6908"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -1368,7 +1370,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "098a8e60b2f23b8e1b127256138db6990c88a706",
+        "HEAD": "6651c8b9d8923415b2f1d08877cdf118de6904cd",
         "refs/heads/dependabot/github_actions/gha-dependencies-f98fe8bd35": "1117d4cf21b290dd9cc9d7e8403453467b66956b",
         "refs/heads/dependabot/pip/docs/certifi-2023.7.22": "a1ead2f3771aefc48b53bb03588a8b405e387c10",
         "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
@@ -1377,8 +1379,9 @@
         "refs/heads/features/muons": "c548b813e0fc8543c3bad62e826b8257813d087f",
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
-        "refs/heads/main": "098a8e60b2f23b8e1b127256138db6990c88a706",
+        "refs/heads/main": "6651c8b9d8923415b2f1d08877cdf118de6904cd",
         "refs/heads/not-using-artifact": "0d21704775a5e1416250dd8dfd2a7633e7ff8c3f",
+        "refs/heads/release/2024.04.0rc2": "7784e7adeb8ae1736b0f92e3431299b4d18f6908",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/pull/1/head": "8c28ffd13044f7a50840f5a93b68516eb11e31a1",
@@ -1770,7 +1773,8 @@
         "refs/pull/703/head": "c2eb21041462cc0f77b2661c9a15884e81f971da",
         "refs/pull/704/head": "52fd298da6f6ecbacd5e523bc05995fa18af9fdb",
         "refs/pull/706/head": "8557d5af1cfea309e185d5c53d3315db393b9b96",
-        "refs/pull/706/merge": "f7b5c10d3717c4ff5a799fae51dba0af2b8b107a",
+        "refs/pull/707/head": "7784e7adeb8ae1736b0f92e3431299b4d18f6908",
+        "refs/pull/707/merge": "9fb56dea7ba909cb1c986a1f15f6356a01106604",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
         "refs/pull/73/head": "3d3e205e0958b2a6f0f5b9778ce5b56245c30938",
@@ -1894,8 +1898,8 @@
         "refs/tags/v24.04.0rc0^{}": "c020d81db195b3938f92a0d44228f9aa7537373c",
         "refs/tags/v24.04.0rc1": "e9f805bd22376ace7380779fb05e94bd9be63d08",
         "refs/tags/v24.04.0rc1^{}": "5d903b6e8f6c1a66083eb305d441793e0c8c2922",
-        "refs/tags/v24.04.0rc2": "774312b492db4cf55f4190339dddcc8cfc55086d",
-        "refs/tags/v24.04.0rc2^{}": "09297940788ac87d8afe17cd35d1abfb7ea8a618"
+        "refs/tags/v24.04.0rc2": "3663899eddbad8cb33ec0cb243a664ed1e25af80",
+        "refs/tags/v24.04.0rc2^{}": "7784e7adeb8ae1736b0f92e3431299b4d18f6908"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
