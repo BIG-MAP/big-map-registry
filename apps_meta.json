@@ -813,7 +813,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "61d000b51d45dd66c7e0d4b40ac7446e211f196c",
+        "HEAD": "098a8e60b2f23b8e1b127256138db6990c88a706",
         "refs/heads/dependabot/github_actions/gha-dependencies-f98fe8bd35": "1117d4cf21b290dd9cc9d7e8403453467b66956b",
         "refs/heads/dependabot/pip/docs/certifi-2023.7.22": "a1ead2f3771aefc48b53bb03588a8b405e387c10",
         "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
@@ -823,7 +823,7 @@
         "refs/heads/features/muons": "c548b813e0fc8543c3bad62e826b8257813d087f",
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
-        "refs/heads/main": "61d000b51d45dd66c7e0d4b40ac7446e211f196c",
+        "refs/heads/main": "098a8e60b2f23b8e1b127256138db6990c88a706",
         "refs/heads/not-using-artifact": "0d21704775a5e1416250dd8dfd2a7633e7ff8c3f",
         "refs/heads/release/2024.04.0rc2": "09297940788ac87d8afe17cd35d1abfb7ea8a618",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -1217,7 +1217,6 @@
         "refs/pull/702/head": "c8d49de7dec76cdd7271afcfb2c3f36de39656b6",
         "refs/pull/703/head": "c2eb21041462cc0f77b2661c9a15884e81f971da",
         "refs/pull/704/head": "52fd298da6f6ecbacd5e523bc05995fa18af9fdb",
-        "refs/pull/704/merge": "3f9a41e1f398bd8df206bf03417684120e1715db",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
         "refs/pull/73/head": "3d3e205e0958b2a6f0f5b9778ce5b56245c30938",
@@ -1370,7 +1369,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "61d000b51d45dd66c7e0d4b40ac7446e211f196c",
+        "HEAD": "098a8e60b2f23b8e1b127256138db6990c88a706",
         "refs/heads/dependabot/github_actions/gha-dependencies-f98fe8bd35": "1117d4cf21b290dd9cc9d7e8403453467b66956b",
         "refs/heads/dependabot/pip/docs/certifi-2023.7.22": "a1ead2f3771aefc48b53bb03588a8b405e387c10",
         "refs/heads/dependabot/pip/docs/idna-3.7": "2f5009e62d02ca454ba216f94e7d81b67abd7078",
@@ -1380,7 +1379,7 @@
         "refs/heads/features/muons": "c548b813e0fc8543c3bad62e826b8257813d087f",
         "refs/heads/features/phonopy": "431192c96615f48e394c9b7824d82eb7929858a7",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
-        "refs/heads/main": "61d000b51d45dd66c7e0d4b40ac7446e211f196c",
+        "refs/heads/main": "098a8e60b2f23b8e1b127256138db6990c88a706",
         "refs/heads/not-using-artifact": "0d21704775a5e1416250dd8dfd2a7633e7ff8c3f",
         "refs/heads/release/2024.04.0rc2": "09297940788ac87d8afe17cd35d1abfb7ea8a618",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -1774,7 +1773,6 @@
         "refs/pull/702/head": "c8d49de7dec76cdd7271afcfb2c3f36de39656b6",
         "refs/pull/703/head": "c2eb21041462cc0f77b2661c9a15884e81f971da",
         "refs/pull/704/head": "52fd298da6f6ecbacd5e523bc05995fa18af9fdb",
-        "refs/pull/704/merge": "3f9a41e1f398bd8df206bf03417684120e1715db",
         "refs/pull/71/head": "f86eb72b547da902ec06ab1982146be6dafeab3b",
         "refs/pull/72/head": "ec751e212e7c575a96f94919fc272f4efc170ca3",
         "refs/pull/73/head": "3d3e205e0958b2a6f0f5b9778ce5b56245c30938",
