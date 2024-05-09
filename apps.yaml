@@ -72,6 +72,26 @@ aiidalab-qe-xas:
         version: 24.04.02a
         video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
         video_demonstration_url: https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview
+aiidalab-qe-xps:
+    categories:
+        - technology-aiida
+        - technology-aiidalab
+        - quantum
+    git_url: https://github.com/aiidalab/aiidalab-qe.git
+    metadata:
+        authors: X. Wang, M. H. A. Bertràn, P. N. O. Gillespie, N. Marzari, E. Molinari, D. Prezzi, G. Pizzi
+        affiliations: Paul Scherrer Institute, CNR-NANO S3, Università di Modena e Reggio Emilia, Ecole Polytechnique Fédérale de Lausanne
+        description: |
+            An extension to the AiiDALab-QE app for DFT calculations with Quantum
+            ESPRESSO for computing X-ray photoelectron spectroscopy (XPS).
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
+        state: development
+        title: AiiDAlab-QE XPS App
+        external_url: https://github.com/aiidalab/aiidalab-qe
+        documentation_url: https://aiidalab-qe.readthedocs.io/howto/xps.html
+        version: 24.04.0
+        video_installation_url: 
+        video_demonstration_url: 
 optimade-web:
     categories:
         - technology-materials-cloud
