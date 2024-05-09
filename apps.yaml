@@ -90,8 +90,8 @@ aiidalab-qe-xps:
         external_url: https://github.com/aiidalab/aiidalab-qe
         documentation_url: https://aiidalab-qe.readthedocs.io/howto/xps.html
         version: 24.04.0
-        video_installation_url: 
-        video_demonstration_url: 
+        video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
+        video_demonstration_url:
 optimade-web:
     categories:
         - technology-materials-cloud
