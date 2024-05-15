@@ -44,11 +44,11 @@ aiidalab-qe:
         description: |
             The Quantum ESPRESSO (QE) app is a user-friendly, web-based interface within AiiDAlab. It empowers users to conduct and streamline first-principles calculations by leveraging AiiDA’s powerful workflows implemented in the AiiDA Quantum ESPRESSO plugins. With this app researchers can calculate material properties (e.g., bands structure) on the web browser directly without writing any code.
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
-        state: development
+        state: stable
         title: Quantum ESPRESSO AiiDAlab app
         external_url: https://github.com/aiidalab/aiidalab-qe
         documentation_url: https://aiidalab-qe.readthedocs.io/
-        version: '23.10'
+        version: 24.04.0
         video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
         video_demonstration_url: https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview
 aiidalab-qe-xas:
@@ -65,13 +65,33 @@ aiidalab-qe-xas:
             An extension to the AiiDALab-QE app for DFT calculations with Quantum
             ESPRESSO for computing X-ray absorption near-edge spectra (XANES).
         logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
-        state: development
+        state: stable
         title: AiiDAlab-QE XAS App
         external_url: https://github.com/aiidalab/aiidalab-qe
         documentation_url: https://aiidalab-qe.readthedocs.io/howto/xas.html
-        version: 24.04.02a
+        version: 24.04.0
         video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
         video_demonstration_url: https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview
+aiidalab-qe-xps:
+    categories:
+        - technology-aiida
+        - technology-aiidalab
+        - quantum
+    git_url: https://github.com/aiidalab/aiidalab-qe.git
+    metadata:
+        authors: X. Wang, M. H. A. Bertràn, P. N. O. Gillespie, N. Marzari, E. Molinari, D. Prezzi, G. Pizzi
+        affiliations: Paul Scherrer Institute, CNR-NANO S3, Università di Modena e Reggio Emilia, Ecole Polytechnique Fédérale de Lausanne
+        description: |
+            An extension to the AiiDALab-QE app for DFT calculations with Quantum
+            ESPRESSO for computing X-ray photoelectron spectroscopy (XPS).
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png
+        state: stable
+        title: AiiDAlab-QE XPS App
+        external_url: https://github.com/aiidalab/aiidalab-qe
+        documentation_url: https://aiidalab-qe.readthedocs.io/howto/xps.html
+        version: 24.04.0
+        video_installation_url: https://drive.google.com/file/d/1TjzFB9SEkFn4E_TaJoBB3FMVJhhiy8BR/preview
+        video_demonstration_url: https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview
 optimade-web:
     categories:
         - technology-materials-cloud
