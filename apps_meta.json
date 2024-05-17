@@ -2965,6 +2965,7 @@
         "refs/heads/ml-evs/batch_sample_creation2": "c48e79bbe8620acabd9f1d725d91beb8bd88581e",
         "refs/heads/ml-evs/block-schema": "29c7b939b836c2cdd610a88f84db833859794946",
         "refs/heads/ml-evs/chatblock": "7debd32672977ce13d7225a185a0c895303c4dbc",
+        "refs/heads/ml-evs/chemform-component-test": "27dadaa9fb16427af2800b32bf96013fd7c655ad",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
         "refs/heads/ml-evs/collection_graphs": "4e6798b00eb3fac590e6b649bfe73e7f91a23251",
         "refs/heads/ml-evs/collections-ui-again": "63f170db7b88f1cfdd5910597aa1063d16ede191",
