@@ -5874,12 +5874,12 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "c6379f744cc6de2c15988cabb46bbd9e800bfa26",
+        "HEAD": "78ae462d69fe2413af7fd1c90d47b290a7783a79",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
         "refs/heads/4.2.x": "645d47e47f3895c58c6c73942e8eb5ac63298b59",
         "refs/heads/5.0.x": "4f8351a641f8066266991e733c81270ae96f085b",
-        "refs/heads/gh-pages": "78b28a205a20a7a768e77329f26e656a9d5662c8",
-        "refs/heads/master": "c6379f744cc6de2c15988cabb46bbd9e800bfa26",
+        "refs/heads/gh-pages": "7a45f44a6d626b3ad9d0387d1344bc85f80d6912",
+        "refs/heads/master": "78ae462d69fe2413af7fd1c90d47b290a7783a79",
         "refs/heads/picolog": "fb1909af7974a0dc976a652170a1535751a82407",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
@@ -5922,7 +5922,6 @@
         "refs/pull/152/head": "25e397411443b515e19c23bac60cdacb9d211137",
         "refs/pull/153/head": "34c9bc16c9398bf6853d7d92ab9c49014085fb66",
         "refs/pull/154/head": "408faf05fab739d2c019640b3a75dc91c3611ac3",
-        "refs/pull/154/merge": "73655f2aeb63aec8d3063094c6eb093e949c2bb4",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
         "refs/pull/18/head": "44eaf70727afb4d41236bbb4f8c254eae1f6c052",
         "refs/pull/19/head": "dc1aea51f5235364d81aaff6e069edbec3931b8b",
