@@ -3681,7 +3681,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "497fc6557d5ad436d3f743d619a22718cefe35d5",
+        "HEAD": "61946f5bf5e56fe79f747e9c7a5a6c79299651cc",
         "refs/heads/1337-contour-plot-does-not-allow-to-define-the-number-of-contours": "0744009fd52cd0a9f90866edb2635dca7c0a0a3c",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
@@ -3744,8 +3744,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "497fc6557d5ad436d3f743d619a22718cefe35d5",
-        "refs/heads/matrix": "e8b46696ad1478a1fc81fede1dbfce07d5373362",
+        "refs/heads/main": "61946f5bf5e56fe79f747e9c7a5a6c79299651cc",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -4678,7 +4677,6 @@
         "refs/pull/3069/head": "3f909d4f2829e8814e211350897875350fc3bc1d",
         "refs/pull/3071/head": "d2c1ceaa1fa29b83110101f83dae8b6a51d36ff9",
         "refs/pull/3073/head": "e8b46696ad1478a1fc81fede1dbfce07d5373362",
-        "refs/pull/3073/merge": "7104328a9d8f66e52c25d037212c18f6aae6698b",
         "refs/pull/315/head": "c3f9905c2765349ec1d6e89f7a92f0589d12dd98",
         "refs/pull/353/head": "cc598b4b6a82fc797cdb83a927b5b809119d620f",
         "refs/pull/356/head": "fca76a50b43a56910c04e3ce926fb99a7ae5a89a",
