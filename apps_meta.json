@@ -5932,12 +5932,12 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "90497832e723857c71507e1b0acf6b8d1948169a",
+        "HEAD": "4c8b1a40319f2770fa6ce201d218d1f470658395",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
         "refs/heads/4.2.x": "645d47e47f3895c58c6c73942e8eb5ac63298b59",
         "refs/heads/5.0.x": "dd93c1d91cb00600f918d82b54b6824ff7a56d52",
-        "refs/heads/gh-pages": "9975d5af1fb30176d8892a19dfc8d42060ecbadc",
-        "refs/heads/master": "90497832e723857c71507e1b0acf6b8d1948169a",
+        "refs/heads/gh-pages": "1ffd2f624f191503887add7a40fd9493c779f8ea",
+        "refs/heads/master": "4c8b1a40319f2770fa6ce201d218d1f470658395",
         "refs/heads/picolog": "a8d491f46f38a9d195b09d74a658d7a641f5488b",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
@@ -5981,7 +5981,7 @@
         "refs/pull/154/head": "408faf05fab739d2c019640b3a75dc91c3611ac3",
         "refs/pull/157/head": "cb1d5c70b7d07c2513bf4f873c9c66252d6e800d",
         "refs/pull/158/head": "14de765dcc34bf73e39f38641e09cd932a330721",
-        "refs/pull/158/merge": "44210323d47693978ec7e2008989ff8d46f749f5",
+        "refs/pull/158/merge": "5956018f153383e827c7a63ee786174e5574898a",
         "refs/pull/159/head": "df29735e640b2fb50b784c5b03384e6f9e61b96a",
         "refs/pull/16/head": "d800a72b8f3b420f2aba222ae3491da94c114858",
         "refs/pull/161/head": "6384bb53c46d7e1b70d3a880968c7c091b66daec",
@@ -5993,7 +5993,6 @@
         "refs/pull/168/head": "37cda56bce4373a598314c7b7537564af169f275",
         "refs/pull/169/head": "fcad25e45284d60e5b71473290c3fe51dd55b8db",
         "refs/pull/170/head": "e913f5b935078a789011ce9f463740d9156f071b",
-        "refs/pull/170/merge": "6d652b7dc609fb4fdb3ffcb9106486e493377140",
         "refs/pull/18/head": "44eaf70727afb4d41236bbb4f8c254eae1f6c052",
         "refs/pull/19/head": "dc1aea51f5235364d81aaff6e069edbec3931b8b",
         "refs/pull/2/head": "258b8a745be27eb5b4a514fa85a3ab74451549ba",
@@ -6092,7 +6091,8 @@
         "refs/tags/5.0a2": "868fdbc8cccca3e0e7dc102122054b3813474ddc",
         "refs/tags/5.0a3": "589b99fc849e3832d492c4599170cba04d508ec5",
         "refs/tags/5.0a4": "873d47e5ad0579624248d8e82c5cab79e0444390",
-        "refs/tags/5.0a5": "f661847417cbbfa9f3fc96979bda9d90c3005ad8"
+        "refs/tags/5.0a5": "f661847417cbbfa9f3fc96979bda9d90c3005ad8",
+        "refs/tags/5.1rc1": "4c8b1a40319f2770fa6ce201d218d1f470658395"
       },
       "hosted_on": "github.com",
       "logo": "https://dgbowl.github.io/images/yadg.png",
