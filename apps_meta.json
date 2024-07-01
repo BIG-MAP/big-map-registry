@@ -361,8 +361,8 @@
       ],
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
-        "HEAD": "5ae2228d62fecd428f3ad220e17300a7403dd361",
-        "refs/heads/main": "5ae2228d62fecd428f3ad220e17300a7403dd361",
+        "HEAD": "03e47c90368cea43bc902c6bd1e23cfa8e912ccf",
+        "refs/heads/main": "03e47c90368cea43bc902c6bd1e23cfa8e912ccf",
         "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
         "refs/tags/1.1.0": "e3f5a0d01aeb09fa38d5487daf547114c6ccef16",
         "refs/tags/1.1.1": "0e1b8aac83918465e40c343192c8f2999c87e26b",
