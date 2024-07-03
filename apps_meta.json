@@ -3790,7 +3790,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "4a6954a8ead094bcfb096bf3dc1e5583d33e26f0",
+        "HEAD": "0eec86cfdc323d11ba57949b4fa8fc9cd6690e31",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -3853,7 +3853,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "4a6954a8ead094bcfb096bf3dc1e5583d33e26f0",
+        "refs/heads/main": "0eec86cfdc323d11ba57949b4fa8fc9cd6690e31",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
@@ -3864,7 +3864,6 @@
         "refs/heads/print-spectra": "00736123468a2216111f276f7fc6577f4c5d129b",
         "refs/heads/rangeEditing": "aea50ed4e9131bfb06765b172fc6033d415a05f5",
         "refs/heads/readSourceTesting": "0ea62947e32254e38a319ad78827d3015e496b17",
-        "refs/heads/refactor-assignment-field-edition": "6cf43136048b647d0d14b2b12e80f55c78ac626b",
         "refs/heads/refactor-change-slice-tool-icon": "29c9b28cf349437a92656cef46e58824c6cf42b8",
         "refs/heads/refactor-classes": "b8242bec3b76486dc0f518c87edc638afdc737bd",
         "refs/heads/refactor-display-name": "152b602c6527969e0d085ea7b737a92357d9dac0",
@@ -4810,7 +4809,6 @@
         "refs/pull/3103/head": "c603d7a8ad7d85a765445ce79c036741c3d32260",
         "refs/pull/3104/head": "1da7c65d92efc5715c6a8622a5eed999a50ad20d",
         "refs/pull/3105/head": "6cf43136048b647d0d14b2b12e80f55c78ac626b",
-        "refs/pull/3105/merge": "3cae73ec64fff64efe148a424b2a0694deb9502a",
         "refs/pull/315/head": "c3f9905c2765349ec1d6e89f7a92f0589d12dd98",
         "refs/pull/353/head": "cc598b4b6a82fc797cdb83a927b5b809119d620f",
         "refs/pull/356/head": "fca76a50b43a56910c04e3ce926fb99a7ae5a89a",
