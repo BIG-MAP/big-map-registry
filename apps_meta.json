@@ -3045,7 +3045,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "95d5998c1ecd31ec92a73dffda54f9875331fa93",
+        "HEAD": "9462b3e3eab2be1dc64812254805a4ec78a11c3f",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
@@ -3070,7 +3070,7 @@
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "95d5998c1ecd31ec92a73dffda54f9875331fa93",
+        "refs/heads/main": "9462b3e3eab2be1dc64812254805a4ec78a11c3f",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
@@ -3627,7 +3627,8 @@
         "refs/tags/v0.4.0-rc.1": "bc4a3932422c338e7cc9c16674e42eb99c3fb312",
         "refs/tags/v0.4.0-rc.2": "d77b3a91937dce1e4dafc12a6548ad6138f757af",
         "refs/tags/v0.4.0-rc.3": "1015ff32e2f38617598c56ffb6942ca44111dd0c",
-        "refs/tags/v0.4.0-rc.4": "9054fcd9f905f39ada9f9439b99e5b9a85080029"
+        "refs/tags/v0.4.0-rc.4": "9054fcd9f905f39ada9f9439b99e5b9a85080029",
+        "refs/tags/v0.4.1": "9462b3e3eab2be1dc64812254805a4ec78a11c3f"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
