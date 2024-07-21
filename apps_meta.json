@@ -3879,6 +3879,7 @@
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
         "refs/heads/main": "1287bc18e8f7d6073c1f905cd3564f257508b563",
+        "refs/heads/migrate-to-dialog": "9222d0cb99be532279dd249c8426950b0f0388df",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
