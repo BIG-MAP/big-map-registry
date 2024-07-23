@@ -3027,7 +3027,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "14c0bd58377f1f44a9da4ea120d5cd4e333b3790",
+        "HEAD": "a1426717762dd7764e542a7c423b53095855eae1",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
@@ -3052,9 +3052,8 @@
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
-        "refs/heads/jdbocarsly-patch-1": "0a054392864258bafcba190655c86e045d630fd7",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "14c0bd58377f1f44a9da4ea120d5cd4e333b3790",
+        "refs/heads/main": "a1426717762dd7764e542a7c423b53095855eae1",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
@@ -3584,7 +3583,6 @@
         "refs/pull/814/head": "ced579dea31c05b3e46ae826e99e5f50089cfab8",
         "refs/pull/814/merge": "5cbf44a0cc5c79758f99e1ac798a6f5d3323bb4b",
         "refs/pull/816/head": "0a054392864258bafcba190655c86e045d630fd7",
-        "refs/pull/816/merge": "963524b84d59c81834a5b069f2bd29cfedb0ab35",
         "refs/pull/82/head": "d9d9175ffcea93d39d244427a6d738cdae7b72c3",
         "refs/pull/83/head": "7d61d5ec57acde3094548091f3cd73f0182c578e",
         "refs/pull/84/head": "604b832a3b860368a04ee45a238afc6bd6f504a8",
