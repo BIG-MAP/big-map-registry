@@ -3851,6 +3851,7 @@
         "refs/heads/3000-cannot-pick-multiplets-in-19f-nmr-spectrum": "a3e339e21efa7632e2f9b857afa7898f2245f491",
         "refs/heads/3088-import-multiplet": "03600275e4d977b22bb3b7ec35a44f0bf9cdc4ee",
         "refs/heads/3113-baseline-corrections-and-precalculated-zone": "652ceb8f46a177dd90f23e39b47b0d53eabca2c5",
+        "refs/heads/3160-export-as-jcamp-dx-should-be-more-specific": "a01024612553f1d22740a806a14bc4245b096db1",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
