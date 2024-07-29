@@ -3873,6 +3873,7 @@
         "refs/heads/fix-align-spectra": "2d3fcd85cce855671a93a15fe1476d9f04ec07fd",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
+        "refs/heads/fix-integral-not-correct-1h": "d1232e0d8bab4ae6383d569c71c9540a1087dd49",
         "refs/heads/fix-invalid-dom-nesting": "1287bc18e8f7d6073c1f905cd3564f257508b563",
         "refs/heads/fix-jcamp-exportation": "d0ae170b926f00afe1899fcd84ae1afa283901e1",
         "refs/heads/fix-meta-imporation": "840c3e50851035678ac49b45f2c85bdfb142e619",
