@@ -3022,7 +3022,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "b595315b61f7727e0e78bd101b699b8547284236",
+        "HEAD": "f6d66fc272e46a80b1367276a4b40f1c303f799c",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
@@ -3047,7 +3047,7 @@
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "b595315b61f7727e0e78bd101b699b8547284236",
+        "refs/heads/main": "f6d66fc272e46a80b1367276a4b40f1c303f799c",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
@@ -3065,7 +3065,6 @@
         "refs/heads/ml-evs/collections-ui-again": "63f170db7b88f1cfdd5910597aa1063d16ede191",
         "refs/heads/ml-evs/continuing_refcodes": "54c0637a7bdcbf0f7612b7abd31eed249423e3b7",
         "refs/heads/ml-evs/cypress-13": "c9fa9441a7493b189f4a94576926e3551243d956",
-        "refs/heads/ml-evs/cypress-groups": "9a49347376afcd78f5bce0e0e0917f1bbfb916e2",
         "refs/heads/ml-evs/database_repair_task": "8dbc473a727424ff44aa7c0a7bdb91de4fba2158",
         "refs/heads/ml-evs/deps_updates": "9b98fd2608fff455ee3da8b9e8acb086b540a48b",
         "refs/heads/ml-evs/develop": "0982b2d05dabc9636fb5217424ac8c40e9c9dd43",
@@ -3578,8 +3577,7 @@
         "refs/pull/821/head": "69dfc8dba24c1afab297880fbcd09858a08128b5",
         "refs/pull/822/head": "2a9039a9bfbd518faa69b29cbdfea4fad955912e",
         "refs/pull/824/head": "4a340289ddb95b67ad9dab5006d7377c34c43315",
-        "refs/pull/825/head": "9a49347376afcd78f5bce0e0e0917f1bbfb916e2",
-        "refs/pull/825/merge": "4fe7c4d911307d7e0771f5c10ef4a5451cf17384",
+        "refs/pull/825/head": "8e5ffa4278c0a271a660e1821c39432161d94842",
         "refs/pull/83/head": "7d61d5ec57acde3094548091f3cd73f0182c578e",
         "refs/pull/84/head": "604b832a3b860368a04ee45a238afc6bd6f504a8",
         "refs/pull/85/head": "f82562d3ff21bb7e06948016a3785bcc03d037a2",
@@ -3616,7 +3614,8 @@
         "refs/tags/v0.4.0-rc.3": "1015ff32e2f38617598c56ffb6942ca44111dd0c",
         "refs/tags/v0.4.0-rc.4": "9054fcd9f905f39ada9f9439b99e5b9a85080029",
         "refs/tags/v0.4.1": "9462b3e3eab2be1dc64812254805a4ec78a11c3f",
-        "refs/tags/v0.4.2": "d5711bea0ff00e811f1c75924c1b558d59fb9925"
+        "refs/tags/v0.4.2": "d5711bea0ff00e811f1c75924c1b558d59fb9925",
+        "refs/tags/v0.4.3": "f6d66fc272e46a80b1367276a4b40f1c303f799c"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
