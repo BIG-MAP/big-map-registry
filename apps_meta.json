@@ -824,6 +824,7 @@
       "gitinfo": {
         "HEAD": "02ee3ab3e0c71007d19046f369a693d864e41c54",
         "refs/heads/backup": "62cbb3fad9a027486500a093736d932d9aec1f3c",
+        "refs/heads/bands_projwfn": "b4cf6ec7f07aaaace5696cac3ddd0a4faab619ec",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/first-time-message": "d53ba3ad92b7d6c85309615d8de6160ae5d51563",
@@ -1436,6 +1437,7 @@
       "gitinfo": {
         "HEAD": "02ee3ab3e0c71007d19046f369a693d864e41c54",
         "refs/heads/backup": "62cbb3fad9a027486500a093736d932d9aec1f3c",
+        "refs/heads/bands_projwfn": "b4cf6ec7f07aaaace5696cac3ddd0a4faab619ec",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/first-time-message": "d53ba3ad92b7d6c85309615d8de6160ae5d51563",
@@ -2048,6 +2050,7 @@
       "gitinfo": {
         "HEAD": "02ee3ab3e0c71007d19046f369a693d864e41c54",
         "refs/heads/backup": "62cbb3fad9a027486500a093736d932d9aec1f3c",
+        "refs/heads/bands_projwfn": "b4cf6ec7f07aaaace5696cac3ddd0a4faab619ec",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
         "refs/heads/first-time-message": "d53ba3ad92b7d6c85309615d8de6160ae5d51563",
