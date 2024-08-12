@@ -3921,6 +3921,7 @@
         "refs/heads/fragments": "cc44dce76f2074ca5e77e7d7511f8573002b8e29",
         "refs/heads/full": "d92e63d296596daf739ba1f0fa1eae079d3024c3",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
+        "refs/heads/improve-zoom-in-stack-mode": "a9eb17ba1a102d46d1f482dfe362b3450a8b3dea",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
