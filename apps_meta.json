@@ -3064,7 +3064,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "ffd364783446f2bd34725f6a43eddb033f1e4f93",
+        "HEAD": "4a3fe8a2fdad15915ceec3ecf6f9d902b3341eda",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
@@ -3091,7 +3091,7 @@
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "ffd364783446f2bd34725f6a43eddb033f1e4f93",
+        "refs/heads/main": "4a3fe8a2fdad15915ceec3ecf6f9d902b3341eda",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
         "refs/heads/ml-evs/add_blocks_endpoint": "8978eaa8bad4b5b471d5702ac301e40e540fb276",
@@ -3642,6 +3642,7 @@
         "refs/pull/837/head": "de86580ea830b897c3acf14f960f2fd1ecf4c3e3",
         "refs/pull/837/merge": "f975acf0d1483531b78a85d3f77bbe972af98685",
         "refs/pull/84/head": "604b832a3b860368a04ee45a238afc6bd6f504a8",
+        "refs/pull/840/head": "e015ce4a58d315555c753b8719de9a3e98e45abb",
         "refs/pull/85/head": "f82562d3ff21bb7e06948016a3785bcc03d037a2",
         "refs/pull/86/head": "7d73e627427c0a8741f8a8596da306d86aa6299a",
         "refs/pull/87/head": "41dd3857ee85e36c10493087e1dd7222115a182d",
@@ -3677,7 +3678,8 @@
         "refs/tags/v0.4.0-rc.4": "9054fcd9f905f39ada9f9439b99e5b9a85080029",
         "refs/tags/v0.4.1": "9462b3e3eab2be1dc64812254805a4ec78a11c3f",
         "refs/tags/v0.4.2": "d5711bea0ff00e811f1c75924c1b558d59fb9925",
-        "refs/tags/v0.4.3": "f6d66fc272e46a80b1367276a4b40f1c303f799c"
+        "refs/tags/v0.4.3": "f6d66fc272e46a80b1367276a4b40f1c303f799c",
+        "refs/tags/v0.4.4": "4a3fe8a2fdad15915ceec3ecf6f9d902b3341eda"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
