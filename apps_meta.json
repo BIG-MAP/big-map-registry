@@ -3929,6 +3929,7 @@
         "refs/heads/fix-align-spectra": "2d3fcd85cce855671a93a15fe1476d9f04ec07fd",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
+        "refs/heads/fix-change-pivot-point": "0af665b2d79828782abdc3a5ac9f0ce06907af4e",
         "refs/heads/fix-exclusion-zone-selection": "4c5a84a933c50226dec3dad03acb5de88dfbc6cf",
         "refs/heads/fix-jcamp-exportation": "d0ae170b926f00afe1899fcd84ae1afa283901e1",
         "refs/heads/fix-meta-imporation": "840c3e50851035678ac49b45f2c85bdfb142e619",
