@@ -6042,7 +6042,8 @@
         "refs/tags/v0.6.5": "9d9e742e8f63419de8e8d183bd72e94ceb7c4282",
         "refs/tags/v0.7.0": "5c67894302fcfab615758f174a4adbccc620c1cb",
         "refs/tags/v0.7.1": "9133c0878c1e142eba71df8230482a22d1bb174c",
-        "refs/tags/v0.8.0": "f437a7a57eafcf3bc9de9c8966c93d99b0baf8ad"
+        "refs/tags/v0.8.0": "f437a7a57eafcf3bc9de9c8966c93d99b0baf8ad",
+        "refs/tags/v0.8.1": "63405e236d419705aabda1f843d1a7fee4c3c2e9"
       },
       "hosted_on": "github.com",
       "name": "sdlabs-wrapper",
