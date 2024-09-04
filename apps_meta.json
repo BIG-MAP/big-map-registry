@@ -3685,7 +3685,8 @@
       ],
       "gitinfo": {
         "HEAD": "8783a1cbe2b1d8c6edb817d7799de41eb8c23b0d",
-        "refs/heads/main": "8783a1cbe2b1d8c6edb817d7799de41eb8c23b0d"
+        "refs/heads/main": "8783a1cbe2b1d8c6edb817d7799de41eb8c23b0d",
+        "refs/heads/make-package": "03f6f7534e25cd3501292eb3eaf11a5014cc819e"
       },
       "hosted_on": "github.com",
       "logo": "https://github.com/BIG-MAP/densityNEB/raw/main/logo/logo.png",
