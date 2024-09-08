@@ -2748,8 +2748,6 @@
         "refs/merge-requests/12/merge": "bf84f9333873aa55675e97db22fe3facc9559609",
         "refs/merge-requests/120/head": "6f6f786dcf53cd7a24306001fc4f7aafcdf46765",
         "refs/merge-requests/120/merge": "3fd852f84ba1e0eaf2f1d32d56982783c2e4967d",
-        "refs/merge-requests/121/head": "a424acf0525e019bd864997cfe310f4bf9095c3c",
-        "refs/merge-requests/121/merge": "4316d903380616e0ff7b800ba0b93284288d4ebc",
         "refs/merge-requests/13/head": "44c54edc42a1ffe40dd72544593626a1b712a175",
         "refs/merge-requests/13/merge": "98c5bc7114f8a5f68e1c1655aef3a4ced2554f5f",
         "refs/merge-requests/14/head": "97bfbd1f3994967fdef97aebaa67ce9a57d99b2e",
