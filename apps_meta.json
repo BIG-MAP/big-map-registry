@@ -5924,8 +5924,6 @@
         "refs/merge-requests/7/merge": "f2ffb1349ba35d56434988e350d72798afe4721e",
         "refs/merge-requests/8/head": "946c9d0e19b2ae7dbbbd5f0b860a17b7b9ac8684",
         "refs/merge-requests/8/merge": "5c85debd40a5a5101df2bf8cc8f035f9e56267ff",
-        "refs/merge-requests/9/head": "b83d9d71eaf54e672c5e447df92c764527d81113",
-        "refs/merge-requests/9/merge": "fca09ec899c56fc704fe20bb59713e69992d5269",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
         "refs/tags/v21.11.29": "b11be7a77fcd7dc931a636aa02ccbfe8b5ca896b",
         "refs/tags/v21.11.30": "63e14209e310f3e361f5a2dba781d4e758b5b303",
