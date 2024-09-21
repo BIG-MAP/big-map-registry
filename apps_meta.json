@@ -2701,8 +2701,6 @@
         "refs/merge-requests/1/merge": "7d28bd1afda41ff66a3bc709e76135231182b54e",
         "refs/merge-requests/10/head": "db7dbe431c34a273516050280d854e8b12e2c6e2",
         "refs/merge-requests/10/merge": "a880fcbac5b260c01f368654148f59adf3f45106",
-        "refs/merge-requests/100/head": "565fdc80692d3fc14a2db6b6de772d70d49de70d",
-        "refs/merge-requests/100/merge": "7f91f918f40d56530c7687c5ee1fe1d25efb2479",
         "refs/merge-requests/11/head": "3f96a5a3d77e727654b68db83fe4c089587e3bf4",
         "refs/merge-requests/11/merge": "ad4505d02ba1ddc1ae1df94007da4f6e79638058",
         "refs/merge-requests/12/head": "5a628ea5a4047e75571edc0cbe71441e98684d0c",
