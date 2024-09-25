@@ -2976,6 +2976,7 @@
         "refs/heads/jdb/item-graph-configuration": "84aa82c653197fb0d1f9e5d5048fe75a06350737",
         "refs/heads/jdb/js_config": "4d57053383be1b53693e9f5ed1d3f2b954133c5d",
         "refs/heads/jdb/operando_block": "e084fdade2927e422dbe424ca06c1befbf9c2b52",
+        "refs/heads/jdb/qr-printing": "eec5aec27d2f3b79dd09078688840a59810f9141",
         "refs/heads/jdb/relation-tags": "d96aced3b7f8291001136733f30a3b1329720814",
         "refs/heads/jdb/sample_table_filtering": "befc14fdb3617926252287f3e0d872aa462d41a1",
         "refs/heads/jdb/selectable_color_options": "bfb1987712da583255875b2e75c609563520864e",
