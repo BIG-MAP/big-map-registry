@@ -2908,8 +2908,6 @@
         "refs/merge-requests/94/merge": "3f19cc8a2c2d5c500a26151a70b529a71be20c87",
         "refs/merge-requests/95/head": "bdc469055672eecce043f2197e57ba28708ed265",
         "refs/merge-requests/95/merge": "00f6ed67753fe1b9006c9b67e080e5ba874a73ff",
-        "refs/merge-requests/96/head": "cbbcf752ac4082f4cbef38e80e7c3c46f692a0db",
-        "refs/merge-requests/96/merge": "7f9fd5ade60b28840a4ac80c4f3c7c59d6b55b58",
         "refs/tags/0.0.2": "a9c9b123f27087571bc4250740b096569b5781da",
         "refs/tags/v0.0.3": "1c77e5f6979a7fa2316c3b87ad4bf6df0f5906af",
         "refs/tags/v0.0.4": "4ffc821b5c8785d8586470e04581400778e68394",
