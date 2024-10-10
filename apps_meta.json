@@ -3958,6 +3958,7 @@
         "refs/heads/fragments": "cc44dce76f2074ca5e77e7d7511f8573002b8e29",
         "refs/heads/free2": "39ee706f07a0fa9b1be1d37e27ab41c1f35d30dd",
         "refs/heads/full": "d92e63d296596daf739ba1f0fa1eae079d3024c3",
+        "refs/heads/improve-filter-selection-and-editing-behavior": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
