@@ -3895,6 +3895,7 @@
         "refs/heads/2d-prediction": "2c695f30010a3ec036a04fcaa1a669cd3d103802",
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
         "refs/heads/3234-homogeneisation-of-selected--total": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
+        "refs/heads/3269-update-dependencies-react-science-and-support-native-esm": "32a0e2346311b7adcf9766dd4818ce4d479d7bfa",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
