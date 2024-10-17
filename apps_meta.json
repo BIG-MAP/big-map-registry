@@ -3944,6 +3944,7 @@
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
+        "refs/heads/order-by-multiple-spectra-analysis": "32a0e2346311b7adcf9766dd4818ce4d479d7bfa",
         "refs/heads/panels-min-size": "ada9601802e7a31a62f5f85aaa772e176a5c8766",
         "refs/heads/peaks-label-margin-top": "0b9d3d8edfbf3fa16a6cda49c0a39ff18737cf79",
         "refs/heads/phase": "2218405406bd1565cc1e173b1041f710e625a656",
