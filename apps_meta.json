@@ -829,6 +829,7 @@
       },
       "gitinfo": {
         "HEAD": "0ea9a4cec10c6733eaf87d6ac5aa97363d11096c",
+        "refs/heads/bandspdos_widget_update": "48c6c6a2b74713afe6b3e6868d9d4b058e0c4572",
         "refs/heads/dependabot/github_actions/gha-dependencies-20974953c4": "c654e744544dbd10ebe1fc4c165eab7438222292",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
@@ -1484,6 +1485,7 @@
       },
       "gitinfo": {
         "HEAD": "0ea9a4cec10c6733eaf87d6ac5aa97363d11096c",
+        "refs/heads/bandspdos_widget_update": "48c6c6a2b74713afe6b3e6868d9d4b058e0c4572",
         "refs/heads/dependabot/github_actions/gha-dependencies-20974953c4": "c654e744544dbd10ebe1fc4c165eab7438222292",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
@@ -2139,6 +2141,7 @@
       },
       "gitinfo": {
         "HEAD": "0ea9a4cec10c6733eaf87d6ac5aa97363d11096c",
+        "refs/heads/bandspdos_widget_update": "48c6c6a2b74713afe6b3e6868d9d4b058e0c4572",
         "refs/heads/dependabot/github_actions/gha-dependencies-20974953c4": "c654e744544dbd10ebe1fc4c165eab7438222292",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
         "refs/heads/docs/automatic_code_installation_plugins": "1d571ae6395b4eadf682592de33085531b834c4f",
