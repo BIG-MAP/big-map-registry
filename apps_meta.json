@@ -6504,6 +6504,7 @@
         "refs/tags/5.1.3": "ef12f7ec16c82750fb906b4acb949630ed49408c",
         "refs/tags/5.1.4": "034e18bb34b2ffef0f0f08d7047eab58099fbe29",
         "refs/tags/5.1.5": "f70fb2d0b82c08f89fd752268d221fae2edb0e4f",
+        "refs/tags/5.1.6": "8b47cc30678b440d23b739f3b05fc89af5fcccb2",
         "refs/tags/5.1rc1": "4c8b1a40319f2770fa6ce201d218d1f470658395"
       },
       "hosted_on": "github.com",
