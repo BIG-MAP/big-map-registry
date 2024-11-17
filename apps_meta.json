@@ -6182,6 +6182,7 @@
         "HEAD": "69d676b45885540bd6edd02078caa9e9cce79e2a",
         "refs/heads/0.2.x": "fb9370369a628b9089666d31f1076a11ab6e615c",
         "refs/heads/cancel_queued_test": "c0dec1a33c148fc183b976becc58f9707bf81d96",
+        "refs/heads/completed_jobs": "a42a829268a991b61c8a2b001217cddbd3c6e857",
         "refs/heads/docs-0.2.x": "5a87ba99d9ab54bf59b32e7f71a33feebae1b91b",
         "refs/heads/driverinterface": "58cc38740e9394ccb57db9c4c853ee88ce428d0f",
         "refs/heads/gh-pages": "13b21eec949408621ff9d799ba07cfcfd0d40e09",
