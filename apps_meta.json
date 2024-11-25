@@ -2884,8 +2884,6 @@
       "gitinfo": {
         "HEAD": "bbacf7ded87d6afef756c2be1ea2f4dcf3d92188",
         "refs/heads/master": "bbacf7ded87d6afef756c2be1ea2f4dcf3d92188",
-        "refs/merge-requests/1/head": "a133c667dab617ead64049ae8bcae2e640f197b6",
-        "refs/merge-requests/1/merge": "7d28bd1afda41ff66a3bc709e76135231182b54e",
         "refs/tags/0.0.2": "a9c9b123f27087571bc4250740b096569b5781da",
         "refs/tags/v0.0.3": "1c77e5f6979a7fa2316c3b87ad4bf6df0f5906af",
         "refs/tags/v0.0.4": "4ffc821b5c8785d8586470e04581400778e68394",
