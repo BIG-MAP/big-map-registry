@@ -6004,7 +6004,7 @@
       "gitinfo": {
         "HEAD": "08427f763667999d2c59d9631c64d3a082a03236",
         "refs/heads/dev": "bef807d5f21754cbcc7f4cb9f735630e8f417e76",
-        "refs/heads/feature/refactor_spectrum_class": "bef807d5f21754cbcc7f4cb9f735630e8f417e76",
+        "refs/heads/feature/refactor_spectrum_class": "c5b3f6dc5b906714733bf6d5d4dfff11a1ba2a97",
         "refs/heads/main": "08427f763667999d2c59d9631c64d3a082a03236",
         "refs/heads/no_parent": "9658aca6b0b873865425e060aa11dbe3b40137c4",
         "refs/pull/1/head": "9658aca6b0b873865425e060aa11dbe3b40137c4",
