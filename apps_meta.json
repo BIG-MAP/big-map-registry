@@ -2939,10 +2939,9 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "c15d7fb9f47b369954213d1e60e7f7a23d7cf354",
+        "HEAD": "212e2abd2c17c282181ae1e3277e299b26b15ac9",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
-        "refs/heads/bc/components_test": "0e7090325fcb532e0f1dd9cfddc33d7c3016705a",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
         "refs/heads/bc/gahorwitz": "b5fd2bd69d98314c48cc115206111a9e22ccbb64",
@@ -2977,7 +2976,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "c15d7fb9f47b369954213d1e60e7f7a23d7cf354",
+        "refs/heads/main": "212e2abd2c17c282181ae1e3277e299b26b15ac9",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
@@ -3589,7 +3588,6 @@
         "refs/pull/882/merge": "cf8c040956dbb29aef2ad02db39486e3603e7be0",
         "refs/pull/883/head": "b46dacec72a5a46bb770cf726de6366e5cea6f0c",
         "refs/pull/884/head": "0e7090325fcb532e0f1dd9cfddc33d7c3016705a",
-        "refs/pull/884/merge": "4bdf84bc90f665ac0e5f0c24a8edf7c10bf60901",
         "refs/pull/885/head": "e177fe671432a40cbba1a60c0e0df42bff6f40fd",
         "refs/pull/887/head": "0e2a5c84d080bb37275357717c18b50b9ea09d1d",
         "refs/pull/887/merge": "b29733f16bd5fcdf4bb91bddf08242088e76b76e",
