@@ -3990,7 +3990,7 @@
         "refs/heads/2d-processing": "3f1593532a736b87db37904186ace48c5d1b7d54",
         "refs/heads/3234-homogeneisation-of-selected--total": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
         "refs/heads/3281-use-selectedtotal-component": "01f54f7a69e5a7d0682a31781f4f024436e43c06",
-        "refs/heads/3307-manual-range-picking-returns-wrong-multiplicity-for-quadruplet": "75b19dc5b83ea8bfab90b00bd3641887671c9334",
+        "refs/heads/3307-manual-range-picking-returns-wrong-multiplicity-for-quadruplet": "67048cf9173446256fefbfc5d41ba87da9d23ce3",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
