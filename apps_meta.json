@@ -6050,14 +6050,13 @@
       ],
       "gitinfo": {
         "HEAD": "08427f763667999d2c59d9631c64d3a082a03236",
-        "refs/heads/dev": "bef807d5f21754cbcc7f4cb9f735630e8f417e76",
+        "refs/heads/dev": "8122aa3ce04d7b36957e6fd327606f5ee2b4ed8f",
         "refs/heads/feature/refactor_spectrum_class": "5cd9ccb48ea1e9e3be14c40aad701a0c01974ff4",
         "refs/heads/main": "08427f763667999d2c59d9631c64d3a082a03236",
         "refs/heads/no_parent": "9658aca6b0b873865425e060aa11dbe3b40137c4",
         "refs/pull/1/head": "9658aca6b0b873865425e060aa11dbe3b40137c4",
         "refs/pull/5/head": "f1efa1f4f66ebd0f71613a5d636329a4b49a51cc",
-        "refs/pull/8/head": "5cd9ccb48ea1e9e3be14c40aad701a0c01974ff4",
-        "refs/pull/8/merge": "cf850ad6e1a36e5e5a8a1ffaed6a50e4ff723fdc"
+        "refs/pull/8/head": "5cd9ccb48ea1e9e3be14c40aad701a0c01974ff4"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/BIG-MAP/PRISMA/main/docs/figures/logo.png",
