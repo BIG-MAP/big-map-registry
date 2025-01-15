@@ -4275,6 +4275,7 @@
         "refs/heads/free2": "39ee706f07a0fa9b1be1d37e27ab41c1f35d30dd",
         "refs/heads/full": "d92e63d296596daf739ba1f0fa1eae079d3024c3",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
+        "refs/heads/improve-processing-user-interaction": "74b5962db3ea4be72d48a5f6e33642f190bfb1f1",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
