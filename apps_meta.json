@@ -6572,6 +6572,7 @@
       "gitinfo": {
         "HEAD": "7432e4df5b8ea3c62bccf919533139396980cfa2",
         "refs/heads/0.2.x": "fb9370369a628b9089666d31f1076a11ab6e615c",
+        "refs/heads/better_tomato_status": "46720f76883d9ea419aeddd6f53e2f6733ecfb49",
         "refs/heads/cancel_queued_test": "c0dec1a33c148fc183b976becc58f9707bf81d96",
         "refs/heads/docs-0.2.x": "5a87ba99d9ab54bf59b32e7f71a33feebae1b91b",
         "refs/heads/driverinterface": "58cc38740e9394ccb57db9c4c853ee88ce428d0f",
@@ -6592,6 +6593,8 @@
         "refs/pull/111/head": "8cc8e66148c274f7d9ffb40988ec0ab00d10e218",
         "refs/pull/112/head": "19872935106984b148114a5315092ea94e8e6c11",
         "refs/pull/113/head": "1adfaa0d6638273eb4deb0516452cf09c49e6f58",
+        "refs/pull/114/head": "46720f76883d9ea419aeddd6f53e2f6733ecfb49",
+        "refs/pull/114/merge": "ab32ff75a67975bb4cf88a1fc25b291bbe5e5580",
         "refs/pull/12/head": "14e6f138cc03ffbe8f60f33dfb71348a17478383",
         "refs/pull/13/head": "6baa2b2dfb84a69acd0bc81b85b9cad0c703ee5f",
         "refs/pull/14/head": "c251b705762da5a13ac378f4d04b009fbd348b8b",
