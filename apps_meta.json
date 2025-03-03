@@ -4476,6 +4476,7 @@
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-align-spectra": "2d3fcd85cce855671a93a15fe1476d9f04ec07fd",
+        "refs/heads/fix-apodization-panel-style": "ebe92bebbb7112762acf6fa9edf5d227b5790e6f",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-export-menu": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
