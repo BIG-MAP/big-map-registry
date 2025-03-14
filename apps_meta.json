@@ -4519,6 +4519,7 @@
         "refs/heads/change-default-sum-value": "496f8855a1a145ff1d58dcb55ef5c581d272088a",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
         "refs/heads/contours-zoom-level": "8191794994fd14cea337e719129adb35c3ec60db",
+        "refs/heads/custom-tools-indicator-coloe": "970d8daa3df7da0e7244084af6d0f7d4e70606d0",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/depup": "5455a573f7eeb89336b2c8ce2b4102f1639d5c80",
         "refs/heads/depupdate": "87bec2a8d25b4042ec3b4f24016b80d9376b8856",
@@ -6741,8 +6742,8 @@
         "technology-active-learning"
       ],
       "gitinfo": {
-        "HEAD": "63405e236d419705aabda1f843d1a7fee4c3c2e9",
-        "refs/heads/main": "63405e236d419705aabda1f843d1a7fee4c3c2e9",
+        "HEAD": "90ea5dbb0f321b53b55fbec76b37ca35681ec5ee",
+        "refs/heads/main": "90ea5dbb0f321b53b55fbec76b37ca35681ec5ee",
         "refs/tags/v0.1.0": "0a86cfa3faea0cf120ae8ff78025c6cd54164a3e",
         "refs/tags/v0.2.0": "49013fca1fdaaa9161fca4ff84871b9afb0e47db",
         "refs/tags/v0.3.0": "7fd781da76b14b142a753f376ffe8f6ac608bdc6",
@@ -6759,7 +6760,10 @@
         "refs/tags/v0.7.0": "5c67894302fcfab615758f174a4adbccc620c1cb",
         "refs/tags/v0.7.1": "9133c0878c1e142eba71df8230482a22d1bb174c",
         "refs/tags/v0.8.0": "f437a7a57eafcf3bc9de9c8966c93d99b0baf8ad",
-        "refs/tags/v0.8.1": "63405e236d419705aabda1f843d1a7fee4c3c2e9"
+        "refs/tags/v0.8.1": "63405e236d419705aabda1f843d1a7fee4c3c2e9",
+        "refs/tags/v0.9.0": "68284d9ff3495f76d97e7dbe1eedecd97aa36402",
+        "refs/tags/v0.9.1": "bde0343080364e5eb9532b5dec0b814e86efe4f5",
+        "refs/tags/v0.9.2": "90ea5dbb0f321b53b55fbec76b37ca35681ec5ee"
       },
       "hosted_on": "github.com",
       "name": "sdlabs-wrapper",
