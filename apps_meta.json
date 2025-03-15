@@ -3440,7 +3440,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "81beb95f5b505ca74826aebb522fbc8697532266",
+        "HEAD": "e5f3f28556987045c81cb9cd29335ec5c1b77494",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
@@ -3468,7 +3468,6 @@
         "refs/heads/dependabot/pip/pydatalab/main/rosettasciio-approx-eq-0.6": "35dc8977d979b11edf05ec35f81feddeaf9118d8",
         "refs/heads/dependabot_updates": "67a64682582dcfc4ec6eb813c630e9115cb19939",
         "refs/heads/develop": "2b1d89ba648343144ab1f6e34191ec695933c2b8",
-        "refs/heads/ftir-block": "7fa5ca353542ce737b7433cb14dfc7605823b32c",
         "refs/heads/gahorwitz/main": "393e615b18e8ed84750a86f5955dbfccfa3f8756",
         "refs/heads/jdb/add-tga-oxidation-block": "a6680758a64618c01af822e678d9cec8be833734",
         "refs/heads/jdb/add_sample_connections": "3305d92e18216b2f15827a5ccb01e999c077a94f",
@@ -3489,7 +3488,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "81beb95f5b505ca74826aebb522fbc8697532266",
+        "refs/heads/main": "e5f3f28556987045c81cb9cd29335ec5c1b77494",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
@@ -3619,7 +3618,6 @@
         "refs/pull/1059/merge": "7b6e734854312194360753ff44e42e092d186908",
         "refs/pull/106/head": "859da080e7d76ad115821ae6e4ce0cf3844e5e47",
         "refs/pull/1061/head": "7fa5ca353542ce737b7433cb14dfc7605823b32c",
-        "refs/pull/1061/merge": "952248a100ca8c02adab3904865afba89f05519c",
         "refs/pull/1062/head": "6d01fdc8dcc8e6c88016e2bf7864567a851bfdba",
         "refs/pull/1062/merge": "07afc65d632300c60eba914a46543fedb6128c1a",
         "refs/pull/1067/head": "cb409ecc5e4baad4cf4312940868f229d720426a",
