@@ -4544,6 +4544,7 @@
         "refs/heads/depup": "5455a573f7eeb89336b2c8ce2b4102f1639d5c80",
         "refs/heads/depupdate": "87bec2a8d25b4042ec3b4f24016b80d9376b8856",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
+        "refs/heads/expand-hydrogens": "991bab41e26294c8cad6563cf6df4fd87aa1fe36",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
