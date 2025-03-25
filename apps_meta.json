@@ -837,7 +837,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "HEAD": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
@@ -845,7 +845,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image_with_tar_home": "11522cabad63035cb3255823c074e6f1d98c3490",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "refs/heads/main": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -1006,6 +1006,7 @@
         "refs/pull/1217/head": "01c45ae947af974f4cdf17543612103f04735b62",
         "refs/pull/1218/head": "986efd97b2d1ce462fa11c0561fd21438d4d0d76",
         "refs/pull/1219/head": "5b377dbc2b3f08ae195266892ae6689b28eebc13",
+        "refs/pull/1222/head": "e4e7d49639261ba7bf161b13281fe9689cbd8919",
         "refs/pull/124/head": "3d3db7966484614e69dba09e8abacb66acffbd6a",
         "refs/pull/13/head": "55a8b4df0cd924ba417e1571032cf0065c75828f",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
@@ -1663,7 +1664,9 @@
         "refs/tags/v24.10.0a8": "82e13ca5e4a3789aa8d68807b10e0c2c53df9e46",
         "refs/tags/v24.10.0a8^{}": "85d4afb1237c53df1db577c9ff4744595c5602ba",
         "refs/tags/v25.03.0": "2d89a9030fc97081a5009229992c8e6d8b36537e",
-        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5"
+        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5",
+        "refs/tags/v25.04.0a1": "8b5ad7dcf0ce48654b832f417ebba43f98cc2b53",
+        "refs/tags/v25.04.0a1^{}": "e4e7d49639261ba7bf161b13281fe9689cbd8919"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -1691,7 +1694,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "HEAD": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
@@ -1699,7 +1702,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image_with_tar_home": "11522cabad63035cb3255823c074e6f1d98c3490",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "refs/heads/main": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -1860,6 +1863,7 @@
         "refs/pull/1217/head": "01c45ae947af974f4cdf17543612103f04735b62",
         "refs/pull/1218/head": "986efd97b2d1ce462fa11c0561fd21438d4d0d76",
         "refs/pull/1219/head": "5b377dbc2b3f08ae195266892ae6689b28eebc13",
+        "refs/pull/1222/head": "e4e7d49639261ba7bf161b13281fe9689cbd8919",
         "refs/pull/124/head": "3d3db7966484614e69dba09e8abacb66acffbd6a",
         "refs/pull/13/head": "55a8b4df0cd924ba417e1571032cf0065c75828f",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
@@ -2517,7 +2521,9 @@
         "refs/tags/v24.10.0a8": "82e13ca5e4a3789aa8d68807b10e0c2c53df9e46",
         "refs/tags/v24.10.0a8^{}": "85d4afb1237c53df1db577c9ff4744595c5602ba",
         "refs/tags/v25.03.0": "2d89a9030fc97081a5009229992c8e6d8b36537e",
-        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5"
+        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5",
+        "refs/tags/v25.04.0a1": "8b5ad7dcf0ce48654b832f417ebba43f98cc2b53",
+        "refs/tags/v25.04.0a1^{}": "e4e7d49639261ba7bf161b13281fe9689cbd8919"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -2545,7 +2551,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview"
       },
       "gitinfo": {
-        "HEAD": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "HEAD": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
         "refs/heads/docker-home-build": "a4937117b2e225437da287d447488d97399fa2c0",
@@ -2553,7 +2559,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image_with_tar_home": "11522cabad63035cb3255823c074e6f1d98c3490",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "3dec3a591ccd32d020dcdc62419001acb2b3fc07",
+        "refs/heads/main": "cdd619d7566e018d075abf2f28ab4061bd57277e",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -2714,6 +2720,7 @@
         "refs/pull/1217/head": "01c45ae947af974f4cdf17543612103f04735b62",
         "refs/pull/1218/head": "986efd97b2d1ce462fa11c0561fd21438d4d0d76",
         "refs/pull/1219/head": "5b377dbc2b3f08ae195266892ae6689b28eebc13",
+        "refs/pull/1222/head": "e4e7d49639261ba7bf161b13281fe9689cbd8919",
         "refs/pull/124/head": "3d3db7966484614e69dba09e8abacb66acffbd6a",
         "refs/pull/13/head": "55a8b4df0cd924ba417e1571032cf0065c75828f",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
@@ -3371,7 +3378,9 @@
         "refs/tags/v24.10.0a8": "82e13ca5e4a3789aa8d68807b10e0c2c53df9e46",
         "refs/tags/v24.10.0a8^{}": "85d4afb1237c53df1db577c9ff4744595c5602ba",
         "refs/tags/v25.03.0": "2d89a9030fc97081a5009229992c8e6d8b36537e",
-        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5"
+        "refs/tags/v25.03.0^{}": "d383726014d86f73cd0826613c6d00969f2c9ab5",
+        "refs/tags/v25.04.0a1": "8b5ad7dcf0ce48654b832f417ebba43f98cc2b53",
+        "refs/tags/v25.04.0a1^{}": "e4e7d49639261ba7bf161b13281fe9689cbd8919"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -4607,6 +4616,7 @@
         "refs/heads/revert-2124-fix-2123-commit": "106ad9beb17025b2f7d1920807f9414abe9ef18d",
         "refs/heads/revert-2200-refactor-display-name": "5b01937b9d5980f0276bd8d2322493b46620da09",
         "refs/heads/save-view-with-keys-shortcut": "05e40c0d1cdc1a58743b6d7bfbf7cac8ce7c998b",
+        "refs/heads/spel": "631e93d23c059dc10ba0dafb9c1d0a42905b38ce",
         "refs/heads/step-userguide": "bca721387c7a9deddc9e38e896a1a43a0839af7d",
         "refs/heads/symmetries-each-step-multiplet-analysis": "20837f9de98f028605af1189d3dc0cbbb740490d",
         "refs/heads/testRebase": "e460cac579a56a7c21db151ed8279dd1fc67c689",
@@ -5734,6 +5744,8 @@
         "refs/pull/3437/head": "cf42aa30c16c1eaf632c7e53e799152aaf93f446",
         "refs/pull/3438/head": "ca930f8a53f4b273e95c5ddff8180b59bdff1af0",
         "refs/pull/3438/merge": "9d08b5e6501bf6ae3feec2d747ba9a64fcfcf27e",
+        "refs/pull/3439/head": "631e93d23c059dc10ba0dafb9c1d0a42905b38ce",
+        "refs/pull/3439/merge": "997e74a484e8454dc5110ce849b8e54a1560f693",
         "refs/pull/353/head": "cc598b4b6a82fc797cdb83a927b5b809119d620f",
         "refs/pull/356/head": "fca76a50b43a56910c04e3ce926fb99a7ae5a89a",
         "refs/pull/374/head": "9e6ca56bfc89a474dd7ee65a418d68902f650582",
