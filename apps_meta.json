@@ -4509,7 +4509,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "27349938e13e6fbdb535b67bc5b798077e11cd69",
+        "HEAD": "28ae8ec85f44fdbf12b30212f32ac098157a22b9",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -4558,7 +4558,6 @@
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-align-spectra": "2d3fcd85cce855671a93a15fe1476d9f04ec07fd",
-        "refs/heads/fix-apodization-zindex": "27349938e13e6fbdb535b67bc5b798077e11cd69",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
         "refs/heads/fix-assignments-test": "50f6435425e0197c9b09dedc7495700bd172e563",
         "refs/heads/fix-export-menu": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
@@ -4583,7 +4582,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "27349938e13e6fbdb535b67bc5b798077e11cd69",
+        "refs/heads/main": "28ae8ec85f44fdbf12b30212f32ac098157a22b9",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -5745,6 +5744,7 @@
         "refs/pull/3438/merge": "4b2d5ac3375d310b3998d0fb56df913dfe6cf7c5",
         "refs/pull/3439/head": "631e93d23c059dc10ba0dafb9c1d0a42905b38ce",
         "refs/pull/3439/merge": "997e74a484e8454dc5110ce849b8e54a1560f693",
+        "refs/pull/3441/head": "fd2c665c4d0df566f6bbb09a2a22e57a4009c500",
         "refs/pull/353/head": "cc598b4b6a82fc797cdb83a927b5b809119d620f",
         "refs/pull/356/head": "fca76a50b43a56910c04e3ce926fb99a7ae5a89a",
         "refs/pull/374/head": "9e6ca56bfc89a474dd7ee65a418d68902f650582",
