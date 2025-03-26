@@ -3474,7 +3474,7 @@
         "refs/heads/bc/update-bootstrap5": "b8f9204ceed3f0d647a8d05dffe7d57c5ba474cd",
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
-        "refs/heads/bes/syninfo-sm": "0ec66afd70db2c139bdf1c88c280e63d9f2b5589",
+        "refs/heads/bes/syninfo-sm": "a2b8e69785ddd383213f1433034dae60f2db40b4",
         "refs/heads/bes/xrd-rasx": "4601903248c2c7acc982f58d643bd0801a72ed59",
         "refs/heads/ci/update-uv-lock-main-deps": "395cbe4c5d15e04c330e2d26ded4930be7791873",
         "refs/heads/ci/update-yarn-lock-main-deps": "889ae800eef3b2690c6a2f93a0c823fd079e0597",
