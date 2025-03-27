@@ -381,7 +381,8 @@
         "refs/tags/1.2.6": "8b6aae44e6bbdf863aab01deaddd8d95992e7b9b",
         "refs/tags/1.2.7": "6eda6757be5f7b8f8c4dd2a6a8813bdce625a6f2",
         "refs/tags/1.2.8": "4ab4b59851feefe77b5e33b63a085fbbaa3962a9",
-        "refs/tags/1.2.9": "af1af322c890026151bbe18711c151aa78a492fc"
+        "refs/tags/1.2.9": "af1af322c890026151bbe18711c151aa78a492fc",
+        "refs/tags/1.3.0": "d7e83d23624d07a7372c7c6bb0272aa4699a8851"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/d7081/fullprofapp/-/raw/main/src/fpgui/icons/splash.png",
