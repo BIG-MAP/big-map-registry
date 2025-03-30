@@ -3483,7 +3483,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "55144ce573b0d4e74f1adeba664e1d378a75aa68",
+        "HEAD": "da2b63f230916093bc4be911664fc120dd0eefb9",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
@@ -3500,7 +3500,6 @@
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
         "refs/heads/bes/syninfo-sm": "77c427e2ce4b0d9beca210f73cd2daaa6d1aea15",
-        "refs/heads/bes/xrd-rasx": "0e6d50c39e68007fdd03ee89243e166d10b6b826",
         "refs/heads/ci/update-uv-lock-main-deps": "395cbe4c5d15e04c330e2d26ded4930be7791873",
         "refs/heads/ci/update-yarn-lock-main-deps": "889ae800eef3b2690c6a2f93a0c823fd079e0597",
         "refs/heads/dependabot/github_actions/main/github-actions-0fe6dbbd4e": "be07b723179a8645091422516f51b8b36f373c16",
@@ -3533,7 +3532,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "55144ce573b0d4e74f1adeba664e1d378a75aa68",
+        "refs/heads/main": "da2b63f230916093bc4be911664fc120dd0eefb9",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
         "refs/heads/ml-evs/account-status": "8efbe4fac5eb81a0057db19a79d589122deef07f",
@@ -3663,7 +3662,6 @@
         "refs/pull/1062/head": "6d01fdc8dcc8e6c88016e2bf7864567a851bfdba",
         "refs/pull/1062/merge": "42f8ff230f8ed40458dc62bddee8237a7a22e4f5",
         "refs/pull/1067/head": "0e6d50c39e68007fdd03ee89243e166d10b6b826",
-        "refs/pull/1067/merge": "c6d1a3b99a51997bd259205897eccfbf49f3dc3a",
         "refs/pull/1069/head": "f6128bac6a597f921bb1ee9db6f5ae403639291a",
         "refs/pull/107/head": "6caec9cbbfcd794e387f70f5d89c8dc254f53c16",
         "refs/pull/1075/head": "bfd83267d0dedc8b3c01badd06db836d357581c4",
