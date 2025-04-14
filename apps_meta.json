@@ -6961,10 +6961,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "626b91c1a34c4ff6b44fcd489377ee56e722206a",
+        "HEAD": "aa84e32d83a93b0ace8db1f975b68269e6bde724",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "626b91c1a34c4ff6b44fcd489377ee56e722206a",
+        "refs/heads/master": "aa84e32d83a93b0ace8db1f975b68269e6bde724",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
         "refs/tags/v21.11.29": "b11be7a77fcd7dc931a636aa02ccbfe8b5ca896b",
         "refs/tags/v21.11.30": "63e14209e310f3e361f5a2dba781d4e758b5b303",
