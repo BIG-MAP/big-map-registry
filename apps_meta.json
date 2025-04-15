@@ -3674,6 +3674,7 @@
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
         "refs/heads/bes/syninfo-sm": "5e5e3e702a0fcc86e83730499f8b70cd38c6b050",
+        "refs/heads/bes/uv-vis-block": "643e7536b2406283c61b8a1de4df8e90a730bc71",
         "refs/heads/ci/update-uv-lock-main-deps": "1d2e732ca7aff8801f4e52c8b0908804d2b7a51b",
         "refs/heads/ci/update-yarn-lock-main-deps": "3281c27b0ccf14911935855c43bc609d43dcaac5",
         "refs/heads/dependabot/npm_and_yarn/webapp/katex-0.16.21": "8dc5c969ddf4f47845914a1e511241d7323bd27b",
