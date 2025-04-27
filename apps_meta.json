@@ -548,7 +548,8 @@
         "refs/tags/v1.1.0": "4cbaee4b54c9c4c1ce9969416843b09dfeab531a",
         "refs/tags/v1.2.0": "2ef9db41e981cc4652b0acde70de7042ecad051f",
         "refs/tags/v1.2.1": "4036aa4007d47b57172f6d3cc1f971d33a000d19",
-        "refs/tags/v1.2.6": "98a5048fe87da84594c72f26e39f572773938a78"
+        "refs/tags/v1.2.6": "98a5048fe87da84594c72f26e39f572773938a78",
+        "refs/tags/v1.2.7": "ad6e5a3876a09737e0e902b7e9ac038bc9181b39"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/fuzhanrahmanian/MADAP/master/logo.png",
