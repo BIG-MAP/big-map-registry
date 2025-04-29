@@ -3722,6 +3722,7 @@
         "refs/heads/ml-evs/blocks": "a3a5d030b1dbcc342d0fdf062f5e53270ed530b8",
         "refs/heads/ml-evs/bump-mongo": "6e72f161293fd3dfd4218da43cf907e733d14a9c",
         "refs/heads/ml-evs/bump-pydantic": "059ec189380fe99a548eeec538b5be9670682528",
+        "refs/heads/ml-evs/catch-conflicts": "eff31a7e590a74d946d0a11b5ec834386b1fb5ae",
         "refs/heads/ml-evs/chatblock": "7debd32672977ce13d7225a185a0c895303c4dbc",
         "refs/heads/ml-evs/chemform": "b386ed46e624a5d7e3582628c262114b72ccd319",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
