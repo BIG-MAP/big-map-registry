@@ -3755,6 +3755,7 @@
         "refs/heads/ml-evs/fix-ms": "83a16ec156d7d6283bed2aca4acda817b442ea39",
         "refs/heads/ml-evs/groups": "34cf8b5eaf7d57f7937e79235743a169516e75de",
         "refs/heads/ml-evs/inventory-qol": "61f0b0b4a9a75e09e81016819d947efa467792ae",
+        "refs/heads/ml-evs/item-summary": "8f64743baf2e983c23b7f28144a2b4d14c967d9c",
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
         "refs/heads/ml-evs/model_refactors": "f0e0323fab8aca846ef7b4365d2483a9dd3188d3",
         "refs/heads/ml-evs/mongo-fts-ngram": "f134257e12bec2e1868e9ca561b7e1820699c3e5",
