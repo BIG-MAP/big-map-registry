@@ -4782,7 +4782,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "1b690f6b5dddc01ead58ff5c298012b8da2fe520",
+        "HEAD": "a8b7c192e6056f577ea72f2785045dfa0e917ae4",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -4857,7 +4857,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "1b690f6b5dddc01ead58ff5c298012b8da2fe520",
+        "refs/heads/main": "a8b7c192e6056f577ea72f2785045dfa0e917ae4",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -4880,7 +4880,6 @@
         "refs/heads/refactor-memo": "9ddcbe7159c90748c78ba855a7b76f2978f7e7e4",
         "refs/heads/refactor-nmrium-component-props": "b1aa90596561183d90597fd0025e4663d66d3b7f",
         "refs/heads/refactor-tabs": "63da0cadea08a935f543bd2d414d41d8b27e7178",
-        "refs/heads/refactor-use-atom-assignment-hook": "539a75d8f31719d20cccb3d18281c455e798239a",
         "refs/heads/refactor-view-object": "707239232599401e568b3dfe8594cf5d0458559d",
         "refs/heads/refactorPanels": "19e4493baf8c4773646daac4e20f2538a744e9be",
         "refs/heads/refactorSampleTest": "686429a10ad5b2de3c7f4b413d91b2bc78b97f52",
@@ -5993,7 +5992,6 @@
         "refs/pull/3395/head": "5f2ac8682ef892717c0db880cd17b9c6723704de",
         "refs/pull/3396/head": "61b5060035642300863d84eb09b6dae31ac00960",
         "refs/pull/3397/head": "539a75d8f31719d20cccb3d18281c455e798239a",
-        "refs/pull/3397/merge": "f13a380de1be7dd3efff7af2296152148747cb9b",
         "refs/pull/3398/head": "8325f36a8721219360a52846effa282f594c53e6",
         "refs/pull/3402/head": "9d387c63ed6594f71cf80fc17c4ecd2d68dca9a6",
         "refs/pull/3403/head": "c0303044588f2a3177872aca42467e31d00af7bc",
