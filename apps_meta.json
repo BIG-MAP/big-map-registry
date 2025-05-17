@@ -3677,6 +3677,7 @@
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
         "refs/heads/bes/uv-vis-extra": "959b92ac42b7ab5beb18ccd9ad7666a77f3dac2a",
+        "refs/heads/bes/uv-vis-reformat-for-plugin-dev": "ab0437b13271590eb82891baded5c5e1579d2c15",
         "refs/heads/ci/update-uv-lock-main-deps": "4528349ca2ffe7097e7838444b42463cfc4409f6",
         "refs/heads/ci/update-yarn-lock-main-deps": "6865af75b4a463557ccff3d7e3147778ac4cfdb6",
         "refs/heads/dependabot/github_actions/main/github-actions-b6ae6d6a21": "4c8961986078050a64ae6d0f24cc7efa419bb626",
