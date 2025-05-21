@@ -3683,6 +3683,7 @@
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
+        "refs/heads/bc/dialogs-modal": "906579e61cdbd80d72509b2070284a3b8f398eb1",
         "refs/heads/bc/extensible-datablock": "57e19e599ed487910a8b9d707231dfe0608bec70",
         "refs/heads/bc/gahorwitz": "b5fd2bd69d98314c48cc115206111a9e22ccbb64",
         "refs/heads/bc/items_status": "c481da429a0a087dc519be5740dfb7bb1c21f393",
