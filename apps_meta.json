@@ -7232,6 +7232,7 @@
       "gitinfo": {
         "HEAD": "eb56f42e3fb6aafc51f002d590247223f9176a2d",
         "refs/heads/0.2.x": "fb9370369a628b9089666d31f1076a11ab6e615c",
+        "refs/heads/fix_race_conditions_1": "0b44273fd27bfc465c34d20ee999f74be5c4ebc6",
         "refs/heads/gh-pages": "ece8476ea1c7c6caf7c9523135d054bc80d2ca57",
         "refs/heads/main": "eb56f42e3fb6aafc51f002d590247223f9176a2d",
         "refs/pull/10/head": "580948bc540dbbccd6e497a4cc7fdd61b9c65f1f",
@@ -7273,6 +7274,8 @@
         "refs/pull/143/head": "b7adc7064bbc7d0de3978d663f935da8b4599237",
         "refs/pull/149/head": "139e1bfaf62581d4594a3602719849028a1269f3",
         "refs/pull/15/head": "1b1d71adeb5050b3ce9b236e55a818e88e2a0c95",
+        "refs/pull/150/head": "0b44273fd27bfc465c34d20ee999f74be5c4ebc6",
+        "refs/pull/150/merge": "176bcb0ba69e7abbe76e170ef6179ed67eb0e1da",
         "refs/pull/16/head": "73cdfca18a10ecf522e3c90e6f6f5ede285a9dc7",
         "refs/pull/17/head": "d7ad78901144dbedf034ca79913041c4232582c8",
         "refs/pull/18/head": "fa836b1f45b6489b1dfb0b4463ff5eb2ed58855d",
