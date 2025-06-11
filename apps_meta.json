@@ -7291,7 +7291,7 @@
       "gitinfo": {
         "HEAD": "c1ce76a4f637e3ca3e2bd5cf44c702135d0048d1",
         "refs/heads/0.2.x": "fb9370369a628b9089666d31f1076a11ab6e615c",
-        "refs/heads/fix_job_fail": "cabefe4beb9fcc2ab2c6f561f77dcbccb03f8949",
+        "refs/heads/fix_job_fail": "e1b9b3a66842077ff80c5b7026bac00ea21b2ddf",
         "refs/heads/gh-pages": "8bc188750055134f6b0a73f7a7e5bc405ed278dd",
         "refs/heads/main": "c1ce76a4f637e3ca3e2bd5cf44c702135d0048d1",
         "refs/pull/10/head": "580948bc540dbbccd6e497a4cc7fdd61b9c65f1f",
