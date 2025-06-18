@@ -3713,7 +3713,7 @@
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
         "refs/heads/bes/uv-vis-extra": "959b92ac42b7ab5beb18ccd9ad7666a77f3dac2a",
-        "refs/heads/bes/uv-vis-reformat-for-plugin-dev": "ab0437b13271590eb82891baded5c5e1579d2c15",
+        "refs/heads/bes/uv-vis-reformat-for-plugin-dev": "fcd82f51909fb1fc795754668e13cefbf6d94345",
         "refs/heads/ci/update-uv-lock-main-deps": "4fa94167d469f9b1b15551a68ce21a2920bd0d66",
         "refs/heads/ci/update-yarn-lock-main-deps": "3a27118f2175afae43300a75ca5f12c4c48386ca",
         "refs/heads/dependabot/pip/pydatalab/main/flask-pymongo-approx-eq-3.0": "37f00c847e763c105d341ea2b9a76c5e6676c9fb",
