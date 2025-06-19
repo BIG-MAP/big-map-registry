@@ -4919,6 +4919,7 @@
         "refs/heads/fix-test": "93d1e71ce62b2d456b41d1873a2936948b6117bb",
         "refs/heads/fix-unhandled-error-in-crosslinepointer": "112523cf8fd0ba37bd976e37a8c9d4c2aaa3d4c4",
         "refs/heads/fix-unhandled-error-in-filter-action": "c6500003e8c762d36e55ce7c719e392577590303",
+        "refs/heads/fix-zoom-with-ctrl-jump": "bc2faeca80605513d003136572fc07d959053f45",
         "refs/heads/fixInitialization": "08a470fe1a9741da5265cab923474b414eb4affd",
         "refs/heads/fixTotalIntegral": "bb1c49a8b4d8b26970975c76f14baae0ae0e65ec",
         "refs/heads/fixed-reprocessed-when-delete": "1b27799913faa42cd64bfa225c0ebd91f210b810",
