@@ -3693,7 +3693,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "66be21f5343304ebf7a9c1486583c6376a6291d4",
+        "HEAD": "c842a455bccf6ad77997f0305e41cd643970f824",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/blockAPI-testing": "0aaa1955c640671928202702bb9b5140b911a437",
@@ -3739,7 +3739,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "66be21f5343304ebf7a9c1486583c6376a6291d4",
+        "refs/heads/main": "c842a455bccf6ad77997f0305e41cd643970f824",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -3779,7 +3779,6 @@
         "refs/heads/ml-evs/file-dir-startup-warnings": "012b21e8239222d65541bc3b19a255dc9ea27a68",
         "refs/heads/ml-evs/fix-copy-name": "b5a2b0b54deceed115d9fe1d582d260d42e2e03d",
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
-        "refs/heads/ml-evs/fix-molar-mass-validator": "066247eb06c830787fce22613b916b47abd112c7",
         "refs/heads/ml-evs/fix-ms": "83a16ec156d7d6283bed2aca4acda817b442ea39",
         "refs/heads/ml-evs/groups": "34cf8b5eaf7d57f7937e79235743a169516e75de",
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
@@ -4008,7 +4007,6 @@
         "refs/pull/1243/head": "0092fb1f4e0bef42147707511244c4a97c683fd6",
         "refs/pull/1243/merge": "579122509950b27cdb7aef6eff29a2306f6a9125",
         "refs/pull/1244/head": "066247eb06c830787fce22613b916b47abd112c7",
-        "refs/pull/1244/merge": "adb48e63e3c1c0616c0d1fee1857294c01d8a15e",
         "refs/pull/1245/head": "ec240f5fdce296c070ce4512ab8fa573f24dc2f1",
         "refs/pull/1245/merge": "d0abd11589cc37cad7392df4d0945b9c07a07554",
         "refs/pull/125/head": "e2623b34a6c5f96581739ac444db014af6aad0d2",
