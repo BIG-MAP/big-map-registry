@@ -7477,7 +7477,7 @@
         "refs/heads/5.0.x": "a16b211738b5ad93a9b3ca9763031c88abeba82f",
         "refs/heads/5.1.x": "af41056a37886c429113807dfc95428ad19bce66",
         "refs/heads/6.0.x": "494ff1a80afdd5ee9f20980795504f017cbcd9f5",
-        "refs/heads/6.1.x": "f3115d4064eb9deee863e727e11f697df43c1243",
+        "refs/heads/6.1.x": "9526190b15cc017390cefd7eed4d5ae3b07a7072",
         "refs/heads/gh-pages": "45b9c31204a95379d918a525aa7a35ef9645afd0",
         "refs/heads/main": "b0627636581e629d665487d307e87887db7645b7",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
@@ -7678,6 +7678,7 @@
         "refs/tags/6.0.3a1": "3498a290b2a9e1b43c2623f4d5518da285267d57",
         "refs/tags/6.1": "6bc714cb8243a7dc36c09cfb5a4d5cb0b240b3a2",
         "refs/tags/6.1.1": "2d31ea36c4f1d032e4b0010aefad487f36488c92",
+        "refs/tags/6.1.2": "9526190b15cc017390cefd7eed4d5ae3b07a7072",
         "refs/tags/6.1rc1": "f9d3e76b9f28a1f6460c44c02847ab6f554d3e67"
       },
       "hosted_on": "github.com",
