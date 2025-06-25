@@ -3695,7 +3695,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "307f153fe1c6b54e8eded287ec98aaa77bc972bf",
+        "HEAD": "d7f5b8027f62b048bb5e22328acfe8ba16921f38",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
@@ -3740,7 +3740,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "307f153fe1c6b54e8eded287ec98aaa77bc972bf",
+        "refs/heads/main": "d7f5b8027f62b048bb5e22328acfe8ba16921f38",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -3754,7 +3754,6 @@
         "refs/heads/ml-evs/block-schema": "29c7b939b836c2cdd610a88f84db833859794946",
         "refs/heads/ml-evs/blocks": "a3a5d030b1dbcc342d0fdf062f5e53270ed530b8",
         "refs/heads/ml-evs/bump-pydantic": "059ec189380fe99a548eeec538b5be9670682528",
-        "refs/heads/ml-evs/bump-uppy-to-v4": "cf3e07b52af11a24fa911963c3159f13f1463681",
         "refs/heads/ml-evs/chemform": "b386ed46e624a5d7e3582628c262114b72ccd319",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
         "refs/heads/ml-evs/ci": "178b6328af6ac370cc93a42c95239c1bbc4e0b4d",
@@ -4018,7 +4017,6 @@
         "refs/pull/1254/head": "022aff8b78bb1fe15691b5f28431651882d2071f",
         "refs/pull/1254/merge": "64b99b6e7dca647ff4f9a9b4a249d2bc5fd2e6cf",
         "refs/pull/1255/head": "cf3e07b52af11a24fa911963c3159f13f1463681",
-        "refs/pull/1255/merge": "683c329f75d3383259dd693f40901b5e37c088ed",
         "refs/pull/126/head": "e6f6af9df1536cb6d14106748ba561e0f76273d0",
         "refs/pull/127/head": "1c6fab6888d61dbc5c2f0cce91d9cde8d8b0938f",
         "refs/pull/128/head": "3eebe6b2685536b3814185eb240fd781811a3e31",
