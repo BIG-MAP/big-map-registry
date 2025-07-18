@@ -843,7 +843,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "HEAD": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-2.7": "8b39b36098e496331f5cb2ada623f913eed9dd28",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
@@ -853,7 +853,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image-fix-pip": "2ca43292f5f7952a448eff1e849d68857c029519",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "refs/heads/main": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "1eb233e034a6611794d11ab6a20e84aac8407ce1",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -1092,7 +1092,6 @@
         "refs/pull/1343/merge": "0cba1cf8ea3fdc6781cf50a65c4ecb365de5e728",
         "refs/pull/1344/head": "a157d023d9de081d2968e658da583cc2c3187088",
         "refs/pull/1345/head": "ddd57685d287bf961c94cb2312cbd436e86d4ff3",
-        "refs/pull/1345/merge": "d5e488995640670843cdb21e722290e94916220d",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
         "refs/pull/137/head": "0ab8ddbff44831dbe7865547b74788a7b3fb9215",
         "refs/pull/138/head": "72ef3c195378ad05f9a6d7ec8852c940c4e03dc2",
@@ -1784,7 +1783,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "HEAD": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-2.7": "8b39b36098e496331f5cb2ada623f913eed9dd28",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
@@ -1794,7 +1793,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image-fix-pip": "2ca43292f5f7952a448eff1e849d68857c029519",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "refs/heads/main": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "1eb233e034a6611794d11ab6a20e84aac8407ce1",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -2033,7 +2032,6 @@
         "refs/pull/1343/merge": "0cba1cf8ea3fdc6781cf50a65c4ecb365de5e728",
         "refs/pull/1344/head": "a157d023d9de081d2968e658da583cc2c3187088",
         "refs/pull/1345/head": "ddd57685d287bf961c94cb2312cbd436e86d4ff3",
-        "refs/pull/1345/merge": "d5e488995640670843cdb21e722290e94916220d",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
         "refs/pull/137/head": "0ab8ddbff44831dbe7865547b74788a7b3fb9215",
         "refs/pull/138/head": "72ef3c195378ad05f9a6d7ec8852c940c4e03dc2",
@@ -2725,7 +2723,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview"
       },
       "gitinfo": {
-        "HEAD": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "HEAD": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-2.7": "8b39b36098e496331f5cb2ada623f913eed9dd28",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
@@ -2735,7 +2733,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/image-fix-pip": "2ca43292f5f7952a448eff1e849d68857c029519",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "f7033a7145e5803cef4cdb04dfb956b65cb6884f",
+        "refs/heads/main": "15014252ab21122465fb78e3b4089cafc963a2c2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "1eb233e034a6611794d11ab6a20e84aac8407ce1",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -2974,7 +2972,6 @@
         "refs/pull/1343/merge": "0cba1cf8ea3fdc6781cf50a65c4ecb365de5e728",
         "refs/pull/1344/head": "a157d023d9de081d2968e658da583cc2c3187088",
         "refs/pull/1345/head": "ddd57685d287bf961c94cb2312cbd436e86d4ff3",
-        "refs/pull/1345/merge": "d5e488995640670843cdb21e722290e94916220d",
         "refs/pull/136/head": "3c71bb0751c2da91a02a16b858afd7c7ce9b9f3e",
         "refs/pull/137/head": "0ab8ddbff44831dbe7865547b74788a7b3fb9215",
         "refs/pull/138/head": "72ef3c195378ad05f9a6d7ec8852c940c4e03dc2",
