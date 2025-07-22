@@ -3732,6 +3732,7 @@
         "refs/heads/bc/use-schemas-endpoint": "d8ccda1c5bf153a2644a003297ff7bc5fb1fba6f",
         "refs/heads/bc/version-numbers": "79b69e58442b098583f7406c49e1279a1d70b008",
         "refs/heads/bc/xrd-improvement": "c2ac3fa52e145d18ae64918bacd0ff0b4ab5eec6",
+        "refs/heads/bes/nexus_file_reader": "061cea51e20b14ec99326434b0e6d387371d8a75",
         "refs/heads/bes/uv-vis-extra": "959b92ac42b7ab5beb18ccd9ad7666a77f3dac2a",
         "refs/heads/bes/xrd_insitu_block": "f31178307df7d55f8651a3e5d6afdc351c0033e0",
         "refs/heads/ci/update-uv-lock-main-deps": "0f0370d457cf14378d0b0ee8094709edf3b7c09f",
