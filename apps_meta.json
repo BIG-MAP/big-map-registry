@@ -3722,7 +3722,7 @@
         "HEAD": "e91455f1ecc646dec870bda76def511a13099e1d",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
-        "refs/heads/bc/bump-pydantic": "8977e1bb2b23463755f29941b482a5ac1cb23e05",
+        "refs/heads/bc/bump-pydantic": "348f9692d7e4be8448e1e33c81885a2882030f83",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
         "refs/heads/bc/dialogs-modal": "ed675bf0a7bf7b9f7a0f58f40e7d9e671fe054b7",
