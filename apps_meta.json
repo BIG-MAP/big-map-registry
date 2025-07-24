@@ -363,7 +363,7 @@
       "gitinfo": {
         "HEAD": "521784b0ea09d5f6ef8436410b8e4e4ea7a3cb0f",
         "refs/heads/change-1.2.11": "e8d7f8228776d6ea1b8a4e72fcd36e6a6dea806c",
-        "refs/heads/kevin": "cf19b7eb1f169a36b3d312ab028623371264e332",
+        "refs/heads/kevin": "081e0af3ede554186af57f93980117d1a335f941",
         "refs/heads/main": "521784b0ea09d5f6ef8436410b8e4e4ea7a3cb0f",
         "refs/heads/pyside6": "d4f38264b2ce3f1255d448e09bac7a363d1c31a4",
         "refs/tags/1.0.0": "e03f2e98298be7e21985e95b5f24fc8129ad282f",
