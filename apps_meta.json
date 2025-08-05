@@ -3836,6 +3836,7 @@
         "refs/heads/ml-evs/remote-syncing": "5d025add370e554c2369e1e725cc1f498c00b269",
         "refs/heads/ml-evs/ruff-logging": "6ac34866b1112eca311bf8d1a75922f6b821df7d",
         "refs/heads/ml-evs/separator-box": "53ff7b29642fc5e5dd43c12d04e76925200b3bf1",
+        "refs/heads/ml-evs/set-uv-version-in-all-workflows": "7257f7077700ff4d97db6ff577ea9722f91eb378",
         "refs/heads/ml-evs/simple-cif-plots": "3a6b2edf72ae246c9de9e8c55ba0357ea26bd800",
         "refs/heads/ml-evs/simplify-ci": "87602deb8b95f177523ad8a4105dd24351e1d6d5",
         "refs/heads/ml-evs/stricter-linting": "64de15179c9567a47ec0bed5c42c9eb2f8523e5c",
