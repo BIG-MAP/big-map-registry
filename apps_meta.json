@@ -3767,7 +3767,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "0eaa748046f1ab372a83f9cf9fa88aae59828ed4",
+        "HEAD": "5964a32bdf3bffa2b48d8074ef38de2ed5ec6a5f",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/bump-pydantic": "2c538151d0db10fbaa03e0ee5b37837917ac6e66",
@@ -3815,7 +3815,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "0eaa748046f1ab372a83f9cf9fa88aae59828ed4",
+        "refs/heads/main": "5964a32bdf3bffa2b48d8074ef38de2ed5ec6a5f",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -3856,7 +3856,6 @@
         "refs/heads/ml-evs/fix-copy-name": "b5a2b0b54deceed115d9fe1d582d260d42e2e03d",
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
         "refs/heads/ml-evs/fix-ms": "83a16ec156d7d6283bed2aca4acda817b442ea39",
-        "refs/heads/ml-evs/fix-tif-case-sensitivity": "a929e8c08c74dd2b5f24042335cc4d585f4c1d60",
         "refs/heads/ml-evs/groups": "34cf8b5eaf7d57f7937e79235743a169516e75de",
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
         "refs/heads/ml-evs/manual-yarn-bump": "620ea0c57c5c0109a053153e7c2bc10e63864a2b",
@@ -4136,7 +4135,6 @@
         "refs/pull/1323/merge": "6f4fae79b58587f073ecd2d73935486d1e17572e",
         "refs/pull/1324/head": "5fcedec5603999cb3882bd47782eec75cf657eb8",
         "refs/pull/1326/head": "a929e8c08c74dd2b5f24042335cc4d585f4c1d60",
-        "refs/pull/1326/merge": "6086cae48a069e241a340b03c1a773e8753186b0",
         "refs/pull/133/head": "5d57d80506017fb7db732ac5aa2bad7c06349b17",
         "refs/pull/134/head": "7b42fd57e80cf9ed34bf73cbb598018fc403ff4d",
         "refs/pull/149/head": "61fc535ddda4bbc334704f91fc2a5302979425cd",
