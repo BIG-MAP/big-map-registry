@@ -5031,7 +5031,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "80562a3f7b239dfe00c6fb0088bbdba90bbdca09",
+        "HEAD": "5f4853022f1ed6ddf830ad87b9756d48b1d2a0d3",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -5111,7 +5111,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "80562a3f7b239dfe00c6fb0088bbdba90bbdca09",
+        "refs/heads/main": "5f4853022f1ed6ddf830ad87b9756d48b1d2a0d3",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -6413,6 +6413,7 @@
         "refs/pull/3676/head": "676526de46f1d031cc5bd48077cf0e6427f12e65",
         "refs/pull/3677/head": "9eb62076d64705f9aeb91a0a6b8277303c2e680e",
         "refs/pull/3677/merge": "7479cb4e2143040b69948645c580ecbe90b23eab",
+        "refs/pull/3678/head": "a3aef04d7f3bf87b16311a46d62f11afaf0d4757",
         "refs/pull/374/head": "9e6ca56bfc89a474dd7ee65a418d68902f650582",
         "refs/pull/377/head": "82ec6bb98c223334a2d64dbe8e0e1957ac133ea5",
         "refs/pull/382/head": "68cca9c0df41b91f0b26215a7506356eb853d8ed",
