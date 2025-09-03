@@ -3806,7 +3806,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "203e6a972e892d7d80e516c6c917ee9a4f24ec97",
+        "HEAD": "e5a78e7ec96ceb1fd6a38d5106eb5c58857c40ed",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/bump-pydantic": "2c538151d0db10fbaa03e0ee5b37837917ac6e66",
@@ -3853,7 +3853,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "203e6a972e892d7d80e516c6c917ee9a4f24ec97",
+        "refs/heads/main": "e5a78e7ec96ceb1fd6a38d5106eb5c58857c40ed",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -3921,7 +3921,6 @@
         "refs/heads/ml-evs/tidying-relationships": "59dda6b3b5481cd60a216cad16c497655196b9b8",
         "refs/heads/ml-evs/tweak-deps": "7e375c37dc2e1e69cfb0b1eb35d9bcc96ac33222",
         "refs/heads/ml-evs/tweak-docker-compose": "182def2298eb8717aea58c9d2e33b8a86c2a5b1a",
-        "refs/heads/ml-evs/update-changelog": "03616beefdff4b2a5496775563d1a5e66a8815c5",
         "refs/heads/ml-evs/update_flask": "3c05c7397a15cefe1fa83efae72490868f503eee",
         "refs/heads/ml-evs/user-groups": "87c61b692384e432a092f2c04c35e7002efdd317",
         "refs/heads/ml-evs/vendored-navani": "43e5069eaacfe184965fb7ef16bf2c69ec0aa20e",
@@ -4187,7 +4186,6 @@
         "refs/pull/1341/head": "20135e370517d23c98e978bd0cddbf745cf725da",
         "refs/pull/1341/merge": "3769132388559f01a52ba5b0e58af3a0b8a16826",
         "refs/pull/1342/head": "03616beefdff4b2a5496775563d1a5e66a8815c5",
-        "refs/pull/1342/merge": "3b67f55711e754b581f460fc4b625f33728c88b2",
         "refs/pull/149/head": "61fc535ddda4bbc334704f91fc2a5302979425cd",
         "refs/pull/154/head": "4b16ac190debc91b132e6c46b3381cc34d098856",
         "refs/pull/157/head": "4e5fdcdae2cfd10e991aab29c322c19fc295330e",
