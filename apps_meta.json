@@ -5121,6 +5121,7 @@
         "refs/heads/fragments": "cc44dce76f2074ca5e77e7d7511f8573002b8e29",
         "refs/heads/free2": "39ee706f07a0fa9b1be1d37e27ab41c1f35d30dd",
         "refs/heads/full": "d92e63d296596daf739ba1f0fa1eae079d3024c3",
+        "refs/heads/hide-copy-paste-workspaces": "988a280b5f50fab6d7a6a6bcf83635f77735e7dc",
         "refs/heads/improve-auto-processing-workflows": "255c55a4998ccfc7926793564c8d725c5244f273",
         "refs/heads/improve-export-publication-string": "9eb62076d64705f9aeb91a0a6b8277303c2e680e",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
