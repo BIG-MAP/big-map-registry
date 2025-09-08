@@ -5044,7 +5044,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "69d3e5933e5fb6ecfe47d201289ecde88f77e9c9",
+        "HEAD": "a49a929a163252f019a37691d48b3a84a6a4631e",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -5092,7 +5092,6 @@
         "refs/heads/depupdate": "87bec2a8d25b4042ec3b4f24016b80d9376b8856",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
-        "refs/heads/exportAs": "ce6a773ff0e985c615adc38e7ca87af4b9a063f0",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
@@ -5126,7 +5125,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "69d3e5933e5fb6ecfe47d201289ecde88f77e9c9",
+        "refs/heads/main": "a49a929a163252f019a37691d48b3a84a6a4631e",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -6429,7 +6428,6 @@
         "refs/pull/3681/head": "3091ca58254034009b3322e083a3075d69b7c8ae",
         "refs/pull/3682/head": "67155d027d4658e758741d59335d4592f999009f",
         "refs/pull/3684/head": "ce6a773ff0e985c615adc38e7ca87af4b9a063f0",
-        "refs/pull/3684/merge": "85222eec22c7724e609a331bd025623a93797956",
         "refs/pull/3686/head": "acefe35c922f6f8914246094d9c1fec5aec54bf4",
         "refs/pull/3687/head": "51d99c2aa37c60dd101b609d77bdd8d0ebb85fdc",
         "refs/pull/3688/head": "eeb6542e679226465b6948496977083673d211e9",
