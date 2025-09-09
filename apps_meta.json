@@ -3816,6 +3816,7 @@
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/bump-pydantic": "2c538151d0db10fbaa03e0ee5b37837917ac6e66",
+        "refs/heads/bc/chemform": "2a5d16c93d5dfa9469f014d7f6638a7f39149f67",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
         "refs/heads/bc/extensible-datablock": "57e19e599ed487910a8b9d707231dfe0608bec70",
