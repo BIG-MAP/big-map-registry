@@ -3877,6 +3877,7 @@
         "refs/heads/ml-evs/block-schema": "29c7b939b836c2cdd610a88f84db833859794946",
         "refs/heads/ml-evs/bump-cypress": "2e89db07634ca05f1ff00d5ec45fea79a188eef7",
         "refs/heads/ml-evs/bump-pydantic": "059ec189380fe99a548eeec538b5be9670682528",
+        "refs/heads/ml-evs/bump-pydantic-redo": "ed1a1132ebc53b824f85430dcd2f520d8bae979c",
         "refs/heads/ml-evs/chemform": "b386ed46e624a5d7e3582628c262114b72ccd319",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
         "refs/heads/ml-evs/ci": "178b6328af6ac370cc93a42c95239c1bbc4e0b4d",
