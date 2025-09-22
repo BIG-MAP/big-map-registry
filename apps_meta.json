@@ -3818,7 +3818,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "986d3b3153b58a952cd2ecd7bfe3c3f3507a453f",
+        "HEAD": "767e66d44aa6f1b132e23a28e0f6e259e6bcdf16",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/admin-manager": "0d556e1219f996823a9d280ef1144c5134085665",
@@ -3872,7 +3872,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "986d3b3153b58a952cd2ecd7bfe3c3f3507a453f",
+        "refs/heads/main": "767e66d44aa6f1b132e23a28e0f6e259e6bcdf16",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -3915,7 +3915,6 @@
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
         "refs/heads/ml-evs/fix-ms": "83a16ec156d7d6283bed2aca4acda817b442ea39",
         "refs/heads/ml-evs/fix-regex-search-sanitization": "fdb658893b8a48abf21011f1243e4d2732563925",
-        "refs/heads/ml-evs/flask-load-from-env-vars": "b19d3a33883156d9c106f648c656c37c772d574b",
         "refs/heads/ml-evs/groups": "34cf8b5eaf7d57f7937e79235743a169516e75de",
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
         "refs/heads/ml-evs/manual-yarn-bump": "620ea0c57c5c0109a053153e7c2bc10e63864a2b",
@@ -4217,7 +4216,6 @@
         "refs/pull/1349/head": "75b87c494905ff40ecb884cf7cef4b873a375978",
         "refs/pull/1349/merge": "9f13662a3f3b2ed2e4ef94b0887113d3bf2769e8",
         "refs/pull/1351/head": "b19d3a33883156d9c106f648c656c37c772d574b",
-        "refs/pull/1351/merge": "2fdbe8af077e9ff2c08f84a75d48ef3c6cb2145a",
         "refs/pull/1352/head": "0d556e1219f996823a9d280ef1144c5134085665",
         "refs/pull/1352/merge": "3225422671341b8da8e1c357d3436050eb8aac69",
         "refs/pull/1353/head": "78247ef4a405b2741b47b65e4fd0c1f23ec246e4",
