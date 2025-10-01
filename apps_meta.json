@@ -5152,6 +5152,7 @@
         "refs/heads/improve-auto-processing-workflows": "255c55a4998ccfc7926793564c8d725c5244f273",
         "refs/heads/improve-export-publication-string": "9eb62076d64705f9aeb91a0a6b8277303c2e680e",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
+        "refs/heads/inset-should-have-white-background": "e777d017d90fae940d96f8b385aacf1cd7c15a96",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
