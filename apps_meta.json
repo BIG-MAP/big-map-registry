@@ -5165,6 +5165,7 @@
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
         "refs/heads/main": "67d457e6189ebc6a035a402dc7133183b0ceeaa7",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
+        "refs/heads/move-peaks-range-place": "67d457e6189ebc6a035a402dc7133183b0ceeaa7",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/not-display-title-block-on-insets": "74392f882783d612ab56b8d2384bd179f29b1c52",
