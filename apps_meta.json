@@ -5119,6 +5119,7 @@
         "refs/heads/3538-phase-correction-2d-is-not-working": "d7986f85efe8863eb7b0a3b9a185457681b86819",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
+        "refs/heads/add-yellow-shadow-for-assigned-signals-in-2d": "ce43d723835eac5d2e661c2ea5ba656452626423",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/cache-contours-2D": "f2d29f990ebda05dab0b950d1c96222db9827922",
