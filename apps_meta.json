@@ -3830,6 +3830,7 @@
         "refs/heads/bc/admin-manager": "f8a90e3f07443195f830ce00c697973aa7d3aca2",
         "refs/heads/bc/bump-pydantic": "2c538151d0db10fbaa03e0ee5b37837917ac6e66",
         "refs/heads/bc/chemform": "2a5d16c93d5dfa9469f014d7f6638a7f39149f67",
+        "refs/heads/bc/cypress-magiclink": "09ff71d148651c956fcaa6b1742f3b1dce0ad560",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
         "refs/heads/bc/export-ELN": "56f7bb8679c62f0ddce9f1a05e749a5af1e716e1",
