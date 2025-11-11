@@ -5134,7 +5134,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "c41d08c025a4df89bfdf141423eab29f18529caa",
+        "HEAD": "5eacc9656f64e3786ff54f62b5aac1a9613387bc",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -5185,7 +5185,6 @@
         "refs/heads/depupdate": "87bec2a8d25b4042ec3b4f24016b80d9376b8856",
         "refs/heads/description": "5477b62d1ea6e67f12f78f9926c7b0bafacd568f",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
-        "refs/heads/eslint": "f01520797ed0a06caf286430e48edc399fd961bd",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
@@ -5219,7 +5218,7 @@
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "c41d08c025a4df89bfdf141423eab29f18529caa",
+        "refs/heads/main": "5eacc9656f64e3786ff54f62b5aac1a9613387bc",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -6604,7 +6603,6 @@
         "refs/pull/3815/head": "91c933b6f45734174c84096d9ea117f572876a9a",
         "refs/pull/3816/head": "47bfebe638a55f387f3f43b7949c6bb00229d1ab",
         "refs/pull/3817/head": "f01520797ed0a06caf286430e48edc399fd961bd",
-        "refs/pull/3817/merge": "f7b4fcc840e0030b6cf4f70caef24864274d5ae4",
         "refs/pull/382/head": "68cca9c0df41b91f0b26215a7506356eb853d8ed",
         "refs/pull/392/head": "bc6d8e163fc7ad289a6eae0be24456cd9ebff590",
         "refs/pull/393/head": "605e88db1474e51a5638974ec629d7ff35d4a105",
