@@ -5228,6 +5228,7 @@
         "refs/heads/change-default-sum-value": "496f8855a1a145ff1d58dcb55ef5c581d272088a",
         "refs/heads/check-read-only": "6c12a1b312aaf452860ea45654c78dafeb403b3f",
         "refs/heads/contours-zoom-level": "8191794994fd14cea337e719129adb35c3ec60db",
+        "refs/heads/crash-with-floating-molecule-when-all-spectra-are-removed": "8d7ecf212c888fde63d34f216174dc524705579d",
         "refs/heads/database-should-not-display-custom-atom-labels": "1cc2752fede35976857cc79950e8404da2c1812c",
         "refs/heads/database-view-multiple-spectra": "3b06bb8750f254d494168be941bf17c5b07abb78",
         "refs/heads/depup": "5455a573f7eeb89336b2c8ce2b4102f1639d5c80",
