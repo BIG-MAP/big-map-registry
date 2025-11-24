@@ -3884,7 +3884,7 @@
         "refs/heads/bc/relationships-bug": "bd0e960ea99f5a662629e82b89412aed14a93545",
         "refs/heads/bc/stress-testing": "642ba0b5a19ab1f0c1c310938e121ea181142aec",
         "refs/heads/bc/switch-to-vite": "fbdc21aab5a0a1202f5ac789d464511a0443860c",
-        "refs/heads/bc/unify-tooltip": "429ca96da880867c30269250b4eaa577b8b0a85f",
+        "refs/heads/bc/unify-tooltip": "25c82bbff91fa953e8c7fe265602ad50696414b5",
         "refs/heads/bc/update-bokeh": "f0b6fedb80152e711d54f64b88436011b53bf8b6",
         "refs/heads/bc/update-bootstrap5": "4ef783ec6825c2a9d9385a4ffc7d4a482d013a3f",
         "refs/heads/bc/use-schemas-endpoint": "e372570aff1401e72056525ea681c46e8db7b974",
