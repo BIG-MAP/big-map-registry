@@ -5290,6 +5290,7 @@
         "refs/heads/3809-start-using-tanstack-form-and-zod-validation-with-react-science-components": "da0df6bef7bcd0aba8024cf0278c3ee345dd0ea1",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
+        "refs/heads/allow-cutting-integration-in-multiple-spectra-analysis": "9c038f09a50f172ba8aa5e8d5dedb9a70c95eb61",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
         "refs/heads/avoidDuplication": "f45df4b34c92bb78e7b7d083882e0c8d228a7f0d",
         "refs/heads/cache-contours-2D": "f2d29f990ebda05dab0b950d1c96222db9827922",
