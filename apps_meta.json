@@ -5282,6 +5282,7 @@
         "refs/heads/3234-homogeneisation-of-selected--total": "683eb63d2ca33cf2b5886eb5793f1f2ac8d5af38",
         "refs/heads/3281-use-selectedtotal-component": "01f54f7a69e5a7d0682a31781f4f024436e43c06",
         "refs/heads/3538-phase-correction-2d-is-not-working": "d7986f85efe8863eb7b0a3b9a185457681b86819",
+        "refs/heads/3701-can-not-process-2d-hsqc-sample": "89bad1820c1d08ab70411bd8c37a5a84e134d8e6",
         "refs/heads/3765-bug-in-range-picking": "b07215684dc52943a67febbec58a4fb0deae67ac",
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
