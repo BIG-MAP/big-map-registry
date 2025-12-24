@@ -3911,7 +3911,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "d578ca70fe5958a50ce704747cb30a75d6c00447",
+        "HEAD": "a345e5d6a34af212bce0634d0f27649823cb5990",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/add-block": "d020885075b0e0b637656cf948b1b17e95675f1c",
@@ -3947,7 +3947,6 @@
         "refs/heads/bes/oms_data": "53999b07bd6af05ab55e6fc0d7ad3f5fd6285d7e",
         "refs/heads/bes/profileometer_file": "71d461fb298ad86fb22bc52e9e34419bda20afa4",
         "refs/heads/bes/revision_history": "cf9a557ba97a8b64ab49225d5a7e24ab37cbbd3a",
-        "refs/heads/bes/revision_history_clean_history": "436f54565710a957f41239a311765a41a9f2f5aa",
         "refs/heads/bes/xrd_insitu_block": "2b0bd7f7bc3df69977ed68ebfc76a068aff7f9c2",
         "refs/heads/ci/update-uv-lock-main-deps": "3e071c3f6460639f373a6103d41f8908281528b1",
         "refs/heads/ci/update-yarn-lock-main-deps": "8df669f37a0fc969312b0dbbf35eba9413184dce",
@@ -3974,7 +3973,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "d578ca70fe5958a50ce704747cb30a75d6c00447",
+        "refs/heads/main": "a345e5d6a34af212bce0634d0f27649823cb5990",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -4320,7 +4319,6 @@
         "refs/pull/1369/head": "2910e24a006ca772c4022abbf1b0dc1865affb9a",
         "refs/pull/1371/head": "9e9e3072ba6e09d4014a10365a33e550fbe77c9c",
         "refs/pull/1373/head": "436f54565710a957f41239a311765a41a9f2f5aa",
-        "refs/pull/1373/merge": "acc49382ff4c367a552e45d9781ea71e2d5477da",
         "refs/pull/1376/head": "e2a557998e48ecbb35cd23398ea3b9510ae7ded0",
         "refs/pull/1378/head": "90841b9e2dae4fd9c7bfb5fee519e6292332d5e5",
         "refs/pull/1378/merge": "d2d96946fc1658ac1dc18e10eb4a3e4a48bd46eb",
@@ -5043,7 +5041,8 @@
         "refs/tags/v0.6.4": "4743ce62d2b7ced9471e40dadce1d46a3ea5b254",
         "refs/tags/v0.6.5": "760cef3071f5332181e219a08dbf81aa5203768b",
         "refs/tags/v0.6.6": "b959ec0e13c30802e33ae86c7f50cd1cc4ccd383",
-        "refs/tags/v0.6.7": "17e8b01d2c0ade7104cacce8eba3f09c8ea90f29"
+        "refs/tags/v0.6.7": "17e8b01d2c0ade7104cacce8eba3f09c8ea90f29",
+        "refs/tags/v0.7.0-rc.1": "a345e5d6a34af212bce0634d0f27649823cb5990"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
