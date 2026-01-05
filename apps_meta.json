@@ -5294,6 +5294,7 @@
         "refs/heads/3538-phase-correction-2d-is-not-working": "d7986f85efe8863eb7b0a3b9a185457681b86819",
         "refs/heads/3765-bug-in-range-picking": "b07215684dc52943a67febbec58a4fb0deae67ac",
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
+        "refs/heads/500-nmrium-archive-should-we-serialize-orphean-spectra-data": "538ec7b7f17d31d3f3bf64364364b110181553bb",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/allow-cutting-integration-in-multiple-spectra-analysis": "8f79038845c6bd72da5672271edd0540c8f3e876",
