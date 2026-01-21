@@ -5318,7 +5318,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "0282d97868ab59d7a4c00158957c6d1b845500f5",
+        "HEAD": "9eeab1f394553d1ce8d4f9dfbc6aaa600ba07ae8",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -5404,7 +5404,7 @@
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/light-smooth-data-peak-picking": "b46bf15a22911883f9ee84e920cf3d4e1e6af97b",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "0282d97868ab59d7a4c00158957c6d1b845500f5",
+        "refs/heads/main": "9eeab1f394553d1ce8d4f9dfbc6aaa600ba07ae8",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -5424,7 +5424,6 @@
         "refs/heads/refactor-drodown": "40c45ded0487407cc8d567cb5753d7bbb90536af",
         "refs/heads/refactor-keyboard-shortcuts": "5c3e5a432772652bcf5275b295a1593fb254d54d",
         "refs/heads/refactor-memo": "9ddcbe7159c90748c78ba855a7b76f2978f7e7e4",
-        "refs/heads/refactor-next-prev-component-width-observer": "178b1d9e886f4cb4deffeaa8ffb222e395b04839",
         "refs/heads/refactor-nmrium-component-props": "b1aa90596561183d90597fd0025e4663d66d3b7f",
         "refs/heads/refactor-tabs": "63da0cadea08a935f543bd2d414d41d8b27e7178",
         "refs/heads/refactor-view-object": "707239232599401e568b3dfe8594cf5d0458559d",
@@ -6840,7 +6839,6 @@
         "refs/pull/3912/head": "6f52800e5fe77a09271f724efeeed022ec9389d9",
         "refs/pull/3913/head": "9fe30ea24483cf96b5b05d06e146572df329e3a0",
         "refs/pull/3914/head": "178b1d9e886f4cb4deffeaa8ffb222e395b04839",
-        "refs/pull/3914/merge": "c0d8b13aab7443bee7a39d9e88927ed7383d04df",
         "refs/pull/3915/head": "6e823b58e644c225f82072feb67f399411c91b35",
         "refs/pull/3915/merge": "3608dc7b041720bb23ec41fba1ef5d8b516e53bc",
         "refs/pull/392/head": "bc6d8e163fc7ad289a6eae0be24456cd9ebff590",
