@@ -3925,7 +3925,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "4b0742851517307731cdbb4bac71055d06e35d7e",
+        "HEAD": "3c8f7bc977d4cd865b86cae5feecd0d099f770d5",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/api-search": "4c79b22ed43fd1ada5a11a4ea6ab5ab2415b5764",
@@ -3937,7 +3937,6 @@
         "refs/heads/bc/cross-referencing": "35317cdcef43b0008251f8693bc5b69e2101dc20",
         "refs/heads/bc/datablock-upgrade": "7262999dd0a6154e2fc0a3848e6bda5e2fccc0a6",
         "refs/heads/bc/datatable-tests": "ab1b98e1d33e5224b9073f611bed2446efb79ac8",
-        "refs/heads/bc/default-page": "596488b3da42abf534124611a72046fbc81c562d",
         "refs/heads/bc/deployment-settings": "ad13bff04b4f0dd872202a90b0209aaef6a8f5cc",
         "refs/heads/bc/double-submit": "037be1681f9013b82f615c422a67fe94488a900f",
         "refs/heads/bc/export-cursor": "008398d7d6520c8913c8b03d5d59baac87f37e25",
@@ -3996,7 +3995,7 @@
         "refs/heads/jdb/whinchat-enhancements2": "291b8f0ca6fc5bde4b17d0854c02a14c2718cbe4",
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "4b0742851517307731cdbb4bac71055d06e35d7e",
+        "refs/heads/main": "3c8f7bc977d4cd865b86cae5feecd0d099f770d5",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -4423,7 +4422,6 @@
         "refs/pull/1480/head": "71d461fb298ad86fb22bc52e9e34419bda20afa4",
         "refs/pull/1482/head": "8791d73668b8d01ae8b99d36967ec397f8afa887",
         "refs/pull/1483/head": "596488b3da42abf534124611a72046fbc81c562d",
-        "refs/pull/1483/merge": "9ed55c71721707d021443edd03b4a6292f8759a8",
         "refs/pull/1484/head": "1b0b0634382afe85a98f0b5a8ac44296a848a170",
         "refs/pull/1487/head": "8122cba214810da09bebd8e61c327bf155b281ef",
         "refs/pull/1489/head": "e1caaa87a41935e5cf1ee6495bc82339d2d35294",
