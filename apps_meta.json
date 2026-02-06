@@ -5393,6 +5393,7 @@
         "refs/heads/3765-bug-in-range-picking": "b07215684dc52943a67febbec58a4fb0deae67ac",
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
+        "refs/heads/3964-publication-string-adjustments": "14b49290a82d9b5ce7c8e82774031c5d80efec55",
         "refs/heads/add-a-tooltip-in-custom-labels": "bea736609ef8514296b45401862fc1aa3468ae68",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
