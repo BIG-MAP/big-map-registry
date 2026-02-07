@@ -7900,10 +7900,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "d5b2e2c36a83bf5fd18e1b8006560461a990289f",
+        "HEAD": "5c3b827f8170e19783e386df458d1cada1e2d106",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "d5b2e2c36a83bf5fd18e1b8006560461a990289f",
+        "refs/heads/master": "5c3b827f8170e19783e386df458d1cada1e2d106",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/upstream/21.04.10": "9177accc50e47b88a736b5a58590f243983323d5",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
