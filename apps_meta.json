@@ -7909,10 +7909,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "56e87677887d8fbd4012ed167198b5f112a8d96f",
+        "HEAD": "5f8b24076208c06a1bdc9bad300cb1605db58492",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "56e87677887d8fbd4012ed167198b5f112a8d96f",
+        "refs/heads/master": "5f8b24076208c06a1bdc9bad300cb1605db58492",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/upstream/21.04.10": "9177accc50e47b88a736b5a58590f243983323d5",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
