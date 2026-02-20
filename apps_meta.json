@@ -5390,6 +5390,7 @@
         "refs/heads/3765-bug-in-range-picking": "b07215684dc52943a67febbec58a4fb0deae67ac",
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
+        "refs/heads/3948-tools": "5ea9ef17aabd59db0864b5b87524d168d7f64aab",
         "refs/heads/3970-fix-jresolve-jcamp-dx-file": "a28c407eac019051058fa4dfcc588ea070b52068",
         "refs/heads/3989-unify-table-form": "55bab68d913f06c1975d6c91c30dc2db561e399f",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
