@@ -5407,6 +5407,7 @@
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
         "refs/heads/3948-tools": "4a6d5aab59331cd0fcd10a2e3ca11fc43974f6ff",
         "refs/heads/3970-fix-jresolve-jcamp-dx-file": "a28c407eac019051058fa4dfcc588ea070b52068",
+        "refs/heads/3987-margintop-validation-probably-too-strict": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
         "refs/heads/3989-unify-table-form": "55bab68d913f06c1975d6c91c30dc2db561e399f",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
