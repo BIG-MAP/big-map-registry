@@ -5420,7 +5420,7 @@
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
         "refs/heads/3970-fix-jresolve-jcamp-dx-file": "a28c407eac019051058fa4dfcc588ea070b52068",
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
-        "refs/heads/4002-panels-display-validation-too-strict": "9f2b29ffd84e39dedabae129d128b01a654205b4",
+        "refs/heads/4002-panels-display-validation-too-strict": "7098c5ed7e0f2420f35fb0f0a63000f6abbe9028",
         "refs/heads/636-axis-customisation": "c840224ecb97dd7b18812fc56d98809cf7e3c67e",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
