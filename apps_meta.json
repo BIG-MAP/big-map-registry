@@ -5443,7 +5443,7 @@
         "refs/heads/2258-apply-and-save-does-not-seem-to-work": "3c765027eff0f3603dca9f96aac65c66da98b2f5",
         "refs/heads/2259-automatic-processing-and-phase-correction": "0f546eb19934777870ad244c4f63ef19eaff0b01",
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
-        "refs/heads/2274-nmrium-component-props": "9f2b29ffd84e39dedabae129d128b01a654205b4",
+        "refs/heads/2274-nmrium-component-props": "92527cbd88075898ddb93e98952a5d7b5390e45e",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
         "refs/heads/2406-replace-with-checkbox-component-from-react-science": "4adedcdf3d53999b9ba6d9ff5b2754312455e33b",
