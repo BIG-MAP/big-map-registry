@@ -5421,7 +5421,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "8b812a9fb93ec84b92c5dcd06e9b3f0c0d14c9e0",
+        "HEAD": "a15cb515e7603e7959ba0b44b35757fccc10f2fb",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -5439,7 +5439,6 @@
         "refs/heads/2258-apply-and-save-does-not-seem-to-work": "3c765027eff0f3603dca9f96aac65c66da98b2f5",
         "refs/heads/2259-automatic-processing-and-phase-correction": "0f546eb19934777870ad244c4f63ef19eaff0b01",
         "refs/heads/2270-remap-tolerance-to-factorcriterion-for-airpls-baseline-correction-method": "7b958e305aa127d5be7e74ae5b0671d3518ee65b",
-        "refs/heads/2274-nmrium-component-props": "51924d1e4c4d9276a8d27c56ee49807bfe096373",
         "refs/heads/2308-spectrum-name-not-visible-in-spectra-table-if-we-pass-the-data-from-component-data-props": "26c573ac0bea1c2491fa70255407bbee45ddd51f",
         "refs/heads/2309-can-open-preferences-only-once": "71317b46ed1606030490daf22e5a0c2c97afd3a4",
         "refs/heads/2406-replace-with-checkbox-component-from-react-science": "4adedcdf3d53999b9ba6d9ff5b2754312455e33b",
@@ -5513,7 +5512,7 @@
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/light-smooth-data-peak-picking": "b46bf15a22911883f9ee84e920cf3d4e1e6af97b",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "8b812a9fb93ec84b92c5dcd06e9b3f0c0d14c9e0",
+        "refs/heads/main": "a15cb515e7603e7959ba0b44b35757fccc10f2fb",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
@@ -7009,7 +7008,6 @@
         "refs/pull/4017/merge": "4d6b7dbbc6457bfabcc83b8a395c6df08951b9d8",
         "refs/pull/402/head": "5212fc9d1b82531f050367a1df523b7d29f971ee",
         "refs/pull/4023/head": "51924d1e4c4d9276a8d27c56ee49807bfe096373",
-        "refs/pull/4023/merge": "0b1fc6d291f20932964664dcffdb37cb5ee36d1d",
         "refs/pull/4025/head": "61f3a43c4d760c056d6d407c2f18df24c24f257d",
         "refs/pull/403/head": "0849c23696ad537a72bc875023a926d2baecc3f8",
         "refs/pull/415/head": "c872a02fb2f7de08a1de2c8281ca6dd7b704eb25",
