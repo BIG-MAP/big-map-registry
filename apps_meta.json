@@ -5459,6 +5459,7 @@
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
         "refs/heads/4002-panels-display-validation-too-strict": "bffc0c086efc438061514a93c43c1bb4934a0da8",
         "refs/heads/636-axis-customisation": "c840224ecb97dd7b18812fc56d98809cf7e3c67e",
+        "refs/heads/672-unify-core-reading-api": "5e298b512452ecbbcd163975b7f6ffef83db8f1e",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
