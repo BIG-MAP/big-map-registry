@@ -5465,6 +5465,7 @@
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
+        "refs/heads/4026-improve-error-report": "3620893ca99f7f6d4577cbb0db8fc3e62b5d1598",
         "refs/heads/636-axis-customisation": "7bcafaf83df43f978161f12fabe44e587ff43e60",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
