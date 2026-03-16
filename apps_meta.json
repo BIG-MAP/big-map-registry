@@ -362,7 +362,6 @@
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
         "HEAD": "a8d7e91b2b31a7551a7626797abb097c4ecbd3ca",
-        "refs/heads/FUL-1-create-a-test-hello-word-program": "a8d7e91b2b31a7551a7626797abb097c4ecbd3ca",
         "refs/heads/change-1.2.11": "e8d7f8228776d6ea1b8a4e72fcd36e6a6dea806c",
         "refs/heads/kevin": "081e0af3ede554186af57f93980117d1a335f941",
         "refs/heads/main": "a8d7e91b2b31a7551a7626797abb097c4ecbd3ca",
