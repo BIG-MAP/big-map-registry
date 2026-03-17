@@ -362,7 +362,7 @@
       "git_url": "https://gitlab.com/d7081/fullprofapp/",
       "gitinfo": {
         "HEAD": "efa42fb19e4be25885480fd2acb7ef2c8c3faf1e",
-        "refs/heads/FUL-4-add-save-load-excluded-regions-to-file": "efa42fb19e4be25885480fd2acb7ef2c8c3faf1e",
+        "refs/heads/FUL-4-add-save-load-excluded-regions-to-file": "0e75bac74fc1720de017e59efec4c46dd15cb3d0",
         "refs/heads/change-1.2.11": "e8d7f8228776d6ea1b8a4e72fcd36e6a6dea806c",
         "refs/heads/kevin": "081e0af3ede554186af57f93980117d1a335f941",
         "refs/heads/main": "efa42fb19e4be25885480fd2acb7ef2c8c3faf1e",
