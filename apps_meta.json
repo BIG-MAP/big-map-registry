@@ -3953,7 +3953,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "98010f47815d48c04a190a68488c5f5f0f3ca08b",
+        "HEAD": "7e90e05446240f3b0a9883e61e39f0db2ee4bf6f",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/admin-primevue": "8f28741628423235ea04add02146b36706e6cd40",
@@ -4045,7 +4045,7 @@
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/joss": "b2d1a5d04a7de7cc7a3105f6362013231b37f991",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "98010f47815d48c04a190a68488c5f5f0f3ca08b",
+        "refs/heads/main": "7e90e05446240f3b0a9883e61e39f0db2ee4bf6f",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -4643,7 +4643,7 @@
         "refs/pull/1667/head": "9c2f3f934a73b7f1d10a1ea6216fdde2c8fc6a5f",
         "refs/pull/1668/head": "3ff27fdc164374779efd8960ec5016de6597a604",
         "refs/pull/1669/head": "52df853e2e2c58125cad1b8998c92ce5997b1f9e",
-        "refs/pull/1669/merge": "9273e61dc5c86744d94dbe500926f98dc7b27b75",
+        "refs/pull/1669/merge": "7ae24a6600d396bd6009871b3aff6ffa6bcd11c2",
         "refs/pull/167/head": "b64412de6f349d503decc7f1b7542637b35a8928",
         "refs/pull/1671/head": "067a1907d8200687d917254dc3cc92310a0e69f9",
         "refs/pull/1672/head": "664d3c1bb8e384eecf991761bfca804d4a1aee0d",
@@ -4658,6 +4658,7 @@
         "refs/pull/1679/merge": "0b7d352d96f500fafe93da4027a57f073546efaf",
         "refs/pull/1682/head": "4715f7d8fef2388e9ec21466840945c5ae5ce1a6",
         "refs/pull/1683/head": "6b8e58cd46daed9134a3725497b7a9abf1a400e2",
+        "refs/pull/1684/head": "a79b48d064947da21a13d5c5d73a6ccf0f344ea6",
         "refs/pull/169/head": "011efc8e40e5f1e7ce5f9f97871cefc7a9c37a01",
         "refs/pull/17/head": "ccd93c069c2d10856dfaa4a81fec8f8bcc504ed4",
         "refs/pull/170/head": "8ca247a7a337a731468fe053b3551ec73fde3579",
@@ -5282,7 +5283,8 @@
         "refs/tags/v0.6.7": "17e8b01d2c0ade7104cacce8eba3f09c8ea90f29",
         "refs/tags/v0.7.0-rc.1": "a345e5d6a34af212bce0634d0f27649823cb5990",
         "refs/tags/v0.7.0-rc.2": "e62172acb6c5315b814eeb09bd88bc84fc2b67d1",
-        "refs/tags/v0.7.0-rc.3": "41af60b4fe3e4205f753c6ccf641bee1a0ad39d0"
+        "refs/tags/v0.7.0-rc.3": "41af60b4fe3e4205f753c6ccf641bee1a0ad39d0",
+        "refs/tags/v0.7.0-rc.4": "7e90e05446240f3b0a9883e61e39f0db2ee4bf6f"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
