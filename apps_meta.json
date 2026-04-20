@@ -4116,6 +4116,7 @@
         "refs/heads/ml-evs/remove-flask-pymongo": "9c76c5636ad069baf4900e225fa15eb065ad53e0",
         "refs/heads/ml-evs/self-hosted-test": "97cb29c1dd8a79300de6c0cd10c3f639c057362b",
         "refs/heads/ml-evs/separator-box": "53ff7b29642fc5e5dd43c12d04e76925200b3bf1",
+        "refs/heads/ml-evs/server-side-gravatar": "fb71b3e938b18ddd28f03acccb7f6c616eb5e77f",
         "refs/heads/ml-evs/simple-cif-plots": "3a6b2edf72ae246c9de9e8c55ba0357ea26bd800",
         "refs/heads/ml-evs/simplify-ci": "87602deb8b95f177523ad8a4105dd24351e1d6d5",
         "refs/heads/ml-evs/stricter-linting": "64de15179c9567a47ec0bed5c42c9eb2f8523e5c",
