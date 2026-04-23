@@ -4129,6 +4129,7 @@
         "refs/heads/ml-evs/loosen-all-dev-deps": "e64b98fa0ed6b9e4d3d37449aae1690128b64d7e",
         "refs/heads/ml-evs/manual-yarn-bump": "620ea0c57c5c0109a053153e7c2bc10e63864a2b",
         "refs/heads/ml-evs/migrate-to-oxc": "bde020b317fd1242aac5d608035611f2e047b4da",
+        "refs/heads/ml-evs/mobile-navbar": "28d840a5d1ead4041784681bc7c10c1634e8b265",
         "refs/heads/ml-evs/model_refactors": "f0e0323fab8aca846ef7b4365d2483a9dd3188d3",
         "refs/heads/ml-evs/mongo-fts-ngram": "f134257e12bec2e1868e9ca561b7e1820699c3e5",
         "refs/heads/ml-evs/mri_block": "5464ea3f54a9e9b45ecb7872a64dd5d3b9b0665f",
