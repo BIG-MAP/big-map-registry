@@ -860,6 +860,7 @@
         "refs/heads/main": "99243fbe98b6de2563052125ad12a256729b3bd2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
+        "refs/heads/release/v26.04.1": "cefa92c31de6df1c29e4a4d2de732217f1de9564",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/heads/test-python3.11-image": "7899280e9bb2cc1f192502ba46f58e7eda420566",
@@ -1849,7 +1850,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.04.1": "8c2ab36e11c45982b9ca05cf16c38f1a86fbfd4f",
+        "refs/tags/v26.04.1^{}": "cefa92c31de6df1c29e4a4d2de732217f1de9564"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -1891,6 +1894,7 @@
         "refs/heads/main": "99243fbe98b6de2563052125ad12a256729b3bd2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
+        "refs/heads/release/v26.04.1": "cefa92c31de6df1c29e4a4d2de732217f1de9564",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/heads/test-python3.11-image": "7899280e9bb2cc1f192502ba46f58e7eda420566",
@@ -2880,7 +2884,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.04.1": "8c2ab36e11c45982b9ca05cf16c38f1a86fbfd4f",
+        "refs/tags/v26.04.1^{}": "cefa92c31de6df1c29e4a4d2de732217f1de9564"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -2922,6 +2928,7 @@
         "refs/heads/main": "99243fbe98b6de2563052125ad12a256729b3bd2",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
+        "refs/heads/release/v26.04.1": "cefa92c31de6df1c29e4a4d2de732217f1de9564",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
         "refs/heads/test-python3.11-image": "7899280e9bb2cc1f192502ba46f58e7eda420566",
@@ -3911,7 +3918,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.04.1": "8c2ab36e11c45982b9ca05cf16c38f1a86fbfd4f",
+        "refs/tags/v26.04.1^{}": "cefa92c31de6df1c29e4a4d2de732217f1de9564"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -7151,7 +7160,7 @@
         "refs/pull/4058/head": "bea3a26fd252cb8a787c2ca6462a9a3b4e025d60",
         "refs/pull/4059/head": "fb4eb246710bd11d1605a0f5ff70214928419ad3",
         "refs/pull/4060/head": "fcbed8783365febc1583a7c2ca0ad85f6ec7f4bc",
-        "refs/pull/4060/merge": "bcc78d9efb4fd9255e21c3e2762f57cbe575dc47",
+        "refs/pull/4060/merge": "fd5356ff297a5a44d60316b8f4e889ac636d4fb1",
         "refs/pull/4062/head": "707d17a49c90fdeddffa6b3f31d036d09a6d6c41",
         "refs/pull/4064/head": "9087346a6d96c081ebdecee18a33e059d356dbc1",
         "refs/pull/4066/head": "a15a1de966d6f7c9b5cfa017fc02aea7bbb50470",
