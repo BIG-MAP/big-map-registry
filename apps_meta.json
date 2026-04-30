@@ -5638,6 +5638,7 @@
         "refs/heads/improve-auto-processing-workflows": "255c55a4998ccfc7926793564c8d725c5244f273",
         "refs/heads/improve-baseline-correction-1D-105105032026": "61ecb4fd7adc53e5ac0c42c50911c1e7f1b50c03",
         "refs/heads/improve-kind-in-ranges-and-integrals": "ae6ffdfcd22e5ece19db491b576dcbee0c72f8e4",
+        "refs/heads/improve-peak-shape-options": "26b32b3315376d83f80ee21cc1e0427247981116",
         "refs/heads/integral": "866a6d4ab7a0b49e27b312bae93062071b4779e8",
         "refs/heads/integrals-scale": "002adf46ec7916d504a6ba209d3049caedae712d",
         "refs/heads/labels": "9f53b190663ecccb2b1b64308180998116d97541",
