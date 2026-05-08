@@ -4001,7 +4001,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "00c53e615d30005a834aec1f55dd8e426f0373b4",
+        "HEAD": "7d9776dfefef49a1547a732df59c005eb92f30a3",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/api-search": "6447dbe15641860fec8fb35956a20fa9efc3c9d9",
@@ -4081,7 +4081,7 @@
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/joss": "b2d1a5d04a7de7cc7a3105f6362013231b37f991",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "00c53e615d30005a834aec1f55dd8e426f0373b4",
+        "refs/heads/main": "7d9776dfefef49a1547a732df59c005eb92f30a3",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -4127,7 +4127,6 @@
         "refs/heads/ml-evs/fix-copy-name": "b5a2b0b54deceed115d9fe1d582d260d42e2e03d",
         "refs/heads/ml-evs/fix-echem-filtering": "9c2e099a2b89ee602b26a87707ca398eb63ce9f6",
         "refs/heads/ml-evs/fix-ms": "83a16ec156d7d6283bed2aca4acda817b442ea39",
-        "refs/heads/ml-evs/fix-row-click": "963049478e5674780823afb6a609cc0a0bf470a4",
         "refs/heads/ml-evs/groups": "34cf8b5eaf7d57f7937e79235743a169516e75de",
         "refs/heads/ml-evs/insitu-demo": "034ac6607ad4a35c3d641ef5e20f26aeba0830c6",
         "refs/heads/ml-evs/location-component": "ca27b5c51f7d47966e20aedc6139670266f20865",
@@ -4711,7 +4710,6 @@
         "refs/pull/1713/head": "61682a67706f23777fe33e4f6faa9f179b0fd889",
         "refs/pull/1715/head": "a73c38888afdbfa7d3cac76f57b654e2451c65bb",
         "refs/pull/1716/head": "963049478e5674780823afb6a609cc0a0bf470a4",
-        "refs/pull/1716/merge": "636e2a875e29ff9d8ce93d63cb5623e63ea94a3d",
         "refs/pull/1717/head": "3a18f1503b72f76e5f43ea39e96fa91f9a9d3c4b",
         "refs/pull/1717/merge": "bd77dc8b8ed7d75d7b4bee8f978777a3ea373045",
         "refs/pull/172/head": "f0c5535b38fd81e8cb8cb1c8bfeb9e499b154a1f",
