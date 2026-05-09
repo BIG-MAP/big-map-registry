@@ -4001,7 +4001,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "7abaa3d938d1a62fb07e1f5993efbfbb03efe9f9",
+        "HEAD": "7779e89f47378a97e786766c64aaa4a77f3be578",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/bc/api-search": "6447dbe15641860fec8fb35956a20fa9efc3c9d9",
@@ -4045,7 +4045,6 @@
         "refs/heads/bes/xrd_nexus_file_reader": "d1d24938dc1e7eb4c78589662769202a46dc0308",
         "refs/heads/ci/update-uv-lock-main-deps": "7ccd52bc239a160440c8af0d2f7517fd4aa37cc9",
         "refs/heads/ci/update-yarn-lock-main-deps": "106378c61fc712beca60484656f505b260207438",
-        "refs/heads/dependabot/npm_and_yarn/webapp/babel/plugin-transform-modules-systemjs-7.29.4": "119b4ef5be4c49ee1ab7b8aae5a3e2113977ace3",
         "refs/heads/dependabot/npm_and_yarn/webapp/flatted-3.4.2": "b19a1f8bc7554d946a6041dd1f0d2f65581bb514",
         "refs/heads/dependabot/npm_and_yarn/webapp/main/vueuse/components-14.2.1": "097dba2c9caddbbaf659b2754f17169d77dd1c61",
         "refs/heads/dependabot/npm_and_yarn/webapp/node-forge-1.4.0": "e7c1009bf1daf1cea2741076c18176142f6624b4",
@@ -4080,7 +4079,7 @@
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/joss": "b2d1a5d04a7de7cc7a3105f6362013231b37f991",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "7abaa3d938d1a62fb07e1f5993efbfbb03efe9f9",
+        "refs/heads/main": "7779e89f47378a97e786766c64aaa4a77f3be578",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -4709,7 +4708,6 @@
         "refs/pull/1715/head": "a73c38888afdbfa7d3cac76f57b654e2451c65bb",
         "refs/pull/1716/head": "963049478e5674780823afb6a609cc0a0bf470a4",
         "refs/pull/1717/head": "119b4ef5be4c49ee1ab7b8aae5a3e2113977ace3",
-        "refs/pull/1717/merge": "00e3c67bfae51de1b1374af905ebd02f173916cd",
         "refs/pull/1718/head": "3499ffd6063bab844fc3795e72314b36408ebe2e",
         "refs/pull/172/head": "f0c5535b38fd81e8cb8cb1c8bfeb9e499b154a1f",
         "refs/pull/173/head": "c999073d00c31e1371ecfb23aceb268db8b04b85",
