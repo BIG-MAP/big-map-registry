@@ -846,7 +846,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "HEAD": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "4d7f3b8727cf72ff909dc0f43b3006cd208cbc34",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -858,7 +858,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "refs/heads/main": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -1208,6 +1208,7 @@
         "refs/pull/1512/merge": "9810baf00fada202fd00ebd2a88f110d2a225455",
         "refs/pull/1513/head": "d8b8b0340feb15a688df0f495977a21cbdc986ce",
         "refs/pull/1514/head": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
+        "refs/pull/1517/head": "ca79f1c13494068c9914db45f914cb9a24fde404",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
@@ -1864,7 +1865,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.06.0": "046e03869076d1145a92bca5feb3e4f38eae578e",
+        "refs/tags/v26.06.0^{}": "ca79f1c13494068c9914db45f914cb9a24fde404"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -1892,7 +1895,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "HEAD": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "4d7f3b8727cf72ff909dc0f43b3006cd208cbc34",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -1904,7 +1907,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "refs/heads/main": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -2254,6 +2257,7 @@
         "refs/pull/1512/merge": "9810baf00fada202fd00ebd2a88f110d2a225455",
         "refs/pull/1513/head": "d8b8b0340feb15a688df0f495977a21cbdc986ce",
         "refs/pull/1514/head": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
+        "refs/pull/1517/head": "ca79f1c13494068c9914db45f914cb9a24fde404",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
@@ -2910,7 +2914,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.06.0": "046e03869076d1145a92bca5feb3e4f38eae578e",
+        "refs/tags/v26.06.0^{}": "ca79f1c13494068c9914db45f914cb9a24fde404"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -2938,7 +2944,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview"
       },
       "gitinfo": {
-        "HEAD": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "HEAD": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "4d7f3b8727cf72ff909dc0f43b3006cd208cbc34",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -2950,7 +2956,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "c5645aaebbaec1a470aee48b69c275ad71c9d07a",
+        "refs/heads/main": "9ba5c427838b0a171495a9376981834006767d31",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "2487a3d07ab78777cfa59b47cd77688d68f10a99",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -3300,6 +3306,7 @@
         "refs/pull/1512/merge": "9810baf00fada202fd00ebd2a88f110d2a225455",
         "refs/pull/1513/head": "d8b8b0340feb15a688df0f495977a21cbdc986ce",
         "refs/pull/1514/head": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
+        "refs/pull/1517/head": "ca79f1c13494068c9914db45f914cb9a24fde404",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
@@ -3956,7 +3963,9 @@
         "refs/tags/v26.01.0": "797fb524add142011ff19569277941748dfb6518",
         "refs/tags/v26.01.0^{}": "4ad1fdaa6c242c2bdf596b0e160625599af93870",
         "refs/tags/v26.04.0": "3acbe4378294dd7d30eca199ccd23f63386a4d9a",
-        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528"
+        "refs/tags/v26.04.0^{}": "162483095653f86b46738553e3ccad2569247528",
+        "refs/tags/v26.06.0": "046e03869076d1145a92bca5feb3e4f38eae578e",
+        "refs/tags/v26.06.0^{}": "ca79f1c13494068c9914db45f914cb9a24fde404"
       },
       "hosted_on": "github.com",
       "logo": "https://raw.githubusercontent.com/aiidalab/aiidalab-qe/main/docs/source/_static/images/aiidalab_qe_logo.png",
@@ -8287,10 +8296,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "c7f4ea8eb0813456d3e13bb14c8bbef1219e1971",
+        "HEAD": "f44ec391586ee54809da56b2ab7c2389c9fed01a",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "c7f4ea8eb0813456d3e13bb14c8bbef1219e1971",
+        "refs/heads/master": "f44ec391586ee54809da56b2ab7c2389c9fed01a",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/upstream/21.04.10": "9177accc50e47b88a736b5a58590f243983323d5",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
