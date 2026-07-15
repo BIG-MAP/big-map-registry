@@ -8636,7 +8636,8 @@
         "refs/tags/v26.07.06": "50ccb270fc2cd54ea00f476015eb596c531f8f97",
         "refs/tags/v26.07.06.0": "32b06314c1a977fef77ce77dbf3f1abf1eec4fa9",
         "refs/tags/v26.07.12": "c157ebe55e6cf9c14ef0925fc4497b85788526ec",
-        "refs/tags/v26.07.14": "3682ef968c95c8405ad2f468b3096e735fa6a7ef"
+        "refs/tags/v26.07.14": "3682ef968c95c8405ad2f468b3096e735fa6a7ef",
+        "refs/tags/v26.07.15": "70b798546835d3ed81055e8202ebb65ca2cccb69"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
