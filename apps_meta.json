@@ -8597,10 +8597,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "f6395c9eeae50e78cbc37780908fdf82bd28e048",
+        "HEAD": "9d85004f53f0345c66ef268aa3ba5040e8aefd23",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "f6395c9eeae50e78cbc37780908fdf82bd28e048",
+        "refs/heads/master": "9d85004f53f0345c66ef268aa3ba5040e8aefd23",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/upstream/21.04.10": "9177accc50e47b88a736b5a58590f243983323d5",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
@@ -8959,7 +8959,7 @@
         "refs/heads/6.0.x": "064fc00ecb8d272dc1bde6ed145078bd757460e9",
         "refs/heads/6.1.x": "bf60f0875d7159956a3a01dbfc683154d26202b4",
         "refs/heads/6.2.x": "5c1a5440ee7895ad7ee82bfc728db23f42618868",
-        "refs/heads/gh-pages": "bb8fa22f6a79919ffc6d9a4b2006c806956a3d45",
+        "refs/heads/gh-pages": "14cac0464eda3c4a07c455a08e381f3e8be30e9d",
         "refs/heads/main": "e0be669912f81eef1fdc9e8fbf5781daffc40580",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
@@ -9199,6 +9199,7 @@
         "refs/tags/6.2.3": "2f31e2cf6cda3ba6442ad1f748d29e2ac738c79d",
         "refs/tags/6.2.4": "5c1a5440ee7895ad7ee82bfc728db23f42618868",
         "refs/tags/6.2rc1": "6859554c8cf224acde6e0fbb3e3f7672f3ef4a2f",
+        "refs/tags/7.0": "e0be669912f81eef1fdc9e8fbf5781daffc40580",
         "refs/tags/7.0rc1": "3ad1e4cfe169a4b186996bae230f8f83f99f4535",
         "refs/tags/7.0rc2": "424e259deefd008113f435f69b2824462b58a2ee"
       },
