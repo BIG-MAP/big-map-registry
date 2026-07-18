@@ -8950,7 +8950,7 @@
         "stakeholder-aurora"
       ],
       "gitinfo": {
-        "HEAD": "4945ebe34845e50867bc6f21f099a1b7caf65438",
+        "HEAD": "e0be669912f81eef1fdc9e8fbf5781daffc40580",
         "refs/heads/4.1.x": "dc1930430c486383be08de93a4427cd101f1d665",
         "refs/heads/4.2.x": "645d47e47f3895c58c6c73942e8eb5ac63298b59",
         "refs/heads/5.0.x": "a16b211738b5ad93a9b3ca9763031c88abeba82f",
@@ -8958,9 +8958,8 @@
         "refs/heads/6.0.x": "064fc00ecb8d272dc1bde6ed145078bd757460e9",
         "refs/heads/6.1.x": "bf60f0875d7159956a3a01dbfc683154d26202b4",
         "refs/heads/6.2.x": "5c1a5440ee7895ad7ee82bfc728db23f42618868",
-        "refs/heads/gh-pages": "0796862d43352925908b11597946a4ec2679f002",
-        "refs/heads/housekeeping": "a8e7c3528f885f74bc345b4d9399fb96f9aa247e",
-        "refs/heads/main": "4945ebe34845e50867bc6f21f099a1b7caf65438",
+        "refs/heads/gh-pages": "bb8fa22f6a79919ffc6d9a4b2006c806956a3d45",
+        "refs/heads/main": "e0be669912f81eef1fdc9e8fbf5781daffc40580",
         "refs/pull/1/head": "9b122612727f1560ee88df9e72c53181c1c6620f",
         "refs/pull/101/head": "982e67b46e6a1118d740f43ceac902814856d917",
         "refs/pull/102/head": "0b2709870f4a0d86b2beee9e63f7fcf48387afd6",
@@ -9075,7 +9074,6 @@
         "refs/pull/262/head": "6edeb46599ecd027d9b7deeedbd30181595b5dff",
         "refs/pull/264/head": "ae16f25de1d9d692d8f30a03bb7a09389540cc2b",
         "refs/pull/266/head": "a8e7c3528f885f74bc345b4d9399fb96f9aa247e",
-        "refs/pull/266/merge": "03936bf7950cc6171faff30970f487b763aad5fd",
         "refs/pull/267/head": "cffd90e7cb460cf168fe6a24d90720a2ef98c566",
         "refs/pull/28/head": "1f1179ea04a7c055f5bbfe5a81d1b2d6d3e58fe5",
         "refs/pull/29/head": "728afe4e582dfd5d721389d1e3e7ca2a82ebeb31",
