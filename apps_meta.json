@@ -4259,6 +4259,7 @@
         "refs/heads/ml-evs/bump-pydantic-redo": "3ca1220e441ea0fe2ef6ca12f64c2e12748cc7e1",
         "refs/heads/ml-evs/cheminv": "f3cf1367bb3d7aff7a3ceca125c81e60bbc969a2",
         "refs/heads/ml-evs/ci": "178b6328af6ac370cc93a42c95239c1bbc4e0b4d",
+        "refs/heads/ml-evs/clarify-config": "422bee54366601d55892070e12bb8160961e40f9",
         "refs/heads/ml-evs/collection-graph": "0f478f0fd932d588b7d872a6baa3704107e1c39d",
         "refs/heads/ml-evs/collection-graph-fixes": "52167fac9250b323f2d7496e014dbdd39b4b7640",
         "refs/heads/ml-evs/collection_graphs": "4e6798b00eb3fac590e6b649bfe73e7f91a23251",
