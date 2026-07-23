@@ -8612,11 +8612,12 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "98a4704f6038defcba34cf362940f9afd96147f0",
+        "HEAD": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "98a4704f6038defcba34cf362940f9afd96147f0",
+        "refs/heads/master": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
+        "refs/tags/26.07.23": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/tags/upstream/21.04.10": "9177accc50e47b88a736b5a58590f243983323d5",
         "refs/tags/v20.06.0": "f5d9c75af48c5203a8edb504c5e9ae0d594a27f6",
         "refs/tags/v21.11.29": "b11be7a77fcd7dc931a636aa02ccbfe8b5ca896b",
