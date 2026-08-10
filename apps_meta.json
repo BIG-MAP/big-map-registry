@@ -847,7 +847,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "HEAD": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -860,7 +860,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/git-install-wannier90": "dcb9110f28a8d75eabe8550b6432f8a39ec4dc14",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "refs/heads/main": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "f76224d9f22db9daeadec4be8fb5d5a85e214d53",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -1239,7 +1239,6 @@
         "refs/pull/1550/head": "cee051bbcad56c1e024731ebf0c27e52ae326f23",
         "refs/pull/1551/head": "f3a554443618409200c622a1b7b85ea8b6cc8aa9",
         "refs/pull/1552/head": "ccbac12ca883a0419afbe17a8415864baeb18f74",
-        "refs/pull/1552/merge": "74a88f2aa3f259cf118198adf0ebb1ba5cbcf320",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
@@ -1936,7 +1935,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "HEAD": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -1949,7 +1948,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/git-install-wannier90": "dcb9110f28a8d75eabe8550b6432f8a39ec4dc14",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "refs/heads/main": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "f76224d9f22db9daeadec4be8fb5d5a85e214d53",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -2328,7 +2327,6 @@
         "refs/pull/1550/head": "cee051bbcad56c1e024731ebf0c27e52ae326f23",
         "refs/pull/1551/head": "f3a554443618409200c622a1b7b85ea8b6cc8aa9",
         "refs/pull/1552/head": "ccbac12ca883a0419afbe17a8415864baeb18f74",
-        "refs/pull/1552/merge": "74a88f2aa3f259cf118198adf0ebb1ba5cbcf320",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
@@ -3025,7 +3023,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview"
       },
       "gitinfo": {
-        "HEAD": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "HEAD": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -3038,7 +3036,7 @@
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/git-install-wannier90": "dcb9110f28a8d75eabe8550b6432f8a39ec4dc14",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "63d7b5fc43232642cc3f5f6db381f6ac2c21b810",
+        "refs/heads/main": "4e70574467ee6f8bbc16a4747311dcfc62a64c39",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/pre-commit-ci-update-config": "f76224d9f22db9daeadec4be8fb5d5a85e214d53",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
@@ -3417,7 +3415,6 @@
         "refs/pull/1550/head": "cee051bbcad56c1e024731ebf0c27e52ae326f23",
         "refs/pull/1551/head": "f3a554443618409200c622a1b7b85ea8b6cc8aa9",
         "refs/pull/1552/head": "ccbac12ca883a0419afbe17a8415864baeb18f74",
-        "refs/pull/1552/merge": "74a88f2aa3f259cf118198adf0ebb1ba5cbcf320",
         "refs/pull/157/head": "d465ad031809b07fbf013841532e97ffeae62876",
         "refs/pull/158/head": "afc3d796002506f612f43b071e2e3dff38a858af",
         "refs/pull/159/head": "3dca9b83f3ec4dc2f00144f6adcdb4409ded1888",
