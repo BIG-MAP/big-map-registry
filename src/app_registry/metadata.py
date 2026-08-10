@@ -9,7 +9,6 @@ import jsonschema
 
 from . import util
 
-
 logger = logging.getLogger(__name__)
 
 

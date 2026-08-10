@@ -7,7 +7,6 @@ import requests
 import jsonref
 from ruamel.yaml import YAML
 
-
 REQUESTS = cachecontrol.CacheControl(requests.Session())
 
 
