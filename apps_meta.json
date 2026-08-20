@@ -8775,10 +8775,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "d720638b6de5bc72a233bb2f8cddda2b618612b6",
+        "HEAD": "89a0d7b11d4cfdf38121ad0fef77167125064de6",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "d720638b6de5bc72a233bb2f8cddda2b618612b6",
+        "refs/heads/master": "89a0d7b11d4cfdf38121ad0fef77167125064de6",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/26.07.23": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/tags/26.07.23.1": "0ffbe797fda0e10cf573aff0577d88660acc1871",
@@ -8844,7 +8844,8 @@
         "refs/tags/v26.07.15": "70b798546835d3ed81055e8202ebb65ca2cccb69",
         "refs/tags/v26.07.17": "f6395c9eeae50e78cbc37780908fdf82bd28e048",
         "refs/tags/v26.07.20": "963f869d89cb38be1eb9a25c96ed446e0edcbc2d",
-        "refs/tags/v26.07.22": "3f569f5590567b8fa3b488e7a35027dffff92881"
+        "refs/tags/v26.07.22": "3f569f5590567b8fa3b488e7a35027dffff92881",
+        "refs/tags/v26.08.20": "89a0d7b11d4cfdf38121ad0fef77167125064de6"
       },
       "hosted_on": "gitlab.com",
       "logo": "https://gitlab.com/soleil-data-treatment/soleil-software-projects/remote-desktop/-/raw/master/src/html/desktop/images/darts_logo.png",
