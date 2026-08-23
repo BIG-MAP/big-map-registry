@@ -8774,10 +8774,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "763f8595450eeeb997af21497516540715019393",
+        "HEAD": "cf586b984a0e09a430e7883b0911ddc590c7196a",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "763f8595450eeeb997af21497516540715019393",
+        "refs/heads/master": "cf586b984a0e09a430e7883b0911ddc590c7196a",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/26.07.23": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/tags/26.07.23.1": "0ffbe797fda0e10cf573aff0577d88660acc1871",
