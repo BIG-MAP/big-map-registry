@@ -6013,7 +6013,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "2b3e3e6607c6e74410657ea20b142917851deacf",
+        "HEAD": "37a5b1991b27137e5772491e42a21abdbcab8fa9",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -6050,7 +6050,6 @@
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
         "refs/heads/4185-refactor-useform-on-shiftoptionspanel": "37867d315462f3529c5cd34ce781d787de7eec1e",
-        "refs/heads/4192-refactor-useform-on-alignspectra": "371758348ec3f22a481c8e6129b8dae4541cd132",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
         "refs/heads/avoid-join-long-couplings": "1e588f58cc1d7496a935eff55aa0cad14fee5529",
@@ -6114,7 +6113,7 @@
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/light-smooth-data-peak-picking": "b46bf15a22911883f9ee84e920cf3d4e1e6af97b",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "2b3e3e6607c6e74410657ea20b142917851deacf",
+        "refs/heads/main": "37a5b1991b27137e5772491e42a21abdbcab8fa9",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/migrateWorkspaces": "6e2c0a9a766ad308dabdcb4d942eaa98c15fbd97",
         "refs/heads/minimal-core": "504dabb1a3a90c2d3e54557e556b592d9b5e856e",
@@ -7795,7 +7794,6 @@
         "refs/pull/4322/head": "ab927c3764ca06cb2b0bf04e757f5ab4f77d755c",
         "refs/pull/4323/head": "f19a05c619673f75a586240ea5ab8f1cc0faffe4",
         "refs/pull/4324/head": "371758348ec3f22a481c8e6129b8dae4541cd132",
-        "refs/pull/4324/merge": "553d835c83ac30d687db90dd4e669aa2c4f022db",
         "refs/pull/4325/head": "2b4cba6d5441c70c00292d15ab09a1592aa06211",
         "refs/pull/4326/head": "79b0d698d5bc3d9c4f6bfb9f689a170effc17b03",
         "refs/pull/4326/merge": "8c8007ec660e05ed90a32e9e02b21d15e1bb0bfd",
