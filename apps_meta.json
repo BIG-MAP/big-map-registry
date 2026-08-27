@@ -6020,7 +6020,7 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "a0a5aa96502a049a3028d63c9f73a47e0faa609a",
+        "HEAD": "b6d11566a85643341bff20b96cdb9ce2ccfe3ee8",
         "refs/heads/1537-use-modal-from-react-science-components": "e678ed516fa3ca49050aa41d9ef40b674e0e39e2",
         "refs/heads/1564-add-spectrum-from-database-crash": "44902d8b57d3c85f98f78975814fda5578c2463e",
         "refs/heads/1690-improve-jeol-first-ph0-value": "f655b53bbd3d0e2255023d4364f3ee2b1310658e",
@@ -6119,7 +6119,7 @@
         "refs/heads/levels": "e281a1f013102240d82041dad6c97372fbfc6687",
         "refs/heads/light-smooth-data-peak-picking": "b46bf15a22911883f9ee84e920cf3d4e1e6af97b",
         "refs/heads/loading-settings-from-url": "7e93499bc39555d2d645c03868293d24c1c61cb1",
-        "refs/heads/main": "a0a5aa96502a049a3028d63c9f73a47e0faa609a",
+        "refs/heads/main": "b6d11566a85643341bff20b96cdb9ce2ccfe3ee8",
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/migrateWorkspaces": "6e2c0a9a766ad308dabdcb4d942eaa98c15fbd97",
         "refs/heads/minimal-core": "504dabb1a3a90c2d3e54557e556b592d9b5e856e",
@@ -6147,7 +6147,6 @@
         "refs/heads/refactorPanels": "19e4493baf8c4773646daac4e20f2538a744e9be",
         "refs/heads/refactorSampleTest": "686429a10ad5b2de3c7f4b413d91b2bc78b97f52",
         "refs/heads/refs-pr-3915": "c87202bb20fad55924985d3f7ac6cf0ece3ed8f6",
-        "refs/heads/release-please--branches--main--components--nmrium": "876cf8b77bb8b1c3f6269879198d3c77fa5ad514",
         "refs/heads/release-please--branches--master": "f5e74d28a531a68fb3070db54d36582999054568",
         "refs/heads/release-v0.15.1": "00128178f3f8b022bf143d2bf4706aca7cca0657",
         "refs/heads/remove-add-spectra-from-database": "b291c7bc0ef2f6cad2bde2dc8dd5d04a7fbd8b72",
@@ -7802,7 +7801,6 @@
         "refs/pull/4325/head": "2b4cba6d5441c70c00292d15ab09a1592aa06211",
         "refs/pull/4326/head": "79b0d698d5bc3d9c4f6bfb9f689a170effc17b03",
         "refs/pull/4327/head": "876cf8b77bb8b1c3f6269879198d3c77fa5ad514",
-        "refs/pull/4327/merge": "35fa067d195af09b827384a76f78f3230794a178",
         "refs/pull/4328/head": "f2a45044bceb544ee903a9b33ca15d84f2789908",
         "refs/pull/4330/head": "0ca272ceb5abcf4c0e93ca69f72332090b687bab",
         "refs/pull/4331/head": "100c46276b004af576d2412c4dd74aebed9ddcc9",
@@ -8029,7 +8027,8 @@
         "refs/tags/v2.3.0": "5576367cae358bf9073bb5f543ddcdff5e494c9f",
         "refs/tags/v2.4.0": "b2fc427147d97b8433901fb73b72674a8a8311c2",
         "refs/tags/v2.5.0": "cf6e85e0850a2a2aba5800a0b3a1d24ad3aa0576",
-        "refs/tags/v2.6.0": "36a4d74b0c6f04c50709f18c1a6d80a9450d62c0"
+        "refs/tags/v2.6.0": "36a4d74b0c6f04c50709f18c1a6d80a9450d62c0",
+        "refs/tags/v2.7.0": "b6d11566a85643341bff20b96cdb9ce2ccfe3ee8"
       },
       "hosted_on": "github.com",
       "logo": "https://www.nmrium.org/brand/nmrium-logo.svg",
