@@ -6114,6 +6114,7 @@
         "refs/heads/3765-bug-in-range-picking": "b07215684dc52943a67febbec58a4fb0deae67ac",
         "refs/heads/3789-add-support-for-echo-antiecho-acquired-data-by-non-uniformly-sampling": "a1fec5d53f2d2fdffccda3d48857c84fb287c7e1",
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
+        "refs/heads/3997-issue-with-automatic-2d-zone-detection-for-hmbc-samples": "bc25e767fc1e184869b77ad966be5f8241bfc4ca",
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
         "refs/heads/4185-refactor-useform-on-shiftoptionspanel": "37867d315462f3529c5cd34ce781d787de7eec1e",
         "refs/heads/4338-range-picking-is-leading-to-overlapping-ranges-this-is-a-bug": "bc25e767fc1e184869b77ad966be5f8241bfc4ca",
