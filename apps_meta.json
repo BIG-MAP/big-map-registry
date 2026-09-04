@@ -6116,6 +6116,7 @@
         "refs/heads/3922-possible-offset-in-the-cosy-experiment": "426709e07cf30e51b93cfef436e74b09c085862e",
         "refs/heads/4000-use-reimmatrixfft-in-fft-2d-filters": "d20ab1e215b0bd2f3209cee16647c5a9e9501a8b",
         "refs/heads/4185-refactor-useform-on-shiftoptionspanel": "37867d315462f3529c5cd34ce781d787de7eec1e",
+        "refs/heads/4338-range-picking-is-leading-to-overlapping-ranges-this-is-a-bug": "bc25e767fc1e184869b77ad966be5f8241bfc4ca",
         "refs/heads/946-we-should-reset-the-view-less-on-operation-processing-change": "4d735e35dfce7ad42e2cfa6bdb97035b9409082d",
         "refs/heads/add-message-polynomial-baseline-correction": "fda80c5f483a3d457312ed7af3506b5e8f4a449b",
         "refs/heads/add-processing-filters": "98402116c7da57a7fed2cd36578048836bf46801",
