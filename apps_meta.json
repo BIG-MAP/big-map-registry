@@ -6153,6 +6153,7 @@
         "refs/heads/feat/ui-plugin-system": "0dd22f5af1bc302610b0aee9787a15d8c24ec2f2",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
+        "refs/heads/fix-2d-changing-atom-label-not-change-assignment": "c4aa33e97268a21754787fb22da69e890a40b634",
         "refs/heads/fix-2d-fid-1d-trace": "4184e85f72cc906dbc88792efa1631b12d2090a9",
         "refs/heads/fix-align-spectra": "2d3fcd85cce855671a93a15fe1476d9f04ec07fd",
         "refs/heads/fix-applying-filters": "fe6a81c84413ff6120e8e24b0a8553e63fcfe4a7",
