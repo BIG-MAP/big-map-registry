@@ -849,7 +849,7 @@
       "gitinfo": {
         "HEAD": "5ca6918ed0caff8aec790b86ec593ee79b14ccba",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
-        "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
+        "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
@@ -1959,7 +1959,7 @@
       "gitinfo": {
         "HEAD": "5ca6918ed0caff8aec790b86ec593ee79b14ccba",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
-        "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
+        "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
@@ -3069,7 +3069,7 @@
       "gitinfo": {
         "HEAD": "5ca6918ed0caff8aec790b86ec593ee79b14ccba",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
-        "refs/heads/aiida-core-2.8-py312": "b74142ae02420f5ce9a5510daad56c7ae4ee113d",
+        "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
         "refs/heads/dependabot/github_actions/gha-dependencies-0e111ef9fd": "f1edb233e0f340bbaa73f7981432da56bbc73e67",
         "refs/heads/dependabot/pip/docs/jinja2-3.1.5": "310249612924624569790fe525439b57218e91e2",
