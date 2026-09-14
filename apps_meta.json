@@ -9075,6 +9075,7 @@
       "gitinfo": {
         "HEAD": "59c222ffece1463aac18189efe231ffd8163e17f",
         "refs/heads/0.2.x": "fb9370369a628b9089666d31f1076a11ab6e615c",
+        "refs/heads/cocos-fixes": "22b8239e95dc0e8b69df1079918a9e35d34a44cb",
         "refs/heads/fix_driver_checks": "582e25abcd5eab209264ba44ccfda72b1ddb0cba",
         "refs/heads/gh-pages": "dec0f6420a534e21cf6b402e61db6c1771a37f67",
         "refs/heads/main": "59c222ffece1463aac18189efe231ffd8163e17f",
