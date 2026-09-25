@@ -5924,7 +5924,8 @@
         "refs/tags/v0.7.6": "8c5aa9139a3d430f320058ef4225fd3e666308c1",
         "refs/tags/v0.7.7": "abf69c5b628146537c48a48ac0359dd7f9623a35",
         "refs/tags/v0.7.8": "329664fa916c325adf328283aa62096a296fea59",
-        "refs/tags/v0.7.9": "e832023582eb110ba4f517320c152c9d725dbe32"
+        "refs/tags/v0.7.9": "e832023582eb110ba4f517320c152c9d725dbe32",
+        "refs/tags/v0.8.0-alpha.1": "4bff9a47f862fa9b253011cc528cb7110f3b36b1"
       },
       "hosted_on": "github.com",
       "logo": "https://avatars.githubusercontent.com/u/50706292?s=200&v=4",
