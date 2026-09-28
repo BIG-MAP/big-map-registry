@@ -14,7 +14,6 @@ from dacite import from_dict
 
 from . import yaml
 
-
 API_VERSION = "v1"
 
 

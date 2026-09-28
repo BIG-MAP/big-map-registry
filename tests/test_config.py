@@ -7,7 +7,6 @@ import jsonschema
 import app_registry
 from app_registry import yaml
 
-
 ROOT = Path(__file__).parent.parent.resolve()
 CONFIG_YAML = ROOT.joinpath("config.yaml")
 
