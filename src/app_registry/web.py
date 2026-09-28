@@ -23,7 +23,6 @@ from .core import AppRegistrySchemas
 from .metadata import generate_apps_meta
 from .util import load_json
 
-
 logger = logging.getLogger(__name__)
 
 
