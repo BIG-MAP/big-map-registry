@@ -4251,7 +4251,7 @@
         "stakeholder"
       ],
       "gitinfo": {
-        "HEAD": "9c5142ab583dd427f4aaa957907e47285ffa1945",
+        "HEAD": "eca2faf7422dbf4da1445c01bf64487660e7fe13",
         "refs/heads/0.3.0": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.3.0-dirty": "f0940cea943fc31408dfeca0041bf230c33e91cb",
         "refs/heads/0.7.x": "5a6b40ff2cff4142bc0bf1ee3e87d5f58ae01d50",
@@ -4357,7 +4357,7 @@
         "refs/heads/jdb/yellowhammer-whinchat": "8e25bab530315b5ed4273201f5a8d36730e75ec2",
         "refs/heads/joss": "dba243dbca51754d2db6861af8daeaddeae033ed",
         "refs/heads/labspec-1D-raman": "edc92f943168deb907e610e63b8c22adcf877038",
-        "refs/heads/main": "9c5142ab583dd427f4aaa957907e47285ffa1945",
+        "refs/heads/main": "eca2faf7422dbf4da1445c01bf64487660e7fe13",
         "refs/heads/ml-evs-patch-1": "887b87e7ddab52abf09937efcd915bd9b43d6202",
         "refs/heads/ml-evs-patch-2": "6d3ca950d04028485edb74d9b543d85c097c8b11",
         "refs/heads/ml-evs/UI-refresh": "c8878683aac80d876476da99ff8900a726b1923b",
@@ -5179,7 +5179,6 @@
         "refs/pull/1955/head": "4e2de25791c44eb8f1ebd0537a229dc3f1f2bf33",
         "refs/pull/1956/head": "2ba76758ea37a167c5091923385eadc84fed74a6",
         "refs/pull/1958/head": "62670cb7f9de2a981e0bfe1e3e40573b92e529c4",
-        "refs/pull/1958/merge": "62143188e7a0220a92893cd42e21f6d4e9bb7a72",
         "refs/pull/196/head": "49871191266cb8c9aeedb5614c5d0d57d301bcf7",
         "refs/pull/1961/head": "5e7dd68005571e16c5ed2e6ba940d779b0c1fcfd",
         "refs/pull/1962/head": "709de678297b8700c5a99407e7e4bb6a93f2df85",
