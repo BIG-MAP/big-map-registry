@@ -1936,6 +1936,8 @@
         "refs/tags/v26.06.8^{}": "790d32c0c3bbc54bd41cbc62b0c838e3ce85f651",
         "refs/tags/v26.06.9": "eae653cf174a25124bc5ed87ca17c5b870701327",
         "refs/tags/v26.06.9^{}": "5efdcf660fe0557a34d8eb97c7e5d4c43c0da916",
+        "refs/tags/v26.09.0": "e686db1d1eb95004e5ccb606f7f0a82813b1fad3",
+        "refs/tags/v26.09.0^{}": "14b82e55263674af2c18aaa659e1d527d47909e1",
         "refs/tags/v26.09.0rc1": "97035b7e2da68c099272a1f4ec5c1bd553b2df9e",
         "refs/tags/v26.09.0rc1^{}": "a415edc132317e5097c8ea439b4c20d8195c4ba8"
       },
@@ -3054,6 +3056,8 @@
         "refs/tags/v26.06.8^{}": "790d32c0c3bbc54bd41cbc62b0c838e3ce85f651",
         "refs/tags/v26.06.9": "eae653cf174a25124bc5ed87ca17c5b870701327",
         "refs/tags/v26.06.9^{}": "5efdcf660fe0557a34d8eb97c7e5d4c43c0da916",
+        "refs/tags/v26.09.0": "e686db1d1eb95004e5ccb606f7f0a82813b1fad3",
+        "refs/tags/v26.09.0^{}": "14b82e55263674af2c18aaa659e1d527d47909e1",
         "refs/tags/v26.09.0rc1": "97035b7e2da68c099272a1f4ec5c1bd553b2df9e",
         "refs/tags/v26.09.0rc1^{}": "a415edc132317e5097c8ea439b4c20d8195c4ba8"
       },
@@ -4172,6 +4176,8 @@
         "refs/tags/v26.06.8^{}": "790d32c0c3bbc54bd41cbc62b0c838e3ce85f651",
         "refs/tags/v26.06.9": "eae653cf174a25124bc5ed87ca17c5b870701327",
         "refs/tags/v26.06.9^{}": "5efdcf660fe0557a34d8eb97c7e5d4c43c0da916",
+        "refs/tags/v26.09.0": "e686db1d1eb95004e5ccb606f7f0a82813b1fad3",
+        "refs/tags/v26.09.0^{}": "14b82e55263674af2c18aaa659e1d527d47909e1",
         "refs/tags/v26.09.0rc1": "97035b7e2da68c099272a1f4ec5c1bd553b2df9e",
         "refs/tags/v26.09.0rc1^{}": "a415edc132317e5097c8ea439b4c20d8195c4ba8"
       },
