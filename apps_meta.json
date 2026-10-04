@@ -4384,6 +4384,7 @@
         "refs/heads/ml-evs/backup-dashboard": "dd193f1e159f8fab5b7dc93d526a87c86139b582",
         "refs/heads/ml-evs/block-caching": "63ce8160ffc0aeb41d7b3989feba5ad6cb068708",
         "refs/heads/ml-evs/block-schema": "29c7b939b836c2cdd610a88f84db833859794946",
+        "refs/heads/ml-evs/block-vue": "31fbb761cfe2540f81d0c67040b10fdda9db5e61",
         "refs/heads/ml-evs/bump-cypress": "2e89db07634ca05f1ff00d5ec45fea79a188eef7",
         "refs/heads/ml-evs/bump-pydantic": "059ec189380fe99a548eeec538b5be9670682528",
         "refs/heads/ml-evs/bump-pydantic-final-final": "557ae1e908c1755397eed847df63247cb23995a8",
@@ -8995,10 +8996,10 @@
         "data-analysis"
       ],
       "gitinfo": {
-        "HEAD": "552d0ea4b71a1b545edbf054df1557a64423ee41",
+        "HEAD": "c5584794a8eec1676ab5b5433e308c40b8be7f50",
         "refs/heads/frontend-html": "3ea0563be097445b3c6658db0f6766f437a3728b",
         "refs/heads/legacy-apache": "47cdd56449a278ef2cffc826d4b875e7c9ca6488",
-        "refs/heads/master": "552d0ea4b71a1b545edbf054df1557a64423ee41",
+        "refs/heads/master": "c5584794a8eec1676ab5b5433e308c40b8be7f50",
         "refs/tags/22.02.11": "f2581b9ccba50c312091cc2e9040105782f2b779",
         "refs/tags/26.07.23": "0ffbe797fda0e10cf573aff0577d88660acc1871",
         "refs/tags/26.07.23.1": "0ffbe797fda0e10cf573aff0577d88660acc1871",
