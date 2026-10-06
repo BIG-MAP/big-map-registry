@@ -6297,6 +6297,7 @@
         "refs/heads/migrate-to-dialog": "a15fe0b6a23a4409c250d211cf001618c090b93d",
         "refs/heads/migrateWorkspaces": "6e2c0a9a766ad308dabdcb4d942eaa98c15fbd97",
         "refs/heads/minimal-core": "504dabb1a3a90c2d3e54557e556b592d9b5e856e",
+        "refs/heads/multiple-assignment-edition-issue": "479250dcb08061c4953ff5da92a4284b6d376cd1",
         "refs/heads/new-nmr-processing": "55441e3f92358570aef418891c2c8d26544aa5e8",
         "refs/heads/nmrLoadSave": "8a396d39dbe82472530a399c5808ed27f197872f",
         "refs/heads/oclNMR": "64caf90251cbd2d891db3e9ad43237d62ab08651",
