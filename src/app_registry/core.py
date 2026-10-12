@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Core data classes for the app registry."""
+
 from dataclasses import dataclass
 
 import jsonschema

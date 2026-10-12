@@ -9,7 +9,6 @@ from .web import build_from_config
 from .web import build_html
 from .web import write_schemas
 
-
 __all__ = [
     "AppRegistryData",
     "AppRegistrySchemas",
