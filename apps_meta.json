@@ -6263,6 +6263,7 @@
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
         "refs/heads/feat-nameStyle-valueStyle-on-infoblock": "06e4674dd18f809f8ac73bf792275789aa0ae0d7",
+        "refs/heads/feat/brush-tracker-drag-events": "1d7e6087d5fe752f9ab26856efb7b514246c4951",
         "refs/heads/feat/ui-plugin-system": "0dd22f5af1bc302610b0aee9787a15d8c24ec2f2",
         "refs/heads/feature/jCouplingGraph": "5ffa2cbe2eb58e582fe35601cf15a3304b075151",
         "refs/heads/fileCollection-component-property": "893548c334004dbed7f9d10a188b321ca3cbfc5d",
