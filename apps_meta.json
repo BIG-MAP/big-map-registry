@@ -847,7 +847,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1-Cxx1agmyHtkfmk-Rb5-lQEGXh9cCDG8/preview"
       },
       "gitinfo": {
-        "HEAD": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "HEAD": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -859,7 +859,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "refs/heads/main": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -1262,6 +1262,7 @@
         "refs/pull/1600/head": "6f26a7a57b8461cc829da7f76927cf1173973866",
         "refs/pull/1602/head": "5622c520ab96381ab587d14e624ce0b4db4f2a5a",
         "refs/pull/1603/head": "169c9b1f4da99e69a2f3fb229b3b713a94b5c97a",
+        "refs/pull/1604/head": "7d32800588c22f6064d3186c70662c3d9d080c21",
         "refs/pull/165/head": "98b4f3d8a14d7eb6dc7278ed4bb54b1ea06e82bb",
         "refs/pull/166/head": "333aa46219f6c90f020ba96934ea23eb1d74c817",
         "refs/pull/167/head": "5f9171a9ae574b962f91b780de9b65f2734b0dae",
@@ -1970,7 +1971,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1aoMfAabynAbkXkoktFBJrsKKxTtrFuHs/preview"
       },
       "gitinfo": {
-        "HEAD": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "HEAD": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -1982,7 +1983,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "refs/heads/main": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -2385,6 +2386,7 @@
         "refs/pull/1600/head": "6f26a7a57b8461cc829da7f76927cf1173973866",
         "refs/pull/1602/head": "5622c520ab96381ab587d14e624ce0b4db4f2a5a",
         "refs/pull/1603/head": "169c9b1f4da99e69a2f3fb229b3b713a94b5c97a",
+        "refs/pull/1604/head": "7d32800588c22f6064d3186c70662c3d9d080c21",
         "refs/pull/165/head": "98b4f3d8a14d7eb6dc7278ed4bb54b1ea06e82bb",
         "refs/pull/166/head": "333aa46219f6c90f020ba96934ea23eb1d74c817",
         "refs/pull/167/head": "5f9171a9ae574b962f91b780de9b65f2734b0dae",
@@ -3093,7 +3095,7 @@
         "video_demonstration_url": "https://drive.google.com/file/d/1IE0pNWgkBazP3KxN_wDvbvKtT4vVxn9P/preview"
       },
       "gitinfo": {
-        "HEAD": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "HEAD": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/add_arm_test": "362eae4d71d958651c704e538bb48f7709696d1e",
         "refs/heads/aiida-core-2.8-py312": "d454be324ed590f42780fc8e0735c264751b50fe",
         "refs/heads/aiida-core-2.8-py39": "992da5e3d0a6ea628903d21d88edb6cfbab0aeff",
@@ -3105,7 +3107,7 @@
         "refs/heads/feature/onlyfixedatoms": "567c1a3f8d4e75e213153568fb396e04f5127efa",
         "refs/heads/fix/remove-deprecations": "cc4dba15effa1e9b612d4680b07eed96eb0658e1",
         "refs/heads/lazy-docs": "99479929dd84ea5fe72a45efb09a86d76502d5df",
-        "refs/heads/main": "5a095b4998f5d946e8c9479c0e79a6d3e2bf8779",
+        "refs/heads/main": "415b9acb964bbce8cc261363c4097ec79cd8dd5a",
         "refs/heads/no-untar": "380e33065499ca304c37a0cee060902871b62876",
         "refs/heads/support/23.04.x": "9e2aa3c51e11df55a191a6be884742dfad64b5ed",
         "refs/heads/support/23.10.x": "f74049dfebf974dc35712b3f94524d01baff0858",
@@ -3508,6 +3510,7 @@
         "refs/pull/1600/head": "6f26a7a57b8461cc829da7f76927cf1173973866",
         "refs/pull/1602/head": "5622c520ab96381ab587d14e624ce0b4db4f2a5a",
         "refs/pull/1603/head": "169c9b1f4da99e69a2f3fb229b3b713a94b5c97a",
+        "refs/pull/1604/head": "7d32800588c22f6064d3186c70662c3d9d080c21",
         "refs/pull/165/head": "98b4f3d8a14d7eb6dc7278ed4bb54b1ea06e82bb",
         "refs/pull/166/head": "333aa46219f6c90f020ba96934ea23eb1d74c817",
         "refs/pull/167/head": "5f9171a9ae574b962f91b780de9b65f2734b0dae",
