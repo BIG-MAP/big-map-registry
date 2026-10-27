@@ -6315,6 +6315,7 @@
         "refs/heads/description": "5477b62d1ea6e67f12f78f9926c7b0bafacd568f",
         "refs/heads/error-callback": "89c294f4c256dcc57bb298e06e9369894f04e1bf",
         "refs/heads/eslint": "95f57687c06ce7584c3cc30dcda0c6bf0c0a48c3",
+        "refs/heads/expand-chemical-groups": "84c44cb1c89a2b9d3680ff4224570dfde7cfa18f",
         "refs/heads/experimental-ft-for-2d-spectra": "5e5c3472756bcab37c3e0e52c91ec6387876bea0",
         "refs/heads/expose-assignemt-summary-panel": "fd4da1a203126906707261c804fd3101812561c5",
         "refs/heads/feat-chart-for-multiple-spectra-analysis": "7f1b2f1b6007fed1d37175994f830b3a574762b6",
